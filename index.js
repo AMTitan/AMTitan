@@ -9,7 +9,7 @@ const MUSTACHE_MAIN_DIR = './main.mustache';
 */
 const request = require('request');
 
-let apiKey = '8333920da3e5cd15901dca62f2b8d0f6';
+let apiKey = ${{ secrets.WeatherApi }};
 let city = '30004';
 let url = `http://api.openweathermap.org/data/2.5/weather?zip=${city}&units=metric&appid=${apiKey}`
 
