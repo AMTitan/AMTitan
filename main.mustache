@@ -11,5 +11,11 @@
 
 # Fun Facts
 
- • The weather is {{temp}}°C but it accualy feels like {{feels}}°C!
+{{icon}}
+
+ • The weather for me its a {{Des}} and the temperature is {{body.main.temp}}°C ({{FerTem}}°F) but it actually feels like {{body.main.feels_like}}°C ({{FerFel}}°F)!
+ • The sun rise for me is at {{SunRise}} and the sun set is at {{SunSet}}!
+ • The wind for me  is {{body.wind.speed}} meters/sec ({{WSmph}}mph)!
+ • The persaintage of the sky is filled with clouds for me is {{body.clouds.all}}%!
+ • The amount of rain in the past hour for me is {{body.rain.1h}}mm (${Math.round(({{body.rain.1h}} * 0.03937008) * 100) / 100}in)
 

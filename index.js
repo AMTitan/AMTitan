@@ -25,8 +25,22 @@ fs.readFile("weather.json", JSON, function (err,data) {
 
 let DATA = {
   name: 'Arthur Melton',
-  temp: body1.main.temp,
-  feels: body1.main.feels_like,
+  body: body1,
+  FerTem: Math.round((body1.main.temp * 1.8 + 32) * 100) / 100,
+  FerFel: Math.round((body1.main.feels_like * 1.8 + 32) * 100) / 100,
+  Des: body1.weather[0].description,
+  icon: body1.weather[0].icon,
+  SunRise: new Date(body1.sys.sunrise * 1000).toLocaleString('en-GB', {
+    hour: '2-digit',
+    minute: '2-digit',
+    timeZone: 'America/New_York',
+  }),
+  SunSet: new Date(body1.sys.sunset * 1000).toLocaleString('en-GB', {
+    hour: '2-digit',
+    minute: '2-digit',
+    timeZone: 'America/New_York',
+  }),
+  WSmph: Math.round((body1.wind.speed * 2.236936) * 100) / 100,
   date: new Date().toLocaleDateString('en-GB', {
     weekday: 'long',
     month: 'long',
