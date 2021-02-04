@@ -3,7 +3,7 @@ name: README build
 on:
   push:
     branches:
-      - main
+      - master
   schedule:
     - cron: '0 */6 * * *'
 
@@ -12,7 +12,7 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Checkout current repository to main branch
+      - name: Checkout current repository to master branch
         uses: actions/checkout@v1
       - name: Setup NodeJs 13.x
         uses: actions/setup-node@v1
