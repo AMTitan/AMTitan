@@ -32,12 +32,12 @@
 <h2> Dog </h2>
 
 <p align="center">
-<img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;hound-plott&#x2F;hhh-23456.jpeg">
+<img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;chihuahua&#x2F;n02085620_1271.jpg">
 </p>
 
 <h2> Joke </h2>
 
 <p align="center">
-    Aliens DO indeed exist. They just know better than to visit a planet that Chuck Norris is on.
+    Chuck Norris is ten feet tall, weighs two-tons, breathes fire, and could eat a hammer and take a shotgun blast standing.
 </p>
 
