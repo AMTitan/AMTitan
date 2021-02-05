@@ -32,12 +32,12 @@
 <h2> Dog </h2>
 
 <p align="center">
-<img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;spaniel-irish&#x2F;n02102973_4566.jpg">
+<img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;terrier-silky&#x2F;n02097658_2069.jpg">
 </p>
 
 <h2> Joke </h2>
 
 <p align="center">
-    Chuck Norris&#39; credit cards have no limit. Last weekend, he maxed them out.
+    The movie &#39;Delta Force&#39; was extremely hard to make because Chuck had to downplay his abilities. The first few cuts were completely unbelievable.
 </p>
 
