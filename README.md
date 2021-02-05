@@ -32,12 +32,12 @@
 <h2> Dog </h2>
 
 <p align="center">
-<img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;dhole&#x2F;n02115913_739.jpg">
+<img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;retriever-flatcoated&#x2F;n02099267_2160.jpg">
 </p>
 
 <h2> Joke </h2>
 
 <p align="center">
-    A foo walks into a bar, takes a look around and says &#39;Hello World!&#39;.
+    What does a subatomic duck say? Quark.
 </p>
 
