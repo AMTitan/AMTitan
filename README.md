@@ -32,12 +32,12 @@
 <h2> Dog </h2>
 
 <p align="center">
-<img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;terrier-scottish&#x2F;n02097298_16738.jpg">
+<img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;springer-english&#x2F;n02102040_5604.jpg">
 </p>
 
 <h2> Joke </h2>
 
 <p align="center">
-    Sticks and stones may break your bones, but a Chuck Norris glare will liquefy your kidneys.
+    Chuck Norris does not play the lottery. It doesn&#39;t have nearly enough balls.
 </p>
 
