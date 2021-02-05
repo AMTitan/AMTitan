@@ -32,12 +32,12 @@
 <h2> Dog </h2>
 
 <p align="center">
-<img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;komondor&#x2F;n02105505_2886.jpg">
+<img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;spaniel-blenheim&#x2F;n02086646_3484.jpg">
 </p>
 
 <h2> Joke </h2>
 
 <p align="center">
-    There are two types of people in the world... people that suck, and Chuck Norris.
+    Chuck Norris protocol design method has no status, requests or responses, only commands.
 </p>
 
