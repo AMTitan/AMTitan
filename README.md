@@ -32,12 +32,12 @@
 <h2> Dog </h2>
 
 <p align="center">
-<img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;terrier-australian&#x2F;n02096294_5817.jpg">
+<img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;hound-afghan&#x2F;n02088094_4497.jpg">
 </p>
 
 <h2> Joke </h2>
 
 <p align="center">
-    No statement can catch the ChuckNorrisException.
+    How much wood would a woodchuck chuck if a woodchuck could Chuck Norris? All of it.
 </p>
 
