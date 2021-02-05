@@ -1,4 +1,4 @@
-# <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> My name is Arthur Melton and I have ![Profile View Counter](https://komarev.com/ghpvc/?username=AMTitan) (Last updated on Friday, 5 February, 02:08 GMT-5).
+# <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> My name is Arthur Melton and I have ![Profile View Counter](https://komarev.com/ghpvc/?username=AMTitan) (Last updated on Friday, 5 February, 02:09 GMT-5).
 <p align="center">
 <img style="width:100%" src="https://github-readme-stats.vercel.app/api?username=AMTitan&show_icons=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" /> 
 </p>
@@ -32,12 +32,12 @@
 <h2> Dog </h2>
 
 <p align="center">
-<img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;pinscher-miniature&#x2F;n02107312_3426.jpg">
+<img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;terrier-tibetan&#x2F;n02097474_4929.jpg">
 </p>
 
 <h2> Joke </h2>
 
 <p align="center">
-    Chuck Norris is widely predicted to be first black president. If you&#39;re thinking to yourself, &#39;But Chuck Norris isn&#39;t black&#39;, then you are dead wrong. And stop being a racist.
+    Never look a gift Chuck Norris in the mouth, because he will bite your damn eyes off.
 </p>
 
