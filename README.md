@@ -1,4 +1,4 @@
-# <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> My name is Arthur Melton and I have ![Profile View Counter](https://komarev.com/ghpvc/?username=AMTitan) (Last updated on Friday, 5 February, 05:52 GMT-5).
+# <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> My name is Arthur Melton and I have ![Profile View Counter](https://komarev.com/ghpvc/?username=AMTitan) (Last updated on Friday, 5 February, 05:53 GMT-5).
 <p align="center">
 <img style="width:100%" src="https://github-readme-stats.vercel.app/api?username=AMTitan&show_icons=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" /> 
 </p>
@@ -32,12 +32,12 @@
 <h2> Dog </h2>
 
 <p align="center">
-<img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;whippet&#x2F;n02091134_15251.jpg">
+<img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;waterdog-spanish&#x2F;20180723_185559.jpg">
 </p>
 
 <h2> Joke </h2>
 
 <p align="center">
-    Fact: Chuck Norris doesn&#39;t consider it sex if the woman survives.
+    Thousands of years ago Chuck Norris came across a bear. It was so terrified that it fled north into the arctic. It was also so terrified that all of its decendents now have white hair.
 </p>
 
