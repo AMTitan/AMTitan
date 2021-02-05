@@ -32,12 +32,12 @@
 <h2> Dog </h2>
 
 <p align="center">
-<img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;terrier-border&#x2F;n02093754_875.jpg">
+<img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;terrier-scottish&#x2F;n02097298_231.jpg">
 </p>
 
 <h2> Joke </h2>
 
 <p align="center">
-    Chuck Norris doesn&#39;t look both ways before he crosses the street... he just roundhouses any cars that get too close.
+    There are only 10 types of people in the world: those that understand binary and those that don’t.
 </p>
 
