@@ -32,12 +32,12 @@
 <h2> Dog </h2>
 
 <p align="center">
-<img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;whippet&#x2F;n02091134_14246.jpg">
+<img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;setter-irish&#x2F;n02100877_4639.jpg">
 </p>
 
 <h2> Joke </h2>
 
 <p align="center">
-    There?s an order to the universe: space, time, Chuck Norris.... Just kidding, Chuck Norris is first.
+    Chuck Norris doesn&#39;t play god. Playing is for children.
 </p>
 
