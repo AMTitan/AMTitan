@@ -32,12 +32,12 @@
 <h2> Dog </h2>
 
 <p align="center">
-<img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;terrier-norfolk&#x2F;n02094114_1198.jpg">
+<img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;cockapoo&#x2F;bubbles2.jpg">
 </p>
 
 <h2> Joke </h2>
 
 <p align="center">
-    It&#39;s widely believed that Jesus was Chuck Norris&#39; stunt double for crucifixion due to the fact that it is impossible for nails to pierce Chuck Norris&#39; skin.
+    When Chuck Norris has sex with a man, it won&#39;t be because he is gay. It will be because he has run out of women.
 </p>
 
