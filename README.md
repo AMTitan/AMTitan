@@ -32,12 +32,12 @@
 <h2> Dog </h2>
 
 <p align="center">
-<img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;labrador&#x2F;n02099712_5471.jpg">
+<img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;spaniel-brittany&#x2F;n02101388_6538.jpg">
 </p>
 
 <h2> Joke </h2>
 
 <p align="center">
-    The 11th commandment is ?Thou shalt not piss off Chuck Norris? This commandment is rarely enforced, as it is impossible to accomplish.
+    A study showed the leading causes of death in the United States are: 1. Heart disease, 2. Chuck Norris, 3. Cancer
 </p>
 
