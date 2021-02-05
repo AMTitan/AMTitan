@@ -32,12 +32,12 @@
 <h2> Dog </h2>
 
 <p align="center">
-<img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;eskimo&#x2F;n02109961_467.jpg">
+<img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;dhole&#x2F;n02115913_2579.jpg">
 </p>
 
 <h2> Joke </h2>
 
 <p align="center">
-    No one has ever pair-programmed with Chuck Norris and lived to tell about it.
+    A foo walks into a bar, takes a look around and says &#39;Hello World!&#39;.
 </p>
 
