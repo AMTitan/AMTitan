@@ -32,12 +32,12 @@
 <h2> Dog </h2>
 
 <p align="center">
-<img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;hound-basset&#x2F;n02088238_6707.jpg">
+<img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;retriever-golden&#x2F;n02099601_3360.jpg">
 </p>
 
 <h2> Joke </h2>
 
 <p align="center">
-    Some people wear Superman pajamas. Superman wears Chuck Norris pajamas.
+    Chuck Norris does not code in cycles, he codes in strikes.
 </p>
 
