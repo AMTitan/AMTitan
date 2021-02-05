@@ -32,12 +32,12 @@
 <h2> Dog </h2>
 
 <p align="center">
-<img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;elkhound-norwegian&#x2F;n02091467_6372.jpg">
+<img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;elkhound-norwegian&#x2F;n02091467_410.jpg">
 </p>
 
 <h2> Joke </h2>
 
 <p align="center">
-    Think of a hot woman. Chuck Norris did her.
+    Chuck Norris knows everything there is to know - Except for the definition of mercy.
 </p>
 
