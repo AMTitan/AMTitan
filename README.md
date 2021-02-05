@@ -32,12 +32,12 @@
 <h2> Dog </h2>
 
 <p align="center">
-<img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;terrier-american&#x2F;n02093428_3556.jpg">
+<img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;chow&#x2F;n02112137_1687.jpg">
 </p>
 
 <h2> Joke </h2>
 
 <p align="center">
-    Chuck Norris&#39; Penis is a third degree blackbelt, and an honorable 32nd-degree mason.
+    Chuck Norris doesn&#39;t actually write books, the words assemble themselves out of fear.
 </p>
 
