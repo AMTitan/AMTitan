@@ -32,12 +32,12 @@
 <h2> Dog </h2>
 
 <p align="center">
-<img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;boxer&#x2F;n02108089_3028.jpg">
+<img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;rottweiler&#x2F;n02106550_4063.jpg">
 </p>
 
 <h2> Joke </h2>
 
 <p align="center">
-    Chuck Norris doesn&#39;t needs try-catch, exceptions are too afraid to raise.
+    If tapped, a Chuck Norris roundhouse kick could power the country of Australia for 44 minutes.
 </p>
 
