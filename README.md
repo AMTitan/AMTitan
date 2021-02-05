@@ -32,12 +32,12 @@
 <h2> Dog </h2>
 
 <p align="center">
-<img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;hound-walker&#x2F;n02089867_1105.jpg">
+<img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;beagle&#x2F;n02088364_15082.jpg">
 </p>
 
 <h2> Joke </h2>
 
 <p align="center">
-    # Chuck Norris&#39;s show is called Walker: Texas Ranger, because Chuck Norris doesn&#39;t run.
+    Most tough men eat nails for breakfast. Chuck Norris does all of his grocery shopping at Home Depot.
 </p>
 
