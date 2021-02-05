@@ -32,12 +32,12 @@
 <h2> Dog </h2>
 
 <p align="center">
-<img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;terrier-westhighland&#x2F;n02098286_1089.jpg">
+<img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;springer-english&#x2F;n02102040_3887.jpg">
 </p>
 
 <h2> Joke </h2>
 
 <p align="center">
-    How does a Programmer COok food ? In O(1)
+    Chuck Norris doesn&#39;t pair program.
 </p>
 
