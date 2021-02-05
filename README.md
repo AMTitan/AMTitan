@@ -38,12 +38,12 @@ The persaintage of the sky is filled with clouds for me is 100%!
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1595173148/9720/dog_cute.gif?1595173148" width="30"> Dog </h2>
 
 <p align="center">
-<img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;chow&#x2F;n02112137_6964.jpg">
+<img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;briard&#x2F;n02105251_2983.jpg">
 </p>
 
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1500426137/2648/allo-tongue.gif?1500426137" width="30"> Joke </h2>
 
 <p align="center">
-    President Roosevelt once rode his horse 100 miles. Chuck Norris carried his the same distance in half the time.
+    I would love to change the world but they won’t give me the source code.
 </p>
 
