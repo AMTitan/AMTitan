@@ -32,12 +32,12 @@
 <h2> Dog </h2>
 
 <p align="center">
-<img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;hound-blood&#x2F;n02088466_6096.jpg">
+<img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;schnauzer-giant&#x2F;n02097130_5560.jpg">
 </p>
 
 <h2> Joke </h2>
 
 <p align="center">
-    My software never has bugs. It just develops random features.
+    Chuck Norris was once in a knife fight, and the knife lost.
 </p>
 
