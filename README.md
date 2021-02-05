@@ -32,12 +32,12 @@
 <h2> Dog </h2>
 
 <p align="center">
-<img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;leonberg&#x2F;n02111129_3388.jpg">
+<img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;malinois&#x2F;n02105162_6106.jpg">
 </p>
 
 <h2> Joke </h2>
 
 <p align="center">
-    Noah was the only man notified before Chuck Norris relieved himself in the Atlantic Ocean.
+    Chuck Norris roundhouse kicks don&#39;t really kill people. They wipe out their entire existence from the space-time continuum.
 </p>
 
