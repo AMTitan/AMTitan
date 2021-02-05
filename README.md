@@ -32,12 +32,12 @@
 <h2> Dog </h2>
 
 <p align="center">
-<img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;cockapoo&#x2F;Scout.jpg">
+<img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;hound-english&#x2F;n02089973_3040.jpg">
 </p>
 
 <h2> Joke </h2>
 
 <p align="center">
-    In honor of Chuck Norris, all McDonald&#39;s in Texas have an even larger size than the super-size. When ordering, just ask to be Chucksized.
+    Chuck Norris can write infinite recursion functions and have them return.
 </p>
 
