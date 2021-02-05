@@ -32,12 +32,12 @@
 <h2> Dog </h2>
 
 <p align="center">
-<img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;terrier-russell&#x2F;iguet2.jpeg">
+<img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;cairn&#x2F;n02096177_9727.jpg">
 </p>
 
 <h2> Joke </h2>
 
 <p align="center">
-    Programmer (noun.): A machine that turns coffee into code
+    The only pattern Chuck Norris knows is God Object.
 </p>
 
