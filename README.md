@@ -32,12 +32,12 @@
 <h2> Dog </h2>
 
 <p align="center">
-<img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;pointer-germanlonghair&#x2F;hans4.jpg">
+<img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;schipperke&#x2F;n02104365_6732.jpg">
 </p>
 
 <h2> Joke </h2>
 
 <p align="center">
-    Jesus can walk on water, but Chuck Norris can walk on Jesus.
+    Chuck Norris will never have a heart attack. His heart isn&#39;t nearly foolish enough to attack him.
 </p>
 
