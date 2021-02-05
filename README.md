@@ -32,12 +32,12 @@
 <h2> Dog </h2>
 
 <p align="center">
-<img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;affenpinscher&#x2F;n02110627_2748.jpg">
+<img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;terrier-dandie&#x2F;n02096437_3451.jpg">
 </p>
 
 <h2> Joke </h2>
 
 <p align="center">
-    There are only two things that can cut diamonds: other diamonds, and Chuck Norris.
+    Chuck Norris doesn&#39;t actually write books, the words assemble themselves out of fear.
 </p>
 
