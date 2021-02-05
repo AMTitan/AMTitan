@@ -32,12 +32,12 @@
 <h2> Dog </h2>
 
 <p align="center">
-<img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;cairn&#x2F;n02096177_679.jpg">
+<img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;germanshepherd&#x2F;n02106662_11808.jpg">
 </p>
 
 <h2> Joke </h2>
 
 <p align="center">
-    Thousands of years ago Chuck Norris came across a bear. It was so terrified that it fled north into the arctic. It was also so terrified that all of its decendents now have white hair.
+    The more I C.... the less I see.
 </p>
 
