@@ -32,12 +32,12 @@
 <h2> Dog </h2>
 
 <p align="center">
-<img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;sheepdog-shetland&#x2F;n02105855_17096.jpg">
+<img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;pointer-germanlonghair&#x2F;hans1.jpg">
 </p>
 
 <h2> Joke </h2>
 
 <p align="center">
-    In the Words of Julius Caesar, &#39;Veni, Vidi, Vici, Chuck Norris&#39;. Translation: I came, I saw, and I was roundhouse-kicked inthe face by Chuck Norris.
+    There is no such thing as a lesbian, just a woman who has never met Chuck Norris.
 </p>
 
