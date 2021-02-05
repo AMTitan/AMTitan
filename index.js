@@ -53,7 +53,7 @@ Promise.all(promises).then(() => {
   let rawdata2 = fs.readFileSync('joke.json');
   joke = JSON.parse(rawdata2);
 
-  console.log(body1);
+  console.log(JSON.parse(rawdata));
 
   let DATA = {
     name: 'Arthur Melton',
