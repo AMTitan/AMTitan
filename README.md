@@ -32,12 +32,12 @@
 <h2> Dog </h2>
 
 <p align="center">
-<img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;coonhound&#x2F;n02089078_3051.jpg">
+<img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;schnauzer-miniature&#x2F;n02097047_2178.jpg">
 </p>
 
 <h2> Joke </h2>
 
 <p align="center">
-    In the medical community, death is referred to as &#39;Chuck Norris Disease&#39;
+    What many people dont know is Chuck Norris is the founder of planned parenthood. Not even unborn children can escape his wrath.
 </p>
 
