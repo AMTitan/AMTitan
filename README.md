@@ -32,12 +32,12 @@
 <h2> Dog </h2>
 
 <p align="center">
-<img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;basenji&#x2F;n02110806_5114.jpg">
+<img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;akita&#x2F;Akita_inu_blanc.jpg">
 </p>
 
 <h2> Joke </h2>
 
 <p align="center">
-    Someone once tried to tell Chuck Norris that roundhouse kicks aren&#39;t the best way to kick someone. This has been recorded by historians as the worst mistake anyone has ever made.
+    Fool me once, shame on you. Fool Chuck Norris once and he will roundhouse kick you in the face.
 </p>
 
