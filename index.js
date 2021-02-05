@@ -32,18 +32,28 @@ const promise2 = new Promise((resolve) => {
       dogs = body;
     })
 })
+var joke;
+const promise3 = new Promise((resolve) => {
+  request("https://geek-jokes.sameerkumar.website/api?format=json", function (err, response, body) {
+    fs.writeFileSync("joke.json", body);
+    joke = body;
+  })
+})
 
 Promise.all(promises).then(() => {
   let rawdata = fs.readFileSync('Weather.json');
   body1 = JSON.parse(rawdata);
   let rawdata1 = fs.readFileSync('dogs.json');
   dogs = JSON.parse(rawdata1);
+  let rawdata2 = fs.readFileSync('joke.json');
+  joke = JSON.parse(rawdata2);
 
   console.log(body1);
 
   let DATA = {
     name: 'Arthur Melton',
     img: dogs,
+    joke: joke,
     body: body1,
     FerTem: Math.round((body1.main.temp * 1.8 + 32) * 100) / 100,
     FerFel: Math.round((body1.main.feels_like * 1.8 + 32) * 100) / 100,
