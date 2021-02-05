@@ -32,12 +32,12 @@
 <h2> Dog </h2>
 
 <p align="center">
-<img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;stbernard&#x2F;n02109525_7336.jpg">
+<img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;groenendael&#x2F;n02105056_2195.jpg">
 </p>
 
 <h2> Joke </h2>
 
 <p align="center">
-    The air around Chuck Norris is always a balmy 78 degrees.
+    Aliens DO indeed exist. They just know better than to visit a planet that Chuck Norris is on.
 </p>
 
