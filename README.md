@@ -32,12 +32,12 @@
 <h2> Dog </h2>
 
 <p align="center">
-<img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;retriever-chesapeake&#x2F;n02099849_3128.jpg">
+<img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;germanshepherd&#x2F;n02106662_590.jpg">
 </p>
 
 <h2> Joke </h2>
 
 <p align="center">
-    My attitude isn’t bad. It’s in beta.
+    We live in an expanding universe. All of it is trying to get away from Chuck Norris.
 </p>
 
