@@ -32,12 +32,12 @@
 <h2> Dog </h2>
 
 <p align="center">
-<img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;kuvasz&#x2F;n02104029_3397.jpg">
+<img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;poodle-standard&#x2F;n02113799_4557.jpg">
 </p>
 
 <h2> Joke </h2>
 
 <p align="center">
-    Google won&#39;t search for Chuck Norris because it knows you don&#39;t find Chuck Norris, he finds you.
+    A Chuck Norris-delivered Roundhouse Kick is the preferred method of execution in 16 states.
 </p>
 
