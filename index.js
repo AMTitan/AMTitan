@@ -13,15 +13,8 @@ let url = 'http://api.openweathermap.org/data/2.5/weather?zip=30004&units=metric
 
 var body1;
 
-Promise.all(promises).then(() => {
-  res.render('index', {
-    posts: myPosts
-  });
-  res.end();
-});
-
 var promises = [];
-const promise = new Promise((resolve) => {
+const promise1 = new Promise((resolve) => {
   request(url, function (err, response, body) {
     if (err) {
       console.log('error:', error);
@@ -32,15 +25,25 @@ const promise = new Promise((resolve) => {
     }
   });
 })
+var dogs;
+const promise2 = new Promise((resolve) => {
+  request("https://dog.ceo/api/breeds/image/random", function (err, response, body) {
+      fs.writeFileSync("dogs.json", body);
+      dogs = body;
+    })
+})
 
 Promise.all(promises).then(() => {
   let rawdata = fs.readFileSync('Weather.json');
   body1 = JSON.parse(rawdata);
+  let rawdata1 = fs.readFileSync('dogs.json');
+  dogs = JSON.parse(rawdata1);
 
   console.log(body1);
 
   let DATA = {
     name: 'Arthur Melton',
+    img: dogs,
     body: body1,
     FerTem: Math.round((body1.main.temp * 1.8 + 32) * 100) / 100,
     FerFel: Math.round((body1.main.feels_like * 1.8 + 32) * 100) / 100,
