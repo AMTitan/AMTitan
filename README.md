@@ -32,12 +32,12 @@
 <h2> Dog </h2>
 
 <p align="center">
-<img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;beagle&#x2F;n02088364_2360.jpg">
+<img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;appenzeller&#x2F;n02107908_5851.jpg">
 </p>
 
 <h2> Joke </h2>
 
 <p align="center">
-    Whiteboards are white because Chuck Norris scared them that way.
+    I can&#39;t access Git. I guess I have... commitment issues
 </p>
 
