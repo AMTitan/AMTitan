@@ -32,12 +32,12 @@
 <h2> Dog </h2>
 
 <p align="center">
-<img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;pekinese&#x2F;n02086079_19863.jpg">
+<img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;terrier-irish&#x2F;n02093991_4404.jpg">
 </p>
 
 <h2> Joke </h2>
 
 <p align="center">
-    There is endless debate about the existence of the human soul. Well it does exist and Chuck Norris finds it delicious.
+    What does a subatomic duck say? Quark.
 </p>
 
