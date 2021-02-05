@@ -32,12 +32,12 @@
 <h2> Dog </h2>
 
 <p align="center">
-<img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;retriever-flatcoated&#x2F;n02099267_2269.jpg">
+<img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;terrier-russell&#x2F;iguet2.jpeg">
 </p>
 
 <h2> Joke </h2>
 
 <p align="center">
-    Some things Man was never meant to know. For everything else there’s Google.
+    The box said ‘Requires Windows Vista or better’. So I installed LINUX.
 </p>
 
