@@ -32,12 +32,12 @@
 <h2> Dog </h2>
 
 <p align="center">
-<img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;ridgeback-rhodesian&#x2F;n02087394_4931.jpg">
+<img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;terrier-border&#x2F;n02093754_6106.jpg">
 </p>
 
 <h2> Joke </h2>
 
 <p align="center">
-    When Chuck Norris throws exceptions, it&#39;s across the room.
+    When Chuck Norris has sex with a man, it won&#39;t be because he is gay. It will be because he has run out of women.
 </p>
 
