@@ -32,12 +32,12 @@
 <h2> Dog </h2>
 
 <p align="center">
-<img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;retriever-flatcoated&#x2F;n02099267_1596.jpg">
+<img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;whippet&#x2F;n02091134_917.jpg">
 </p>
 
 <h2> Joke </h2>
 
 <p align="center">
-    While urinating, Chuck Norris is easily capable of welding titanium.
+    All arrays Chuck Norris declares are of infinite size, because Chuck Norris knows no bounds.
 </p>
 
