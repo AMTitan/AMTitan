@@ -30,8 +30,6 @@ jobs:
         run: git add joke.json
       - name: add dog
         run: git add dogs.json
-      - name: continue
-        run: git rebase --continue
       - name: Commit and Push new README.md to the repository
         uses: mikeal/publish-to-github-action@master
         env:
