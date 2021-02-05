@@ -32,12 +32,12 @@
 <h2> Dog </h2>
 
 <p align="center">
-<img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;shiba&#x2F;shiba-3i.jpg">
+<img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;cattledog-australian&#x2F;IMG_5481.jpg">
 </p>
 
 <h2> Joke </h2>
 
 <p align="center">
-    If, by some incredible space-time paradox, Chuck Norris would ever fight himself, he&#39;d win. Period.
+    Chuck Norris once shat blood - the blood of 11,940 natives he had killed and eaten.
 </p>
 
