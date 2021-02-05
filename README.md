@@ -32,12 +32,12 @@
 <h2> Dog </h2>
 
 <p align="center">
-<img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;terrier-irish&#x2F;n02093991_5001.jpg">
+<img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;brabancon&#x2F;n02112706_86.jpg">
 </p>
 
 <h2> Joke </h2>
 
 <p align="center">
-    Black holes are where God divided by zero.
+    Chuck Norris doesn&#39;t read books. He stares them down until he gets the information he wants.
 </p>
 
