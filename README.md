@@ -32,12 +32,12 @@
 <h2> Dog </h2>
 
 <p align="center">
-<img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;kelpie&#x2F;n02105412_2067.jpg">
+<img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;cattledog-australian&#x2F;IMG_5481.jpg">
 </p>
 
 <h2> Joke </h2>
 
 <p align="center">
-    The movie &#39;Delta Force&#39; was extremely hard to make because Chuck had to downplay his abilities. The first few cuts were completely unbelievable.
+    Staring at Chuck Norris for extended periods of time without proper eye protection will cause blindess, and possibly foot sized brusies on the face.
 </p>
 
