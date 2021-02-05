@@ -22,6 +22,16 @@ jobs:
         run: npm install
       - name: Generate README file
         run: node index.js
+      - name: add readme.md
+        run: git add README.md
+      - name: add weather
+        run: git add weather.json
+      - name: add joke.json
+        run: git add joke.json
+      - name: add dog
+        run: git add dogs.json
+      - name: continue
+        run: git rebase --continue
       - name: Commit and Push new README.md to the repository
         uses: mikeal/publish-to-github-action@master
         env:
