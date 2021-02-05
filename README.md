@@ -32,12 +32,12 @@
 <h2> Dog </h2>
 
 <p align="center">
-<img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;germanshepherd&#x2F;n02106662_3815.jpg">
+<img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;akita&#x2F;Akita_inu_blanc.jpg">
 </p>
 
 <h2> Joke </h2>
 
 <p align="center">
-    Chuck Norris can blow bubbles with beef jerky.
+    Chuck Norris doesn&#39;t believe in ravioli. He stuffs a live turtle with beef and smothers it in pig&#39;s blood.
 </p>
 
