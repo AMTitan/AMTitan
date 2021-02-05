@@ -32,12 +32,12 @@
 <h2> Dog </h2>
 
 <p align="center">
-<img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;borzoi&#x2F;n02090622_8221.jpg">
+<img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;spaniel-blenheim&#x2F;n02086646_4213.jpg">
 </p>
 
 <h2> Joke </h2>
 
 <p align="center">
-    Chuck Norris can start a fire by rubbing two ice cubes together.
+    Chuck Norris has never been in a fight, ever. Do you call one roundhouse kick to the face a fight?
 </p>
 
