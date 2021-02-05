@@ -32,12 +32,12 @@
 <h2> Dog </h2>
 
 <p align="center">
-<img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;pomeranian&#x2F;n02112018_1577.jpg">
+<img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;bluetick&#x2F;n02088632_4024.jpg">
 </p>
 
 <h2> Joke </h2>
 
 <p align="center">
-    Chuck Norris has never been accused of murder because his roundhouse kicks are recognized as &#39;acts of God.&#39;
+    &#39;Knock knock.&#39; &#39;Who&#39;s there?&#39; *10 mins later* &#39;Java.&#39;
 </p>
 
