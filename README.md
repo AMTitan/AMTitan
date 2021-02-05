@@ -32,12 +32,12 @@
 <h2> Dog </h2>
 
 <p align="center">
-<img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;shihtzu&#x2F;n02086240_8489.jpg">
+<img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;vizsla&#x2F;n02100583_11163.jpg">
 </p>
 
 <h2> Joke </h2>
 
 <p align="center">
-    Chuck Norris has two speeds: Walk and Kill.
+    Chuck Norris can take a screenshot of his blue screen.
 </p>
 
