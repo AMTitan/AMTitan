@@ -32,12 +32,12 @@
 <h2> Dog </h2>
 
 <p align="center">
-<img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;akita&#x2F;512px-Ainu-Dog.jpg">
+<img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;terrier-patterdale&#x2F;patterdale-terrier-1330018870tnN.jpg">
 </p>
 
 <h2> Joke </h2>
 
 <p align="center">
-    Chuck Norris protocol design method has no status, requests or responses, only commands.
+    Two wrongs don&#39;t make a right. Unless you&#39;re Chuck Norris. Then two wrongs make a roundhouse kick to the face.
 </p>
 
