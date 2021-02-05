@@ -22,24 +22,29 @@ const promise1 = new Promise((resolve) => {
       console.log('body:', body);
       fs.writeFileSync("weather.json", body);
       body1 = body;
+      resolve();
     }
   });
 })
+promises.push(promise1);
 var dogs;
 const promise2 = new Promise((resolve) => {
   request("https://dog.ceo/api/breeds/image/random", function (err, response, body) {
       fs.writeFileSync("dogs.json", body);
       dogs = body;
+      resolve();
     })
 })
+promises.push(promise2);
 var joke;
 const promise3 = new Promise((resolve) => {
   request("https://geek-jokes.sameerkumar.website/api?format=json", function (err, response, body) {
     fs.writeFileSync("joke.json", body);
     joke = body;
+    resolve();
   })
 })
-
+promises.push(promise3);
 Promise.all(promises).then(() => {
   let rawdata = fs.readFileSync('Weather.json');
   body1 = JSON.parse(rawdata);
