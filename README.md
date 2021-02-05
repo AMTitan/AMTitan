@@ -32,12 +32,12 @@
 <h2> Dog </h2>
 
 <p align="center">
-<img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;bulldog-english&#x2F;mami.jpg">
+<img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;spaniel-brittany&#x2F;n02101388_3762.jpg">
 </p>
 
 <h2> Joke </h2>
 
 <p align="center">
-    Most boots are made for walkin&#39;. Chuck Norris&#39; boots ain&#39;t that merciful.
+    Every SQL statement that Chuck Norris codes has an implicit &#39;COMMIT&#39; in its end.
 </p>
 
