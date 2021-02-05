@@ -1,4 +1,4 @@
-# <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> My name is Arthur Melton and I have ![Profile View Counter](https://komarev.com/ghpvc/?username=AMTitan) (Last updated on Friday, 5 February, 14:01 GMT-5).
+# <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> My name is Arthur Melton and I have ![Profile View Counter](https://komarev.com/ghpvc/?username=AMTitan) (Last updated on Friday, 5 February, 14:02 GMT-5).
 <p align="center">
 <img style="width:100%" src="https://github-readme-stats.vercel.app/api?username=AMTitan&show_icons=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" /> 
 </p>
@@ -29,12 +29,12 @@
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1595173148/9720/dog_cute.gif?1595173148" width="30"> Dog </h2>
 
 <p align="center">
-<img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;spaniel-blenheim&#x2F;n02086646_2871.jpg">
+<img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;saluki&#x2F;n02091831_3334.jpg">
 </p>
 
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1500426137/2648/allo-tongue.gif?1500426137" width="30"> Joke </h2>
 
 <p align="center">
-    Chuck Norris has the greatest Poker-Face of all time. He won the 1983 World Series of Poker, despite holding only a Joker, a Get out of Jail Free Monopoloy card, a 2 of clubs, 7 of spades and a green #4 card from the game UNO.
+    Little Miss Muffet sat on her tuffet, until Chuck Norris roundhouse kicked her into a glacier.
 </p>
 
