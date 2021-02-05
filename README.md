@@ -32,12 +32,12 @@
 <h2> Dog </h2>
 
 <p align="center">
-<img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;terrier-irish&#x2F;n02093991_1315.jpg">
+<img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;chihuahua&#x2F;n02085620_3409.jpg">
 </p>
 
 <h2> Joke </h2>
 
 <p align="center">
-    Chuck Norris just says &#39;no&#39; to drugs. If he said &#39;yes&#39;, it would collapse Colombia&#39;s infrastructure.
+    Chuck Norris doesn&#39;t read books. He stares them down until he gets the information he wants.
 </p>
 
