@@ -16,15 +16,11 @@ var body1;
 var promises = [];
 const promise1 = new Promise((resolve) => {
   request(url, function (err, response, body) {
-    if (err) {
-      console.log('error:', error);
-    } else {
       console.log('body:', body);
       fs.writeFileSync("weather.json", body);
       body1 = body;
       resolve();
-    }
-  });
+  })
 })
 promises.push(promise1);
 var dogs;
@@ -45,6 +41,15 @@ const promise3 = new Promise((resolve) => {
   })
 })
 promises.push(promise3);
+var nasa;
+const promise4 = new Promise((resolve) => {
+  request("https://api.nasa.gov/planetary/apod?api_key=kN4Q4qJ9mhQ1de2J8xH2u7DOz2ZI5NTOeBZzm9ol", function (err, response, body) {
+    fs.writeFileSync("nasa.json", body);
+    nasa = body;
+    resolve();
+  })
+})
+promises.push(promise4);
 Promise.all(promises).then(() => {
   let rawdata = fs.readFileSync('Weather.json');
   body1 = JSON.parse(rawdata);
@@ -52,6 +57,8 @@ Promise.all(promises).then(() => {
   dogs = JSON.parse(rawdata1);
   let rawdata2 = fs.readFileSync('joke.json');
   joke = JSON.parse(rawdata2);
+  let rawdata3 = fs.readFileSync('nasa.json');
+  nasa = JSON.parse(rawdata3);
 
   console.log(JSON.parse(rawdata));
 
@@ -60,6 +67,7 @@ Promise.all(promises).then(() => {
     img: dogs,
     joke: joke,
     body: body1,
+    nasa: nasa,
     FerTem: Math.round((body1.main.temp * 1.8 + 32) * 100) / 100,
     FerFel: Math.round((body1.main.feels_like * 1.8 + 32) * 100) / 100,
     Des: body1.weather[0].description,
