@@ -32,12 +32,12 @@
 <h2> Dog </h2>
 
 <p align="center">
-<img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;hound-blood&#x2F;n02088466_10309.jpg">
+<img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;terrier-patterdale&#x2F;Patterdale.jpg">
 </p>
 
 <h2> Joke </h2>
 
 <p align="center">
-    Chuck Norris has never been accused of murder because his roundhouse kicks are recognized as &#39;acts of God.&#39;
+    A man once taunted Chuck Norris with a bag of Lay&#39;s potato chips, saying &#39;Betcha can&#39;t eat just one!&#39; Chuck Norris proceeded to eat the chips, the bag, and the man in one deft move.
 </p>
 
