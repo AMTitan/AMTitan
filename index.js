@@ -9,15 +9,12 @@ const MUSTACHE_MAIN_DIR = './main.mustache';
 */
 const request = require('request');
 
-let url = 'http://api.openweathermap.org/data/2.5/weather?zip=30004&units=metric&appid=8333920da3e5cd15901dca62f2b8d0f6';
-
 var body1;
 
 var promises = [];
 const promise1 = new Promise((resolve) => {
-  request(url, function (err, response, body) {
-      console.log('body:', body);
-      fs.writeFileSync("weather.json", body);
+  request("http://api.openweathermap.org/data/2.5/weather?zip=30004&units=metric&appid=8333920da3e5cd15901dca62f2b8d0f6", function (err, response, body) {
+      fs.writeFileSync("Weather.json", body);
       body1 = body;
       resolve();
   })
