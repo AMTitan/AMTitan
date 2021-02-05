@@ -32,12 +32,12 @@
 <h2> Dog </h2>
 
 <p align="center">
-<img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;pembroke&#x2F;n02113023_10829.jpg">
+<img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;keeshond&#x2F;n02112350_9896.jpg">
 </p>
 
 <h2> Joke </h2>
 
 <p align="center">
-    Not everyone that Chuck Norris is mad at gets killed. Some get away. They are called astronauts.
+    In the first Jurassic Park movie, the Tyrannosaurus Rex wasn&#39;t chasing the jeep. Chuck Norris was chasing the Tyrannosaurus AND the jeep.
 </p>
 
