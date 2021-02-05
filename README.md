@@ -29,12 +29,12 @@
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1595173148/9720/dog_cute.gif?1595173148" width="30"> Dog </h2>
 
 <p align="center">
-<img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;pug&#x2F;n02110958_12761.jpg">
+<img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;dingo&#x2F;n02115641_3360.jpg">
 </p>
 
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1500426137/2648/allo-tongue.gif?1500426137" width="30"> Joke </h2>
 
 <p align="center">
-    When Arnold says &#39;I&#39;ll be back&#39; in Terminator movie it is implied that he&#39;s going to ask Chuck Norris for help.
+    Archeologists unearthed an old english dictionary dating back to the year 1236. It defined &#39;victim&#39; as &#39;one who has encountered Chuck Norris&#39;
 </p>
 
