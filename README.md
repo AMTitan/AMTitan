@@ -32,12 +32,12 @@
 <h2> Dog </h2>
 
 <p align="center">
-<img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;saluki&#x2F;n02091831_6308.jpg">
+<img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;terrier-kerryblue&#x2F;n02093859_2700.jpg">
 </p>
 
 <h2> Joke </h2>
 
 <p align="center">
-    In the Words of Julius Caesar, &#39;Veni, Vidi, Vici, Chuck Norris&#39;. Translation: I came, I saw, and I was roundhouse-kicked inthe face by Chuck Norris.
+    Chuck Norris never wet his bed as a child. The bed wet itself out of fear.
 </p>
 
