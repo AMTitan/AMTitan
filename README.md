@@ -1,4 +1,4 @@
-# <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> My name is Arthur Melton and I have ![Profile View Counter](https://komarev.com/ghpvc/?username=AMTitan) (Last updated on Friday, 5 February, 10:11 GMT-5).
+# <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> My name is Arthur Melton and I have ![Profile View Counter](https://komarev.com/ghpvc/?username=AMTitan) (Last updated on Friday, 5 February, 10:12 GMT-5).
 <p align="center">
 <img style="width:100%" src="https://github-readme-stats.vercel.app/api?username=AMTitan&show_icons=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" /> 
 </p>
@@ -29,12 +29,12 @@
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1595173148/9720/dog_cute.gif?1595173148" width="30"> Dog </h2>
 
 <p align="center">
-<img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;schipperke&#x2F;n02104365_1151.jpg">
+<img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;shiba&#x2F;shiba-14.jpg">
 </p>
 
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1500426137/2648/allo-tongue.gif?1500426137" width="30"> Joke </h2>
 
 <p align="center">
-    Chuck Norris&#39; sperm can be seen with the naked eye. Each one is the size of a quarter.
+    Chuck Norris keeps his friends close and his enemies closer. Close enough to drop them with one round house kick to the face.
 </p>
 
