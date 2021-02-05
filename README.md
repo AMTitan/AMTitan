@@ -32,12 +32,12 @@
 <h2> Dog </h2>
 
 <p align="center">
-<img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;finnish-lapphund&#x2F;mochilamvan.jpg">
+<img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;maltese&#x2F;n02085936_20102.jpg">
 </p>
 
 <h2> Joke </h2>
 
 <p align="center">
-    Chuck Norris has never won an Academy Award for acting... because he&#39;s not acting.
+    Most boots are made for walkin&#39;. Chuck Norris&#39; boots ain&#39;t that merciful.
 </p>
 
