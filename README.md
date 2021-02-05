@@ -32,12 +32,12 @@
 <h2> Dog </h2>
 
 <p align="center">
-<img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;spaniel-blenheim&#x2F;n02086646_618.jpg">
+<img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;collie-border&#x2F;n02106166_1055.jpg">
 </p>
 
 <h2> Joke </h2>
 
 <p align="center">
-    There are two types of people in the world... people that suck, and Chuck Norris.
+    With the rising cost of gasoline, Chuck Norris is beginning to worry about his drinking habit.
 </p>
 
