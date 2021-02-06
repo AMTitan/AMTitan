@@ -1,4 +1,4 @@
-# <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> My name is Arthur Melton and I have ![Profile View Counter](https://komarev.com/ghpvc/?username=AMTitan) (Last updated on Saturday, 6 February, 00:11 GMT-5).
+# <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> My name is Arthur Melton and I have ![Profile View Counter](https://komarev.com/ghpvc/?username=AMTitan) (Last updated on Saturday, 6 February, 00:12 GMT-5).
 
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1581539211/7808/party-blob.gif?1581539211" width="30"/> Me </h2>
 
@@ -23,7 +23,7 @@
 <h2> <img src="http://openweathermap.org/img/w/03n.png" width="30"> Weather </h2>
 
 <p align="center">
-The weather for me its a scattered clouds and the temperature is 0.89°C (33.6°F) but it actually feels like -2.31°C (27.84°F)!
+The weather for me its a scattered clouds and the temperature is 0.83°C (33.49°F) but it actually feels like -2.42°C (27.64°F)!
 </p>
 <p align="center">
     The sun rise for me is at 07:30 and the sun set is at 18:12!
@@ -38,13 +38,13 @@ The persaintage of the sky is filled with clouds for me is 31%!
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1595173148/9720/dog_cute.gif?1595173148" width="30"> Dog </h2>
 
 <p align="center">
-<img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;cockapoo&#x2F;bubbles2.jpg">
+<img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;chihuahua&#x2F;n02085620_806.jpg">
 </p>
 
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1500426137/2648/allo-tongue.gif?1500426137" width="30"> Joke </h2>
 
 <p align="center">
-    Chuck Norris has banned rainbows from the state of North Dakota.
+    One time, Chuck Norris accidentally stubbed his toe. It destroyed the entire state of Ohio.
 </p>
 
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1598464721/10276/space.png?1598464721" width="30"> NASA - A Northern Winter Night </h2>
