@@ -23,13 +23,13 @@
 <h2> <img src="http://openweathermap.org/img/w/04d.png" width="30"> Weather </h2>
 
 <p align="center">
-The weather for me its a broken clouds and the temperature is -0.66°C (30.81°F) but it actually feels like -3.83°C (25.11°F)!
+The weather for me its a broken clouds and the temperature is -0.68°C (30.78°F) but it actually feels like -3.97°C (24.85°F)!
 </p>
 <p align="center">
     The sun rise for me is at 07:30 and the sun set is at 18:12!
 </p>
 <p align="center">
-The wind for me  is 1.37 meters/sec (3.06mph)!
+The wind for me  is 1.53 meters/sec (3.42mph)!
 </p>
 <p align="center">
 The persaintage of the sky is filled with clouds for me is 75%!
@@ -38,13 +38,13 @@ The persaintage of the sky is filled with clouds for me is 75%!
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1595173148/9720/dog_cute.gif?1595173148" width="30"> Dog </h2>
 
 <p align="center">
-<img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;retriever-chesapeake&#x2F;n02099849_3736.jpg">
+<img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;chow&#x2F;n02112137_7340.jpg">
 </p>
 
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1500426137/2648/allo-tongue.gif?1500426137" width="30"> Joke </h2>
 
 <p align="center">
-    There are no races, only countries of people Chuck Norris has beaten to different shades of black and blue.
+    Paper beats rock, rock beats scissors, and scissors beats paper, but Chuck Norris beats all 3 at the same time.
 </p>
 
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1598464721/10276/space.png?1598464721" width="30"> NASA - A Northern Winter Night </h2>
