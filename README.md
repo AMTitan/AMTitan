@@ -1,4 +1,4 @@
-# <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> My name is Arthur Melton and I have ![Profile View Counter](https://komarev.com/ghpvc/?username=AMTitan) (Last updated on Saturday, 6 February, 16:48 GMT-5).
+# <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> My name is Arthur Melton and I have ![Profile View Counter](https://komarev.com/ghpvc/?username=AMTitan) (Last updated on Saturday, 6 February, 16:49 GMT-5).
 
 <h3> <img src="https://emojis.slackmojis.com/emojis/images/1581539211/7808/party-blob.gif?1581539211" width="30"/> About Me </h3>
 
@@ -64,7 +64,7 @@
 <h2> <img src="http://openweathermap.org/img/w/10d.png" width="30"> Weather </h2>
 
 <p align="center">
-    The weather for me its a light rain and the temperature is 4.91°C (40.84°F) but it actually feels like 2.23°C (36.01°F)!
+    The weather for me its a light rain and the temperature is 5.22°C (41.4°F) but it actually feels like 2.41°C (36.34°F)!
 </p>
 <p align="center">
     The sun rise for me is at 07:30 and the sun set is at 18:12!
@@ -79,11 +79,11 @@
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1595173148/9720/dog_cute.gif?1595173148" width="30"> Dog </h2>
 
 <p align="center">
-    <img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;ovcharka-caucasian&#x2F;IMG_20190601_200814.jpg" height="300px">
+    <img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;germanshepherd&#x2F;n02106662_1812.jpg" height="300px">
 </p>
 
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1500426137/2648/allo-tongue.gif?1500426137" width="30"> Joke </h2>
 
 <p align="center">
-    A study showed the leading causes of death in the United States are: 1. Heart disease, 2. Chuck Norris, 3. Cancer
+    There are two types of people in the world... people that suck, and Chuck Norris.
 </p>
