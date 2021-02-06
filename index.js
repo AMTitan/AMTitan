@@ -47,6 +47,15 @@ const promise4 = new Promise((resolve) => {
   })
 })
 promises.push(promise4);
+var pinned;
+const promise5 = new Promise((resolve) => {
+  request("https://gh-pinned-repos-5l2i19um3.vercel.app/?username=AMTitan", function (err, response, body) {
+    fs.writeFileSync("pinned.json", body);
+    pinned = body;
+    resolve();
+  })
+})
+promises.push(promise5);
 Promise.all(promises).then(() => {
   let rawdata = fs.readFileSync('Weather.json');
   body1 = JSON.parse(rawdata);
@@ -56,8 +65,10 @@ Promise.all(promises).then(() => {
   joke = JSON.parse(rawdata2);
   let rawdata3 = fs.readFileSync('nasa.json');
   nasa = JSON.parse(rawdata3);
+  let rawdata4 = fs.readFileSync('pinned.json');
+  pinned = JSON.parse(rawdata4);
 
-  console.log(JSON.parse(rawdata));
+  console.log(JSON.parse(rawdata4));
 
   let DATA = {
     name: 'Arthur Melton',
@@ -65,6 +76,12 @@ Promise.all(promises).then(() => {
     joke: joke,
     body: body1,
     nasa: nasa,
+    pinned1: pinned[0],
+    pinned2: pinned[1],
+    pinned3: pinned[2],
+    pinned4: pinned[3],
+    pinned5: pinned[4],
+    pinned6: pinned[5],
     FerTem: Math.round((body1.main.temp * 1.8 + 32) * 100) / 100,
     FerFel: Math.round((body1.main.feels_like * 1.8 + 32) * 100) / 100,
     Des: body1.weather[0].description,
@@ -97,11 +114,55 @@ Promise.all(promises).then(() => {
    * C - We create a README.md file with the generated output
    */
   function generateReadMe() {
-    fs.readFile(MUSTACHE_MAIN_DIR, (err, data) =>  {
-      if (err) throw err;
-      const output = Mustache.render(data.toString(), DATA);
-      fs.writeFileSync('README.md', output);
-    });
+    if (DATA.pinned1 == null) {
+      fs.readFile("main0.mustache", (err, data) =>  {
+        if (err) throw err;
+        const output = Mustache.render(data.toString(), DATA);
+        fs.writeFileSync('README.md', output);
+      });
+    }
+    else if (DATA.pinned2 == null) {
+      fs.readFile("main1.mustache", (err, data) =>  {
+        if (err) throw err;
+        const output = Mustache.render(data.toString(), DATA);
+        fs.writeFileSync('README.md', output);
+      });
+    }
+    else if (DATA.pinned3 == null) {
+      fs.readFile("main2.mustache", (err, data) =>  {
+        if (err) throw err;
+        const output = Mustache.render(data.toString(), DATA);
+        fs.writeFileSync('README.md', output);
+      });
+    }
+    else if (DATA.pinned4 == null) {
+      fs.readFile("main3.mustache", (err, data) =>  {
+        if (err) throw err;
+        const output = Mustache.render(data.toString(), DATA);
+        fs.writeFileSync('README.md', output);
+      });
+    }
+    else if (DATA.pinned5 == null) {
+      fs.readFile("main4.mustache", (err, data) =>  {
+        if (err) throw err;
+        const output = Mustache.render(data.toString(), DATA);
+        fs.writeFileSync('README.md', output);
+      });
+    }
+    else if (DATA.pinned6.owner == null) {
+      fs.readFile("main5.mustache", (err, data) =>  {
+        if (err) throw err;
+        const output = Mustache.render(data.toString(), DATA);
+        fs.writeFileSync('README.md', output);
+      });
+    }
+    else {
+      fs.readFile(MUSTACHE_MAIN_DIR, (err, data) =>  {
+        if (err) throw err;
+        const output = Mustache.render(data.toString(), DATA);
+        fs.writeFileSync('README.md', output);
+      });
+    }
   }
   generateReadMe();
 });
