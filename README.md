@@ -20,31 +20,31 @@
 
 # <img src="https://emojis.slackmojis.com/emojis/images/1547582922/5197/party_blob.gif?1547582922" width="30"> Others
 
-<h2> <img src="http://openweathermap.org/img/w/03n.png" width="30"> Weather </h2>
+<h2> <img src="http://openweathermap.org/img/w/01n.png" width="30"> Weather </h2>
 
 <p align="center">
-The weather for me its a scattered clouds and the temperature is -0.07°C (31.87°F) but it actually feels like -3.71°C (25.32°F)!
+The weather for me its a clear sky and the temperature is -0.45°C (31.19°F) but it actually feels like -3.78°C (25.2°F)!
 </p>
 <p align="center">
     The sun rise for me is at 07:30 and the sun set is at 18:12!
 </p>
 <p align="center">
-The wind for me  is 1.49 meters/sec (3.33mph)!
+The wind for me  is 1.08 meters/sec (2.42mph)!
 </p>
 <p align="center">
-The persaintage of the sky is filled with clouds for me is 49%!
+The persaintage of the sky is filled with clouds for me is 0%!
 </p>
 
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1595173148/9720/dog_cute.gif?1595173148" width="30"> Dog </h2>
 
 <p align="center">
-<img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;hound-blood&#x2F;n02088466_8821.jpg">
+<img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;spaniel-blenheim&#x2F;n02086646_421.jpg">
 </p>
 
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1500426137/2648/allo-tongue.gif?1500426137" width="30"> Joke </h2>
 
 <p align="center">
-    Chuck Norris plays racquetball with a waffle iron and a bowling ball.
+    The chemical formula for the highly toxic cyanide ion is CN-. These are also Chuck Norris&#39; initials. This is not a coincidence.
 </p>
 
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1598464721/10276/space.png?1598464721" width="30"> NASA - A Northern Winter Night </h2>
