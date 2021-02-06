@@ -23,28 +23,28 @@
 <h2> <img src="http://openweathermap.org/img/w/04n.png" width="30"> Weather </h2>
 
 <p align="center">
-The weather for me its a overcast clouds and the temperature is 4.87°C (40.77°F) but it actually feels like 1°C (33.8°F)!
+The weather for me its a broken clouds and the temperature is 4.92°C (40.86°F) but it actually feels like 1.94°C (35.49°F)!
 </p>
 <p align="center">
     The sun rise for me is at 07:31 and the sun set is at 18:11!
 </p>
 <p align="center">
-The wind for me  is 2.38 meters/sec (5.32mph)!
+The wind for me  is 1.11 meters/sec (2.48mph)!
 </p>
 <p align="center">
-The persaintage of the sky is filled with clouds for me is 95%!
+The persaintage of the sky is filled with clouds for me is 51%!
 </p>
 
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1595173148/9720/dog_cute.gif?1595173148" width="30"> Dog </h2>
 
 <p align="center">
-<img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;pyrenees&#x2F;n02111500_5750.jpg">
+<img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;terrier-sealyham&#x2F;n02095889_1313.jpg">
 </p>
 
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1500426137/2648/allo-tongue.gif?1500426137" width="30"> Joke </h2>
 
 <p align="center">
-    There are only two things that can cut diamonds: other diamonds, and Chuck Norris.
+    UNIX is user friendly, it&#39;s just very particular about who it&#39;s friends are.
 </p>
 
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1598464721/10276/space.png?1598464721" width="30"> NASA - Apollo 14 Heads for Home </h2>
