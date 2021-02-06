@@ -23,28 +23,28 @@
 <h2> <img src="http://openweathermap.org/img/w/03n.png" width="30"> Weather </h2>
 
 <p align="center">
-The weather for me its a scattered clouds and the temperature is 0.1°C (32.18°F) but it actually feels like -3.04°C (26.53°F)!
+The weather for me its a scattered clouds and the temperature is 0.1°C (32.18°F) but it actually feels like -3.44°C (25.81°F)!
 </p>
 <p align="center">
     The sun rise for me is at 07:30 and the sun set is at 18:12!
 </p>
 <p align="center">
-The wind for me  is 0.91 meters/sec (2.04mph)!
+The wind for me  is 1.49 meters/sec (3.33mph)!
 </p>
 <p align="center">
-The persaintage of the sky is filled with clouds for me is 26%!
+The persaintage of the sky is filled with clouds for me is 49%!
 </p>
 
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1595173148/9720/dog_cute.gif?1595173148" width="30"> Dog </h2>
 
 <p align="center">
-<img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;samoyed&#x2F;n02111889_6419.jpg">
+<img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;australian-shepherd&#x2F;pepper2.jpg">
 </p>
 
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1500426137/2648/allo-tongue.gif?1500426137" width="30"> Joke </h2>
 
 <p align="center">
-    For Chuck Norris, NP-Hard &#x3D; O(1).
+    Chuck Norris once shot down a German fighter plane with his finger. By yelling &#39;Bang!&#39;
 </p>
 
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1598464721/10276/space.png?1598464721" width="30"> NASA - A Northern Winter Night </h2>
