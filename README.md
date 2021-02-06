@@ -20,10 +20,10 @@
 
 # <img src="https://emojis.slackmojis.com/emojis/images/1547582922/5197/party_blob.gif?1547582922" width="30"> Others
 
-<h2> <img src="http://openweathermap.org/img/w/01d.png" width="30"> Weather </h2>
+<h2> <img src="http://openweathermap.org/img/w/03d.png" width="30"> Weather </h2>
 
 <p align="center">
-The weather for me its a clear sky and the temperature is 1.23°C (34.21°F) but it actually feels like -1.84°C (28.69°F)!
+The weather for me its a scattered clouds and the temperature is 1.9°C (35.42°F) but it actually feels like -1.07°C (30.07°F)!
 </p>
 <p align="center">
     The sun rise for me is at 07:30 and the sun set is at 18:12!
@@ -32,19 +32,19 @@ The weather for me its a clear sky and the temperature is 1.23°C (34.21°F) but
 The wind for me  is 1.37 meters/sec (3.06mph)!
 </p>
 <p align="center">
-The persaintage of the sky is filled with clouds for me is 1%!
+The persaintage of the sky is filled with clouds for me is 40%!
 </p>
 
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1595173148/9720/dog_cute.gif?1595173148" width="30"> Dog </h2>
 
 <p align="center">
-<img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;akita&#x2F;Akina_Inu_in_Riga_1.jpg">
+<img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;finnish-lapphund&#x2F;mochilamvan.jpg">
 </p>
 
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1500426137/2648/allo-tongue.gif?1500426137" width="30"> Joke </h2>
 
 <p align="center">
-    Chuck Norris once ordered a steak in a restaurant. The steak did what it was told.
+    The more I C.... the less I see.
 </p>
 
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1598464721/10276/space.png?1598464721" width="30"> NASA - A Northern Winter Night </h2>
