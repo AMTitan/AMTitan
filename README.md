@@ -23,13 +23,13 @@
 <h2> <img src="http://openweathermap.org/img/w/04d.png" width="30"> Weather </h2>
 
 <p align="center">
-The weather for me its a overcast clouds and the temperature is 5.59°C (42.06°F) but it actually feels like 3.13°C (37.63°F)!
+The weather for me its a overcast clouds and the temperature is 5.58°C (42.04°F) but it actually feels like 0.99°C (33.78°F)!
 </p>
 <p align="center">
     The sun rise for me is at 07:30 and the sun set is at 18:12!
 </p>
 <p align="center">
-The wind for me  is 0.45 meters/sec (1.01mph)!
+The wind for me  is 3.32 meters/sec (7.43mph)!
 </p>
 <p align="center">
 The persaintage of the sky is filled with clouds for me is 87%!
@@ -38,13 +38,13 @@ The persaintage of the sky is filled with clouds for me is 87%!
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1595173148/9720/dog_cute.gif?1595173148" width="30"> Dog </h2>
 
 <p align="center">
-<img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;cotondetulear&#x2F;IMG_20160830_202631573.jpg">
+<img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;hound-basset&#x2F;n02088238_12997.jpg">
 </p>
 
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1500426137/2648/allo-tongue.gif?1500426137" width="30"> Joke </h2>
 
 <p align="center">
-    Chuck Norris once sued Burger King after they refused to put razor wire in his Whopper Jr, insisting that that actually is &#39;his&#39; way.
+    Chuck Norris has a deep and abiding respect for human life... unless it gets in his way.
 </p>
 
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1598464721/10276/space.png?1598464721" width="30"> NASA - A Northern Winter Night </h2>
