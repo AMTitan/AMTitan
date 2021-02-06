@@ -23,7 +23,7 @@
 <h2> <img src="http://openweathermap.org/img/w/01d.png" width="30"> Weather </h2>
 
 <p align="center">
-The weather for me its a clear sky and the temperature is -1.51°C (29.28°F) but it actually feels like -4.79°C (23.38°F)!
+The weather for me its a clear sky and the temperature is -1.5°C (29.3°F) but it actually feels like -4.78°C (23.4°F)!
 </p>
 <p align="center">
     The sun rise for me is at 07:30 and the sun set is at 18:12!
@@ -38,13 +38,13 @@ The persaintage of the sky is filled with clouds for me is 1%!
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1595173148/9720/dog_cute.gif?1595173148" width="30"> Dog </h2>
 
 <p align="center">
-<img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;rottweiler&#x2F;n02106550_1974.jpg">
+<img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;shihtzu&#x2F;n02086240_2003.jpg">
 </p>
 
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1500426137/2648/allo-tongue.gif?1500426137" width="30"> Joke </h2>
 
 <p align="center">
-    Chuck Norris ordered a Big Mac at Burger King, and got one.
+    The phrase &#39;break a leg&#39; was originally coined by Chuck Norris&#39;s co-stars in Walker, Texas Ranger as a good luck charm, indicating that a broken leg might be the worst extent of their injuries. This never proved to be the case.
 </p>
 
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1598464721/10276/space.png?1598464721" width="30"> NASA - A Northern Winter Night </h2>
