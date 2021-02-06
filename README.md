@@ -23,7 +23,7 @@
 <h2> <img src="http://openweathermap.org/img/w/04d.png" width="30"> Weather </h2>
 
 <p align="center">
-The weather for me its a broken clouds and the temperature is 3.82°C (38.88°F) but it actually feels like 0.45°C (32.81°F)!
+The weather for me its a broken clouds and the temperature is 4.34°C (39.81°F) but it actually feels like 0.9°C (33.62°F)!
 </p>
 <p align="center">
     The sun rise for me is at 07:30 and the sun set is at 18:12!
@@ -38,13 +38,13 @@ The persaintage of the sky is filled with clouds for me is 82%!
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1595173148/9720/dog_cute.gif?1595173148" width="30"> Dog </h2>
 
 <p align="center">
-<img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;weimaraner&#x2F;n02092339_6401.jpg">
+<img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;corgi-cardigan&#x2F;n02113186_2860.jpg">
 </p>
 
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1500426137/2648/allo-tongue.gif?1500426137" width="30"> Joke </h2>
 
 <p align="center">
-    When Chuck Norris plays Oregon Trail, his family does not die from cholera or dysentery, but rather, roundhouse kicks to the face. He also requires no wagon, since he carries the oxen, axels, and buffalo meat on his back. He always makes it to Oregon before you.
+    Why is C sad? Because C++ told him &#39;You have no class&#39;.
 </p>
 
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1598464721/10276/space.png?1598464721" width="30"> NASA - A Northern Winter Night </h2>
