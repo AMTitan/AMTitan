@@ -23,7 +23,7 @@
 <h2> <img src="http://openweathermap.org/img/w/04n.png" width="30"> Weather </h2>
 
 <p align="center">
-The weather for me its a overcast clouds and the temperature is 7.54°C (45.57°F) but it actually feels like 3.46°C (38.23°F)!
+The weather for me its a overcast clouds and the temperature is 7.51°C (45.52°F) but it actually feels like 3.43°C (38.17°F)!
 </p>
 <p align="center">
     The sun rise for me is at 07:31 and the sun set is at 18:11!
@@ -38,13 +38,13 @@ The persaintage of the sky is filled with clouds for me is 98%!
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1595173148/9720/dog_cute.gif?1595173148" width="30"> Dog </h2>
 
 <p align="center">
-<img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;poodle-standard&#x2F;n02113799_923.jpg">
+<img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;terrier-yorkshire&#x2F;n02094433_259.jpg">
 </p>
 
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1500426137/2648/allo-tongue.gif?1500426137" width="30"> Joke </h2>
 
 <p align="center">
-    The 11th commandment is ?Thou shalt not piss off Chuck Norris? This commandment is rarely enforced, as it is impossible to accomplish.
+    Linux: Born to be root. Windows: Born to re-boot
 </p>
 
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1598464721/10276/space.png?1598464721" width="30"> NASA - <a href="https:&#x2F;&#x2F;apod.nasa.gov&#x2F;apod&#x2F;image&#x2F;2102&#x2F;AS14-71-9845v2wmktwtr4Jerry.jpg">Apollo 14 Heads for Home</a>> </h2>
