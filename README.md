@@ -23,13 +23,13 @@
 <h2> <img src="http://openweathermap.org/img/w/04d.png" width="30"> Weather </h2>
 
 <p align="center">
-The weather for me its a overcast clouds and the temperature is 8.42°C (47.16°F) but it actually feels like 5.29°C (41.52°F)!
+The weather for me its a overcast clouds and the temperature is 8.42°C (47.16°F) but it actually feels like 5.01°C (41.02°F)!
 </p>
 <p align="center">
     The sun rise for me is at 07:30 and the sun set is at 18:12!
 </p>
 <p align="center">
-The wind for me  is 0.89 meters/sec (1.99mph)!
+The wind for me  is 1.34 meters/sec (3mph)!
 </p>
 <p align="center">
 The persaintage of the sky is filled with clouds for me is 88%!
@@ -38,13 +38,13 @@ The persaintage of the sky is filled with clouds for me is 88%!
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1595173148/9720/dog_cute.gif?1595173148" width="30"> Dog </h2>
 
 <p align="center">
-<img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;lhasa&#x2F;n02098413_14748.jpg">
+<img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;spaniel-blenheim&#x2F;n02086646_3893.jpg">
 </p>
 
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1500426137/2648/allo-tongue.gif?1500426137" width="30"> Joke </h2>
 
 <p align="center">
-    Chuck Norris&#39;s keyboard doesn&#39;t have a Ctrl key because nothing controls Chuck Norris.
+    Chuck Norris can win at solitaire with only 18 cards.
 </p>
 
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1598464721/10276/space.png?1598464721" width="30"> NASA - A Northern Winter Night </h2>
