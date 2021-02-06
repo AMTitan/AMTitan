@@ -1,56 +1,84 @@
-# <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> My name is Arthur Melton and I have ![Profile View Counter](https://komarev.com/ghpvc/?username=AMTitan) (Last updated on Saturday, 6 February, 12:45 GMT-5).
+# <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> My name is Arthur Melton and I have ![Profile View Counter](https://komarev.com/ghpvc/?username=AMTitan) (Last updated on Saturday, 6 February, 13:07 GMT-5).
 
-<h2> <img src="https://emojis.slackmojis.com/emojis/images/1581539211/7808/party-blob.gif?1581539211" width="30"/> Me </h2>
+<h3> <img src="https://emojis.slackmojis.com/emojis/images/1581539211/7808/party-blob.gif?1581539211" width="30"/> About Me </h3>
 
-<h3 align="center">
+<h4 align="center">
     I was born in 2006, and I love coding. I started using GitHub regularly in mid-December 2020. I am loving GitHub and will keep using it. I began to learn to code with HTML when I was around 8. Coding has always been my hobby because it is much fun, giving me lots of freedom. If you look at stats, then you can see what languages I like, but I LOVE c# so much.
-</h3>
+</h4>
 
-<h2> 📈 Stats </h2>
+<h3>🎁 Open source projects</h3>
+<table align="center">
+    <thead align="center">
+    <tr border="none";>
+        <td><b>🎁 Projects</b></td>
+        <td><b>⭐ Stars</b></td>
+        <td><b>📚 Forks</b></td>
+        <td><b>🛎 Issues</b></td>
+        <td><b>📬 Pull requests</b></td>
+    </tr>
+    </thead>
+    <tbody>
+    <tr>
+        <td><a href="https:&#x2F;&#x2F;github.com&#x2F;AMTitan&#x2F;File-Explorer--"><b>File-Explorer--</b></a></td>
+        <td><img alt="Stars" src="https://img.shields.io/github/stars/AMTitan/File-Explorer--?style=flat-square&labelColor=343b41"/></td>
+        <td><img alt="Forks" src="https://img.shields.io/github/forks/AMTitan/File-Explorer--?style=flat-square&labelColor=343b41"/></td>
+        <td><img alt="Issues" src="https://img.shields.io/github/issues/AMTitan/File-Explorer--?style=flat-square&labelColor=343b41"/></td>
+        <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/AMTitan/File-Explorer--?style=flat-square&labelColor=343b41"/></td>
+    </tr>
+    <tr>
+        <td><a href="https:&#x2F;&#x2F;github.com&#x2F;AMTitan&#x2F;Project-Defiance"><b>Project-Defiance</b></a></td>
+        <td><img alt="Stars" src="https://img.shields.io/github/stars/AMTitan/Project-Defiance?style=flat-square&labelColor=343b41"/></td>
+        <td><img alt="Forks" src="https://img.shields.io/github/forks/AMTitan/Project-Defiance?style=flat-square&labelColor=343b41"/></td>
+        <td><img alt="Issues" src="https://img.shields.io/github/issues/AMTitan/Project-Defiance?style=flat-square&labelColor=343b41"/></td>
+        <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/AMTitan/Project-Defiance?style=flat-square&labelColor=343b41"/></td>
+    </tr>
+    <tr>
+        <td><a href="https:&#x2F;&#x2F;github.com&#x2F;AMTitan&#x2F;arthurmelton.me"><b>arthurmelton.me</b></a></td>
+        <td><img alt="Stars" src="https://img.shields.io/github/stars/AMTitan/arthurmelton.me?style=flat-square&labelColor=343b41"/></td>
+        <td><img alt="Forks" src="https://img.shields.io/github/forks/AMTitan/arthurmelton.me?style=flat-square&labelColor=343b41"/></td>
+        <td><img alt="Issues" src="https://img.shields.io/github/issues/AMTitan/arthurmelton.me?style=flat-square&labelColor=343b41"/></td>
+        <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/AMTitan/arthurmelton.me?style=flat-square&labelColor=343b41"/></td>
+    </tr>
+    </tbody>
+</table>
+
+<h3> 📈 Stats </h3>
 
 <p align="center">
-<img style="width:100%" src="https://github-readme-stats.vercel.app/api?username=AMTitan&show_icons=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" /> 
+    <img style="width:100%" src="https://github-readme-stats.vercel.app/api?username=AMTitan&show_icons=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" />
 </p>
 <p align="center">
-<img style="width:100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AMTitan&layout=compact&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" /> 
+    <img style="width:100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AMTitan&layout=compact&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" />
 </p>
 <p align="center">
-<img style="width:100%" src="https://github-readme-stats.vercel.app/api/wakatime?username=AMTitan&layout=compact&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" />
+    <img style="width:100%" src="https://github-readme-stats.vercel.app/api/wakatime?username=AMTitan&layout=compact&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" />
 </p>
-
-# <img src="https://emojis.slackmojis.com/emojis/images/1547582922/5197/party_blob.gif?1547582922" width="30"> Others
 
 <h2> <img src="http://openweathermap.org/img/w/04d.png" width="30"> Weather </h2>
 
 <p align="center">
-The weather for me its a overcast clouds and the temperature is 8.38°C (47.08°F) but it actually feels like 5.17°C (41.31°F)!
+    The weather for me its a overcast clouds and the temperature is 8.38°C (47.08°F) but it actually feels like 5.17°C (41.31°F)!
 </p>
 <p align="center">
     The sun rise for me is at 07:30 and the sun set is at 18:12!
 </p>
 <p align="center">
-The wind for me  is 0.89 meters/sec (1.99mph)!
+    The wind for me  is 0.89 meters/sec (1.99mph)!
 </p>
 <p align="center">
-The persaintage of the sky is filled with clouds for me is 91%!
+    The persaintage of the sky is filled with clouds for me is 91%!
 </p>
 
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1595173148/9720/dog_cute.gif?1595173148" width="30"> Dog </h2>
 
 <p align="center">
-<img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;rottweiler&#x2F;n02106550_8064.jpg">
+    <img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;retriever-chesapeake&#x2F;n02099849_4619.jpg" height="300px">
 </p>
 
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1500426137/2648/allo-tongue.gif?1500426137" width="30"> Joke </h2>
 
 <p align="center">
-    Chuck Norris doesn&#39;t bug hunt as that signifies a probability of failure, he goes bug killing.
+    Chuck Norris can drink an entire gallon of milk in thirty-seven seconds.
 </p>
 
-<h2> <img src="https://emojis.slackmojis.com/emojis/images/1598464721/10276/space.png?1598464721" width="30"> NASA - A Northern Winter Night </h2>
-
-<p align="center">
-    Snow blankets the ground in this serene forest and sky view. Assembled in a 360 degree panoramic projection, the mosaicked frames were captured at January&#39;s end along a quiet country road near Siemiony, northeastern Poland, planet Earth. The night was cold and between trees reaching toward the sky shine the stars and nebulae of the northern winter Milky Way. Near zenith is bright star Capella, a mere 43 light-years above the tree tops. Alpha star of the constellation Auriga the Charioteer and part of the winter hexagon asterism, Capella is a well-studied double star system. Follow the Milky Way above and right of Capella and you might spot the familiar stars of Orion in the northern winter night.
-    <img src="https:&#x2F;&#x2F;apod.nasa.gov&#x2F;apod&#x2F;image&#x2F;2102&#x2F;Siemiony_las_31_01_2021_2048.jpg">
-</p>
 
