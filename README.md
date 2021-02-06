@@ -1,4 +1,4 @@
-# <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> My name is Arthur Melton and I have ![Profile View Counter](https://komarev.com/ghpvc/?username=AMTitan) (Last updated on Friday, 5 February, 18:58 GMT-5).
+# <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> My name is Arthur Melton and I have ![Profile View Counter](https://komarev.com/ghpvc/?username=AMTitan) (Last updated on Saturday, 6 February, 12:44 GMT-5).
 
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1581539211/7808/party-blob.gif?1581539211" width="30"/> Me </h2>
 
@@ -23,34 +23,34 @@
 <h2> <img src="http://openweathermap.org/img/w/04d.png" width="30"> Weather </h2>
 
 <p align="center">
-The weather for me its a overcast clouds and the temperature is 6.6°C (43.88°F) but it actually feels like 5.09°C (41.16°F)!
+The weather for me its a overcast clouds and the temperature is 8.35°C (47.03°F) but it actually feels like 5.14°C (41.25°F)!
 </p>
 <p align="center">
-    The sun rise for me is at 07:31 and the sun set is at 18:11!
+    The sun rise for me is at 07:30 and the sun set is at 18:12!
 </p>
 <p align="center">
 The wind for me  is 0.89 meters/sec (1.99mph)!
 </p>
 <p align="center">
-The persaintage of the sky is filled with clouds for me is 100%!
+The persaintage of the sky is filled with clouds for me is 91%!
 </p>
 
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1595173148/9720/dog_cute.gif?1595173148" width="30"> Dog </h2>
 
 <p align="center">
-<img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;terrier-australian&#x2F;n02096294_3344.jpg">
+<img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;terrier-irish&#x2F;n02093991_4515.jpg">
 </p>
 
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1500426137/2648/allo-tongue.gif?1500426137" width="30"> Joke </h2>
 
 <p align="center">
-    Chuck Norris owns a chain of fast-food restaurants throughout the southwest. They serve nothing but barbecue-flavored ice cream and Hot Pockets.
+    &#39;Sweating bullets&#39; is literally what happens when Chuck Norris gets too hot.
 </p>
 
-<h2> <img src="https://emojis.slackmojis.com/emojis/images/1598464721/10276/space.png?1598464721" width="30"> NASA - <a href="https:&#x2F;&#x2F;apod.nasa.gov&#x2F;apod&#x2F;image&#x2F;2102&#x2F;AS14-71-9845v2wmktwtr4Jerry.jpg">Apollo 14 Heads for Home</a>> </h2>
+<h2> <img src="https://emojis.slackmojis.com/emojis/images/1598464721/10276/space.png?1598464721" width="30"> NASA - A Northern Winter Night </h2>
 
 <p align="center">
-    Fifty years ago this Sunday (February 7, 1971), the crew of Apollo 14 left lunar orbit and headed for home. They watched this Earthrise from their command module Kittyhawk. With Earth&#39;s sunlit crescent just peeking over the lunar horizon, the cratered terrain in the foreground is along the lunar farside. Of course, while orbiting the Moon, the crew could watch Earth rise and set, but from the lunar surface the Earth hung stationary in the sky over their landing site at Fra Mauro Base. Rock samples returned from Fra Mauro included a 20 pound rock nicknamed Big Bertha, determined to contain a likely fragment of a meteorite from planet Earth. Kept on board the Kittyhawk during the Apollo 14 mission was a cannister of 400-500 seeds that were later grown into Moon Trees.
-    <img src="https:&#x2F;&#x2F;apod.nasa.gov&#x2F;apod&#x2F;image&#x2F;2102&#x2F;AS14-71-9845v2wmktwtr4Jerry.jpg">
+    Snow blankets the ground in this serene forest and sky view. Assembled in a 360 degree panoramic projection, the mosaicked frames were captured at January&#39;s end along a quiet country road near Siemiony, northeastern Poland, planet Earth. The night was cold and between trees reaching toward the sky shine the stars and nebulae of the northern winter Milky Way. Near zenith is bright star Capella, a mere 43 light-years above the tree tops. Alpha star of the constellation Auriga the Charioteer and part of the winter hexagon asterism, Capella is a well-studied double star system. Follow the Milky Way above and right of Capella and you might spot the familiar stars of Orion in the northern winter night.
+    <img src="https:&#x2F;&#x2F;apod.nasa.gov&#x2F;apod&#x2F;image&#x2F;2102&#x2F;Siemiony_las_31_01_2021_2048.jpg">
 </p>
 
