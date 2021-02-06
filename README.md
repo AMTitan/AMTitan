@@ -38,13 +38,13 @@ The persaintage of the sky is filled with clouds for me is 40%!
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1595173148/9720/dog_cute.gif?1595173148" width="30"> Dog </h2>
 
 <p align="center">
-<img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;spaniel-japanese&#x2F;n02085782_435.jpg">
+<img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;wolfhound-irish&#x2F;n02090721_1303.jpg">
 </p>
 
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1500426137/2648/allo-tongue.gif?1500426137" width="30"> Joke </h2>
 
 <p align="center">
-    Using his trademark roundhouse kick, Chuck Norris once made a fieldgoal in RJ Stadium in Tampa Bay from the 50 yard line of Qualcomm stadium in San Diego.
+    A Chuck Norris-delivered Roundhouse Kick is the preferred method of execution in 16 states.
 </p>
 
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1598464721/10276/space.png?1598464721" width="30"> NASA - A Northern Winter Night </h2>
