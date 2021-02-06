@@ -23,13 +23,13 @@
 <h2> <img src="http://openweathermap.org/img/w/04d.png" width="30"> Weather </h2>
 
 <p align="center">
-The weather for me its a broken clouds and the temperature is -0.71°C (30.72°F) but it actually feels like -4.14°C (24.55°F)!
+The weather for me its a broken clouds and the temperature is -0.68°C (30.78°F) but it actually feels like -3.97°C (24.85°F)!
 </p>
 <p align="center">
     The sun rise for me is at 07:30 and the sun set is at 18:12!
 </p>
 <p align="center">
-The wind for me  is 1.54 meters/sec (3.44mph)!
+The wind for me  is 1.53 meters/sec (3.42mph)!
 </p>
 <p align="center">
 The persaintage of the sky is filled with clouds for me is 75%!
@@ -38,13 +38,13 @@ The persaintage of the sky is filled with clouds for me is 75%!
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1595173148/9720/dog_cute.gif?1595173148" width="30"> Dog </h2>
 
 <p align="center">
-<img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;sheepdog-english&#x2F;n02105641_8556.jpg">
+<img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;deerhound-scottish&#x2F;n02092002_4258.jpg">
 </p>
 
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1500426137/2648/allo-tongue.gif?1500426137" width="30"> Joke </h2>
 
 <p align="center">
-    UNIX is basically a simple operating system... but you have to be a genius to understand the simplicity.
+    Chuck Norris eats beef jerky and craps gunpowder. Then, he uses that gunpowder to make a bullet, which he uses to kill a cow and make more beef jerky. Some people refer to this as the &#39;Circle of Life.&#39;
 </p>
 
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1598464721/10276/space.png?1598464721" width="30"> NASA - A Northern Winter Night </h2>
