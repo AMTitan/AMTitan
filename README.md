@@ -1,4 +1,4 @@
-# <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> My name is Arthur Melton and I have ![Profile View Counter](https://komarev.com/ghpvc/?username=AMTitan) (Last updated on Friday, 5 February, 20:40 GMT-5).
+# <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> My name is Arthur Melton and I have ![Profile View Counter](https://komarev.com/ghpvc/?username=AMTitan) (Last updated on Friday, 5 February, 20:41 GMT-5).
 
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1581539211/7808/party-blob.gif?1581539211" width="30"/> Me </h2>
 
@@ -23,28 +23,28 @@
 <h2> <img src="http://openweathermap.org/img/w/04n.png" width="30"> Weather </h2>
 
 <p align="center">
-The weather for me its a overcast clouds and the temperature is 6.69°C (44.04°F) but it actually feels like 3.01°C (37.42°F)!
+The weather for me its a broken clouds and the temperature is 6.62°C (43.92°F) but it actually feels like 3.67°C (38.61°F)!
 </p>
 <p align="center">
     The sun rise for me is at 07:31 and the sun set is at 18:11!
 </p>
 <p align="center">
-The wind for me  is 2.04 meters/sec (4.56mph)!
+The wind for me  is 0.94 meters/sec (2.1mph)!
 </p>
 <p align="center">
-The persaintage of the sky is filled with clouds for me is 100%!
+The persaintage of the sky is filled with clouds for me is 77%!
 </p>
 
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1595173148/9720/dog_cute.gif?1595173148" width="30"> Dog </h2>
 
 <p align="center">
-<img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;greyhound-italian&#x2F;n02091032_1518.jpg">
+<img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;beagle&#x2F;n02088364_12124.jpg">
 </p>
 
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1500426137/2648/allo-tongue.gif?1500426137" width="30"> Joke </h2>
 
 <p align="center">
-    Chuck Norris&#39; credit cards have no limit. Last weekend, he maxed them out.
+    You know how they say if you die in your dream then you will die in real life? In actuality, if you dream of death then Chuck Norris will find you and kill you.
 </p>
 
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1598464721/10276/space.png?1598464721" width="30"> NASA - Apollo 14 Heads for Home </h2>
