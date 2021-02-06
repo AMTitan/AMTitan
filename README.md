@@ -1,4 +1,4 @@
-# <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> My name is Arthur Melton and I have ![Profile View Counter](https://komarev.com/ghpvc/?username=AMTitan) (Last updated on Saturday, 6 February, 00:04 GMT-5).
+# <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> My name is Arthur Melton and I have ![Profile View Counter](https://komarev.com/ghpvc/?username=AMTitan) (Last updated on Saturday, 6 February, 00:05 GMT-5).
 
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1581539211/7808/party-blob.gif?1581539211" width="30"/> Me </h2>
 
@@ -38,19 +38,19 @@ The persaintage of the sky is filled with clouds for me is 31%!
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1595173148/9720/dog_cute.gif?1595173148" width="30"> Dog </h2>
 
 <p align="center">
-<img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;chihuahua&#x2F;n02085620_10621.jpg">
+<img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;spaniel-irish&#x2F;n02102973_465.jpg">
 </p>
 
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1500426137/2648/allo-tongue.gif?1500426137" width="30"> Joke </h2>
 
 <p align="center">
-    Chuck Norris once won a game of connect four in 3 moves.
+    What&#39;s the object-oriented way to become wealthy? Inheritance.
 </p>
 
-<h2> <img src="https://emojis.slackmojis.com/emojis/images/1598464721/10276/space.png?1598464721" width="30"> NASA - Apollo 14 Heads for Home </h2>
+<h2> <img src="https://emojis.slackmojis.com/emojis/images/1598464721/10276/space.png?1598464721" width="30"> NASA - A Northern Winter Night </h2>
 
 <p align="center">
-    Fifty years ago this Sunday (February 7, 1971), the crew of Apollo 14 left lunar orbit and headed for home. They watched this Earthrise from their command module Kittyhawk. With Earth&#39;s sunlit crescent just peeking over the lunar horizon, the cratered terrain in the foreground is along the lunar farside. Of course, while orbiting the Moon, the crew could watch Earth rise and set, but from the lunar surface the Earth hung stationary in the sky over their landing site at Fra Mauro Base. Rock samples returned from Fra Mauro included a 20 pound rock nicknamed Big Bertha, determined to contain a likely fragment of a meteorite from planet Earth. Kept on board the Kittyhawk during the Apollo 14 mission was a cannister of 400-500 seeds that were later grown into Moon Trees.
-    <img src="https:&#x2F;&#x2F;apod.nasa.gov&#x2F;apod&#x2F;image&#x2F;2102&#x2F;AS14-71-9845v2wmktwtr4Jerry.jpg">
+    Snow blankets the ground in this serene forest and sky view. Assembled in a 360 degree panoramic projection, the mosaicked frames were captured at January&#39;s end along a quiet country road near Siemiony, northeastern Poland, planet Earth. The night was cold and between trees reaching toward the sky shine the stars and nebulae of the northern winter Milky Way. Near zenith is bright star Capella, a mere 43 light-years above the tree tops. Alpha star of the constellation Auriga the Charioteer and part of the winter hexagon asterism, Capella is a well-studied double star system. Follow the Milky Way above and right of Capella and you might spot the familiar stars of Orion in the northern winter night.
+    <img src="https:&#x2F;&#x2F;apod.nasa.gov&#x2F;apod&#x2F;image&#x2F;2102&#x2F;Siemiony_las_31_01_2021_2048.jpg">
 </p>
 
