@@ -1,4 +1,4 @@
-# <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> My name is Arthur Melton and I have ![Profile View Counter](https://komarev.com/ghpvc/?username=AMTitan) (Last updated on Friday, 5 February, 23:38 GMT-5).
+# <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> My name is Arthur Melton and I have ![Profile View Counter](https://komarev.com/ghpvc/?username=AMTitan) (Last updated on Friday, 5 February, 23:39 GMT-5).
 
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1581539211/7808/party-blob.gif?1581539211" width="30"/> Me </h2>
 
@@ -20,31 +20,31 @@
 
 # <img src="https://emojis.slackmojis.com/emojis/images/1547582922/5197/party_blob.gif?1547582922" width="30"> Others
 
-<h2> <img src="http://openweathermap.org/img/w/04n.png" width="30"> Weather </h2>
+<h2> <img src="http://openweathermap.org/img/w/03n.png" width="30"> Weather </h2>
 
 <p align="center">
-The weather for me its a broken clouds and the temperature is 1.76°C (35.17°F) but it actually feels like -1.13°C (29.97°F)!
+The weather for me its a scattered clouds and the temperature is 1.76°C (35.17°F) but it actually feels like -1.48°C (29.34°F)!
 </p>
 <p align="center">
     The sun rise for me is at 07:31 and the sun set is at 18:11!
 </p>
 <p align="center">
-The wind for me  is 0.74 meters/sec (1.66mph)!
+The wind for me  is 1.2 meters/sec (2.68mph)!
 </p>
 <p align="center">
-The persaintage of the sky is filled with clouds for me is 57%!
+The persaintage of the sky is filled with clouds for me is 39%!
 </p>
 
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1595173148/9720/dog_cute.gif?1595173148" width="30"> Dog </h2>
 
 <p align="center">
-<img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;collie-border&#x2F;n02106166_1729.jpg">
+<img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;terrier-yorkshire&#x2F;n02094433_8419.jpg">
 </p>
 
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1500426137/2648/allo-tongue.gif?1500426137" width="30"> Joke </h2>
 
 <p align="center">
-    I’m not anti-social; I’m just not user friendly.
+    Chuck Norris can divide by zero.
 </p>
 
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1598464721/10276/space.png?1598464721" width="30"> NASA - Apollo 14 Heads for Home </h2>
