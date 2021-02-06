@@ -23,7 +23,7 @@
 <h2> <img src="http://openweathermap.org/img/w/01n.png" width="30"> Weather </h2>
 
 <p align="center">
-The weather for me its a clear sky and the temperature is -0.45°C (31.19°F) but it actually feels like -3.78°C (25.2°F)!
+The weather for me its a clear sky and the temperature is -0.79°C (30.58°F) but it actually feels like -4.02°C (24.76°F)!
 </p>
 <p align="center">
     The sun rise for me is at 07:30 and the sun set is at 18:12!
@@ -32,19 +32,19 @@ The weather for me its a clear sky and the temperature is -0.45°C (31.19°F) bu
 The wind for me  is 1.08 meters/sec (2.42mph)!
 </p>
 <p align="center">
-The persaintage of the sky is filled with clouds for me is 0%!
+The persaintage of the sky is filled with clouds for me is 1%!
 </p>
 
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1595173148/9720/dog_cute.gif?1595173148" width="30"> Dog </h2>
 
 <p align="center">
-<img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;terrier-norwich&#x2F;n02094258_871.jpg">
+<img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;chow&#x2F;n02112137_5114.jpg">
 </p>
 
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1500426137/2648/allo-tongue.gif?1500426137" width="30"> Joke </h2>
 
 <p align="center">
-    Fact: Chuck Norris doesn&#39;t consider it sex if the woman survives.
+    Chuck Norris is the only person who can simultaneously hold and fire FIVE Uzis: One in each hand, one in each foot -- and the 5th one he roundhouse-kicks into the air, so that it sprays bullets.
 </p>
 
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1598464721/10276/space.png?1598464721" width="30"> NASA - A Northern Winter Night </h2>
