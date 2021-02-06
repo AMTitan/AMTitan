@@ -64,7 +64,7 @@
 <h2> <img src="http://openweathermap.org/img/w/13n.png" width="30"> Weather </h2>
 
 <p align="center">
-    The weather for me its a snow and the temperature is 1.4°C (34.52°F) but it actually feels like -1.44°C (29.41°F)!
+    The weather for me its a heavy snow and the temperature is 1.36°C (34.45°F) but it actually feels like -1.47°C (29.35°F)!
 </p>
 <p align="center">
     The sun rise for me is at 07:30 and the sun set is at 18:12!
@@ -79,11 +79,11 @@
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1595173148/9720/dog_cute.gif?1595173148" width="30"> Dog </h2>
 
 <p align="center">
-    <img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;beagle&#x2F;n02088364_12131.jpg" height="300px">
+    <img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;cotondetulear&#x2F;IMG_20160830_202631573.jpg" height="300px">
 </p>
 
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1500426137/2648/allo-tongue.gif?1500426137" width="30"> Joke </h2>
 
 <p align="center">
-    The original draft of The Lord of the Rings featured Chuck Norris instead of Frodo Baggins. It was only 5 pages long, as Chuck roundhouse-kicked Sauron&#39;s ass halfway through the first chapter.
+    Chuck Norris&#39; first job was as a paperboy. There were no survivors.
 </p>
