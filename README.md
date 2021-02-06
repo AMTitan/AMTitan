@@ -23,7 +23,7 @@
 <h2> <img src="http://openweathermap.org/img/w/03d.png" width="30"> Weather </h2>
 
 <p align="center">
-The weather for me its a scattered clouds and the temperature is -0.92°C (30.34°F) but it actually feels like -4.49°C (23.92°F)!
+The weather for me its a scattered clouds and the temperature is -0.93°C (30.33°F) but it actually feels like -4.5°C (23.9°F)!
 </p>
 <p align="center">
     The sun rise for me is at 07:30 and the sun set is at 18:12!
@@ -38,13 +38,13 @@ The persaintage of the sky is filled with clouds for me is 40%!
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1595173148/9720/dog_cute.gif?1595173148" width="30"> Dog </h2>
 
 <p align="center">
-<img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;pembroke&#x2F;n02113023_1360.jpg">
+<img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;terrier-scottish&#x2F;n02097298_2083.jpg">
 </p>
 
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1500426137/2648/allo-tongue.gif?1500426137" width="30"> Joke </h2>
 
 <p align="center">
-    After taking a steroids test doctors informed Chuck Norris that he had tested positive. He laughed upon receiving this information, and said &#39;of course my urine tested positive, what do you think they make steroids from?&#39;
+    Chuck Norris does, in fact, live in a round house.
 </p>
 
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1598464721/10276/space.png?1598464721" width="30"> NASA - A Northern Winter Night </h2>
