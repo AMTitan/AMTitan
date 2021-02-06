@@ -23,7 +23,7 @@
 <h2> <img src="http://openweathermap.org/img/w/04d.png" width="30"> Weather </h2>
 
 <p align="center">
-The weather for me its a overcast clouds and the temperature is 8.38°C (47.08°F) but it actually feels like 5.17°C (41.31°F)!
+The weather for me its a overcast clouds and the temperature is 8.42°C (47.16°F) but it actually feels like 5.29°C (41.52°F)!
 </p>
 <p align="center">
     The sun rise for me is at 07:30 and the sun set is at 18:12!
@@ -32,19 +32,19 @@ The weather for me its a overcast clouds and the temperature is 8.38°C (47.08°
 The wind for me  is 0.89 meters/sec (1.99mph)!
 </p>
 <p align="center">
-The persaintage of the sky is filled with clouds for me is 91%!
+The persaintage of the sky is filled with clouds for me is 88%!
 </p>
 
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1595173148/9720/dog_cute.gif?1595173148" width="30"> Dog </h2>
 
 <p align="center">
-<img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;setter-irish&#x2F;n02100877_185.jpg">
+<img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;terrier-silky&#x2F;n02097658_2535.jpg">
 </p>
 
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1500426137/2648/allo-tongue.gif?1500426137" width="30"> Joke </h2>
 
 <p align="center">
-    UNIX is user friendly, it&#39;s just very particular about who it&#39;s friends are.
+    The Internet: where men are men women are men and children are FBI agents.
 </p>
 
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1598464721/10276/space.png?1598464721" width="30"> NASA - A Northern Winter Night </h2>
