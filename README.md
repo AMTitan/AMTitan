@@ -23,13 +23,13 @@
 <h2> <img src="http://openweathermap.org/img/w/01d.png" width="30"> Weather </h2>
 
 <p align="center">
-The weather for me its a clear sky and the temperature is -1.36°C (29.55°F) but it actually feels like -4.96°C (23.07°F)!
+The weather for me its a clear sky and the temperature is -1.37°C (29.53°F) but it actually feels like -4.98°C (23.04°F)!
 </p>
 <p align="center">
     The sun rise for me is at 07:30 and the sun set is at 18:12!
 </p>
 <p align="center">
-The wind for me  is 1.51 meters/sec (3.38mph)!
+The wind for me  is 1.53 meters/sec (3.42mph)!
 </p>
 <p align="center">
 The persaintage of the sky is filled with clouds for me is 1%!
@@ -38,13 +38,13 @@ The persaintage of the sky is filled with clouds for me is 1%!
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1595173148/9720/dog_cute.gif?1595173148" width="30"> Dog </h2>
 
 <p align="center">
-<img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;doberman&#x2F;n02107142_15810.jpg">
+<img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;terrier-norwich&#x2F;n02094258_866.jpg">
 </p>
 
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1500426137/2648/allo-tongue.gif?1500426137" width="30"> Joke </h2>
 
 <p align="center">
-    Chuck Norris doesn&#39;t believe in Germany.
+    Don&#39;t fart in an Apple Store, because they don&#39;t have Windows.
 </p>
 
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1598464721/10276/space.png?1598464721" width="30"> NASA - A Northern Winter Night </h2>
