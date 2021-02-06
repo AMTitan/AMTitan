@@ -1,4 +1,4 @@
-# <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> My name is Arthur Melton and I have ![Profile View Counter](https://komarev.com/ghpvc/?username=AMTitan) (Last updated on Friday, 5 February, 21:36 GMT-5).
+# <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> My name is Arthur Melton and I have ![Profile View Counter](https://komarev.com/ghpvc/?username=AMTitan) (Last updated on Friday, 5 February, 21:37 GMT-5).
 
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1581539211/7808/party-blob.gif?1581539211" width="30"/> Me </h2>
 
@@ -23,28 +23,28 @@
 <h2> <img src="http://openweathermap.org/img/w/04n.png" width="30"> Weather </h2>
 
 <p align="center">
-The weather for me its a broken clouds and the temperature is 5.59°C (42.06°F) but it actually feels like 2.52°C (36.54°F)!
+The weather for me its a overcast clouds and the temperature is 5.59°C (42.06°F) but it actually feels like 1.63°C (34.93°F)!
 </p>
 <p align="center">
     The sun rise for me is at 07:31 and the sun set is at 18:11!
 </p>
 <p align="center">
-The wind for me  is 1.11 meters/sec (2.48mph)!
+The wind for me  is 2.38 meters/sec (5.32mph)!
 </p>
 <p align="center">
-The persaintage of the sky is filled with clouds for me is 51%!
+The persaintage of the sky is filled with clouds for me is 95%!
 </p>
 
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1595173148/9720/dog_cute.gif?1595173148" width="30"> Dog </h2>
 
 <p align="center">
-<img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;dhole&#x2F;n02115913_3052.jpg">
+<img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;wolfhound-irish&#x2F;n02090721_3771.jpg">
 </p>
 
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1500426137/2648/allo-tongue.gif?1500426137" width="30"> Joke </h2>
 
 <p align="center">
-    Chuck Norris describes human beings as &#39;a sociable holder for blood and guts&#39;.
+    There are two types of people in the world... people that suck, and Chuck Norris.
 </p>
 
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1598464721/10276/space.png?1598464721" width="30"> NASA - Apollo 14 Heads for Home </h2>
