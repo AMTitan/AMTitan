@@ -64,13 +64,13 @@
 <h2> <img src="http://openweathermap.org/img/w/13d.png" width="30"> Weather </h2>
 
 <p align="center">
-    The weather for me its a snow and the temperature is 1.85°C (35.33°F) but it actually feels like -2.86°C (26.85°F)!
+    The weather for me its a snow and the temperature is 1.55°C (34.79°F) but it actually feels like -1.27°C (29.71°F)!
 </p>
 <p align="center">
     The sun rise for me is at 07:30 and the sun set is at 18:12!
 </p>
 <p align="center">
-    The wind for me  is 3.91 meters/sec (8.75mph)!
+    The wind for me  is 1.34 meters/sec (3mph)!
 </p>
 <p align="center">
     The persaintage of the sky is filled with clouds for me is 100%!
@@ -79,11 +79,11 @@
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1595173148/9720/dog_cute.gif?1595173148" width="30"> Dog </h2>
 
 <p align="center">
-    <img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;greyhound-italian&#x2F;n02091032_6345.jpg" height="300px">
+    <img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;spaniel-brittany&#x2F;n02101388_4875.jpg" height="300px">
 </p>
 
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1500426137/2648/allo-tongue.gif?1500426137" width="30"> Joke </h2>
 
 <p align="center">
-    Ozzy Osbourne bites the heads off of bats. Chuck Norris bites the heads off of Siberian Tigers.
+    All roads lead to Chuck Norris. And by the transitive property, a roundhouse kick to the face.
 </p>
