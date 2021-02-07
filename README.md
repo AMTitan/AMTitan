@@ -64,13 +64,13 @@
 <h2> <img src="http://openweathermap.org/img/w/04n.png" width="30"> Weather </h2>
 
 <p align="center">
-    The weather for me its a overcast clouds and the temperature is 1.96°C (35.53°F) but it actually feels like -1.4°C (29.48°F)!
+    The weather for me its a overcast clouds and the temperature is 1.96°C (35.53°F) but it actually feels like -2.03°C (28.35°F)!
 </p>
 <p align="center">
     The sun rise for me is at 07:30 and the sun set is at 18:12!
 </p>
 <p align="center">
-    The wind for me  is 2.24 meters/sec (5.01mph)!
+    The wind for me  is 3.13 meters/sec (7mph)!
 </p>
 <p align="center">
     The persaintage of the sky is filled with clouds for me is 100%!
@@ -79,11 +79,11 @@
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1595173148/9720/dog_cute.gif?1595173148" width="30"> Dog </h2>
 
 <p align="center">
-    <img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;chow&#x2F;n02112137_7988.jpg" height="300px">
+    <img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;terrier-toy&#x2F;n02087046_1386.jpg" height="300px">
 </p>
 
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1500426137/2648/allo-tongue.gif?1500426137" width="30"> Joke </h2>
 
 <p align="center">
-    Count from one to ten. That&#39;s how long it would take Chuck Norris to kill you...Fourty seven times.
+    Fact: Chuck Norris doesn&#39;t consider it sex if the woman survives.
 </p>
