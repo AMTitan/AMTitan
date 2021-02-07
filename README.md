@@ -64,7 +64,7 @@
 <h2> <img src="http://openweathermap.org/img/w/03d.png" width="30"> Weather </h2>
 
 <p align="center">
-    The weather for me its a scattered clouds and the temperature is 4.51°C (40.12°F) but it actually feels like 2.53°C (36.55°F)!
+    The weather for me its a scattered clouds and the temperature is 4.63°C (40.33°F) but it actually feels like 2.64°C (36.75°F)!
 </p>
 <p align="center">
     The sun rise for me is at 07:29 and the sun set is at 18:13!
@@ -79,11 +79,11 @@
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1595173148/9720/dog_cute.gif?1595173148" width="30"> Dog </h2>
 
 <p align="center">
-    <img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;malinois&#x2F;n02105162_9557.jpg" height="300px">
+    <img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;spaniel-japanese&#x2F;n02085782_4772.jpg" height="300px">
 </p>
 
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1500426137/2648/allo-tongue.gif?1500426137" width="30"> Joke </h2>
 
 <p align="center">
-    In an act of great philanthropy, Chuck made a generous donation to the American Cancer Society. He donated 6,000 dead bodies for scientific research.
+    SUPERCOMPUTER: what it sounded like before you bought it.
 </p>
