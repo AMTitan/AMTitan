@@ -64,7 +64,7 @@
 <h2> <img src="http://openweathermap.org/img/w/10n.png" width="30"> Weather </h2>
 
 <p align="center">
-    The weather for me its a light rain and the temperature is 1.93°C (35.47°F) but it actually feels like -1.15°C (29.93°F)!
+    The weather for me its a light rain and the temperature is 1.94°C (35.49°F) but it actually feels like -1.14°C (29.95°F)!
 </p>
 <p align="center">
     The sun rise for me is at 07:29 and the sun set is at 18:13!
@@ -79,11 +79,11 @@
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1595173148/9720/dog_cute.gif?1595173148" width="30"> Dog </h2>
 
 <p align="center">
-    <img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;hound-afghan&#x2F;n02088094_1023.jpg" height="300px">
+    <img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;kuvasz&#x2F;n02104029_1313.jpg" height="300px">
 </p>
 
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1500426137/2648/allo-tongue.gif?1500426137" width="30"> Joke </h2>
 
 <p align="center">
-    Scotty in Star Trek often says &#39;Ye cannae change the laws of physics.&#39; This is untrue. Chuck Norris can change the laws of physics. With his fists.
+    The last thing you hear before Chuck Norris gives you a roundhouse kick? No one knows because dead men tell no tales.
 </p>
