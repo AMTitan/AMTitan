@@ -61,16 +61,16 @@
     <img style="width:100%" src="https://github-readme-stats.vercel.app/api/wakatime?username=AMTitan&layout=compact&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" />
 </p>
 
-<h2> <img src="http://openweathermap.org/img/w/13n.png" width="30"> Weather </h2>
+<h2> <img src="http://openweathermap.org/img/w/04n.png" width="30"> Weather </h2>
 
 <p align="center">
-    The weather for me its a light snow and the temperature is 1.67°C (35.01°F) but it actually feels like -0.77°C (30.61°F)!
+    The weather for me its a overcast clouds and the temperature is 1.63°C (34.93°F) but it actually feels like -1.47°C (29.35°F)!
 </p>
 <p align="center">
     The sun rise for me is at 07:29 and the sun set is at 18:13!
 </p>
 <p align="center">
-    The wind for me  is 0.89 meters/sec (1.99mph)!
+    The wind for me  is 1.79 meters/sec (4mph)!
 </p>
 <p align="center">
     The persaintage of the sky is filled with clouds for me is 100%!
@@ -79,11 +79,11 @@
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1595173148/9720/dog_cute.gif?1595173148" width="30"> Dog </h2>
 
 <p align="center">
-    <img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;terrier-yorkshire&#x2F;n02094433_730.jpg" height="300px">
+    <img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;doberman&#x2F;n02107142_12191.jpg" height="300px">
 </p>
 
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1500426137/2648/allo-tongue.gif?1500426137" width="30"> Joke </h2>
 
 <p align="center">
-    Chuck Norris grinds his coffee with his teeth and boils the water with his own rage.
+    Chuck Norris has never won an Academy Award for acting... because he&#39;s not acting.
 </p>
