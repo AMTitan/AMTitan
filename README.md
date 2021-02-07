@@ -64,7 +64,7 @@
 <h2> <img src="http://openweathermap.org/img/w/01d.png" width="30"> Weather </h2>
 
 <p align="center">
-    The weather for me its a clear sky and the temperature is 9.07°C (48.33°F) but it actually feels like 6.49°C (43.68°F)!
+    The weather for me its a clear sky and the temperature is 9.2°C (48.56°F) but it actually feels like 6.64°C (43.95°F)!
 </p>
 <p align="center">
     The sun rise for me is at 07:29 and the sun set is at 18:13!
@@ -79,11 +79,11 @@
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1595173148/9720/dog_cute.gif?1595173148" width="30"> Dog </h2>
 
 <p align="center">
-    <img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;mastiff-bull&#x2F;n02108422_1879.jpg" height="300px">
+    <img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;terrier-australian&#x2F;n02096294_2750.jpg" height="300px">
 </p>
 
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1500426137/2648/allo-tongue.gif?1500426137" width="30"> Joke </h2>
 
 <p align="center">
-    The last thing you hear before Chuck Norris gives you a roundhouse kick? No one knows because dead men tell no tales.
+    When Chuck Norris was a baby, he didn&#39;t suck his mother&#39;s breast. His mother served him whiskey, straight out of the bottle.
 </p>
