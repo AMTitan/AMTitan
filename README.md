@@ -64,7 +64,7 @@
 <h2> <img src="http://openweathermap.org/img/w/03d.png" width="30"> Weather </h2>
 
 <p align="center">
-    The weather for me its a scattered clouds and the temperature is 4.61°C (40.3°F) but it actually feels like 2.53°C (36.55°F)!
+    The weather for me its a scattered clouds and the temperature is 4.96°C (40.93°F) but it actually feels like 2.95°C (37.31°F)!
 </p>
 <p align="center">
     The sun rise for me is at 07:29 and the sun set is at 18:13!
@@ -79,11 +79,11 @@
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1595173148/9720/dog_cute.gif?1595173148" width="30"> Dog </h2>
 
 <p align="center">
-    <img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;pitbull&#x2F;20190710_143021.jpg" height="300px">
+    <img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;lhasa&#x2F;n02098413_2700.jpg" height="300px">
 </p>
 
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1500426137/2648/allo-tongue.gif?1500426137" width="30"> Joke </h2>
 
 <p align="center">
-    Behind every successful man, there is a woman. Behind every dead man, there is Chuck Norris.
+    There?s an order to the universe: space, time, Chuck Norris.... Just kidding, Chuck Norris is first.
 </p>
