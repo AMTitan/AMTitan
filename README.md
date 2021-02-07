@@ -64,13 +64,13 @@
 <h2> <img src="http://openweathermap.org/img/w/04d.png" width="30"> Weather </h2>
 
 <p align="center">
-    The weather for me its a broken clouds and the temperature is 1.49°C (34.68°F) but it actually feels like -2.72°C (27.1°F)!
+    The weather for me its a broken clouds and the temperature is 1.88°C (35.38°F) but it actually feels like -0.34°C (31.39°F)!
 </p>
 <p align="center">
     The sun rise for me is at 07:29 and the sun set is at 18:13!
 </p>
 <p align="center">
-    The wind for me  is 3.22 meters/sec (7.2mph)!
+    The wind for me  is 0.45 meters/sec (1.01mph)!
 </p>
 <p align="center">
     The persaintage of the sky is filled with clouds for me is 75%!
@@ -79,11 +79,11 @@
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1595173148/9720/dog_cute.gif?1595173148" width="30"> Dog </h2>
 
 <p align="center">
-    <img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;elkhound-norwegian&#x2F;n02091467_1634.jpg" height="300px">
+    <img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;elkhound-norwegian&#x2F;n02091467_2122.jpg" height="300px">
 </p>
 
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1500426137/2648/allo-tongue.gif?1500426137" width="30"> Joke </h2>
 
 <p align="center">
-    Chuck Norris once worked as a weatherman for the San Diego evening news. Every night he would make the same forecast: Partly cloudy with a 75% chance of Pain.
+    The original title for Star Wars was &#39;Skywalker: Texas Ranger&#39;. Starring Chuck Norris.
 </p>
