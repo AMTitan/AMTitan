@@ -64,13 +64,13 @@
 <h2> <img src="http://openweathermap.org/img/w/01n.png" width="30"> Weather </h2>
 
 <p align="center">
-    The weather for me its a clear sky and the temperature is 4.95°C (40.91°F) but it actually feels like 1.64°C (34.95°F)!
+    The weather for me its a clear sky and the temperature is 4.73°C (40.51°F) but it actually feels like 1.81°C (35.26°F)!
 </p>
 <p align="center">
     The sun rise for me is at 07:29 and the sun set is at 18:13!
 </p>
 <p align="center">
-    The wind for me  is 2.29 meters/sec (5.12mph)!
+    The wind for me  is 1.72 meters/sec (3.85mph)!
 </p>
 <p align="center">
     The persaintage of the sky is filled with clouds for me is 0%!
@@ -79,11 +79,11 @@
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1595173148/9720/dog_cute.gif?1595173148" width="30"> Dog </h2>
 
 <p align="center">
-    <img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;spaniel-irish&#x2F;n02102973_1723.jpg" height="300px">
+    <img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;setter-english&#x2F;n02100735_634.jpg" height="300px">
 </p>
 
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1500426137/2648/allo-tongue.gif?1500426137" width="30"> Joke </h2>
 
 <p align="center">
-    In honor of Chuck Norris, all McDonald&#39;s in Texas have an even larger size than the super-size. When ordering, just ask to be Chucksized.
+    Chuck Norris is the only man to ever defeat a brick wall in a game of tennis.
 </p>
