@@ -64,13 +64,13 @@
 <h2> <img src="http://openweathermap.org/img/w/01n.png" width="30"> Weather </h2>
 
 <p align="center">
-    The weather for me its a clear sky and the temperature is 6.2°C (43.16°F) but it actually feels like 2.89°C (37.2°F)!
+    The weather for me its a clear sky and the temperature is 5.85°C (42.53°F) but it actually feels like 2.76°C (36.97°F)!
 </p>
 <p align="center">
     The sun rise for me is at 07:29 and the sun set is at 18:13!
 </p>
 <p align="center">
-    The wind for me  is 2.36 meters/sec (5.28mph)!
+    The wind for me  is 2.01 meters/sec (4.5mph)!
 </p>
 <p align="center">
     The persaintage of the sky is filled with clouds for me is 0%!
@@ -79,11 +79,11 @@
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1595173148/9720/dog_cute.gif?1595173148" width="30"> Dog </h2>
 
 <p align="center">
-    <img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;ovcharka-caucasian&#x2F;IMG_20190823_091509.jpg" height="300px">
+    <img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;vizsla&#x2F;n02100583_1214.jpg" height="300px">
 </p>
 
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1500426137/2648/allo-tongue.gif?1500426137" width="30"> Joke </h2>
 
 <p align="center">
-    Chuck Norris doesn&#39;t stub his toes. He accidentally destroys chairs, bedframes, and sidewalks.
+    Chuck Norris doesn&#39;t use reflection, reflection asks politely for his help.
 </p>
