@@ -64,7 +64,7 @@
 <h2> <img src="http://openweathermap.org/img/w/04d.png" width="30"> Weather </h2>
 
 <p align="center">
-    The weather for me its a overcast clouds and the temperature is 10.34°C (50.61°F) but it actually feels like 8.05°C (46.49°F)!
+    The weather for me its a overcast clouds and the temperature is 10.42°C (50.76°F) but it actually feels like 8.14°C (46.65°F)!
 </p>
 <p align="center">
     The sun rise for me is at 07:28 and the sun set is at 18:14!
@@ -79,11 +79,11 @@
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1595173148/9720/dog_cute.gif?1595173148" width="30"> Dog </h2>
 
 <p align="center">
-    <img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;cattledog-australian&#x2F;IMG_1042.jpg" height="300px">
+    <img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;schnauzer-giant&#x2F;n02097130_5891.jpg" height="300px">
 </p>
 
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1500426137/2648/allo-tongue.gif?1500426137" width="30"> Joke </h2>
 
 <p align="center">
-    Chuck Norris doesn&#39;t use a computer because a computer does everything slower than Chuck Norris.
+    Chuck Norris keeps his friends close and his enemies closer. Close enough to drop them with one round house kick to the face.
 </p>
