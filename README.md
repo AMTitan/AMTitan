@@ -64,7 +64,7 @@
 <h2> <img src="http://openweathermap.org/img/w/04d.png" width="30"> Weather </h2>
 
 <p align="center">
-    The weather for me its a overcast clouds and the temperature is 13.14°C (55.65°F) but it actually feels like 12.7°C (54.86°F)!
+    The weather for me its a overcast clouds and the temperature is 13.12°C (55.62°F) but it actually feels like 12.77°C (54.99°F)!
 </p>
 <p align="center">
     The sun rise for me is at 07:27 and the sun set is at 18:15!
@@ -79,11 +79,11 @@
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1595173148/9720/dog_cute.gif?1595173148" width="30"> Dog </h2>
 
 <p align="center">
-    <img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;terrier-toy&#x2F;n02087046_3471.jpg" height="300px">
+    <img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;retriever-curly&#x2F;n02099429_2119.jpg" height="300px">
 </p>
 
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1500426137/2648/allo-tongue.gif?1500426137" width="30"> Joke </h2>
 
 <p align="center">
-    Chuck Norris once won a game of connect four in 3 moves.
+    Most boots are made for walkin&#39;. Chuck Norris&#39; boots ain&#39;t that merciful.
 </p>
