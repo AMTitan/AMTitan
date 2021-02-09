@@ -64,26 +64,26 @@
 <h2> <img src="http://openweathermap.org/img/w/03d.png" width="30"> Weather </h2>
 
 <p align="center">
-    The weather for me its a scattered clouds and the temperature is 16.67°C (62.01°F) but it actually feels like 16.48°C (61.66°F)!
+    The weather for me its a scattered clouds and the temperature is 16.57°C (61.83°F) but it actually feels like 15.84°C (60.51°F)!
 </p>
 <p align="center">
     The sun rise for me is at 07:27 and the sun set is at 18:15!
 </p>
 <p align="center">
-    The wind for me  is 0.89 meters/sec (1.99mph)!
+    The wind for me  is 1.62 meters/sec (3.62mph)!
 </p>
 <p align="center">
-    The persaintage of the sky is filled with clouds for me is 28%!
+    The persaintage of the sky is filled with clouds for me is 42%!
 </p>
 
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1595173148/9720/dog_cute.gif?1595173148" width="30"> Dog </h2>
 
 <p align="center">
-    <img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;lhasa&#x2F;n02098413_1107.jpg" height="300px">
+    <img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;poodle-standard&#x2F;n02113799_254.jpg" height="300px">
 </p>
 
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1500426137/2648/allo-tongue.gif?1500426137" width="30"> Joke </h2>
 
 <p align="center">
-    Programmer (noun.): A machine that turns coffee into code
+    Police label anyone attacking Chuck Norris as a Code 45-11.... A suicide.
 </p>
