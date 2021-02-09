@@ -64,7 +64,7 @@
 <h2> <img src="http://openweathermap.org/img/w/04n.png" width="30"> Weather </h2>
 
 <p align="center">
-    The weather for me its a overcast clouds and the temperature is 9.9°C (49.82°F) but it actually feels like 8.16°C (46.69°F)!
+    The weather for me its a overcast clouds and the temperature is 9.88°C (49.78°F) but it actually feels like 8.13°C (46.63°F)!
 </p>
 <p align="center">
     The sun rise for me is at 07:28 and the sun set is at 18:14!
@@ -73,17 +73,17 @@
     The wind for me  is 0.45 meters/sec (1.01mph)!
 </p>
 <p align="center">
-    The persaintage of the sky is filled with clouds for me is 95%!
+    The persaintage of the sky is filled with clouds for me is 100%!
 </p>
 
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1595173148/9720/dog_cute.gif?1595173148" width="30"> Dog </h2>
 
 <p align="center">
-    <img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;saluki&#x2F;n02091831_13354.jpg" height="300px">
+    <img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;pitbull&#x2F;20190801_154956.jpg" height="300px">
 </p>
 
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1500426137/2648/allo-tongue.gif?1500426137" width="30"> Joke </h2>
 
 <p align="center">
-    When Chuck Norris was born, he immediately had sex with the first nurse he saw. He was her first. She was his third. That afternoon.
+    &#39;Brokeback Mountain&#39; is not just a movie. It&#39;s also what Chuck Norris calls the pile of dead ninjas in his front yard.
 </p>
