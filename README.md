@@ -64,26 +64,26 @@
 <h2> <img src="http://openweathermap.org/img/w/04n.png" width="30"> Weather </h2>
 
 <p align="center">
-    The weather for me its a overcast clouds and the temperature is 8.91°C (48.04°F) but it actually feels like 4.87°C (40.77°F)!
+    The weather for me its a overcast clouds and the temperature is 8.95°C (48.11°F) but it actually feels like 4.89°C (40.8°F)!
 </p>
 <p align="center">
     The sun rise for me is at 07:28 and the sun set is at 18:14!
 </p>
 <p align="center">
-    The wind for me  is 3.66 meters/sec (8.19mph)!
+    The wind for me  is 3.7 meters/sec (8.28mph)!
 </p>
 <p align="center">
-    The persaintage of the sky is filled with clouds for me is 97%!
+    The persaintage of the sky is filled with clouds for me is 100%!
 </p>
 
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1595173148/9720/dog_cute.gif?1595173148" width="30"> Dog </h2>
 
 <p align="center">
-    <img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;schipperke&#x2F;n02104365_9248.jpg" height="300px">
+    <img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;malamute&#x2F;n02110063_14425.jpg" height="300px">
 </p>
 
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1500426137/2648/allo-tongue.gif?1500426137" width="30"> Joke </h2>
 
 <p align="center">
-    I’m not anti-social; I’m just not user friendly.
+    Chuck Norris doesn&#39;t daydream. He&#39;s too busy giving other people nightmares.
 </p>
