@@ -61,29 +61,29 @@
     <img style="width:100%" src="https://github-readme-stats.vercel.app/api/wakatime?username=AMTitan&layout=compact&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" />
 </p>
 
-<h2> <img src="http://openweathermap.org/img/w/04n.png" width="30"> Weather </h2>
+<h2> <img src="http://openweathermap.org/img/w/03n.png" width="30"> Weather </h2>
 
 <p align="center">
-    The weather for me its a overcast clouds and the temperature is 10.08°C (50.14°F) but it actually feels like 6.32°C (43.38°F)!
+    The weather for me its a scattered clouds and the temperature is 10.2°C (50.36°F) but it actually feels like 6.44°C (43.59°F)!
 </p>
 <p align="center">
     The sun rise for me is at 07:28 and the sun set is at 18:14!
 </p>
 <p align="center">
-    The wind for me  is 3.32 meters/sec (7.43mph)!
+    The wind for me  is 3.29 meters/sec (7.36mph)!
 </p>
 <p align="center">
-    The persaintage of the sky is filled with clouds for me is 95%!
+    The persaintage of the sky is filled with clouds for me is 43%!
 </p>
 
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1595173148/9720/dog_cute.gif?1595173148" width="30"> Dog </h2>
 
 <p align="center">
-    <img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;terrier-yorkshire&#x2F;n02094433_6672.jpg" height="300px">
+    <img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;dalmatian&#x2F;cooper2.jpg" height="300px">
 </p>
 
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1500426137/2648/allo-tongue.gif?1500426137" width="30"> Joke </h2>
 
 <p align="center">
-    The Great Wall of China was originally created to keep Chuck Norris out. It failed miserably.
+    182,000 Americans die from Chuck Norris-related accidents every year.
 </p>
