@@ -64,7 +64,7 @@
 <h2> <img src="http://openweathermap.org/img/w/04n.png" width="30"> Weather </h2>
 
 <p align="center">
-    The weather for me its a overcast clouds and the temperature is 9.21°C (48.58°F) but it actually feels like 8.12°C (46.62°F)!
+    The weather for me its a overcast clouds and the temperature is 9.17°C (48.51°F) but it actually feels like 8.07°C (46.53°F)!
 </p>
 <p align="center">
     The sun rise for me is at 07:27 and the sun set is at 18:15!
@@ -79,11 +79,11 @@
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1595173148/9720/dog_cute.gif?1595173148" width="30"> Dog </h2>
 
 <p align="center">
-    <img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;whippet&#x2F;n02091134_13401.jpg" height="300px">
+    <img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;husky&#x2F;n02110185_14479.jpg" height="300px">
 </p>
 
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1500426137/2648/allo-tongue.gif?1500426137" width="30"> Joke </h2>
 
 <p align="center">
-    Chuck Norris once sued Burger King after they refused to put razor wire in his Whopper Jr, insisting that that actually is &#39;his&#39; way.
+    Chuck Norris once ordered a steak in a restaurant. The steak did what it was told.
 </p>
