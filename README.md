@@ -64,7 +64,7 @@
 <h2> <img src="http://openweathermap.org/img/w/04n.png" width="30"> Weather </h2>
 
 <p align="center">
-    The weather for me its a overcast clouds and the temperature is 8.95°C (48.11°F) but it actually feels like 6.97°C (44.55°F)!
+    The weather for me its a overcast clouds and the temperature is 9.02°C (48.24°F) but it actually feels like 7.05°C (44.69°F)!
 </p>
 <p align="center">
     The sun rise for me is at 07:28 and the sun set is at 18:14!
@@ -73,17 +73,17 @@
     The wind for me  is 0.89 meters/sec (1.99mph)!
 </p>
 <p align="center">
-    The persaintage of the sky is filled with clouds for me is 97%!
+    The persaintage of the sky is filled with clouds for me is 98%!
 </p>
 
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1595173148/9720/dog_cute.gif?1595173148" width="30"> Dog </h2>
 
 <p align="center">
-    <img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;spaniel-sussex&#x2F;n02102480_5805.jpg" height="300px">
+    <img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;shiba&#x2F;shiba-5.jpg" height="300px">
 </p>
 
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1500426137/2648/allo-tongue.gif?1500426137" width="30"> Joke </h2>
 
 <p align="center">
-    If brute force doesn’t solve your problems... then you aren’t using enough.
+    In the first Jurassic Park movie, the Tyrannosaurus Rex wasn&#39;t chasing the jeep. Chuck Norris was chasing the Tyrannosaurus AND the jeep.
 </p>
