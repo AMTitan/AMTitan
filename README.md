@@ -64,13 +64,13 @@
 <h2> <img src="http://openweathermap.org/img/w/50n.png" width="30"> Weather </h2>
 
 <p align="center">
-    The weather for me its a mist and the temperature is 6.26°C (43.27°F) but it actually feels like 4.72°C (40.5°F)!
+    The weather for me its a mist and the temperature is 6.05°C (42.89°F) but it actually feels like 4.06°C (39.31°F)!
 </p>
 <p align="center">
     The sun rise for me is at 07:26 and the sun set is at 18:16!
 </p>
 <p align="center">
-    The wind for me  is 0.97 meters/sec (2.17mph)!
+    The wind for me  is 1.54 meters/sec (3.44mph)!
 </p>
 <p align="center">
     The persaintage of the sky is filled with clouds for me is 90%!
@@ -79,11 +79,11 @@
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1595173148/9720/dog_cute.gif?1595173148" width="30"> Dog </h2>
 
 <p align="center">
-    <img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;cotondetulear&#x2F;IMG_20160830_202631573.jpg" height="300px">
+    <img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;basenji&#x2F;n02110806_376.jpg" height="300px">
 </p>
 
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1500426137/2648/allo-tongue.gif?1500426137" width="30"> Joke </h2>
 
 <p align="center">
-    Chuck Norris can taste lies.
+    Chuck Norris once round-house kicked a salesman. Over the phone.
 </p>
