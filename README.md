@@ -64,13 +64,13 @@
 <h2> <img src="http://openweathermap.org/img/w/01d.png" width="30"> Weather </h2>
 
 <p align="center">
-    The weather for me its a clear sky and the temperature is 20.04°C (68.07°F) but it actually feels like 18.62°C (65.52°F)!
+    The weather for me its a clear sky and the temperature is 20.13°C (68.23°F) but it actually feels like 19.54°C (67.17°F)!
 </p>
 <p align="center">
     The sun rise for me is at 07:26 and the sun set is at 18:16!
 </p>
 <p align="center">
-    The wind for me  is 2.05 meters/sec (4.59mph)!
+    The wind for me  is 0.89 meters/sec (1.99mph)!
 </p>
 <p align="center">
     The persaintage of the sky is filled with clouds for me is 2%!
@@ -79,11 +79,11 @@
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1595173148/9720/dog_cute.gif?1595173148" width="30"> Dog </h2>
 
 <p align="center">
-    <img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;doberman&#x2F;doberman.jpg" height="300px">
+    <img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;spaniel-irish&#x2F;n02102973_4469.jpg" height="300px">
 </p>
 
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1500426137/2648/allo-tongue.gif?1500426137" width="30"> Joke </h2>
 
 <p align="center">
-    Chuck Norris began selling the Total Gym as an ill-fated attempt to make his day-to-day opponents less laughably pathetic.
+    Chuck Norris can&#39;t finish a &#39;color by numbers&#39; because his markers are filled with the blood of his victims. Unfortunately, all blood is dark red.
 </p>
