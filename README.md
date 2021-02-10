@@ -64,26 +64,26 @@
 <h2> <img src="http://openweathermap.org/img/w/04n.png" width="30"> Weather </h2>
 
 <p align="center">
-    The weather for me its a overcast clouds and the temperature is 11.41°C (52.54°F) but it actually feels like 10.39°C (50.7°F)!
+    The weather for me its a broken clouds and the temperature is 11.25°C (52.25°F) but it actually feels like 10.01°C (50.02°F)!
 </p>
 <p align="center">
     The sun rise for me is at 07:27 and the sun set is at 18:15!
 </p>
 <p align="center">
-    The wind for me  is 1.26 meters/sec (2.82mph)!
+    The wind for me  is 1.58 meters/sec (3.53mph)!
 </p>
 <p align="center">
-    The persaintage of the sky is filled with clouds for me is 91%!
+    The persaintage of the sky is filled with clouds for me is 71%!
 </p>
 
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1595173148/9720/dog_cute.gif?1595173148" width="30"> Dog </h2>
 
 <p align="center">
-    <img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;dane-great&#x2F;n02109047_17050.jpg" height="300px">
+    <img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;dachshund&#x2F;dachshund-6.jpg" height="300px">
 </p>
 
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1500426137/2648/allo-tongue.gif?1500426137" width="30"> Joke </h2>
 
 <p align="center">
-    Chuck Norris doesn&#39;t throw up if he drinks too much. Chuck Norris throws down!
+    A movie scene depicting Chuck Norris losing a fight with Bruce Lee was the product of history&#39;s most expensive visual effect. When adjusted for inflation, the effect cost more than the Gross National Product of Paraguay.
 </p>
