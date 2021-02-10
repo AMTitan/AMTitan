@@ -64,26 +64,26 @@
 <h2> <img src="http://openweathermap.org/img/w/04n.png" width="30"> Weather </h2>
 
 <p align="center">
-    The weather for me its a broken clouds and the temperature is 9.71°C (49.48°F) but it actually feels like 8.55°C (47.39°F)!
+    The weather for me its a broken clouds and the temperature is 9.21°C (48.58°F) but it actually feels like 7.54°C (45.57°F)!
 </p>
 <p align="center">
     The sun rise for me is at 07:27 and the sun set is at 18:15!
 </p>
 <p align="center">
-    The wind for me  is 1.05 meters/sec (2.35mph)!
+    The wind for me  is 1.6 meters/sec (3.58mph)!
 </p>
 <p align="center">
-    The persaintage of the sky is filled with clouds for me is 57%!
+    The persaintage of the sky is filled with clouds for me is 80%!
 </p>
 
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1595173148/9720/dog_cute.gif?1595173148" width="30"> Dog </h2>
 
 <p align="center">
-    <img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;germanshepherd&#x2F;n02106662_26335.jpg" height="300px">
+    <img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;malamute&#x2F;n02110063_14382.jpg" height="300px">
 </p>
 
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1500426137/2648/allo-tongue.gif?1500426137" width="30"> Joke </h2>
 
 <p align="center">
-    As an infant, Chuck Norris&#39; parents gave him a toy hammer. He gave the world Stonehenge.
+    In a fight between Batman and Darth Vader, the winner would be Chuck Norris.
 </p>
