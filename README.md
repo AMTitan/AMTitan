@@ -64,13 +64,13 @@
 <h2> <img src="http://openweathermap.org/img/w/04d.png" width="30"> Weather </h2>
 
 <p align="center">
-    The weather for me its a overcast clouds and the temperature is 15.76°C (60.37°F) but it actually feels like 15.84°C (60.51°F)!
+    The weather for me its a overcast clouds and the temperature is 15.76°C (60.37°F) but it actually feels like 15.56°C (60.01°F)!
 </p>
 <p align="center">
     The sun rise for me is at 07:25 and the sun set is at 18:17!
 </p>
 <p align="center">
-    The wind for me  is 2.43 meters/sec (5.44mph)!
+    The wind for me  is 2.83 meters/sec (6.33mph)!
 </p>
 <p align="center">
     The persaintage of the sky is filled with clouds for me is 100%!
@@ -79,11 +79,11 @@
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1595173148/9720/dog_cute.gif?1595173148" width="30"> Dog </h2>
 
 <p align="center">
-    <img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;terrier-australian&#x2F;n02096294_6207.jpg" height="300px">
+    <img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;keeshond&#x2F;n02112350_10283.jpg" height="300px">
 </p>
 
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1500426137/2648/allo-tongue.gif?1500426137" width="30"> Joke </h2>
 
 <p align="center">
-    Chuck Norris burst the dot com bubble.
+    How many roundhouse kicks does it take to get to the center of a tootsie pop? Just one. From Chuck Norris.
 </p>
