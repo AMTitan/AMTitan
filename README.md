@@ -64,7 +64,7 @@
 <h2> <img src="http://openweathermap.org/img/w/10d.png" width="30"> Weather </h2>
 
 <p align="center">
-    The weather for me its a heavy intensity rain and the temperature is 13.21°C (55.78°F) but it actually feels like 12.98°C (55.36°F)!
+    The weather for me its a heavy intensity rain and the temperature is 13.2°C (55.76°F) but it actually feels like 12.96°C (55.33°F)!
 </p>
 <p align="center">
     The sun rise for me is at 07:25 and the sun set is at 18:17!
@@ -79,11 +79,11 @@
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1595173148/9720/dog_cute.gif?1595173148" width="30"> Dog </h2>
 
 <p align="center">
-    <img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;redbone&#x2F;n02090379_2453.jpg" height="300px">
+    <img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;terrier-sealyham&#x2F;n02095889_4056.jpg" height="300px">
 </p>
 
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1500426137/2648/allo-tongue.gif?1500426137" width="30"> Joke </h2>
 
 <p align="center">
-    Chuck Norris doesn&#39;t use GUI, he prefers COMMAND line.
+    When Chuck Norris was denied an Egg McMuffin at McDonald&#39;s because it was 10:35, he roundhouse kicked the store so hard it became a Wendy&#39;s.
 </p>
