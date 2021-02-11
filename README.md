@@ -64,13 +64,13 @@
 <h2> <img src="http://openweathermap.org/img/w/10d.png" width="30"> Weather </h2>
 
 <p align="center">
-    The weather for me its a moderate rain and the temperature is 14.24°C (57.63°F) but it actually feels like 14.12°C (57.42°F)!
+    The weather for me its a moderate rain and the temperature is 14.41°C (57.94°F) but it actually feels like 14.41°C (57.94°F)!
 </p>
 <p align="center">
     The sun rise for me is at 07:25 and the sun set is at 18:17!
 </p>
 <p align="center">
-    The wind for me  is 1.95 meters/sec (4.36mph)!
+    The wind for me  is 1.85 meters/sec (4.14mph)!
 </p>
 <p align="center">
     The persaintage of the sky is filled with clouds for me is 100%!
@@ -79,11 +79,11 @@
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1595173148/9720/dog_cute.gif?1595173148" width="30"> Dog </h2>
 
 <p align="center">
-    <img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;terrier-norwich&#x2F;n02094258_1091.jpg" height="300px">
+    <img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;waterdog-spanish&#x2F;20180714_201544.jpg" height="300px">
 </p>
 
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1500426137/2648/allo-tongue.gif?1500426137" width="30"> Joke </h2>
 
 <p align="center">
-    Chuck Norris is the only human being to display the Heisenberg uncertainty principle - you can never know both exactly where and how quickly he will roundhouse-kick you in the face.
+    If tapped, a Chuck Norris roundhouse kick could power the country of Australia for 44 minutes.
 </p>
