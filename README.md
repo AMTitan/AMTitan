@@ -64,26 +64,26 @@
 <h2> <img src="http://openweathermap.org/img/w/04n.png" width="30"> Weather </h2>
 
 <p align="center">
-    The weather for me its a broken clouds and the temperature is 13.5°C (56.3°F) but it actually feels like 12.46°C (54.43°F)!
+    The weather for me its a overcast clouds and the temperature is 13.45°C (56.21°F) but it actually feels like 12.21°C (53.98°F)!
 </p>
 <p align="center">
     The sun rise for me is at 07:26 and the sun set is at 18:16!
 </p>
 <p align="center">
-    The wind for me  is 1.38 meters/sec (3.09mph)!
+    The wind for me  is 1.65 meters/sec (3.69mph)!
 </p>
 <p align="center">
-    The persaintage of the sky is filled with clouds for me is 53%!
+    The persaintage of the sky is filled with clouds for me is 98%!
 </p>
 
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1595173148/9720/dog_cute.gif?1595173148" width="30"> Dog </h2>
 
 <p align="center">
-    <img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;hound-ibizan&#x2F;n02091244_3278.jpg" height="300px">
+    <img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;pyrenees&#x2F;n02111500_4854.jpg" height="300px">
 </p>
 
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1500426137/2648/allo-tongue.gif?1500426137" width="30"> Joke </h2>
 
 <p align="center">
-    Not everyone that Chuck Norris is mad at gets killed. Some get away. They are called astronauts.
+    &#39;Sweating bullets&#39; is literally what happens when Chuck Norris gets too hot.
 </p>
