@@ -64,7 +64,7 @@
 <h2> <img src="http://openweathermap.org/img/w/04n.png" width="30"> Weather </h2>
 
 <p align="center">
-    The weather for me its a overcast clouds and the temperature is 13.45°C (56.21°F) but it actually feels like 12.21°C (53.98°F)!
+    The weather for me its a overcast clouds and the temperature is 13.46°C (56.23°F) but it actually feels like 12.22°C (54°F)!
 </p>
 <p align="center">
     The sun rise for me is at 07:26 and the sun set is at 18:16!
@@ -79,11 +79,11 @@
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1595173148/9720/dog_cute.gif?1595173148" width="30"> Dog </h2>
 
 <p align="center">
-    <img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;hound-blood&#x2F;n02088466_6712.jpg" height="300px">
+    <img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;whippet&#x2F;n02091134_11875.jpg" height="300px">
 </p>
 
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1500426137/2648/allo-tongue.gif?1500426137" width="30"> Joke </h2>
 
 <p align="center">
-    When you&#39;re Chuck Norris, anything + anything is equal to 1. One roundhouse kick to the face.
+    With Chuck Norris P &#x3D; NP. There&#39;s no nondeterminism with Chuck Norris decisions.
 </p>
