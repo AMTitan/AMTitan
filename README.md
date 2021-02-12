@@ -64,13 +64,13 @@
 <h2> <img src="http://openweathermap.org/img/w/04d.png" width="30"> Weather </h2>
 
 <p align="center">
-    The weather for me its a overcast clouds and the temperature is 6.75°C (44.15°F) but it actually feels like 4.55°C (40.19°F)!
+    The weather for me its a overcast clouds and the temperature is 6.75°C (44.15°F) but it actually feels like 4.2°C (39.56°F)!
 </p>
 <p align="center">
     The sun rise for me is at 07:24 and the sun set is at 18:18!
 </p>
 <p align="center">
-    The wind for me  is 2.06 meters/sec (4.61mph)!
+    The wind for me  is 2.57 meters/sec (5.75mph)!
 </p>
 <p align="center">
     The persaintage of the sky is filled with clouds for me is 90%!
@@ -79,11 +79,11 @@
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1595173148/9720/dog_cute.gif?1595173148" width="30"> Dog </h2>
 
 <p align="center">
-    <img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;hound-english&#x2F;n02089973_1030.jpg" height="300px">
+    <img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;clumber&#x2F;n02101556_4499.jpg" height="300px">
 </p>
 
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1500426137/2648/allo-tongue.gif?1500426137" width="30"> Joke </h2>
 
 <p align="center">
-    Chuck Norris did in fact, build Rome in a day.
+    The word &#39;Kill&#39; was invented by Chuck Norris. Other words were &#39;Die&#39;, &#39;Beer&#39;, and &#39;What&#39;.
 </p>
