@@ -1,4 +1,4 @@
-# <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> My name is Arthur Melton and I have ![Profile View Counter](https://komarev.com/ghpvc/?username=AMTitan) (Last updated on Thursday, 11 February, 20:23 GMT-5).
+# <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> My name is Arthur Melton and I have ![Profile View Counter](https://komarev.com/ghpvc/?username=AMTitan) (Last updated on Thursday, 11 February, 20:24 GMT-5).
 
 <h3> <img src="https://emojis.slackmojis.com/emojis/images/1581539211/7808/party-blob.gif?1581539211" width="30"/> About Me </h3>
 
@@ -64,7 +64,7 @@
 <h2> <img src="http://openweathermap.org/img/w/10n.png" width="30"> Weather </h2>
 
 <p align="center">
-    The weather for me its a moderate rain and the temperature is 14.6°C (58.28°F) but it actually feels like 15.65°C (60.17°F)!
+    The weather for me its a moderate rain and the temperature is 14.59°C (58.26°F) but it actually feels like 15.64°C (60.15°F)!
 </p>
 <p align="center">
     The sun rise for me is at 07:25 and the sun set is at 18:17!
@@ -79,11 +79,11 @@
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1595173148/9720/dog_cute.gif?1595173148" width="30"> Dog </h2>
 
 <p align="center">
-    <img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;borzoi&#x2F;n02090622_9814.jpg" height="300px">
+    <img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;bulldog-boston&#x2F;n02096585_11776.jpg" height="300px">
 </p>
 
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1500426137/2648/allo-tongue.gif?1500426137" width="30"> Joke </h2>
 
 <p align="center">
-    Chuck Norris just says &#39;no&#39; to drugs. If he said &#39;yes&#39;, it would collapse Colombia&#39;s infrastructure.
+    The Bible was originally titled &#39;Chuck Norris and Friends&#39;
 </p>
