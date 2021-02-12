@@ -64,13 +64,13 @@
 <h2> <img src="http://openweathermap.org/img/w/09d.png" width="30"> Weather </h2>
 
 <p align="center">
-    The weather for me its a light intensity drizzle and the temperature is 7.24°C (45.03°F) but it actually feels like 5.27°C (41.49°F)!
+    The weather for me its a light intensity drizzle and the temperature is 7.24°C (45.03°F) but it actually feels like 4.43°C (39.97°F)!
 </p>
 <p align="center">
     The sun rise for me is at 07:24 and the sun set is at 18:18!
 </p>
 <p align="center">
-    The wind for me  is 1.89 meters/sec (4.23mph)!
+    The wind for me  is 3.09 meters/sec (6.91mph)!
 </p>
 <p align="center">
     The persaintage of the sky is filled with clouds for me is 90%!
@@ -79,11 +79,11 @@
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1595173148/9720/dog_cute.gif?1595173148" width="30"> Dog </h2>
 
 <p align="center">
-    <img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;chihuahua&#x2F;n02085620_1073.jpg" height="300px">
+    <img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;schnauzer-giant&#x2F;n02097130_2907.jpg" height="300px">
 </p>
 
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1500426137/2648/allo-tongue.gif?1500426137" width="30"> Joke </h2>
 
 <p align="center">
-    How many roundhouse kicks does it take to get to the center of a tootsie pop? Just one. From Chuck Norris.
+    Chuck Norris keeps his friends close and his enemies closer. Close enough to drop them with one round house kick to the face.
 </p>
