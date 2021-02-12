@@ -64,7 +64,7 @@
 <h2> <img src="http://openweathermap.org/img/w/04n.png" width="30"> Weather </h2>
 
 <p align="center">
-    The weather for me its a overcast clouds and the temperature is 12.89°C (55.2°F) but it actually feels like 12.01°C (53.62°F)!
+    The weather for me its a overcast clouds and the temperature is 12.97°C (55.35°F) but it actually feels like 12.12°C (53.82°F)!
 </p>
 <p align="center">
     The sun rise for me is at 07:24 and the sun set is at 18:18!
@@ -79,11 +79,11 @@
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1595173148/9720/dog_cute.gif?1595173148" width="30"> Dog </h2>
 
 <p align="center">
-    <img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;frise-bichon&#x2F;1.jpg" height="300px">
+    <img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;mountain-bernese&#x2F;n02107683_7202.jpg" height="300px">
 </p>
 
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1500426137/2648/allo-tongue.gif?1500426137" width="30"> Joke </h2>
 
 <p align="center">
-    Chuck Norris can write an OS in Brainfuck
+    When Chuck Norris goes to out to eat, he orders a whole chicken, but he only eats its soul.
 </p>
