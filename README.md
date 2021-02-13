@@ -79,11 +79,11 @@
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1595173148/9720/dog_cute.gif?1595173148" width="30"> Dog </h2>
 
 <p align="center">
-    <img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;shiba&#x2F;shiba-11.jpg" height="300px">
+    <img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;spaniel-welsh&#x2F;n02102177_881.jpg" height="300px">
 </p>
 
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1500426137/2648/allo-tongue.gif?1500426137" width="30"> Joke </h2>
 
 <p align="center">
-    A programmer is having trouble with his keyboard double-pressing. He asks his coworker what he should do. &#39;Hit it,&#39; he says. The programmer hits it, but nothing changes. His coworker exclaims &#39;No, really BASH it!&#39;
+    Chuck Norris likes his coffee half and half: half coffee grounds, half wood-grain alcohol.
 </p>
