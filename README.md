@@ -64,26 +64,26 @@
 <h2> <img src="http://openweathermap.org/img/w/04n.png" width="30"> Weather </h2>
 
 <p align="center">
-    The weather for me its a overcast clouds and the temperature is 7.04°C (44.67°F) but it actually feels like 4.52°C (40.14°F)!
+    The weather for me its a overcast clouds and the temperature is 7.04°C (44.67°F) but it actually feels like 5°C (41°F)!
 </p>
 <p align="center">
     The sun rise for me is at 07:23 and the sun set is at 18:19!
 </p>
 <p align="center">
-    The wind for me  is 2.38 meters/sec (5.32mph)!
+    The wind for me  is 1.7 meters/sec (3.8mph)!
 </p>
 <p align="center">
-    The persaintage of the sky is filled with clouds for me is 93%!
+    The persaintage of the sky is filled with clouds for me is 100%!
 </p>
 
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1595173148/9720/dog_cute.gif?1595173148" width="30"> Dog </h2>
 
 <p align="center">
-    <img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;sheepdog-english&#x2F;n02105641_5982.jpg" height="300px">
+    <img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;kelpie&#x2F;n02105412_5138.jpg" height="300px">
 </p>
 
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1500426137/2648/allo-tongue.gif?1500426137" width="30"> Joke </h2>
 
 <p align="center">
-    Chuck Norris just says &#39;no&#39; to drugs. If he said &#39;yes&#39;, it would collapse Colombia&#39;s infrastructure.
+    Contrary to popular belief, there is indeed enough Chuck Norris to go around.
 </p>
