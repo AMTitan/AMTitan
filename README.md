@@ -64,7 +64,7 @@
 <h2> <img src="http://openweathermap.org/img/w/04d.png" width="30"> Weather </h2>
 
 <p align="center">
-    The weather for me its a overcast clouds and the temperature is 7.07°C (44.73°F) but it actually feels like 5.91°C (42.64°F)!
+    The weather for me its a overcast clouds and the temperature is 6.97°C (44.55°F) but it actually feels like 5.72°C (42.3°F)!
 </p>
 <p align="center">
     The sun rise for me is at 07:23 and the sun set is at 18:19!
@@ -79,11 +79,11 @@
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1595173148/9720/dog_cute.gif?1595173148" width="30"> Dog </h2>
 
 <p align="center">
-    <img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;lhasa&#x2F;n02098413_20356.jpg" height="300px">
+    <img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;terrier-border&#x2F;n02093754_6432.jpg" height="300px">
 </p>
 
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1500426137/2648/allo-tongue.gif?1500426137" width="30"> Joke </h2>
 
 <p align="center">
-    Chuck Norris has 12 moons. One of those moons is the Earth.
+    Chuck Norris is the only known mammal in history to have an opposable thumb. On his penis.
 </p>
