@@ -64,13 +64,13 @@
 <h2> <img src="http://openweathermap.org/img/w/04n.png" width="30"> Weather </h2>
 
 <p align="center">
-    The weather for me its a overcast clouds and the temperature is 7.04°C (44.67°F) but it actually feels like 4.34°C (39.81°F)!
+    The weather for me its a overcast clouds and the temperature is 7.08°C (44.74°F) but it actually feels like 4.8°C (40.64°F)!
 </p>
 <p align="center">
     The sun rise for me is at 07:23 and the sun set is at 18:19!
 </p>
 <p align="center">
-    The wind for me  is 2.64 meters/sec (5.91mph)!
+    The wind for me  is 2.05 meters/sec (4.59mph)!
 </p>
 <p align="center">
     The persaintage of the sky is filled with clouds for me is 100%!
@@ -79,11 +79,11 @@
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1595173148/9720/dog_cute.gif?1595173148" width="30"> Dog </h2>
 
 <p align="center">
-    <img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;buhund-norwegian&#x2F;hakon3.jpg" height="300px">
+    <img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;clumber&#x2F;n02101556_6154.jpg" height="300px">
 </p>
 
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1500426137/2648/allo-tongue.gif?1500426137" width="30"> Joke </h2>
 
 <p align="center">
-    Most boots are made for walkin&#39;. Chuck Norris&#39; boots ain&#39;t that merciful.
+    Do you have a girlfriend? I will leave the relationship to the databases
 </p>
