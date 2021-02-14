@@ -64,26 +64,26 @@
 <h2> <img src="http://openweathermap.org/img/w/04n.png" width="30"> Weather </h2>
 
 <p align="center">
-    The weather for me its a broken clouds and the temperature is 6.66°C (43.99°F) but it actually feels like 4.48°C (40.06°F)!
+    The weather for me its a broken clouds and the temperature is 6.63°C (43.93°F) but it actually feels like 4.11°C (39.4°F)!
 </p>
 <p align="center">
     The sun rise for me is at 07:23 and the sun set is at 18:19!
 </p>
 <p align="center">
-    The wind for me  is 1.82 meters/sec (4.07mph)!
+    The wind for me  is 2.3 meters/sec (5.14mph)!
 </p>
 <p align="center">
-    The persaintage of the sky is filled with clouds for me is 69%!
+    The persaintage of the sky is filled with clouds for me is 84%!
 </p>
 
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1595173148/9720/dog_cute.gif?1595173148" width="30"> Dog </h2>
 
 <p align="center">
-    <img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;pointer-german&#x2F;n02100236_4851.jpg" height="300px">
+    <img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;chow&#x2F;n02112137_7594.jpg" height="300px">
 </p>
 
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1500426137/2648/allo-tongue.gif?1500426137" width="30"> Joke </h2>
 
 <p align="center">
-    Simply by pulling on both ends, Chuck Norris can stretch diamonds back into coal.
+    Chuck Norris&#39; house has no doors, only walls that he walks through.
 </p>
