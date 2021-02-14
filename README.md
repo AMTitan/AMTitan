@@ -64,13 +64,13 @@
 <h2> <img src="http://openweathermap.org/img/w/04d.png" width="30"> Weather </h2>
 
 <p align="center">
-    The weather for me its a overcast clouds and the temperature is 5.52°C (41.94°F) but it actually feels like 1.92°C (35.46°F)!
+    The weather for me its a overcast clouds and the temperature is 5.49°C (41.88°F) but it actually feels like 2.32°C (36.18°F)!
 </p>
 <p align="center">
     The sun rise for me is at 07:22 and the sun set is at 18:20!
 </p>
 <p align="center">
-    The wind for me  is 3.65 meters/sec (8.16mph)!
+    The wind for me  is 3.02 meters/sec (6.76mph)!
 </p>
 <p align="center">
     The persaintage of the sky is filled with clouds for me is 100%!
@@ -79,11 +79,11 @@
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1595173148/9720/dog_cute.gif?1595173148" width="30"> Dog </h2>
 
 <p align="center">
-    <img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;leonberg&#x2F;n02111129_1206.jpg" height="300px">
+    <img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;terrier-patterdale&#x2F;patterdale-terrier-1330018870tnN.jpg" height="300px">
 </p>
 
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1500426137/2648/allo-tongue.gif?1500426137" width="30"> Joke </h2>
 
 <p align="center">
-    Chuck Norris can unit test entire applications with a single assert.
+    Chuck Norris ordered a Big Mac at Burger King, and got one.
 </p>
