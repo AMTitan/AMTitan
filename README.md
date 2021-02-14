@@ -79,11 +79,11 @@
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1595173148/9720/dog_cute.gif?1595173148" width="30"> Dog </h2>
 
 <p align="center">
-    <img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;retriever-chesapeake&#x2F;n02099849_4549.jpg" height="300px">
+    <img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;bulldog-french&#x2F;n02108915_644.jpg" height="300px">
 </p>
 
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1500426137/2648/allo-tongue.gif?1500426137" width="30"> Joke </h2>
 
 <p align="center">
-    Jean-Claude Van Damme once kicked Chuck Norris&#39; ass. He was then awakened from his dream by a roundhouse kick to the face.
+    Most people have 23 pairs of chromosomes. Chuck Norris has 72... and they&#39;re all poisonous.
 </p>
