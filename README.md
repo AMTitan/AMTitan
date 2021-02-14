@@ -64,26 +64,26 @@
 <h2> <img src="http://openweathermap.org/img/w/04n.png" width="30"> Weather </h2>
 
 <p align="center">
-    The weather for me its a overcast clouds and the temperature is 5.26°C (41.47°F) but it actually feels like 2.39°C (36.3°F)!
+    The weather for me its a overcast clouds and the temperature is 5.26°C (41.47°F) but it actually feels like 2.48°C (36.46°F)!
 </p>
 <p align="center">
     The sun rise for me is at 07:22 and the sun set is at 18:20!
 </p>
 <p align="center">
-    The wind for me  is 2.48 meters/sec (5.55mph)!
+    The wind for me  is 2.36 meters/sec (5.28mph)!
 </p>
 <p align="center">
-    The persaintage of the sky is filled with clouds for me is 97%!
+    The persaintage of the sky is filled with clouds for me is 89%!
 </p>
 
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1595173148/9720/dog_cute.gif?1595173148" width="30"> Dog </h2>
 
 <p align="center">
-    <img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;mastiff-english&#x2F;1.jpg" height="300px">
+    <img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;sheepdog-english&#x2F;n02105641_3317.jpg" height="300px">
 </p>
 
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1500426137/2648/allo-tongue.gif?1500426137" width="30"> Joke </h2>
 
 <p align="center">
-    On the set of Walker Texas Ranger Chuck Norris brought a dying lamb back to life by nuzzling it with his beard. As the onlookers gathered, the lamb sprang to life. Chuck Norris then roundhouse kicked it, killing it instantly. This was just to prove that the good Chuck givet
+    When Chuck Norris talks, everybody listens. And dies.
 </p>
