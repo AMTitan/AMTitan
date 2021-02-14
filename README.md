@@ -64,26 +64,26 @@
 <h2> <img src="http://openweathermap.org/img/w/04n.png" width="30"> Weather </h2>
 
 <p align="center">
-    The weather for me its a broken clouds and the temperature is 6.02°C (42.84°F) but it actually feels like 3.17°C (37.71°F)!
+    The weather for me its a overcast clouds and the temperature is 6.06°C (42.91°F) but it actually feels like 3.76°C (38.77°F)!
 </p>
 <p align="center">
     The sun rise for me is at 07:22 and the sun set is at 18:20!
 </p>
 <p align="center">
-    The wind for me  is 2.63 meters/sec (5.88mph)!
+    The wind for me  is 1.86 meters/sec (4.16mph)!
 </p>
 <p align="center">
-    The persaintage of the sky is filled with clouds for me is 78%!
+    The persaintage of the sky is filled with clouds for me is 92%!
 </p>
 
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1595173148/9720/dog_cute.gif?1595173148" width="30"> Dog </h2>
 
 <p align="center">
-    <img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;terrier-australian&#x2F;n02096294_2175.jpg" height="300px">
+    <img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;dalmatian&#x2F;cooper2.jpg" height="300px">
 </p>
 
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1500426137/2648/allo-tongue.gif?1500426137" width="30"> Joke </h2>
 
 <p align="center">
-    Chuck Norris once ordered a steak in a restaurant. The steak did what it was told.
+    The 1972 Miami Dolphins lost one game, it was a game vs. Chuck Norris and three seven year old girls. Chuck Norris won with a roundhouse-kick to the face in overtime.
 </p>
