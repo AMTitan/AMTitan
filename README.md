@@ -64,13 +64,13 @@
 <h2> <img src="http://openweathermap.org/img/w/10d.png" width="30"> Weather </h2>
 
 <p align="center">
-    The weather for me its a moderate rain and the temperature is 6.02°C (42.84°F) but it actually feels like 4.42°C (39.96°F)!
+    The weather for me its a moderate rain and the temperature is 6.02°C (42.84°F) but it actually feels like 3.17°C (37.71°F)!
 </p>
 <p align="center">
     The sun rise for me is at 07:21 and the sun set is at 18:20!
 </p>
 <p align="center">
-    The wind for me  is 0.89 meters/sec (1.99mph)!
+    The wind for me  is 2.68 meters/sec (5.99mph)!
 </p>
 <p align="center">
     The persaintage of the sky is filled with clouds for me is 100%!
@@ -79,11 +79,11 @@
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1595173148/9720/dog_cute.gif?1595173148" width="30"> Dog </h2>
 
 <p align="center">
-    <img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;dane-great&#x2F;n02109047_888.jpg" height="300px">
+    <img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;saluki&#x2F;n02091831_12881.jpg" height="300px">
 </p>
 
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1500426137/2648/allo-tongue.gif?1500426137" width="30"> Joke </h2>
 
 <p align="center">
-    Chuck Norris does not teabag the ladies. He potato-sacks them.
+    Chuck Norris does not wear a condom. Because there is no such thing as protection from Chuck Norris.
 </p>
