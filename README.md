@@ -64,7 +64,7 @@
 <h2> <img src="http://openweathermap.org/img/w/04d.png" width="30"> Weather </h2>
 
 <p align="center">
-    The weather for me its a overcast clouds and the temperature is 5.87°C (42.57°F) but it actually feels like 2.96°C (37.33°F)!
+    The weather for me its a overcast clouds and the temperature is 5.95°C (42.71°F) but it actually feels like 3.05°C (37.49°F)!
 </p>
 <p align="center">
     The sun rise for me is at 07:21 and the sun set is at 18:20!
@@ -79,11 +79,11 @@
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1595173148/9720/dog_cute.gif?1595173148" width="30"> Dog </h2>
 
 <p align="center">
-    <img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;cotondetulear&#x2F;100_2013.jpg" height="300px">
+    <img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;redbone&#x2F;n02090379_5508.jpg" height="300px">
 </p>
 
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1500426137/2648/allo-tongue.gif?1500426137" width="30"> Joke </h2>
 
 <p align="center">
-    Chuck Norris used to play baseball. When Babe Ruth was hailed as the better player, Chuck Norris killed him with a baseball bat to the throat. Lou Gehrig got off easy.
+    Chuck Norris is the only person to ever win a staring contest against Ray Charles and Stevie Wonder.
 </p>
