@@ -64,7 +64,7 @@
 <h2> <img src="http://openweathermap.org/img/w/04d.png" width="30"> Weather </h2>
 
 <p align="center">
-    The weather for me its a overcast clouds and the temperature is 5.95°C (42.71°F) but it actually feels like 3.05°C (37.49°F)!
+    The weather for me its a overcast clouds and the temperature is 5.94°C (42.69°F) but it actually feels like 3.04°C (37.47°F)!
 </p>
 <p align="center">
     The sun rise for me is at 07:21 and the sun set is at 18:20!
@@ -79,11 +79,11 @@
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1595173148/9720/dog_cute.gif?1595173148" width="30"> Dog </h2>
 
 <p align="center">
-    <img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;stbernard&#x2F;n02109525_11444.jpg" height="300px">
+    <img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;mix&#x2F;Annabelle6.jpeg" height="300px">
 </p>
 
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1500426137/2648/allo-tongue.gif?1500426137" width="30"> Joke </h2>
 
 <p align="center">
-    Chuck Norris once shot down a German fighter plane with his finger. By yelling &#39;Bang!&#39;
+    SUPERCOMPUTER: what it sounded like before you bought it.
 </p>
