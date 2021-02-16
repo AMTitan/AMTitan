@@ -64,7 +64,7 @@
 <h2> <img src="http://openweathermap.org/img/w/04d.png" width="30"> Weather </h2>
 
 <p align="center">
-    The weather for me its a overcast clouds and the temperature is -2.54°C (27.43°F) but it actually feels like -7.82°C (17.92°F)!
+    The weather for me its a overcast clouds and the temperature is -2.55°C (27.41°F) but it actually feels like -7.83°C (17.91°F)!
 </p>
 <p align="center">
     The sun rise for me is at 07:20 and the sun set is at 18:21!
@@ -79,11 +79,11 @@
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1595173148/9720/dog_cute.gif?1595173148" width="30"> Dog </h2>
 
 <p align="center">
-    <img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;spaniel-japanese&#x2F;n02085782_1836.jpg" height="300px">
+    <img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;spaniel-cocker&#x2F;n02102318_3700.jpg" height="300px">
 </p>
 
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1500426137/2648/allo-tongue.gif?1500426137" width="30"> Joke </h2>
 
 <p align="center">
-    A high tide means Chuck Norris is flying over your coast. The tide is caused by God pissing his pants.
+    1f u c4n r34d th1s u r34lly n33d t0 g37 l41d.
 </p>
