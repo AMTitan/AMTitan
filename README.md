@@ -64,13 +64,13 @@
 <h2> <img src="http://openweathermap.org/img/w/04n.png" width="30"> Weather </h2>
 
 <p align="center">
-    The weather for me its a overcast clouds and the temperature is -0.81°C (30.54°F) but it actually feels like -3.59°C (25.54°F)!
+    The weather for me its a overcast clouds and the temperature is -0.8°C (30.56°F) but it actually feels like -3.27°C (26.11°F)!
 </p>
 <p align="center">
     The sun rise for me is at 07:20 and the sun set is at 18:21!
 </p>
 <p align="center">
-    The wind for me  is 0.89 meters/sec (1.99mph)!
+    The wind for me  is 0.45 meters/sec (1.01mph)!
 </p>
 <p align="center">
     The persaintage of the sky is filled with clouds for me is 92%!
@@ -79,11 +79,11 @@
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1595173148/9720/dog_cute.gif?1595173148" width="30"> Dog </h2>
 
 <p align="center">
-    <img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;terrier-bedlington&#x2F;n02093647_904.jpg" height="300px">
+    <img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;maltese&#x2F;n02085936_2203.jpg" height="300px">
 </p>
 
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1500426137/2648/allo-tongue.gif?1500426137" width="30"> Joke </h2>
 
 <p align="center">
-    Why did the programmer quit his job? Because he didn&#39;t get arrays.
+    Chuck Norris is responsible for China&#39;s over-population. He hosted a Karate tournament in Beijing and all women within 1,000 miles became pregnant instantly.
 </p>
