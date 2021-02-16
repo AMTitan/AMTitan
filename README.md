@@ -64,7 +64,7 @@
 <h2> <img src="http://openweathermap.org/img/w/04n.png" width="30"> Weather </h2>
 
 <p align="center">
-    The weather for me its a overcast clouds and the temperature is -1.68°C (28.98°F) but it actually feels like -4.61°C (23.7°F)!
+    The weather for me its a overcast clouds and the temperature is -1.48°C (29.34°F) but it actually feels like -4.39°C (24.1°F)!
 </p>
 <p align="center">
     The sun rise for me is at 07:20 and the sun set is at 18:21!
@@ -79,11 +79,11 @@
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1595173148/9720/dog_cute.gif?1595173148" width="30"> Dog </h2>
 
 <p align="center">
-    <img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;finnish-lapphund&#x2F;mochilamvan.jpg" height="300px">
+    <img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;terrier-silky&#x2F;n02097658_4201.jpg" height="300px">
 </p>
 
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1500426137/2648/allo-tongue.gif?1500426137" width="30"> Joke </h2>
 
 <p align="center">
-    For some, the left testicle is larger than the right one. For Chuck Norris, each testicle is larger than the other one.
+    In the X-Men movies, none of the X-Men super-powers are done with special effects. Chuck Norris is the stuntman for every character.
 </p>
