@@ -61,10 +61,10 @@
     <img style="width:100%" src="https://github-readme-stats.vercel.app/api/wakatime?username=AMTitan&layout=compact&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" />
 </p>
 
-<h2> <img src="http://openweathermap.org/img/w/03n.png" width="30"> Weather </h2>
+<h2> <img src="http://openweathermap.org/img/w/01n.png" width="30"> Weather </h2>
 
 <p align="center">
-    The weather for me its a scattered clouds and the temperature is -2.17°C (28.09°F) but it actually feels like -6.04°C (21.13°F)!
+    The weather for me its a clear sky and the temperature is -5.22°C (22.6°F) but it actually feels like -9.3°C (15.26°F)!
 </p>
 <p align="center">
     The sun rise for me is at 07:19 and the sun set is at 18:22!
@@ -73,17 +73,17 @@
     The wind for me  is 1.8 meters/sec (4.03mph)!
 </p>
 <p align="center">
-    The persaintage of the sky is filled with clouds for me is 26%!
+    The persaintage of the sky is filled with clouds for me is 1%!
 </p>
 
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1595173148/9720/dog_cute.gif?1595173148" width="30"> Dog </h2>
 
 <p align="center">
-    <img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;appenzeller&#x2F;n02107908_3720.jpg" height="300px">
+    <img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;terrier-russell&#x2F;iguet2.jpeg" height="300px">
 </p>
 
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1500426137/2648/allo-tongue.gif?1500426137" width="30"> Joke </h2>
 
 <p align="center">
-    According to the Bible, God created the universe in six days. Before that, Chuck Norris created God by snapping his fingers.
+    When Chuck Norris was a baby, he didn&#39;t suck his mother&#39;s breast. His mother served him whiskey, straight out of the bottle.
 </p>
