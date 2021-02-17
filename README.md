@@ -64,26 +64,26 @@
 <h2> <img src="http://openweathermap.org/img/w/02d.png" width="30"> Weather </h2>
 
 <p align="center">
-    The weather for me its a few clouds and the temperature is 9.92°C (49.86°F) but it actually feels like 6.87°C (44.37°F)!
+    The weather for me its a few clouds and the temperature is 9.94°C (49.89°F) but it actually feels like 6.58°C (43.84°F)!
 </p>
 <p align="center">
     The sun rise for me is at 07:19 and the sun set is at 18:22!
 </p>
 <p align="center">
-    The wind for me  is 1.34 meters/sec (3mph)!
+    The wind for me  is 1.79 meters/sec (4mph)!
 </p>
 <p align="center">
-    The persaintage of the sky is filled with clouds for me is 18%!
+    The persaintage of the sky is filled with clouds for me is 12%!
 </p>
 
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1595173148/9720/dog_cute.gif?1595173148" width="30"> Dog </h2>
 
 <p align="center">
-    <img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;ridgeback-rhodesian&#x2F;n02087394_7467.jpg" height="300px">
+    <img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;terrier-scottish&#x2F;n02097298_2420.jpg" height="300px">
 </p>
 
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1500426137/2648/allo-tongue.gif?1500426137" width="30"> Joke </h2>
 
 <p align="center">
-    Algorith (noun.): Word used by programmers when... they do not want to explain what they did.
+    Two wrongs don&#39;t make a right. Unless you&#39;re Chuck Norris. Then two wrongs make a roundhouse kick to the face.
 </p>
