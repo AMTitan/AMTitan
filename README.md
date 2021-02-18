@@ -1,4 +1,4 @@
-# <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> My name is Arthur Melton and I have ![Profile View Counter](https://komarev.com/ghpvc/?username=AMTitan) (Last updated on Wednesday, 17 February, 19:40 GMT-5).
+# <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> My name is Arthur Melton and I have ![Profile View Counter](https://komarev.com/ghpvc/?username=AMTitan) (Last updated on Wednesday, 17 February, 19:41 GMT-5).
 
 <h3> <img src="https://emojis.slackmojis.com/emojis/images/1581539211/7808/party-blob.gif?1581539211" width="30"/> About Me </h3>
 
@@ -64,7 +64,7 @@
 <h2> <img src="http://openweathermap.org/img/w/04n.png" width="30"> Weather </h2>
 
 <p align="center">
-    The weather for me its a overcast clouds and the temperature is 8.87°C (47.97°F) but it actually feels like 5.29°C (41.52°F)!
+    The weather for me its a overcast clouds and the temperature is 8.82°C (47.88°F) but it actually feels like 5.23°C (41.41°F)!
 </p>
 <p align="center">
     The sun rise for me is at 07:19 and the sun set is at 18:22!
@@ -73,17 +73,17 @@
     The wind for me  is 2.24 meters/sec (5.01mph)!
 </p>
 <p align="center">
-    The persaintage of the sky is filled with clouds for me is 97%!
+    The persaintage of the sky is filled with clouds for me is 100%!
 </p>
 
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1595173148/9720/dog_cute.gif?1595173148" width="30"> Dog </h2>
 
 <p align="center">
-    <img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;bulldog-french&#x2F;n02108915_11207.jpg" height="300px">
+    <img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;schipperke&#x2F;n02104365_2263.jpg" height="300px">
 </p>
 
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1500426137/2648/allo-tongue.gif?1500426137" width="30"> Joke </h2>
 
 <p align="center">
-    Chuck Norris doesn&#39;t say &#39;who&#39;s your daddy&#39;, because he knows the answer.
+    A man once taunted Chuck Norris with a bag of Lay&#39;s potato chips, saying &#39;Betcha can&#39;t eat just one!&#39; Chuck Norris proceeded to eat the chips, the bag, and the man in one deft move.
 </p>
