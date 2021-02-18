@@ -73,17 +73,17 @@
     The wind for me  is 1.79 meters/sec (4mph)!
 </p>
 <p align="center">
-    The persaintage of the sky is filled with clouds for me is 100%!
+    The persaintage of the sky is filled with clouds for me is 99%!
 </p>
 
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1595173148/9720/dog_cute.gif?1595173148" width="30"> Dog </h2>
 
 <p align="center">
-    <img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;appenzeller&#x2F;n02107908_7316.jpg" height="300px">
+    <img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;schnauzer-giant&#x2F;n02097130_4991.jpg" height="300px">
 </p>
 
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1500426137/2648/allo-tongue.gif?1500426137" width="30"> Joke </h2>
 
 <p align="center">
-    Some people like to eat frogs&#39; legs. Chuck Norris likes to eat lizard legs. Hence, snakes.
+    Chuck Norris uses 8&#39;x10&#39; sheets of plywood as toilet paper.
 </p>
