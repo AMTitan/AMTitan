@@ -64,26 +64,26 @@
 <h2> <img src="http://openweathermap.org/img/w/04n.png" width="30"> Weather </h2>
 
 <p align="center">
-    The weather for me its a overcast clouds and the temperature is 4.24°C (39.63°F) but it actually feels like 2.54°C (36.57°F)!
+    The weather for me its a overcast clouds and the temperature is 4.5°C (40.1°F) but it actually feels like 2.57°C (36.63°F)!
 </p>
 <p align="center">
     The sun rise for me is at 07:17 and the sun set is at 18:24!
 </p>
 <p align="center">
-    The wind for me  is 0.45 meters/sec (1.01mph)!
+    The wind for me  is 0.89 meters/sec (1.99mph)!
 </p>
 <p align="center">
-    The persaintage of the sky is filled with clouds for me is 85%!
+    The persaintage of the sky is filled with clouds for me is 90%!
 </p>
 
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1595173148/9720/dog_cute.gif?1595173148" width="30"> Dog </h2>
 
 <p align="center">
-    <img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;setter-gordon&#x2F;n02101006_22.jpg" height="300px">
+    <img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;pointer-germanlonghair&#x2F;hans1.jpg" height="300px">
 </p>
 
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1500426137/2648/allo-tongue.gif?1500426137" width="30"> Joke </h2>
 
 <p align="center">
-    Contrary to popular belief, there is indeed enough Chuck Norris to go around.
+    A handicapped parking sign does not signify that this spot is for handicapped people. It is actually in fact a warning, that the spot belongs to Chuck Norris and that you will be handicapped if you park there.
 </p>
