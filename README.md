@@ -64,7 +64,7 @@
 <h2> <img src="http://openweathermap.org/img/w/02d.png" width="30"> Weather </h2>
 
 <p align="center">
-    The weather for me its a few clouds and the temperature is 2.35°C (36.23°F) but it actually feels like -0.44°C (31.21°F)!
+    The weather for me its a few clouds and the temperature is 2.48°C (36.46°F) but it actually feels like -0.27°C (31.51°F)!
 </p>
 <p align="center">
     The sun rise for me is at 07:17 and the sun set is at 18:24!
@@ -79,11 +79,11 @@
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1595173148/9720/dog_cute.gif?1595173148" width="30"> Dog </h2>
 
 <p align="center">
-    <img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;bulldog-french&#x2F;n02108915_5096.jpg" height="300px">
+    <img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;setter-irish&#x2F;n02100877_1020.jpg" height="300px">
 </p>
 
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1500426137/2648/allo-tongue.gif?1500426137" width="30"> Joke </h2>
 
 <p align="center">
-    Chuck Norris? sperm is so badass, he had sex with Nicole Kidman, and 7 months later she prematurely gave birth to a Ford Excursion.
+    Black holes are where God divided by zero.
 </p>
