@@ -64,7 +64,7 @@
 <h2> <img src="http://openweathermap.org/img/w/01d.png" width="30"> Weather </h2>
 
 <p align="center">
-    The weather for me its a clear sky and the temperature is 6.95°C (44.51°F) but it actually feels like 3.99°C (39.18°F)!
+    The weather for me its a clear sky and the temperature is 6.73°C (44.11°F) but it actually feels like 3.64°C (38.55°F)!
 </p>
 <p align="center">
     The sun rise for me is at 07:17 and the sun set is at 18:24!
@@ -79,11 +79,11 @@
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1595173148/9720/dog_cute.gif?1595173148" width="30"> Dog </h2>
 
 <p align="center">
-    <img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;stbernard&#x2F;n02109525_2681.jpg" height="300px">
+    <img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;hound-ibizan&#x2F;n02091244_3369.jpg" height="300px">
 </p>
 
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1500426137/2648/allo-tongue.gif?1500426137" width="30"> Joke </h2>
 
 <p align="center">
-    Most tough men eat nails for breakfast. Chuck Norris does all of his grocery shopping at Home Depot.
+    In an average living room there are 1,242 objects Chuck Norris could use to kill you, including the room itself.
 </p>
