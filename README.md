@@ -64,7 +64,7 @@
 <h2> <img src="http://openweathermap.org/img/w/01d.png" width="30"> Weather </h2>
 
 <p align="center">
-    The weather for me its a clear sky and the temperature is 7.41°C (45.34°F) but it actually feels like 4.71°C (40.48°F)!
+    The weather for me its a clear sky and the temperature is 7.42°C (45.36°F) but it actually feels like 4.76°C (40.57°F)!
 </p>
 <p align="center">
     The sun rise for me is at 07:17 and the sun set is at 18:24!
@@ -79,11 +79,11 @@
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1595173148/9720/dog_cute.gif?1595173148" width="30"> Dog </h2>
 
 <p align="center">
-    <img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;hound-basset&#x2F;n02088238_9841.jpg" height="300px">
+    <img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;hound-walker&#x2F;n02089867_942.jpg" height="300px">
 </p>
 
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1500426137/2648/allo-tongue.gif?1500426137" width="30"> Joke </h2>
 
 <p align="center">
-    Chuck Norris does not &#39;style&#39; his hair. It lays perfectly in place out of sheer terror.
+    With Chuck Norris P &#x3D; NP. There&#39;s no nondeterminism with Chuck Norris decisions.
 </p>
