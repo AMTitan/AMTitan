@@ -64,7 +64,7 @@
 <h2> <img src="http://openweathermap.org/img/w/02n.png" width="30"> Weather </h2>
 
 <p align="center">
-    The weather for me its a few clouds and the temperature is 0.74°C (33.33°F) but it actually feels like -3.76°C (25.23°F)!
+    The weather for me its a few clouds and the temperature is 0.74°C (33.33°F) but it actually feels like -3.78°C (25.2°F)!
 </p>
 <p align="center">
     The sun rise for me is at 07:16 and the sun set is at 18:25!
@@ -79,11 +79,11 @@
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1595173148/9720/dog_cute.gif?1595173148" width="30"> Dog </h2>
 
 <p align="center">
-    <img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;pointer-germanlonghair&#x2F;hans1.jpg" height="300px">
+    <img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;terrier-westhighland&#x2F;n02098286_751.jpg" height="300px">
 </p>
 
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1500426137/2648/allo-tongue.gif?1500426137" width="30"> Joke </h2>
 
 <p align="center">
-    Chuck Norris is the only person in the world that can actually email a roundhouse kick.
+    UNIX is basically a simple operating system... but you have to be a genius to understand the simplicity.
 </p>
