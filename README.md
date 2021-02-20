@@ -61,29 +61,29 @@
     <img style="width:100%" src="https://github-readme-stats.vercel.app/api/wakatime?username=AMTitan&layout=compact&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" />
 </p>
 
-<h2> <img src="http://openweathermap.org/img/w/03n.png" width="30"> Weather </h2>
+<h2> <img src="http://openweathermap.org/img/w/04n.png" width="30"> Weather </h2>
 
 <p align="center">
-    The weather for me its a scattered clouds and the temperature is -0.02°C (31.96°F) but it actually feels like -4.48°C (23.94°F)!
+    The weather for me its a overcast clouds and the temperature is -0.08°C (31.86°F) but it actually feels like -4.59°C (23.74°F)!
 </p>
 <p align="center">
     The sun rise for me is at 07:16 and the sun set is at 18:25!
 </p>
 <p align="center">
-    The wind for me  is 2.84 meters/sec (6.35mph)!
+    The wind for me  is 2.91 meters/sec (6.51mph)!
 </p>
 <p align="center">
-    The persaintage of the sky is filled with clouds for me is 27%!
+    The persaintage of the sky is filled with clouds for me is 92%!
 </p>
 
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1595173148/9720/dog_cute.gif?1595173148" width="30"> Dog </h2>
 
 <p align="center">
-    <img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;terrier-silky&#x2F;n02097658_3396.jpg" height="300px">
+    <img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;lhasa&#x2F;n02098413_5360.jpg" height="300px">
 </p>
 
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1500426137/2648/allo-tongue.gif?1500426137" width="30"> Joke </h2>
 
 <p align="center">
-    MySpace actually isn&#39;t your space, it&#39;s Chuck&#39;s (he just lets you use it).
+    Michael Sinz: “Programming is like sex... one mistake and you have to support it for the rest of your life.”
 </p>
