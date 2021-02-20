@@ -64,13 +64,13 @@
 <h2> <img src="http://openweathermap.org/img/w/01d.png" width="30"> Weather </h2>
 
 <p align="center">
-    The weather for me its a clear sky and the temperature is 8.72°C (47.7°F) but it actually feels like 3.89°C (39°F)!
+    The weather for me its a clear sky and the temperature is 8.66°C (47.59°F) but it actually feels like 5.57°C (42.03°F)!
 </p>
 <p align="center">
     The sun rise for me is at 07:16 and the sun set is at 18:25!
 </p>
 <p align="center">
-    The wind for me  is 2.94 meters/sec (6.58mph)!
+    The wind for me  is 0.45 meters/sec (1.01mph)!
 </p>
 <p align="center">
     The persaintage of the sky is filled with clouds for me is 0%!
@@ -79,11 +79,11 @@
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1595173148/9720/dog_cute.gif?1595173148" width="30"> Dog </h2>
 
 <p align="center">
-    <img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;hound-english&#x2F;n02089973_2345.jpg" height="300px">
+    <img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;saluki&#x2F;n02091831_699.jpg" height="300px">
 </p>
 
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1500426137/2648/allo-tongue.gif?1500426137" width="30"> Joke </h2>
 
 <p align="center">
-    Faster than a speeding bullet... More powerful than a locomotive... Able to leap tall buildings in a single bound... These are some of Chuck Norris&#39;s warm-up exercises.
+    &#39;Knock knock.&#39; &#39;Who&#39;s there?&#39; *10 mins later* &#39;Java.&#39;
 </p>
