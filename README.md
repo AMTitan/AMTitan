@@ -64,26 +64,26 @@
 <h2> <img src="http://openweathermap.org/img/w/02n.png" width="30"> Weather </h2>
 
 <p align="center">
-    The weather for me its a few clouds and the temperature is 0.63°C (33.13°F) but it actually feels like -3.94°C (24.91°F)!
+    The weather for me its a few clouds and the temperature is 0.63°C (33.13°F) but it actually feels like -3.86°C (25.05°F)!
 </p>
 <p align="center">
     The sun rise for me is at 07:16 and the sun set is at 18:25!
 </p>
 <p align="center">
-    The wind for me  is 3.08 meters/sec (6.89mph)!
+    The wind for me  is 2.96 meters/sec (6.62mph)!
 </p>
 <p align="center">
-    The persaintage of the sky is filled with clouds for me is 20%!
+    The persaintage of the sky is filled with clouds for me is 22%!
 </p>
 
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1595173148/9720/dog_cute.gif?1595173148" width="30"> Dog </h2>
 
 <p align="center">
-    <img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;retriever-golden&#x2F;n02099601_3004.jpg" height="300px">
+    <img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;samoyed&#x2F;n02111889_17211.jpg" height="300px">
 </p>
 
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1500426137/2648/allo-tongue.gif?1500426137" width="30"> Joke </h2>
 
 <p align="center">
-    Chuck Norris has banned rainbows from the state of North Dakota.
+    When an episode of Walker Texas Ranger was aired in France, the French surrendered to Chuck Norris just to be on the safe side.
 </p>
