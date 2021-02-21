@@ -64,7 +64,7 @@
 <h2> <img src="http://openweathermap.org/img/w/01n.png" width="30"> Weather </h2>
 
 <p align="center">
-    The weather for me its a clear sky and the temperature is -1.17°C (29.89°F) but it actually feels like -4.99°C (23.02°F)!
+    The weather for me its a clear sky and the temperature is -0.87°C (30.43°F) but it actually feels like -4.77°C (23.41°F)!
 </p>
 <p align="center">
     The sun rise for me is at 07:15 and the sun set is at 18:26!
@@ -79,11 +79,11 @@
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1595173148/9720/dog_cute.gif?1595173148" width="30"> Dog </h2>
 
 <p align="center">
-    <img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;poodle-standard&#x2F;n02113799_2650.jpg" height="300px">
+    <img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;komondor&#x2F;n02105505_2316.jpg" height="300px">
 </p>
 
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1500426137/2648/allo-tongue.gif?1500426137" width="30"> Joke </h2>
 
 <p align="center">
-    Chuck Norris can solve the Towers of Hanoi in one move.
+    I&#39;ve got a really good UDP joke to tell you, but i don&#39;t know if you&#39;ll get it
 </p>
