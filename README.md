@@ -64,13 +64,13 @@
 <h2> <img src="http://openweathermap.org/img/w/03d.png" width="30"> Weather </h2>
 
 <p align="center">
-    The weather for me its a scattered clouds and the temperature is 14.43°C (57.97°F) but it actually feels like 12.31°C (54.16°F)!
+    The weather for me its a scattered clouds and the temperature is 14.33°C (57.79°F) but it actually feels like 11.71°C (53.08°F)!
 </p>
 <p align="center">
     The sun rise for me is at 07:14 and the sun set is at 18:27!
 </p>
 <p align="center">
-    The wind for me  is 1.34 meters/sec (3mph)!
+    The wind for me  is 1.79 meters/sec (4mph)!
 </p>
 <p align="center">
     The persaintage of the sky is filled with clouds for me is 33%!
@@ -79,11 +79,11 @@
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1595173148/9720/dog_cute.gif?1595173148" width="30"> Dog </h2>
 
 <p align="center">
-    <img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;hound-blood&#x2F;n02088466_9792.jpg" height="300px">
+    <img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;terrier-silky&#x2F;n02097658_2523.jpg" height="300px">
 </p>
 
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1500426137/2648/allo-tongue.gif?1500426137" width="30"> Joke </h2>
 
 <p align="center">
-    If you rearrange the letters in &#39;Chuck Norris&#39;, they also spell &#39;Crush Rock In&#39;. The words &#39;with his fists&#39; are understood.
+    In a world without fences and walls... who needs Gates and Windows?
 </p>
