@@ -64,7 +64,7 @@
 <h2> <img src="http://openweathermap.org/img/w/04n.png" width="30"> Weather </h2>
 
 <p align="center">
-    The weather for me its a broken clouds and the temperature is 10.18°C (50.32°F) but it actually feels like 8.46°C (47.23°F)!
+    The weather for me its a broken clouds and the temperature is 10.11°C (50.2°F) but it actually feels like 8.38°C (47.08°F)!
 </p>
 <p align="center">
     The sun rise for me is at 07:14 and the sun set is at 18:27!
@@ -79,11 +79,11 @@
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1595173148/9720/dog_cute.gif?1595173148" width="30"> Dog </h2>
 
 <p align="center">
-    <img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;papillon&#x2F;n02086910_7426.jpg" height="300px">
+    <img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;coonhound&#x2F;n02089078_1174.jpg" height="300px">
 </p>
 
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1500426137/2648/allo-tongue.gif?1500426137" width="30"> Joke </h2>
 
 <p align="center">
-    If at first you don’t succeed; call it version 1.0.
+    Do you know why Baskin Robbins only has 31 flavors? Because Chuck Norris doesn&#39;t like Fudge Ripple.
 </p>
