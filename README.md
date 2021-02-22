@@ -64,7 +64,7 @@
 <h2> <img src="http://openweathermap.org/img/w/04n.png" width="30"> Weather </h2>
 
 <p align="center">
-    The weather for me its a broken clouds and the temperature is 10.5°C (50.9°F) but it actually feels like 8.22°C (46.8°F)!
+    The weather for me its a broken clouds and the temperature is 10.54°C (50.97°F) but it actually feels like 8.31°C (46.96°F)!
 </p>
 <p align="center">
     The sun rise for me is at 07:15 and the sun set is at 18:26!
@@ -73,17 +73,17 @@
     The wind for me  is 0.89 meters/sec (1.99mph)!
 </p>
 <p align="center">
-    The persaintage of the sky is filled with clouds for me is 57%!
+    The persaintage of the sky is filled with clouds for me is 68%!
 </p>
 
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1595173148/9720/dog_cute.gif?1595173148" width="30"> Dog </h2>
 
 <p align="center">
-    <img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;komondor&#x2F;n02105505_2982.jpg" height="300px">
+    <img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;terrier-silky&#x2F;n02097658_10559.jpg" height="300px">
 </p>
 
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1500426137/2648/allo-tongue.gif?1500426137" width="30"> Joke </h2>
 
 <p align="center">
-    Chuck Norris can win a game of Trivial Pursuit with one roll of the dice, and without answering a single question... just a nod of the head, and a stroke of the beard.
+    It is scientifically impossible for Chuck Norris to have had a mortal father. The most popular theory is that he went back in time and fathered himself.
 </p>
