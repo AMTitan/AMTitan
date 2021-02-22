@@ -64,7 +64,7 @@
 <h2> <img src="http://openweathermap.org/img/w/04n.png" width="30"> Weather </h2>
 
 <p align="center">
-    The weather for me its a overcast clouds and the temperature is 8.71°C (47.68°F) but it actually feels like 5.4°C (41.72°F)!
+    The weather for me its a overcast clouds and the temperature is 8.67°C (47.61°F) but it actually feels like 5.35°C (41.63°F)!
 </p>
 <p align="center">
     The sun rise for me is at 07:14 and the sun set is at 18:27!
@@ -79,11 +79,11 @@
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1595173148/9720/dog_cute.gif?1595173148" width="30"> Dog </h2>
 
 <p align="center">
-    <img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;pekinese&#x2F;n02086079_7769.jpg" height="300px">
+    <img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;clumber&#x2F;n02101556_3997.jpg" height="300px">
 </p>
 
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1500426137/2648/allo-tongue.gif?1500426137" width="30"> Joke </h2>
 
 <p align="center">
-    The phrase &#39;balls to the wall&#39; was originally conceived to describe Chuck Norris entering any building smaller than an aircraft hangar.
+    All arrays Chuck Norris declares are of infinite size, because Chuck Norris knows no bounds.
 </p>
