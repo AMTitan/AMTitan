@@ -64,13 +64,13 @@
 <h2> <img src="http://openweathermap.org/img/w/01n.png" width="30"> Weather </h2>
 
 <p align="center">
-    The weather for me its a clear sky and the temperature is 2.49°C (36.48°F) but it actually feels like 0.11°C (32.2°F)!
+    The weather for me its a clear sky and the temperature is 2.49°C (36.48°F) but it actually feels like -0.09°C (31.84°F)!
 </p>
 <p align="center">
     The sun rise for me is at 07:11 and the sun set is at 18:29!
 </p>
 <p align="center">
-    The wind for me  is 0.68 meters/sec (1.52mph)!
+    The wind for me  is 0.96 meters/sec (2.15mph)!
 </p>
 <p align="center">
     The persaintage of the sky is filled with clouds for me is 1%!
@@ -79,11 +79,11 @@
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1595173148/9720/dog_cute.gif?1595173148" width="30"> Dog </h2>
 
 <p align="center">
-    <img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;otterhound&#x2F;n02091635_3466.jpg" height="300px">
+    <img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;bulldog-french&#x2F;n02108915_11498.jpg" height="300px">
 </p>
 
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1500426137/2648/allo-tongue.gif?1500426137" width="30"> Joke </h2>
 
 <p align="center">
-    All browsers support the hex definitions #chuck and #norris for the colors black and blue.
+    Most boots are made for walkin&#39;. Chuck Norris&#39; boots ain&#39;t that merciful.
 </p>
