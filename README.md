@@ -64,13 +64,13 @@
 <h2> <img src="http://openweathermap.org/img/w/01n.png" width="30"> Weather </h2>
 
 <p align="center">
-    The weather for me its a clear sky and the temperature is 6.37°C (43.47°F) but it actually feels like 3.56°C (38.41°F)!
+    The weather for me its a clear sky and the temperature is 6.37°C (43.47°F) but it actually feels like 3.62°C (38.52°F)!
 </p>
 <p align="center">
     The sun rise for me is at 07:11 and the sun set is at 18:29!
 </p>
 <p align="center">
-    The wind for me  is 1.24 meters/sec (2.77mph)!
+    The wind for me  is 1.15 meters/sec (2.57mph)!
 </p>
 <p align="center">
     The persaintage of the sky is filled with clouds for me is 1%!
@@ -79,11 +79,11 @@
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1595173148/9720/dog_cute.gif?1595173148" width="30"> Dog </h2>
 
 <p align="center">
-    <img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;malamute&#x2F;n02110063_13075.jpg" height="300px">
+    <img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;borzoi&#x2F;n02090622_8338.jpg" height="300px">
 </p>
 
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1500426137/2648/allo-tongue.gif?1500426137" width="30"> Joke </h2>
 
 <p align="center">
-    How many roundhouse kicks does it take to get to the center of a tootsie pop? Just one. From Chuck Norris.
+    There is no Esc key on Chuck Norris&#39; keyboard, because no one escapes Chuck Norris.
 </p>
