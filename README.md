@@ -67,7 +67,7 @@
     The weather for me its a clear sky and the temperature is 7.29°C (45.12°F) but it actually feels like 4.33°C (39.79°F)!
 </p>
 <p align="center">
-    The sun rise for me is at 07:13 and the sun set is at 18:28!
+    The sun rise for me is at 07:11 and the sun set is at 18:29!
 </p>
 <p align="center">
     The wind for me  is 1.25 meters/sec (2.8mph)!
@@ -79,11 +79,11 @@
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1595173148/9720/dog_cute.gif?1595173148" width="30"> Dog </h2>
 
 <p align="center">
-    <img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;saluki&#x2F;n02091831_6427.jpg" height="300px">
+    <img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;terrier-sealyham&#x2F;n02095889_2031.jpg" height="300px">
 </p>
 
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1500426137/2648/allo-tongue.gif?1500426137" width="30"> Joke </h2>
 
 <p align="center">
-    If the box says: &#39;This software requires Windows 7 or better&#39; Does that mean it&#39;ll run on Linux?
+    Chuck Norris played Russian Roulette with a fully loaded gun and won.
 </p>
