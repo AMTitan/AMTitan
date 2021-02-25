@@ -64,13 +64,13 @@
 <h2> <img src="http://openweathermap.org/img/w/01n.png" width="30"> Weather </h2>
 
 <p align="center">
-    The weather for me its a clear sky and the temperature is 10.31°C (50.56°F) but it actually feels like 7.28°C (45.1°F)!
+    The weather for me its a clear sky and the temperature is 10.13°C (50.23°F) but it actually feels like 7.63°C (45.73°F)!
 </p>
 <p align="center">
     The sun rise for me is at 07:10 and the sun set is at 18:30!
 </p>
 <p align="center">
-    The wind for me  is 1.57 meters/sec (3.51mph)!
+    The wind for me  is 0.89 meters/sec (1.99mph)!
 </p>
 <p align="center">
     The persaintage of the sky is filled with clouds for me is 0%!
@@ -85,5 +85,5 @@
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1500426137/2648/allo-tongue.gif?1500426137" width="30"> Joke </h2>
 
 <p align="center">
-    President Roosevelt once rode his horse 100 miles. Chuck Norris carried his the same distance in half the time.
+    We live in an expanding universe. All of it is trying to get away from Chuck Norris.
 </p>
