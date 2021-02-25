@@ -1,4 +1,4 @@
-# <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> My name is Arthur Melton and I have ![Profile View Counter](https://komarev.com/ghpvc/?username=AMTitan) (Last updated on Wednesday, 24 February, 22:04 GMT-5).
+# <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> My name is Arthur Melton and I have ![Profile View Counter](https://komarev.com/ghpvc/?username=AMTitan) (Last updated on Wednesday, 24 February, 22:05 GMT-5).
 
 <h3> <img src="https://emojis.slackmojis.com/emojis/images/1581539211/7808/party-blob.gif?1581539211" width="30"/> About Me </h3>
 
@@ -64,13 +64,13 @@
 <h2> <img src="http://openweathermap.org/img/w/01n.png" width="30"> Weather </h2>
 
 <p align="center">
-    The weather for me its a clear sky and the temperature is 12.61°C (54.7°F) but it actually feels like 8.99°C (48.18°F)!
+    The weather for me its a clear sky and the temperature is 12.53°C (54.55°F) but it actually feels like 8.98°C (48.16°F)!
 </p>
 <p align="center">
     The sun rise for me is at 07:11 and the sun set is at 18:29!
 </p>
 <p align="center">
-    The wind for me  is 2.28 meters/sec (5.1mph)!
+    The wind for me  is 2.16 meters/sec (4.83mph)!
 </p>
 <p align="center">
     The persaintage of the sky is filled with clouds for me is 0%!
@@ -79,11 +79,11 @@
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1595173148/9720/dog_cute.gif?1595173148" width="30"> Dog </h2>
 
 <p align="center">
-    <img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;redbone&#x2F;n02090379_2003.jpg" height="300px">
+    <img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;terrier-irish&#x2F;n02093991_114.jpg" height="300px">
 </p>
 
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1500426137/2648/allo-tongue.gif?1500426137" width="30"> Joke </h2>
 
 <p align="center">
-    A man once taunted Chuck Norris with a bag of Lay&#39;s potato chips, saying &#39;Betcha can&#39;t eat just one!&#39; Chuck Norris proceeded to eat the chips, the bag, and the man in one deft move.
+    Saddam Hussein was not found hiding in a &#39;hole.&#39; Saddam was roundhouse-kicked in the head by Chuck Norris in Kansas, which sent him through the earth, stopping just short of the surface of Iraq.
 </p>
