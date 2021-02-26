@@ -1,4 +1,4 @@
-# <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> My name is Arthur Melton and I have ![Profile View Counter](https://komarev.com/ghpvc/?username=AMTitan) (Last updated on Thursday, 25 February, 20:27 GMT-5).
+# <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> My name is Arthur Melton and I have ![Profile View Counter](https://komarev.com/ghpvc/?username=AMTitan) (Last updated on Thursday, 25 February, 20:29 GMT-5).
 
 <h3> <img src="https://emojis.slackmojis.com/emojis/images/1581539211/7808/party-blob.gif?1581539211" width="30"/> About Me </h3>
 
@@ -64,7 +64,7 @@
 <h2> <img src="http://openweathermap.org/img/w/03n.png" width="30"> Weather </h2>
 
 <p align="center">
-    The weather for me its a scattered clouds and the temperature is 14.62°C (58.32°F) but it actually feels like 11.17°C (52.11°F)!
+    The weather for me its a scattered clouds and the temperature is 14.58°C (58.24°F) but it actually feels like 11.12°C (52.02°F)!
 </p>
 <p align="center">
     The sun rise for me is at 07:10 and the sun set is at 18:30!
@@ -79,11 +79,11 @@
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1595173148/9720/dog_cute.gif?1595173148" width="30"> Dog </h2>
 
 <p align="center">
-    <img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;wolfhound-irish&#x2F;n02090721_5914.jpg" height="300px">
+    <img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;spaniel-cocker&#x2F;n02102318_6105.jpg" height="300px">
 </p>
 
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1500426137/2648/allo-tongue.gif?1500426137" width="30"> Joke </h2>
 
 <p align="center">
-    When Chuck Norris goes to out to eat, he orders a whole chicken, but he only eats its soul.
+    Chuck Norris doesn&#39;t use GUI, he prefers COMMAND line.
 </p>
