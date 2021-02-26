@@ -73,17 +73,17 @@
     The wind for me  is 1.79 meters/sec (4mph)!
 </p>
 <p align="center">
-    The persaintage of the sky is filled with clouds for me is 98%!
+    The persaintage of the sky is filled with clouds for me is 100%!
 </p>
 
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1595173148/9720/dog_cute.gif?1595173148" width="30"> Dog </h2>
 
 <p align="center">
-    <img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;mastiff-tibetan&#x2F;n02108551_6179.jpg" height="300px">
+    <img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;bluetick&#x2F;n02088632_3049.jpg" height="300px">
 </p>
 
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1500426137/2648/allo-tongue.gif?1500426137" width="30"> Joke </h2>
 
 <p align="center">
-    NT is the only OS that has caused me to beat a piece of hardware to death with my bare hands.
+    The only sure things are Death and Taxes?and when Chuck Norris goes to work for the IRS, they&#39;ll be the same thing.
 </p>
