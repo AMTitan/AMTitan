@@ -61,29 +61,29 @@
     <img style="width:100%" src="https://github-readme-stats.vercel.app/api/wakatime?username=AMTitan&layout=compact&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" />
 </p>
 
-<h2> <img src="http://openweathermap.org/img/w/01n.png" width="30"> Weather </h2>
+<h2> <img src="http://openweathermap.org/img/w/03n.png" width="30"> Weather </h2>
 
 <p align="center">
-    The weather for me its a clear sky and the temperature is 14.47°C (58.05°F) but it actually feels like 11.18°C (52.12°F)!
+    The weather for me its a scattered clouds and the temperature is 14.62°C (58.32°F) but it actually feels like 11.17°C (52.11°F)!
 </p>
 <p align="center">
     The sun rise for me is at 07:10 and the sun set is at 18:30!
 </p>
 <p align="center">
-    The wind for me  is 2.09 meters/sec (4.68mph)!
+    The wind for me  is 2.27 meters/sec (5.08mph)!
 </p>
 <p align="center">
-    The persaintage of the sky is filled with clouds for me is 0%!
+    The persaintage of the sky is filled with clouds for me is 45%!
 </p>
 
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1595173148/9720/dog_cute.gif?1595173148" width="30"> Dog </h2>
 
 <p align="center">
-    <img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;mexicanhairless&#x2F;n02113978_1994.jpg" height="300px">
+    <img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;hound-afghan&#x2F;n02088094_4406.jpg" height="300px">
 </p>
 
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1500426137/2648/allo-tongue.gif?1500426137" width="30"> Joke </h2>
 
 <p align="center">
-    It takes 14 puppeteers to make Chuck Norris smile, but only 2 to make him destroy an orphanage.
+    When Chuck Norris goes to out to eat, he orders a whole chicken, but he only eats its soul.
 </p>
