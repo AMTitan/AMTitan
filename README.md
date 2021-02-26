@@ -64,7 +64,7 @@
 <h2> <img src="http://openweathermap.org/img/w/10d.png" width="30"> Weather </h2>
 
 <p align="center">
-    The weather for me its a light rain and the temperature is 9.69°C (49.44°F) but it actually feels like 8.6°C (47.48°F)!
+    The weather for me its a light rain and the temperature is 9.73°C (49.51°F) but it actually feels like 8.65°C (47.57°F)!
 </p>
 <p align="center">
     The sun rise for me is at 07:09 and the sun set is at 18:30!
@@ -79,11 +79,11 @@
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1595173148/9720/dog_cute.gif?1595173148" width="30"> Dog </h2>
 
 <p align="center">
-    <img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;hound-plott&#x2F;hhh-23456.jpeg" height="300px">
+    <img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;basenji&#x2F;n02110806_1019.jpg" height="300px">
 </p>
 
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1500426137/2648/allo-tongue.gif?1500426137" width="30"> Joke </h2>
 
 <p align="center">
-    Chuck Norris does not code in cycles, he codes in strikes.
+    Someone once videotaped Chuck Norris getting pissed off. It was called Walker: Texas Chain Saw Masacre.
 </p>
