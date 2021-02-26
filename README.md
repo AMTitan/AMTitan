@@ -64,7 +64,7 @@
 <h2> <img src="http://openweathermap.org/img/w/10d.png" width="30"> Weather </h2>
 
 <p align="center">
-    The weather for me its a light rain and the temperature is 8.58°C (47.44°F) but it actually feels like 7.79°C (46.02°F)!
+    The weather for me its a light rain and the temperature is 8.57°C (47.43°F) but it actually feels like 7.78°C (46°F)!
 </p>
 <p align="center">
     The sun rise for me is at 07:09 and the sun set is at 18:30!
@@ -79,11 +79,11 @@
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1595173148/9720/dog_cute.gif?1595173148" width="30"> Dog </h2>
 
 <p align="center">
-    <img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;papillon&#x2F;n02086910_2240.jpg" height="300px">
+    <img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;schnauzer-giant&#x2F;n02097130_5117.jpg" height="300px">
 </p>
 
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1500426137/2648/allo-tongue.gif?1500426137" width="30"> Joke </h2>
 
 <p align="center">
-    Chuck Norris puts his pants on one leg at a time, just like the rest of us. The only difference is, then he kills people.
+    Chuck Norris doesn&#39;t have disk latency because the hard drive knows to hurry the hell up.
 </p>
