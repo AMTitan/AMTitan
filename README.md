@@ -64,7 +64,7 @@
 <h2> <img src="http://openweathermap.org/img/w/10n.png" width="30"> Weather </h2>
 
 <p align="center">
-    The weather for me its a moderate rain and the temperature is 9.04°C (48.27°F) but it actually feels like 8.06°C (46.51°F)!
+    The weather for me its a heavy intensity rain and the temperature is 8.92°C (48.06°F) but it actually feels like 7.87°C (46.17°F)!
 </p>
 <p align="center">
     The sun rise for me is at 07:09 and the sun set is at 18:30!
@@ -79,11 +79,11 @@
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1595173148/9720/dog_cute.gif?1595173148" width="30"> Dog </h2>
 
 <p align="center">
-    <img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;newfoundland&#x2F;n02111277_4881.jpg" height="300px">
+    <img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;schnauzer-miniature&#x2F;n02097047_535.jpg" height="300px">
 </p>
 
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1500426137/2648/allo-tongue.gif?1500426137" width="30"> Joke </h2>
 
 <p align="center">
-    Crime does not pay - unless you are an undertaker following Walker, Texas Ranger, on a routine patrol.
+    Most people have 23 pairs of chromosomes. Chuck Norris has 72... and they&#39;re all poisonous.
 </p>
