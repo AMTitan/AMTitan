@@ -73,17 +73,17 @@
     The wind for me  is 1.79 meters/sec (4mph)!
 </p>
 <p align="center">
-    The persaintage of the sky is filled with clouds for me is 96%!
+    The persaintage of the sky is filled with clouds for me is 100%!
 </p>
 
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1595173148/9720/dog_cute.gif?1595173148" width="30"> Dog </h2>
 
 <p align="center">
-    <img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;terrier-fox&#x2F;n02095314_3316.jpg" height="300px">
+    <img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;dingo&#x2F;n02115641_970.jpg" height="300px">
 </p>
 
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1500426137/2648/allo-tongue.gif?1500426137" width="30"> Joke </h2>
 
 <p align="center">
-    There are three kinds of people: those who can count and those who can’t.
+    I told him I can&#39;t open the jar, he said download and install Java
 </p>
