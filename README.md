@@ -64,13 +64,13 @@
 <h2> <img src="http://openweathermap.org/img/w/04n.png" width="30"> Weather </h2>
 
 <p align="center">
-    The weather for me its a overcast clouds and the temperature is 6.78°C (44.2°F) but it actually feels like 4.93°C (40.87°F)!
+    The weather for me its a overcast clouds and the temperature is 6.67°C (44.01°F) but it actually feels like 3.9°C (39.02°F)!
 </p>
 <p align="center">
     The sun rise for me is at 07:08 and the sun set is at 18:31!
 </p>
 <p align="center">
-    The wind for me  is 1.34 meters/sec (3mph)!
+    The wind for me  is 2.53 meters/sec (5.66mph)!
 </p>
 <p align="center">
     The persaintage of the sky is filled with clouds for me is 100%!
@@ -79,11 +79,11 @@
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1595173148/9720/dog_cute.gif?1595173148" width="30"> Dog </h2>
 
 <p align="center">
-    <img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;cotondetulear&#x2F;IMG_20160830_202631573.jpg" height="300px">
+    <img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;beagle&#x2F;n02088364_14863.jpg" height="300px">
 </p>
 
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1500426137/2648/allo-tongue.gif?1500426137" width="30"> Joke </h2>
 
 <p align="center">
-    Why do Java programmers have to wear glasses? Because they don&#39;t C#.
+    Chuck Norris once rode a nine foot grizzly bear through an automatic car wash, instead of taking a shower.
 </p>
