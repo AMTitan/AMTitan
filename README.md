@@ -1,4 +1,4 @@
-# <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> My name is Arthur Melton and I have ![Profile View Counter](https://komarev.com/ghpvc/?username=AMTitan) (Last updated on Saturday, 27 February, 16:58 GMT-5).
+# <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> My name is Arthur Melton and I have ![Profile View Counter](https://komarev.com/ghpvc/?username=AMTitan) (Last updated on Saturday, 27 February, 16:59 GMT-5).
 
 <h3> <img src="https://emojis.slackmojis.com/emojis/images/1581539211/7808/party-blob.gif?1581539211" width="30"/> About Me </h3>
 
@@ -61,10 +61,10 @@
     <img style="width:100%" src="https://github-readme-stats.vercel.app/api/wakatime?username=AMTitan&layout=compact&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" />
 </p>
 
-<h2> <img src="http://openweathermap.org/img/w/04d.png" width="30"> Weather </h2>
+<h2> <img src="http://openweathermap.org/img/w/02d.png" width="30"> Weather </h2>
 
 <p align="center">
-    The weather for me its a broken clouds and the temperature is 18°C (64.4°F) but it actually feels like 17.18°C (62.92°F)!
+    The weather for me its a few clouds and the temperature is 18.24°C (64.83°F) but it actually feels like 18.11°C (64.6°F)!
 </p>
 <p align="center">
     The sun rise for me is at 07:08 and the sun set is at 18:31!
@@ -73,17 +73,17 @@
     The wind for me  is 2.06 meters/sec (4.61mph)!
 </p>
 <p align="center">
-    The persaintage of the sky is filled with clouds for me is 75%!
+    The persaintage of the sky is filled with clouds for me is 20%!
 </p>
 
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1595173148/9720/dog_cute.gif?1595173148" width="30"> Dog </h2>
 
 <p align="center">
-    <img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;spaniel-japanese&#x2F;n02085782_2584.jpg" height="300px">
+    <img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;sheepdog-english&#x2F;n02105641_13779.jpg" height="300px">
 </p>
 
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1500426137/2648/allo-tongue.gif?1500426137" width="30"> Joke </h2>
 
 <p align="center">
-    There are no races, only countries of people Chuck Norris has beaten to different shades of black and blue.
+    The US did not boycott the 1980 Summer Olympics in Moscow due to political reasons: Chuck Norris killed the entire US team with a single round-house kick during TaeKwonDo practice.
 </p>
