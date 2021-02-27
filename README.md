@@ -64,13 +64,13 @@
 <h2> <img src="http://openweathermap.org/img/w/01d.png" width="30"> Weather </h2>
 
 <p align="center">
-    The weather for me its a clear sky and the temperature is 17.99°C (64.38°F) but it actually feels like 17.57°C (63.63°F)!
+    The weather for me its a clear sky and the temperature is 17.99°C (64.38°F) but it actually feels like 17.91°C (64.24°F)!
 </p>
 <p align="center">
     The sun rise for me is at 07:08 and the sun set is at 18:31!
 </p>
 <p align="center">
-    The wind for me  is 2.36 meters/sec (5.28mph)!
+    The wind for me  is 1.87 meters/sec (4.18mph)!
 </p>
 <p align="center">
     The persaintage of the sky is filled with clouds for me is 1%!
@@ -79,11 +79,11 @@
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1595173148/9720/dog_cute.gif?1595173148" width="30"> Dog </h2>
 
 <p align="center">
-    <img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;terrier-lakeland&#x2F;n02095570_3711.jpg" height="300px">
+    <img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;terrier-american&#x2F;n02093428_12624.jpg" height="300px">
 </p>
 
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1500426137/2648/allo-tongue.gif?1500426137" width="30"> Joke </h2>
 
 <p align="center">
-    Chuck Norris writes code that optimizes itself.
+    MacGyver can build an airplane out of gum and paper clips, but Chuck Norris can roundhouse-kick his head through a wall and take it.
 </p>
