@@ -64,7 +64,7 @@
 <h2> <img src="http://openweathermap.org/img/w/04d.png" width="30"> Weather </h2>
 
 <p align="center">
-    The weather for me its a overcast clouds and the temperature is 14.86°C (58.75°F) but it actually feels like 13.6°C (56.48°F)!
+    The weather for me its a overcast clouds and the temperature is 14.64°C (58.35°F) but it actually feels like 13.31°C (55.96°F)!
 </p>
 <p align="center">
     The sun rise for me is at 07:07 and the sun set is at 18:32!
@@ -79,11 +79,11 @@
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1595173148/9720/dog_cute.gif?1595173148" width="30"> Dog </h2>
 
 <p align="center">
-    <img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;leonberg&#x2F;n02111129_1832.jpg" height="300px">
+    <img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;puggle&#x2F;IMG_143138.jpg" height="300px">
 </p>
 
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1500426137/2648/allo-tongue.gif?1500426137" width="30"> Joke </h2>
 
 <p align="center">
-    Most boots are made for walkin&#39;. Chuck Norris&#39; boots ain&#39;t that merciful.
+    Evolution is God’s way of issuing upgrades.
 </p>
