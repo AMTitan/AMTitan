@@ -64,26 +64,26 @@
 <h2> <img src="http://openweathermap.org/img/w/04d.png" width="30"> Weather </h2>
 
 <p align="center">
-    The weather for me its a overcast clouds and the temperature is 12.23°C (54.01°F) but it actually feels like 11.5°C (52.7°F)!
+    The weather for me its a broken clouds and the temperature is 12.31°C (54.16°F) but it actually feels like 11.22°C (52.2°F)!
 </p>
 <p align="center">
     The sun rise for me is at 07:07 and the sun set is at 18:32!
 </p>
 <p align="center">
-    The wind for me  is 1.9 meters/sec (4.25mph)!
+    The wind for me  is 2.45 meters/sec (5.48mph)!
 </p>
 <p align="center">
-    The persaintage of the sky is filled with clouds for me is 86%!
+    The persaintage of the sky is filled with clouds for me is 71%!
 </p>
 
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1595173148/9720/dog_cute.gif?1595173148" width="30"> Dog </h2>
 
 <p align="center">
-    <img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;clumber&#x2F;n02101556_4039.jpg" height="300px">
+    <img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;terrier-silky&#x2F;n02097658_595.jpg" height="300px">
 </p>
 
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1500426137/2648/allo-tongue.gif?1500426137" width="30"> Joke </h2>
 
 <p align="center">
-    Chuck Norris uses a night light. Not because Chuck Norris is afraid of the dark, but the dark is afraid of Chuck Norris.
+    Chuck Norris is the only man to ever defeat a brick wall in a game of tennis.
 </p>
