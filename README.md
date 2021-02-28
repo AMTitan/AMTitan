@@ -64,13 +64,13 @@
 <h2> <img src="http://openweathermap.org/img/w/04d.png" width="30"> Weather </h2>
 
 <p align="center">
-    The weather for me its a overcast clouds and the temperature is 21.47°C (70.65°F) but it actually feels like 22.16°C (71.89°F)!
+    The weather for me its a overcast clouds and the temperature is 21.81°C (71.26°F) but it actually feels like 22.78°C (73°F)!
 </p>
 <p align="center">
     The sun rise for me is at 07:07 and the sun set is at 18:32!
 </p>
 <p align="center">
-    The wind for me  is 2.68 meters/sec (5.99mph)!
+    The wind for me  is 2.24 meters/sec (5.01mph)!
 </p>
 <p align="center">
     The persaintage of the sky is filled with clouds for me is 98%!
@@ -79,11 +79,11 @@
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1595173148/9720/dog_cute.gif?1595173148" width="30"> Dog </h2>
 
 <p align="center">
-    <img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;groenendael&#x2F;n02105056_6684.jpg" height="300px">
+    <img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;pointer-germanlonghair&#x2F;hans2.jpg" height="300px">
 </p>
 
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1500426137/2648/allo-tongue.gif?1500426137" width="30"> Joke </h2>
 
 <p align="center">
-    Le gf: I&#39;ll dump you.Le bf: hex dump or binary dump? 
+    Scientifically speaking, it is impossible to charge Chuck Norris with &#39;obstruction of justice.&#39; This is because even Chuck Norris cannot be in two places at the same time.
 </p>
