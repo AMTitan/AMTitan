@@ -64,26 +64,26 @@
 <h2> <img src="http://openweathermap.org/img/w/04d.png" width="30"> Weather </h2>
 
 <p align="center">
-    The weather for me its a overcast clouds and the temperature is 25.22°C (77.4°F) but it actually feels like 24.73°C (76.51°F)!
+    The weather for me its a overcast clouds and the temperature is 25.06°C (77.11°F) but it actually feels like 25.56°C (78.01°F)!
 </p>
 <p align="center">
     The sun rise for me is at 07:07 and the sun set is at 18:32!
 </p>
 <p align="center">
-    The wind for me  is 3.58 meters/sec (8.01mph)!
+    The wind for me  is 2.24 meters/sec (5.01mph)!
 </p>
 <p align="center">
-    The persaintage of the sky is filled with clouds for me is 100%!
+    The persaintage of the sky is filled with clouds for me is 98%!
 </p>
 
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1595173148/9720/dog_cute.gif?1595173148" width="30"> Dog </h2>
 
 <p align="center">
-    <img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;bouvier&#x2F;n02106382_742.jpg" height="300px">
+    <img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;retriever-golden&#x2F;n02099601_7037.jpg" height="300px">
 </p>
 
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1500426137/2648/allo-tongue.gif?1500426137" width="30"> Joke </h2>
 
 <p align="center">
-    Programming today is a race between software engineers striving to build bigger and better idiot-proof programs and the Universe trying to produce bigger and better idiots. So far the Universe is winning.
+    Chuck Norris cannot love, he can only not kill.
 </p>
