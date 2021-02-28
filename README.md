@@ -64,7 +64,7 @@
 <h2> <img src="http://openweathermap.org/img/w/04d.png" width="30"> Weather </h2>
 
 <p align="center">
-    The weather for me its a overcast clouds and the temperature is 23.98°C (75.16°F) but it actually feels like 24.69°C (76.44°F)!
+    The weather for me its a overcast clouds and the temperature is 24.1°C (75.38°F) but it actually feels like 24.85°C (76.73°F)!
 </p>
 <p align="center">
     The sun rise for me is at 07:07 and the sun set is at 18:32!
@@ -73,17 +73,17 @@
     The wind for me  is 2.24 meters/sec (5.01mph)!
 </p>
 <p align="center">
-    The persaintage of the sky is filled with clouds for me is 100%!
+    The persaintage of the sky is filled with clouds for me is 98%!
 </p>
 
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1595173148/9720/dog_cute.gif?1595173148" width="30"> Dog </h2>
 
 <p align="center">
-    <img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;frise-bichon&#x2F;3.jpg" height="300px">
+    <img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;otterhound&#x2F;n02091635_3548.jpg" height="300px">
 </p>
 
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1500426137/2648/allo-tongue.gif?1500426137" width="30"> Joke </h2>
 
 <p align="center">
-    When J. Robert Oppenheimer said &#39;I am become death, the destroyer Of worlds&#39;, He was not referring to the atomic bomb. He was referring to the Chuck Norris halloween costume he was wearing.
+    Every time someone uses the word &#39;intense&#39;, Chuck Norris always replies &#39;you know what else is intense?&#39; followed by a roundhouse kick to the face.
 </p>
