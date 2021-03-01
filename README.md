@@ -64,26 +64,26 @@
 <h2> <img src="http://openweathermap.org/img/w/04n.png" width="30"> Weather </h2>
 
 <p align="center">
-    The weather for me its a overcast clouds and the temperature is 19.48°C (67.06°F) but it actually feels like 20.26°C (68.47°F)!
+    The weather for me its a overcast clouds and the temperature is 19.48°C (67.06°F) but it actually feels like 20.02°C (68.04°F)!
 </p>
 <p align="center">
     The sun rise for me is at 07:05 and the sun set is at 18:33!
 </p>
 <p align="center">
-    The wind for me  is 1.79 meters/sec (4mph)!
+    The wind for me  is 2.24 meters/sec (5.01mph)!
 </p>
 <p align="center">
-    The persaintage of the sky is filled with clouds for me is 98%!
+    The persaintage of the sky is filled with clouds for me is 100%!
 </p>
 
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1595173148/9720/dog_cute.gif?1595173148" width="30"> Dog </h2>
 
 <p align="center">
-    <img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;pembroke&#x2F;n02113023_7038.jpg" height="300px">
+    <img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;spaniel-blenheim&#x2F;n02086646_4120.jpg" height="300px">
 </p>
 
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1500426137/2648/allo-tongue.gif?1500426137" width="30"> Joke </h2>
 
 <p align="center">
-    Scotty in Star Trek often says &#39;Ye cannae change the laws of physics.&#39; This is untrue. Chuck Norris can change the laws of physics. With his fists.
+    Using his trademark roundhouse kick, Chuck Norris once made a fieldgoal in RJ Stadium in Tampa Bay from the 50 yard line of Qualcomm stadium in San Diego.
 </p>
