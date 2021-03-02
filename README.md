@@ -64,13 +64,13 @@
 <h2> <img src="http://openweathermap.org/img/w/04d.png" width="30"> Weather </h2>
 
 <p align="center">
-    The weather for me its a overcast clouds and the temperature is 8.16°C (46.69°F) but it actually feels like 4.84°C (40.71°F)!
+    The weather for me its a overcast clouds and the temperature is 8.16°C (46.69°F) but it actually feels like 4.52°C (40.14°F)!
 </p>
 <p align="center">
     The sun rise for me is at 07:04 and the sun set is at 18:34!
 </p>
 <p align="center">
-    The wind for me  is 1.79 meters/sec (4mph)!
+    The wind for me  is 2.24 meters/sec (5.01mph)!
 </p>
 <p align="center">
     The persaintage of the sky is filled with clouds for me is 100%!
@@ -79,11 +79,11 @@
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1595173148/9720/dog_cute.gif?1595173148" width="30"> Dog </h2>
 
 <p align="center">
-    <img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;groenendael&#x2F;n02105056_785.jpg" height="300px">
+    <img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;cotondetulear&#x2F;100_2013.jpg" height="300px">
 </p>
 
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1500426137/2648/allo-tongue.gif?1500426137" width="30"> Joke </h2>
 
 <p align="center">
-    Chuck Norris doesn&#39;t have disk latency because the hard drive knows to hurry the hell up.
+    The original title for Star Wars was &#39;Skywalker: Texas Ranger&#39;. Starring Chuck Norris.
 </p>
