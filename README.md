@@ -64,7 +64,7 @@
 <h2> <img src="http://openweathermap.org/img/w/04n.png" width="30"> Weather </h2>
 
 <p align="center">
-    The weather for me its a overcast clouds and the temperature is 5.86°C (42.55°F) but it actually feels like 3.22°C (37.8°F)!
+    The weather for me its a overcast clouds and the temperature is 6.03°C (42.85°F) but it actually feels like 3.41°C (38.14°F)!
 </p>
 <p align="center">
     The sun rise for me is at 07:04 and the sun set is at 18:34!
@@ -79,11 +79,11 @@
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1595173148/9720/dog_cute.gif?1595173148" width="30"> Dog </h2>
 
 <p align="center">
-    <img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;bulldog-english&#x2F;jager-1.jpg" height="300px">
+    <img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;retriever-golden&#x2F;n02099601_4678.jpg" height="300px">
 </p>
 
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1500426137/2648/allo-tongue.gif?1500426137" width="30"> Joke </h2>
 
 <p align="center">
-    Mac users swear by their Mac and PC users swear at their PC.
+    When Chuck Norris was a baby, he didn&#39;t suck his mother&#39;s breast. His mother served him whiskey, straight out of the bottle.
 </p>
