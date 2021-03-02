@@ -64,7 +64,7 @@
 <h2> <img src="http://openweathermap.org/img/w/04n.png" width="30"> Weather </h2>
 
 <p align="center">
-    The weather for me its a overcast clouds and the temperature is 5.27°C (41.49°F) but it actually feels like 2.98°C (37.36°F)!
+    The weather for me its a overcast clouds and the temperature is 5.23°C (41.41°F) but it actually feels like 2.93°C (37.27°F)!
 </p>
 <p align="center">
     The sun rise for me is at 07:04 and the sun set is at 18:34!
@@ -79,11 +79,11 @@
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1595173148/9720/dog_cute.gif?1595173148" width="30"> Dog </h2>
 
 <p align="center">
-    <img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;mastiff-english&#x2F;2.jpg" height="300px">
+    <img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;beagle&#x2F;n02088364_5826.jpg" height="300px">
 </p>
 
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1500426137/2648/allo-tongue.gif?1500426137" width="30"> Joke </h2>
 
 <p align="center">
-    Chuck Norris&#39; dick is so big, it has it&#39;s own dick, and that dick is still bigger than yours.
+    As President Roosevelt said: &#39;We have nothing to fear but fear itself. And Chuck Norris.&#39;
 </p>
