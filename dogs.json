@@ -1,1 +1,12 @@
-{"message":"https:\/\/images.dog.ceo\/breeds\/otterhound\/n02091635_1177.jpg","status":"success"}
+<!DOCTYPE html>
+<html>
+<head>
+<title>503 Backend fetch failed</title>
+</head>
+<body>
+<h1>Error 503 Backend fetch failed</h1>
+<p>Backend fetch failed</p>
+<hr>
+<p>Varnish L7 server</p>
+</body>
+</html>
