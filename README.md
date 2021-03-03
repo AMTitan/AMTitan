@@ -79,11 +79,11 @@
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1595173148/9720/dog_cute.gif?1595173148" width="30"> Dog </h2>
 
 <p align="center">
-    <img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;vizsla&#x2F;n02100583_2744.jpg" height="300px">
+    <img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;greyhound-italian&#x2F;n02091032_11812.jpg" height="300px">
 </p>
 
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1500426137/2648/allo-tongue.gif?1500426137" width="30"> Joke </h2>
 
 <p align="center">
-    Along with his black belt, Chuck Norris often chooses to wear brown shoes. No one has DARED call him on it. Ever.
+    How many theoretical physicists does it take to screw in a light bulb? Two. One to hold the bulb and one to rotate the universe.
 </p>
