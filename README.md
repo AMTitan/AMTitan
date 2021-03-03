@@ -64,7 +64,7 @@
 <h2> <img src="http://openweathermap.org/img/w/10n.png" width="30"> Weather </h2>
 
 <p align="center">
-    The weather for me its a light rain and the temperature is 4.24°C (39.63°F) but it actually feels like 2.46°C (36.43°F)!
+    The weather for me its a moderate rain and the temperature is 4.21°C (39.58°F) but it actually feels like 2.43°C (36.37°F)!
 </p>
 <p align="center">
     The sun rise for me is at 07:03 and the sun set is at 18:35!
@@ -79,11 +79,11 @@
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1595173148/9720/dog_cute.gif?1595173148" width="30"> Dog </h2>
 
 <p align="center">
-    <img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;terrier-wheaten&#x2F;n02098105_4105.jpg" height="300px">
+    <img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;terrier-fox&#x2F;n02095314_1116.jpg" height="300px">
 </p>
 
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1500426137/2648/allo-tongue.gif?1500426137" width="30"> Joke </h2>
 
 <p align="center">
-    Chuck Norris once challenged Lance Armstrong in a &#39;Who has more testicles?&#39; contest. Chuck Norris won by 5.
+    When Chuck Norris makes a burrito, its main ingredient is real toes.
 </p>
