@@ -64,13 +64,13 @@
 <h2> <img src="http://openweathermap.org/img/w/01d.png" width="30"> Weather </h2>
 
 <p align="center">
-    The weather for me its a clear sky and the temperature is 16.49°C (61.68°F) but it actually feels like 13.95°C (57.11°F)!
+    The weather for me its a clear sky and the temperature is 16.52°C (61.74°F) but it actually feels like 14.12°C (57.42°F)!
 </p>
 <p align="center">
     The sun rise for me is at 07:03 and the sun set is at 18:35!
 </p>
 <p align="center">
-    The wind for me  is 1.79 meters/sec (4mph)!
+    The wind for me  is 1.34 meters/sec (3mph)!
 </p>
 <p align="center">
     The persaintage of the sky is filled with clouds for me is 0%!
@@ -79,11 +79,11 @@
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1595173148/9720/dog_cute.gif?1595173148" width="30"> Dog </h2>
 
 <p align="center">
-    <img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;briard&#x2F;n02105251_8629.jpg" height="300px">
+    <img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;greyhound-italian&#x2F;n02091032_6728.jpg" height="300px">
 </p>
 
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1500426137/2648/allo-tongue.gif?1500426137" width="30"> Joke </h2>
 
 <p align="center">
-    Chuck Norris is widely predicted to be first black president. If you&#39;re thinking to yourself, &#39;But Chuck Norris isn&#39;t black&#39;, then you are dead wrong. And stop being a racist.
+    In the beginning there was nothing...then Chuck Norris Roundhouse kicked that nothing in the face and said &#39;Get a job&#39;. That is the story of the universe.
 </p>
