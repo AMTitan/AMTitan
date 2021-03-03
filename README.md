@@ -64,7 +64,7 @@
 <h2> <img src="http://openweathermap.org/img/w/01d.png" width="30"> Weather </h2>
 
 <p align="center">
-    The weather for me its a clear sky and the temperature is 13.5°C (56.3°F) but it actually feels like 10.86°C (51.55°F)!
+    The weather for me its a clear sky and the temperature is 13.14°C (55.65°F) but it actually feels like 10.44°C (50.79°F)!
 </p>
 <p align="center">
     The sun rise for me is at 07:03 and the sun set is at 18:35!
@@ -79,11 +79,11 @@
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1595173148/9720/dog_cute.gif?1595173148" width="30"> Dog </h2>
 
 <p align="center">
-    <img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;terrier-bedlington&#x2F;n02093647_1129.jpg" height="300px">
+    <img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;newfoundland&#x2F;n02111277_7130.jpg" height="300px">
 </p>
 
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1500426137/2648/allo-tongue.gif?1500426137" width="30"> Joke </h2>
 
 <p align="center">
-    Chuck Norris destroyed the periodic table, because Chuck Norris only recognizes the element of surprise.
+    SHE: Are you just gonna sit here on the computer OR are we going out? HE: Yes
 </p>
