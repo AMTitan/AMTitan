@@ -64,13 +64,13 @@
 <h2> <img src="http://openweathermap.org/img/w/10n.png" width="30"> Weather </h2>
 
 <p align="center">
-    The weather for me its a moderate rain and the temperature is 5.56°C (42.01°F) but it actually feels like 2.95°C (37.31°F)!
+    The weather for me its a light rain and the temperature is 5.51°C (41.92°F) but it actually feels like 2.3°C (36.14°F)!
 </p>
 <p align="center">
     The sun rise for me is at 07:04 and the sun set is at 18:34!
 </p>
 <p align="center">
-    The wind for me  is 1.34 meters/sec (3mph)!
+    The wind for me  is 2.24 meters/sec (5.01mph)!
 </p>
 <p align="center">
     The persaintage of the sky is filled with clouds for me is 100%!
@@ -79,11 +79,11 @@
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1595173148/9720/dog_cute.gif?1595173148" width="30"> Dog </h2>
 
 <p align="center">
-    <img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;dane-great&#x2F;n02109047_33029.jpg" height="300px">
+    <img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;frise-bichon&#x2F;stevebaxter_bichon_frise.jpg" height="300px">
 </p>
 
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1500426137/2648/allo-tongue.gif?1500426137" width="30"> Joke </h2>
 
 <p align="center">
-    Chuck Norris grinds his coffee with his teeth and boils the water with his own rage.
+    President Roosevelt once rode his horse 100 miles. Chuck Norris carried his the same distance in half the time.
 </p>
