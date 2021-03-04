@@ -64,7 +64,7 @@
 <h2> <img src="http://openweathermap.org/img/w/01n.png" width="30"> Weather </h2>
 
 <p align="center">
-    The weather for me its a clear sky and the temperature is 10.67°C (51.21°F) but it actually feels like 6.26°C (43.27°F)!
+    The weather for me its a clear sky and the temperature is 11.16°C (52.09°F) but it actually feels like 6.86°C (44.35°F)!
 </p>
 <p align="center">
     The sun rise for me is at 07:03 and the sun set is at 18:35!
@@ -79,11 +79,11 @@
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1595173148/9720/dog_cute.gif?1595173148" width="30"> Dog </h2>
 
 <p align="center">
-    <img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;pomeranian&#x2F;n02112018_3097.jpg" height="300px">
+    <img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;clumber&#x2F;n02101556_1665.jpg" height="300px">
 </p>
 
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1500426137/2648/allo-tongue.gif?1500426137" width="30"> Joke </h2>
 
 <p align="center">
-    In the first Jurassic Park movie, the Tyrannosaurus Rex wasn&#39;t chasing the jeep. Chuck Norris was chasing the Tyrannosaurus AND the jeep.
+    A Chuck Norris-delivered Roundhouse Kick is the preferred method of execution in 16 states.
 </p>
