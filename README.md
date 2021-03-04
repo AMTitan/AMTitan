@@ -64,13 +64,13 @@
 <h2> <img src="http://openweathermap.org/img/w/01n.png" width="30"> Weather </h2>
 
 <p align="center">
-    The weather for me its a clear sky and the temperature is 9.78°C (49.6°F) but it actually feels like 5.43°C (41.77°F)!
+    The weather for me its a clear sky and the temperature is 9.76°C (49.57°F) but it actually feels like 5.35°C (41.63°F)!
 </p>
 <p align="center">
     The sun rise for me is at 07:03 and the sun set is at 18:35!
 </p>
 <p align="center">
-    The wind for me  is 3.24 meters/sec (7.25mph)!
+    The wind for me  is 3.32 meters/sec (7.43mph)!
 </p>
 <p align="center">
     The persaintage of the sky is filled with clouds for me is 0%!
@@ -79,11 +79,11 @@
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1595173148/9720/dog_cute.gif?1595173148" width="30"> Dog </h2>
 
 <p align="center">
-    <img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;borzoi&#x2F;n02090622_6771.jpg" height="300px">
+    <img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;hound-english&#x2F;n02089973_1352.jpg" height="300px">
 </p>
 
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1500426137/2648/allo-tongue.gif?1500426137" width="30"> Joke </h2>
 
 <p align="center">
-    &#39;It works on my machine&#39; always holds true for Chuck Norris.
+    Chuck Norris invented his own type of karate. It&#39;s called Chuck-Will-Kill.
 </p>
