@@ -64,7 +64,7 @@
 <h2> <img src="http://openweathermap.org/img/w/01n.png" width="30"> Weather </h2>
 
 <p align="center">
-    The weather for me its a clear sky and the temperature is 5.3°C (41.54°F) but it actually feels like 1.37°C (34.47°F)!
+    The weather for me its a clear sky and the temperature is 5.29°C (41.52°F) but it actually feels like 1.36°C (34.45°F)!
 </p>
 <p align="center">
     The sun rise for me is at 07:02 and the sun set is at 18:35!
@@ -79,11 +79,11 @@
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1595173148/9720/dog_cute.gif?1595173148" width="30"> Dog </h2>
 
 <p align="center">
-    <img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;cattledog-australian&#x2F;IMG_1418.jpg" height="300px">
+    <img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;shihtzu&#x2F;n02086240_3961.jpg" height="300px">
 </p>
 
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1500426137/2648/allo-tongue.gif?1500426137" width="30"> Joke </h2>
 
 <p align="center">
-    Chuck Norris can hit you so hard that he can actually alter your DNA. Decades from now your descendants will occasionally clutch their heads and yell &#39;What The Hell was That?&#39;.
+    Chuck Norris doesn&#39;t need garbage collection because he doesn&#39;t call .Dispose(), he calls .DropKick().
 </p>
