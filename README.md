@@ -64,13 +64,13 @@
 <h2> <img src="http://openweathermap.org/img/w/01n.png" width="30"> Weather </h2>
 
 <p align="center">
-    The weather for me its a clear sky and the temperature is 5.94°C (42.69°F) but it actually feels like 1.41°C (34.54°F)!
+    The weather for me its a clear sky and the temperature is 5.96°C (42.73°F) but it actually feels like 1.53°C (34.75°F)!
 </p>
 <p align="center">
     The sun rise for me is at 07:02 and the sun set is at 18:35!
 </p>
 <p align="center">
-    The wind for me  is 3.25 meters/sec (7.27mph)!
+    The wind for me  is 3.11 meters/sec (6.96mph)!
 </p>
 <p align="center">
     The persaintage of the sky is filled with clouds for me is 0%!
@@ -79,11 +79,11 @@
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1595173148/9720/dog_cute.gif?1595173148" width="30"> Dog </h2>
 
 <p align="center">
-    <img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;poodle-toy&#x2F;n02113624_1804.jpg" height="300px">
+    <img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;setter-english&#x2F;n02100735_9958.jpg" height="300px">
 </p>
 
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1500426137/2648/allo-tongue.gif?1500426137" width="30"> Joke </h2>
 
 <p align="center">
-    It is scientifically impossible for Chuck Norris to have had a mortal father. The most popular theory is that he went back in time and fathered himself.
+    Chuck Norris and Mr. T walked into a bar. The bar was instantly destroyed, as that level of awesome cannot be contained in one building.
 </p>
