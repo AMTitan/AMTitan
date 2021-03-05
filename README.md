@@ -64,7 +64,7 @@
 <h2> <img src="http://openweathermap.org/img/w/03d.png" width="30"> Weather </h2>
 
 <p align="center">
-    The weather for me its a scattered clouds and the temperature is 16.65°C (61.97°F) but it actually feels like 12.96°C (55.33°F)!
+    The weather for me its a scattered clouds and the temperature is 16.77°C (62.19°F) but it actually feels like 13.09°C (55.56°F)!
 </p>
 <p align="center">
     The sun rise for me is at 07:00 and the sun set is at 18:36!
@@ -79,11 +79,11 @@
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1595173148/9720/dog_cute.gif?1595173148" width="30"> Dog </h2>
 
 <p align="center">
-    <img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;groenendael&#x2F;n02105056_3741.jpg" height="300px">
+    <img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;cattledog-australian&#x2F;IMG_7057.jpg" height="300px">
 </p>
 
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1500426137/2648/allo-tongue.gif?1500426137" width="30"> Joke </h2>
 
 <p align="center">
-    Chuck Norris doesn&#39;t have disk latency because the hard drive knows to hurry the hell up.
+    Wilt Chamberlain claims to have slept with more than 20,000 women in his lifetime. Chuck Norris calls this &#39;a slow Tuesday.&#39;
 </p>
