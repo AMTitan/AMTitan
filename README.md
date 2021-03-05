@@ -64,7 +64,7 @@
 <h2> <img src="http://openweathermap.org/img/w/04d.png" width="30"> Weather </h2>
 
 <p align="center">
-    The weather for me its a broken clouds and the temperature is 18.22°C (64.8°F) but it actually feels like 14.84°C (58.71°F)!
+    The weather for me its a broken clouds and the temperature is 18.14°C (64.65°F) but it actually feels like 14.75°C (58.55°F)!
 </p>
 <p align="center">
     The sun rise for me is at 07:00 and the sun set is at 18:36!
@@ -73,17 +73,17 @@
     The wind for me  is 0.89 meters/sec (1.99mph)!
 </p>
 <p align="center">
-    The persaintage of the sky is filled with clouds for me is 78%!
+    The persaintage of the sky is filled with clouds for me is 82%!
 </p>
 
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1595173148/9720/dog_cute.gif?1595173148" width="30"> Dog </h2>
 
 <p align="center">
-    <img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;hound-ibizan&#x2F;n02091244_4281.jpg" height="300px">
+    <img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;cattledog-australian&#x2F;IMG_1418.jpg" height="300px">
 </p>
 
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1500426137/2648/allo-tongue.gif?1500426137" width="30"> Joke </h2>
 
 <p align="center">
-    There is in fact an &#39;I&#39; in Norris, but there is no &#39;team&#39;. Not even close.
+    Chuck Norris does not code in cycles, he codes in strikes.
 </p>
