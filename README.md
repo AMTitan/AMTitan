@@ -64,13 +64,13 @@
 <h2> <img src="http://openweathermap.org/img/w/01n.png" width="30"> Weather </h2>
 
 <p align="center">
-    The weather for me its a clear sky and the temperature is 7.96°C (46.33°F) but it actually feels like 4.27°C (39.69°F)!
+    The weather for me its a clear sky and the temperature is 7.99°C (46.38°F) but it actually feels like 4.42°C (39.96°F)!
 </p>
 <p align="center">
     The sun rise for me is at 07:00 and the sun set is at 18:36!
 </p>
 <p align="center">
-    The wind for me  is 2.43 meters/sec (5.44mph)!
+    The wind for me  is 2.21 meters/sec (4.94mph)!
 </p>
 <p align="center">
     The persaintage of the sky is filled with clouds for me is 0%!
@@ -79,11 +79,11 @@
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1595173148/9720/dog_cute.gif?1595173148" width="30"> Dog </h2>
 
 <p align="center">
-    <img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;airedale&#x2F;n02096051_1134.jpg" height="300px">
+    <img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;puggle&#x2F;IMG_192117.jpg" height="300px">
 </p>
 
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1500426137/2648/allo-tongue.gif?1500426137" width="30"> Joke </h2>
 
 <p align="center">
-    Don&#39;t fart in an Apple Store, because they don&#39;t have Windows.
+    How many theoretical physicists does it take to screw in a light bulb? Two. One to hold the bulb and one to rotate the universe.
 </p>
