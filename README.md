@@ -64,13 +64,13 @@
 <h2> <img src="http://openweathermap.org/img/w/01d.png" width="30"> Weather </h2>
 
 <p align="center">
-    The weather for me its a clear sky and the temperature is 5.21°C (41.38°F) but it actually feels like 1.37°C (34.47°F)!
+    The weather for me its a clear sky and the temperature is 4.44°C (39.99°F) but it actually feels like 0.53°C (32.95°F)!
 </p>
 <p align="center">
     The sun rise for me is at 07:00 and the sun set is at 18:36!
 </p>
 <p align="center">
-    The wind for me  is 1.94 meters/sec (4.34mph)!
+    The wind for me  is 1.93 meters/sec (4.32mph)!
 </p>
 <p align="center">
     The persaintage of the sky is filled with clouds for me is 1%!
@@ -79,11 +79,11 @@
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1595173148/9720/dog_cute.gif?1595173148" width="30"> Dog </h2>
 
 <p align="center">
-    <img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;mix&#x2F;cookie.jpg" height="300px">
+    <img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;spaniel-sussex&#x2F;n02102480_4373.jpg" height="300px">
 </p>
 
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1500426137/2648/allo-tongue.gif?1500426137" width="30"> Joke </h2>
 
 <p align="center">
-    
+    Chuck Norris can&#39;t test for equality because he has no equal.
 </p>
