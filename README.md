@@ -64,13 +64,13 @@
 <h2> <img src="http://openweathermap.org/img/w/04d.png" width="30"> Weather </h2>
 
 <p align="center">
-    The weather for me its a overcast clouds and the temperature is 9.77°C (49.59°F) but it actually feels like 5.72°C (42.3°F)!
+    The weather for me its a overcast clouds and the temperature is 9.5°C (49.1°F) but it actually feels like 5.51°C (41.92°F)!
 </p>
 <p align="center">
     The sun rise for me is at 06:59 and the sun set is at 18:37!
 </p>
 <p align="center">
-    The wind for me  is 2.06 meters/sec (4.61mph)!
+    The wind for me  is 1.89 meters/sec (4.23mph)!
 </p>
 <p align="center">
     The persaintage of the sky is filled with clouds for me is 90%!
@@ -79,11 +79,11 @@
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1595173148/9720/dog_cute.gif?1595173148" width="30"> Dog </h2>
 
 <p align="center">
-    <img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;pitbull&#x2F;20190710_143021.jpg" height="300px">
+    <img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;cockapoo&#x2F;bubbles2.jpg" height="300px">
 </p>
 
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1500426137/2648/allo-tongue.gif?1500426137" width="30"> Joke </h2>
 
 <p align="center">
-    When you&#39;re Chuck Norris, anything + anything is equal to 1. One roundhouse kick to the face.
+    That&#39;s not Chuck Norris doing push-ups -- that&#39;s Chuck Norris moving the Earth away from the path of a deadly asteroid.
 </p>
