@@ -64,26 +64,26 @@
 <h2> <img src="http://openweathermap.org/img/w/01n.png" width="30"> Weather </h2>
 
 <p align="center">
-    The weather for me its a clear sky and the temperature is 5.48°C (41.86°F) but it actually feels like 0.79°C (33.42°F)!
+    The weather for me its a clear sky and the temperature is 5.84°C (42.51°F) but it actually feels like 1.23°C (34.21°F)!
 </p>
 <p align="center">
     The sun rise for me is at 06:59 and the sun set is at 18:37!
 </p>
 <p align="center">
-    The wind for me  is 2.85 meters/sec (6.38mph)!
+    The wind for me  is 2.79 meters/sec (6.24mph)!
 </p>
 <p align="center">
-    The persaintage of the sky is filled with clouds for me is 1%!
+    The persaintage of the sky is filled with clouds for me is 0%!
 </p>
 
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1595173148/9720/dog_cute.gif?1595173148" width="30"> Dog </h2>
 
 <p align="center">
-    <img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;poodle-standard&#x2F;n02113799_1728.jpg" height="300px">
+    <img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;sheepdog-english&#x2F;n02105641_1045.jpg" height="300px">
 </p>
 
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1500426137/2648/allo-tongue.gif?1500426137" width="30"> Joke </h2>
 
 <p align="center">
-    There are two types of people in the world... people that suck, and Chuck Norris.
+    Chuck Norris doesn&#39;t churn butter. He roundhouse kicks the cows and the butter comes straight out.
 </p>
