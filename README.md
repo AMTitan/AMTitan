@@ -64,13 +64,13 @@
 <h2> <img src="http://openweathermap.org/img/w/01n.png" width="30"> Weather </h2>
 
 <p align="center">
-    The weather for me its a clear sky and the temperature is 1.41°C (34.54°F) but it actually feels like -2.78°C (27°F)!
+    The weather for me its a clear sky and the temperature is 1.72°C (35.1°F) but it actually feels like -2.16°C (28.11°F)!
 </p>
 <p align="center">
     The sun rise for me is at 06:58 and the sun set is at 18:38!
 </p>
 <p align="center">
-    The wind for me  is 2.31 meters/sec (5.17mph)!
+    The wind for me  is 1.92 meters/sec (4.29mph)!
 </p>
 <p align="center">
     The persaintage of the sky is filled with clouds for me is 0%!
@@ -79,11 +79,11 @@
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1595173148/9720/dog_cute.gif?1595173148" width="30"> Dog </h2>
 
 <p align="center">
-    <img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;retriever-golden&#x2F;n02099601_3414.jpg" height="300px">
+    <img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;akita&#x2F;Japaneseakita.jpg" height="300px">
 </p>
 
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1500426137/2648/allo-tongue.gif?1500426137" width="30"> Joke </h2>
 
 <p align="center">
-    Chuck Norris can overflow your stack just by looking at it.
+    Nobody doesn&#39;t like Sara Lee. Except Chuck Norris.
 </p>
