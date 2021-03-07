@@ -64,26 +64,26 @@
 <h2> <img src="http://openweathermap.org/img/w/04n.png" width="30"> Weather </h2>
 
 <p align="center">
-    The weather for me its a broken clouds and the temperature is 9.64°C (49.35°F) but it actually feels like 6.57°C (43.83°F)!
+    The weather for me its a broken clouds and the temperature is 9.64°C (49.35°F) but it actually feels like 6.5°C (43.7°F)!
 </p>
 <p align="center">
     The sun rise for me is at 06:59 and the sun set is at 18:37!
 </p>
 <p align="center">
-    The wind for me  is 1.16 meters/sec (2.59mph)!
+    The wind for me  is 1.25 meters/sec (2.8mph)!
 </p>
 <p align="center">
-    The persaintage of the sky is filled with clouds for me is 67%!
+    The persaintage of the sky is filled with clouds for me is 70%!
 </p>
 
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1595173148/9720/dog_cute.gif?1595173148" width="30"> Dog </h2>
 
 <p align="center">
-    <img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;terrier-kerryblue&#x2F;n02093859_739.jpg" height="300px">
+    <img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;entlebucher&#x2F;n02108000_191.jpg" height="300px">
 </p>
 
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1500426137/2648/allo-tongue.gif?1500426137" width="30"> Joke </h2>
 
 <p align="center">
-    Chuck Norris is the only known mammal in history to have an opposable thumb. On his penis.
+    The Internet: where men are men women are men and children are FBI agents.
 </p>
