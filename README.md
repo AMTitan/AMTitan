@@ -64,26 +64,26 @@
 <h2> <img src="http://openweathermap.org/img/w/01n.png" width="30"> Weather </h2>
 
 <p align="center">
-    The weather for me its a clear sky and the temperature is 8.94°C (48.09°F) but it actually feels like 5.39°C (41.7°F)!
+    The weather for me its a clear sky and the temperature is 8.94°C (48.09°F) but it actually feels like 5.1°C (41.18°F)!
 </p>
 <p align="center">
     The sun rise for me is at 06:59 and the sun set is at 18:37!
 </p>
 <p align="center">
-    The wind for me  is 1.4 meters/sec (3.13mph)!
+    The wind for me  is 1.81 meters/sec (4.05mph)!
 </p>
 <p align="center">
-    The persaintage of the sky is filled with clouds for me is 3%!
+    The persaintage of the sky is filled with clouds for me is 0%!
 </p>
 
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1595173148/9720/dog_cute.gif?1595173148" width="30"> Dog </h2>
 
 <p align="center">
-    <img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;puggle&#x2F;IMG_162320.jpg" height="300px">
+    <img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;dingo&#x2F;n02115641_4262.jpg" height="300px">
 </p>
 
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1500426137/2648/allo-tongue.gif?1500426137" width="30"> Joke </h2>
 
 <p align="center">
-    The 1972 Miami Dolphins lost one game, it was a game vs. Chuck Norris and three seven year old girls. Chuck Norris won with a roundhouse-kick to the face in overtime.
+    After taking a steroids test doctors informed Chuck Norris that he had tested positive. He laughed upon receiving this information, and said &#39;of course my urine tested positive, what do you think they make steroids from?&#39;
 </p>
