@@ -64,13 +64,13 @@
 <h2> <img src="http://openweathermap.org/img/w/01d.png" width="30"> Weather </h2>
 
 <p align="center">
-    The weather for me its a clear sky and the temperature is -0.74°C (30.67°F) but it actually feels like -4.12°C (24.58°F)!
+    The weather for me its a clear sky and the temperature is -0.51°C (31.08°F) but it actually feels like -3.7°C (25.34°F)!
 </p>
 <p align="center">
     The sun rise for me is at 06:56 and the sun set is at 18:39!
 </p>
 <p align="center">
-    The wind for me  is 1 meters/sec (2.24mph)!
+    The wind for me  is 0.9 meters/sec (2.01mph)!
 </p>
 <p align="center">
     The persaintage of the sky is filled with clouds for me is 1%!
@@ -79,11 +79,11 @@
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1595173148/9720/dog_cute.gif?1595173148" width="30"> Dog </h2>
 
 <p align="center">
-    <img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;australian-shepherd&#x2F;leroy.jpg" height="300px">
+    <img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;ridgeback-rhodesian&#x2F;n02087394_10683.jpg" height="300px">
 </p>
 
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1500426137/2648/allo-tongue.gif?1500426137" width="30"> Joke </h2>
 
 <p align="center">
-    Scotty in Star Trek often says &#39;Ye cannae change the laws of physics.&#39; This is untrue. Chuck Norris can change the laws of physics. With his fists.
+    Chuck Norris can be unlocked on the hardest level of Tekken. But only Chuck Norris is skilled enough to unlock himself. Then he roundhouse kicks the Playstation back to Japan.
 </p>
