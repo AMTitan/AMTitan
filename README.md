@@ -64,13 +64,13 @@
 <h2> <img src="http://openweathermap.org/img/w/01n.png" width="30"> Weather </h2>
 
 <p align="center">
-    The weather for me its a clear sky and the temperature is 11.51°C (52.72°F) but it actually feels like 7.02°C (44.64°F)!
+    The weather for me its a clear sky and the temperature is 11.66°C (52.99°F) but it actually feels like 7.36°C (45.25°F)!
 </p>
 <p align="center">
     The sun rise for me is at 06:58 and the sun set is at 18:38!
 </p>
 <p align="center">
-    The wind for me  is 3.19 meters/sec (7.14mph)!
+    The wind for me  is 2.94 meters/sec (6.58mph)!
 </p>
 <p align="center">
     The persaintage of the sky is filled with clouds for me is 0%!
@@ -79,11 +79,11 @@
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1595173148/9720/dog_cute.gif?1595173148" width="30"> Dog </h2>
 
 <p align="center">
-    <img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;husky&#x2F;n02110185_1511.jpg" height="300px">
+    <img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;hound-walker&#x2F;n02089867_785.jpg" height="300px">
 </p>
 
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1500426137/2648/allo-tongue.gif?1500426137" width="30"> Joke </h2>
 
 <p align="center">
-    Wo hu cang long. The translation from Mandarin Chinese reads: &#39;Crouching Chuck, Hidden Norris&#39;
+    The truth will set you free. Unless Chuck Norris has you, in which case, forget it buddy!
 </p>
