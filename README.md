@@ -64,26 +64,26 @@
 <h2> <img src="http://openweathermap.org/img/w/01n.png" width="30"> Weather </h2>
 
 <p align="center">
-    The weather for me its a clear sky and the temperature is 7.54°C (45.57°F) but it actually feels like 4.59°C (40.26°F)!
+    The weather for me its a clear sky and the temperature is 7.38°C (45.28°F) but it actually feels like 4.47°C (40.05°F)!
 </p>
 <p align="center">
     The sun rise for me is at 06:56 and the sun set is at 18:39!
 </p>
 <p align="center">
-    The wind for me  is 0.51 meters/sec (1.14mph)!
+    The wind for me  is 0.53 meters/sec (1.19mph)!
 </p>
 <p align="center">
-    The persaintage of the sky is filled with clouds for me is 6%!
+    The persaintage of the sky is filled with clouds for me is 3%!
 </p>
 
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1595173148/9720/dog_cute.gif?1595173148" width="30"> Dog </h2>
 
 <p align="center">
-    <img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;buhund-norwegian&#x2F;hakon1.jpg" height="300px">
+    <img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;poodle-standard&#x2F;n02113799_2729.jpg" height="300px">
 </p>
 
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1500426137/2648/allo-tongue.gif?1500426137" width="30"> Joke </h2>
 
 <p align="center">
-    Evolution is God’s way of issuing upgrades.
+    With Chuck Norris P &#x3D; NP. There&#39;s no nondeterminism with Chuck Norris decisions.
 </p>
