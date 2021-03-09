@@ -64,7 +64,7 @@
 <h2> <img src="http://openweathermap.org/img/w/01n.png" width="30"> Weather </h2>
 
 <p align="center">
-    The weather for me its a clear sky and the temperature is 5.05°C (41.09°F) but it actually feels like 1.85°C (35.33°F)!
+    The weather for me its a clear sky and the temperature is 5.06°C (41.11°F) but it actually feels like 1.86°C (35.35°F)!
 </p>
 <p align="center">
     The sun rise for me is at 06:55 and the sun set is at 18:40!
@@ -79,11 +79,11 @@
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1595173148/9720/dog_cute.gif?1595173148" width="30"> Dog </h2>
 
 <p align="center">
-    <img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;whippet&#x2F;n02091134_145.jpg" height="300px">
+    <img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;whippet&#x2F;n02091134_738.jpg" height="300px">
 </p>
 
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1500426137/2648/allo-tongue.gif?1500426137" width="30"> Joke </h2>
 
 <p align="center">
-    Failure is not an option. It comes bundled with your Microsoft product.
+    Chuck Norris once ate three 72 oz. steaks in one hour. He spent the first 45 minutes having sex with his waitress.
 </p>
