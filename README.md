@@ -64,13 +64,13 @@
 <h2> <img src="http://openweathermap.org/img/w/01n.png" width="30"> Weather </h2>
 
 <p align="center">
-    The weather for me its a clear sky and the temperature is 11.35°C (52.43°F) but it actually feels like 7.75°C (45.95°F)!
+    The weather for me its a clear sky and the temperature is 11.6°C (52.88°F) but it actually feels like 8.09°C (46.56°F)!
 </p>
 <p align="center">
     The sun rise for me is at 06:56 and the sun set is at 18:39!
 </p>
 <p align="center">
-    The wind for me  is 1.52 meters/sec (3.4mph)!
+    The wind for me  is 1.29 meters/sec (2.89mph)!
 </p>
 <p align="center">
     The persaintage of the sky is filled with clouds for me is 0%!
@@ -79,11 +79,11 @@
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1595173148/9720/dog_cute.gif?1595173148" width="30"> Dog </h2>
 
 <p align="center">
-    <img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;briard&#x2F;n02105251_8896.jpg" height="300px">
+    <img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;papillon&#x2F;n02086910_7405.jpg" height="300px">
 </p>
 
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1500426137/2648/allo-tongue.gif?1500426137" width="30"> Joke </h2>
 
 <p align="center">
-    Chuck Norris can divide by zero.
+    Chuck Norris once round-house kicked a salesman. Over the phone.
 </p>
