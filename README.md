@@ -1,4 +1,4 @@
-# <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> My name is Arthur Melton and I have ![Profile View Counter](https://komarev.com/ghpvc/?username=AMTitan) (Last updated on Monday, 8 March, 22:03 GMT-5).
+# <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> My name is Arthur Melton and I have ![Profile View Counter](https://komarev.com/ghpvc/?username=AMTitan) (Last updated on Monday, 8 March, 22:04 GMT-5).
 
 <h3> <img src="https://emojis.slackmojis.com/emojis/images/1581539211/7808/party-blob.gif?1581539211" width="30"/> About Me </h3>
 
@@ -64,26 +64,26 @@
 <h2> <img src="http://openweathermap.org/img/w/01n.png" width="30"> Weather </h2>
 
 <p align="center">
-    The weather for me its a clear sky and the temperature is 7.74°C (45.93°F) but it actually feels like 4.79°C (40.62°F)!
+    The weather for me its a clear sky and the temperature is 7.54°C (45.57°F) but it actually feels like 4.59°C (40.26°F)!
 </p>
 <p align="center">
     The sun rise for me is at 06:56 and the sun set is at 18:39!
 </p>
 <p align="center">
-    The wind for me  is 0.53 meters/sec (1.19mph)!
+    The wind for me  is 0.51 meters/sec (1.14mph)!
 </p>
 <p align="center">
-    The persaintage of the sky is filled with clouds for me is 3%!
+    The persaintage of the sky is filled with clouds for me is 6%!
 </p>
 
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1595173148/9720/dog_cute.gif?1595173148" width="30"> Dog </h2>
 
 <p align="center">
-    <img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;redbone&#x2F;n02090379_3445.jpg" height="300px">
+    <img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;bluetick&#x2F;n02088632_4052.jpg" height="300px">
 </p>
 
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1500426137/2648/allo-tongue.gif?1500426137" width="30"> Joke </h2>
 
 <p align="center">
-    The best-laid plans of mice and men often go awry. Even the worst-laid plans of Chuck Norris come off without a hitch.
+    If you ask Chuck Norris what time it is, he always answers &#39;Two seconds till&#39;. After you ask &#39;Two seconds to what?&#39;, he roundhouse kicks you in the face.
 </p>
