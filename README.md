@@ -1,4 +1,4 @@
-# <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> My name is Arthur Melton and I have ![Profile View Counter](https://komarev.com/ghpvc/?username=AMTitan) (Last updated on Tuesday, 9 March, 01:07 GMT-5).
+# <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> My name is Arthur Melton and I have ![Profile View Counter](https://komarev.com/ghpvc/?username=AMTitan) (Last updated on Tuesday, 9 March, 01:08 GMT-5).
 
 <h3> <img src="https://emojis.slackmojis.com/emojis/images/1581539211/7808/party-blob.gif?1581539211" width="30"/> About Me </h3>
 
@@ -64,13 +64,13 @@
 <h2> <img src="http://openweathermap.org/img/w/01n.png" width="30"> Weather </h2>
 
 <p align="center">
-    The weather for me its a clear sky and the temperature is 5.21°C (41.38°F) but it actually feels like 2.03°C (35.65°F)!
+    The weather for me its a clear sky and the temperature is 5.82°C (42.48°F) but it actually feels like 3.09°C (37.56°F)!
 </p>
 <p align="center">
     The sun rise for me is at 06:55 and the sun set is at 18:40!
 </p>
 <p align="center">
-    The wind for me  is 1.54 meters/sec (3.44mph)!
+    The wind for me  is 0.28 meters/sec (0.63mph)!
 </p>
 <p align="center">
     The persaintage of the sky is filled with clouds for me is 1%!
@@ -79,11 +79,11 @@
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1595173148/9720/dog_cute.gif?1595173148" width="30"> Dog </h2>
 
 <p align="center">
-    <img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;kelpie&#x2F;n02105412_8166.jpg" height="300px">
+    <img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;kuvasz&#x2F;n02104029_4131.jpg" height="300px">
 </p>
 
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1500426137/2648/allo-tongue.gif?1500426137" width="30"> Joke </h2>
 
 <p align="center">
-    Guantuanamo Bay, Cuba, is the military code-word for &#39;Chuck Norris&#39; basement&#39;.
+    Scotty in Star Trek often says &#39;Ye cannae change the laws of physics.&#39; This is untrue. Chuck Norris can change the laws of physics. With his fists.
 </p>
