@@ -64,7 +64,7 @@
 <h2> <img src="http://openweathermap.org/img/w/04d.png" width="30"> Weather </h2>
 
 <p align="center">
-    The weather for me its a broken clouds and the temperature is 14.31°C (57.76°F) but it actually feels like 12.48°C (54.46°F)!
+    The weather for me its a broken clouds and the temperature is 14.91°C (58.84°F) but it actually feels like 13.19°C (55.74°F)!
 </p>
 <p align="center">
     The sun rise for me is at 06:54 and the sun set is at 18:40!
@@ -79,11 +79,11 @@
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1595173148/9720/dog_cute.gif?1595173148" width="30"> Dog </h2>
 
 <p align="center">
-    <img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;pitbull&#x2F;IMG_20190826_121528_876.jpg" height="300px">
+    <img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;hound-walker&#x2F;n02089867_2602.jpg" height="300px">
 </p>
 
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1500426137/2648/allo-tongue.gif?1500426137" width="30"> Joke </h2>
 
 <p align="center">
-    An anagram for Walker Texas Ranger is KARATE WRANGLER SEX. I don&#39;t know what that is, but it sounds AWESOME.
+    Linus Torvalds: “Real men don’t use backups... they post their stuff on a public ftp server and let the rest of the world make copies.”
 </p>
