@@ -64,7 +64,7 @@
 <h2> <img src="http://openweathermap.org/img/w/01n.png" width="30"> Weather </h2>
 
 <p align="center">
-    The weather for me its a clear sky and the temperature is 4.75°C (40.55°F) but it actually feels like 1.93°C (35.47°F)!
+    The weather for me its a clear sky and the temperature is 4.48°C (40.06°F) but it actually feels like 1.62°C (34.92°F)!
 </p>
 <p align="center">
     The sun rise for me is at 06:54 and the sun set is at 18:40!
@@ -79,11 +79,11 @@
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1595173148/9720/dog_cute.gif?1595173148" width="30"> Dog </h2>
 
 <p align="center">
-    <img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;spaniel-japanese&#x2F;n02085782_1949.jpg" height="300px">
+    <img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;poodle-standard&#x2F;n02113799_204.jpg" height="300px">
 </p>
 
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1500426137/2648/allo-tongue.gif?1500426137" width="30"> Joke </h2>
 
 <p align="center">
-    For Spring Break &#39;05, Chuck Norris drove to Madagascar, riding a chariot pulled by two electric eels.
+    When Chuck Norris does a pushup, he isn&#39;t lifting himself up, he&#39;s pushing the Earth down.
 </p>
