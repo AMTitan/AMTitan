@@ -61,10 +61,10 @@
     <img style="width:100%" src="https://github-readme-stats.vercel.app/api/wakatime?username=AMTitan&layout=compact&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" />
 </p>
 
-<h2> <img src="http://openweathermap.org/img/w/02d.png" width="30"> Weather </h2>
+<h2> <img src="http://openweathermap.org/img/w/01d.png" width="30"> Weather </h2>
 
 <p align="center">
-    The weather for me its a few clouds and the temperature is 22.89°C (73.2°F) but it actually feels like 20.21°C (68.38°F)!
+    The weather for me its a clear sky and the temperature is 22.9°C (73.22°F) but it actually feels like 20.22°C (68.4°F)!
 </p>
 <p align="center">
     The sun rise for me is at 06:54 and the sun set is at 18:40!
@@ -73,17 +73,17 @@
     The wind for me  is 1.79 meters/sec (4mph)!
 </p>
 <p align="center">
-    The persaintage of the sky is filled with clouds for me is 18%!
+    The persaintage of the sky is filled with clouds for me is 0%!
 </p>
 
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1595173148/9720/dog_cute.gif?1595173148" width="30"> Dog </h2>
 
 <p align="center">
-    <img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;terrier-dandie&#x2F;n02096437_3848.jpg" height="300px">
+    <img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;bulldog-english&#x2F;mami.jpg" height="300px">
 </p>
 
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1500426137/2648/allo-tongue.gif?1500426137" width="30"> Joke </h2>
 
 <p align="center">
-    Chuck Norris&#39; first job was as a paperboy. There were no survivors.
+    An anagram for Walker Texas Ranger is KARATE WRANGLER SEX. I don&#39;t know what that is, but it sounds AWESOME.
 </p>
