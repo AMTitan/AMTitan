@@ -79,11 +79,11 @@
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1595173148/9720/dog_cute.gif?1595173148" width="30"> Dog </h2>
 
 <p align="center">
-    <img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;retriever-golden&#x2F;n02099601_5679.jpg" height="300px">
+    <img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;basenji&#x2F;n02110806_3415.jpg" height="300px">
 </p>
 
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1500426137/2648/allo-tongue.gif?1500426137" width="30"> Joke </h2>
 
 <p align="center">
-    On his birthday, Chuck Norris randomly selects one lucky child to be thrown into the sun.
+    Yuvraj&#39;s Batting- 1 1 0 1 1 1 0 0 1 0 0 1 0 1 0 1 0 1 1 0 W.He has specialization in Digital Electronics.
 </p>
