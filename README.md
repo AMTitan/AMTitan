@@ -64,13 +64,13 @@
 <h2> <img src="http://openweathermap.org/img/w/04d.png" width="30"> Weather </h2>
 
 <p align="center">
-    The weather for me its a broken clouds and the temperature is 14.6°C (58.28°F) but it actually feels like 12.82°C (55.08°F)!
+    The weather for me its a broken clouds and the temperature is 14.52°C (58.14°F) but it actually feels like 12.18°C (53.92°F)!
 </p>
 <p align="center">
     The sun rise for me is at 06:54 and the sun set is at 18:40!
 </p>
 <p align="center">
-    The wind for me  is 0.89 meters/sec (1.99mph)!
+    The wind for me  is 1.75 meters/sec (3.91mph)!
 </p>
 <p align="center">
     The persaintage of the sky is filled with clouds for me is 67%!
@@ -79,11 +79,11 @@
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1595173148/9720/dog_cute.gif?1595173148" width="30"> Dog </h2>
 
 <p align="center">
-    <img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;terrier-irish&#x2F;n02093991_756.jpg" height="300px">
+    <img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;terrier-westhighland&#x2F;n02098286_2863.jpg" height="300px">
 </p>
 
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1500426137/2648/allo-tongue.gif?1500426137" width="30"> Joke </h2>
 
 <p align="center">
-    The beginning of the programmer’s wisdom is understanding the difference between getting program to run and having a runnable program.
+    Chuck Norris can win a game of Trivial Pursuit with one roll of the dice, and without answering a single question... just a nod of the head, and a stroke of the beard.
 </p>
