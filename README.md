@@ -1,4 +1,4 @@
-# <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> My name is Arthur Melton and I have ![Profile View Counter](https://komarev.com/ghpvc/?username=AMTitan) (Last updated on Thursday, 11 March, 12:37 GMT-5).
+# <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> My name is Arthur Melton and I have ![Profile View Counter](https://komarev.com/ghpvc/?username=AMTitan) (Last updated on Thursday, 11 March, 12:38 GMT-5).
 
 <h3> <img src="https://emojis.slackmojis.com/emojis/images/1581539211/7808/party-blob.gif?1581539211" width="30"/> About Me </h3>
 
@@ -64,7 +64,7 @@
 <h2> <img src="http://openweathermap.org/img/w/04d.png" width="30"> Weather </h2>
 
 <p align="center">
-    The weather for me its a overcast clouds and the temperature is 20.3°C (68.54°F) but it actually feels like 18.97°C (66.15°F)!
+    The weather for me its a broken clouds and the temperature is 19.93°C (67.87°F) but it actually feels like 18.59°C (65.46°F)!
 </p>
 <p align="center">
     The sun rise for me is at 06:52 and the sun set is at 18:41!
@@ -73,17 +73,17 @@
     The wind for me  is 1.79 meters/sec (4mph)!
 </p>
 <p align="center">
-    The persaintage of the sky is filled with clouds for me is 86%!
+    The persaintage of the sky is filled with clouds for me is 84%!
 </p>
 
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1595173148/9720/dog_cute.gif?1595173148" width="30"> Dog </h2>
 
 <p align="center">
-    <img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;stbernard&#x2F;n02109525_1480.jpg" height="300px">
+    <img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;terrier-border&#x2F;n02093754_6061.jpg" height="300px">
 </p>
 
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1500426137/2648/allo-tongue.gif?1500426137" width="30"> Joke </h2>
 
 <p align="center">
-    Chuck Norris is not Irish. His hair is soaked in the blood of his victims.
+    Little known medical fact: Chuck Norris invented the Caesarean section when he roundhouse-kicked his way out of his monther&#39;s womb.
 </p>
