@@ -64,13 +64,13 @@
 <h2> <img src="http://openweathermap.org/img/w/04d.png" width="30"> Weather </h2>
 
 <p align="center">
-    The weather for me its a overcast clouds and the temperature is 22.28°C (72.1°F) but it actually feels like 20.52°C (68.94°F)!
+    The weather for me its a overcast clouds and the temperature is 22.64°C (72.75°F) but it actually feels like 22°C (71.6°F)!
 </p>
 <p align="center">
     The sun rise for me is at 06:52 and the sun set is at 18:41!
 </p>
 <p align="center">
-    The wind for me  is 2.24 meters/sec (5.01mph)!
+    The wind for me  is 0.89 meters/sec (1.99mph)!
 </p>
 <p align="center">
     The persaintage of the sky is filled with clouds for me is 92%!
@@ -79,11 +79,11 @@
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1595173148/9720/dog_cute.gif?1595173148" width="30"> Dog </h2>
 
 <p align="center">
-    <img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;germanshepherd&#x2F;n02106662_2753.jpg" height="300px">
+    <img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;terrier-australian&#x2F;n02096294_4290.jpg" height="300px">
 </p>
 
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1500426137/2648/allo-tongue.gif?1500426137" width="30"> Joke </h2>
 
 <p align="center">
-    Chuck Norris&#39;s version of a &#39;chocolate milkshake&#39; is a raw porterhouse wrapped around ten Hershey bars, and doused in diesel fuel.
+    Since 1940, the year Chuck Norris was born, roundhouse kick related deaths have increased 13,000 percent.
 </p>
