@@ -1,4 +1,4 @@
-# <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> My name is Arthur Melton and I have ![Profile View Counter](https://komarev.com/ghpvc/?username=AMTitan) (Last updated on Thursday, 11 March, 11:10 GMT-5).
+# <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> My name is Arthur Melton and I have ![Profile View Counter](https://komarev.com/ghpvc/?username=AMTitan) (Last updated on Thursday, 11 March, 11:11 GMT-5).
 
 <h3> <img src="https://emojis.slackmojis.com/emojis/images/1581539211/7808/party-blob.gif?1581539211" width="30"/> About Me </h3>
 
@@ -64,7 +64,7 @@
 <h2> <img src="http://openweathermap.org/img/w/04d.png" width="30"> Weather </h2>
 
 <p align="center">
-    The weather for me its a overcast clouds and the temperature is 17.88°C (64.18°F) but it actually feels like 17.19°C (62.94°F)!
+    The weather for me its a overcast clouds and the temperature is 17.78°C (64°F) but it actually feels like 17.06°C (62.71°F)!
 </p>
 <p align="center">
     The sun rise for me is at 06:52 and the sun set is at 18:41!
@@ -79,11 +79,11 @@
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1595173148/9720/dog_cute.gif?1595173148" width="30"> Dog </h2>
 
 <p align="center">
-    <img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;leonberg&#x2F;n02111129_2703.jpg" height="300px">
+    <img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;dhole&#x2F;n02115913_1830.jpg" height="300px">
 </p>
 
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1500426137/2648/allo-tongue.gif?1500426137" width="30"> Joke </h2>
 
 <p align="center">
-    Hacking is like sex. You get in... you get out... and hope that you didn’t leave something that can be traced back to you.
+    Chuck Norris is the only person in the world that can actually email a roundhouse kick.
 </p>
