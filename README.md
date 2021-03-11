@@ -61,29 +61,29 @@
     <img style="width:100%" src="https://github-readme-stats.vercel.app/api/wakatime?username=AMTitan&layout=compact&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" />
 </p>
 
-<h2> <img src="http://openweathermap.org/img/w/04n.png" width="30"> Weather </h2>
+<h2> <img src="http://openweathermap.org/img/w/03n.png" width="30"> Weather </h2>
 
 <p align="center">
-    The weather for me its a broken clouds and the temperature is 14.48°C (58.06°F) but it actually feels like 11.13°C (52.03°F)!
+    The weather for me its a scattered clouds and the temperature is 14.69°C (58.44°F) but it actually feels like 11.21°C (52.18°F)!
 </p>
 <p align="center">
     The sun rise for me is at 06:54 and the sun set is at 18:40!
 </p>
 <p align="center">
-    The wind for me  is 2.49 meters/sec (5.57mph)!
+    The wind for me  is 2.72 meters/sec (6.08mph)!
 </p>
 <p align="center">
-    The persaintage of the sky is filled with clouds for me is 62%!
+    The persaintage of the sky is filled with clouds for me is 44%!
 </p>
 
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1595173148/9720/dog_cute.gif?1595173148" width="30"> Dog </h2>
 
 <p align="center">
-    <img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;havanese&#x2F;00100trPORTRAIT_00100_BURST20191126134713895_COVER.jpg" height="300px">
+    <img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;appenzeller&#x2F;n02107908_7183.jpg" height="300px">
 </p>
 
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1500426137/2648/allo-tongue.gif?1500426137" width="30"> Joke </h2>
 
 <p align="center">
-    Chuck Norris is the only person in the world that can actually email a roundhouse kick.
+    They say curiosity killed the cat. This is false. Chuck Norris killed the cat. Every single one of them.
 </p>
