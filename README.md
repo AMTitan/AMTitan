@@ -64,26 +64,26 @@
 <h2> <img src="http://openweathermap.org/img/w/04n.png" width="30"> Weather </h2>
 
 <p align="center">
-    The weather for me its a broken clouds and the temperature is 12.04°C (53.67°F) but it actually feels like 8.54°C (47.37°F)!
+    The weather for me its a broken clouds and the temperature is 11.82°C (53.28°F) but it actually feels like 8.76°C (47.77°F)!
 </p>
 <p align="center">
     The sun rise for me is at 06:54 and the sun set is at 18:40!
 </p>
 <p align="center">
-    The wind for me  is 2.46 meters/sec (5.5mph)!
+    The wind for me  is 1.86 meters/sec (4.16mph)!
 </p>
 <p align="center">
-    The persaintage of the sky is filled with clouds for me is 59%!
+    The persaintage of the sky is filled with clouds for me is 62%!
 </p>
 
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1595173148/9720/dog_cute.gif?1595173148" width="30"> Dog </h2>
 
 <p align="center">
-    <img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;chow&#x2F;n02112137_13499.jpg" height="300px">
+    <img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;terrier-fox&#x2F;n02095314_1780.jpg" height="300px">
 </p>
 
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1500426137/2648/allo-tongue.gif?1500426137" width="30"> Joke </h2>
 
 <p align="center">
-    Programmers are tools for converting caffeine into code.
+    Chuck Norris can divide by zero.
 </p>
