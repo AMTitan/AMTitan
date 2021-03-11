@@ -64,7 +64,7 @@
 <h2> <img src="http://openweathermap.org/img/w/04n.png" width="30"> Weather </h2>
 
 <p align="center">
-    The weather for me its a broken clouds and the temperature is 12.04°C (53.67°F) but it actually feels like 8.54°C (47.37°F)!
+    The weather for me its a broken clouds and the temperature is 12.07°C (53.73°F) but it actually feels like 8.58°C (47.44°F)!
 </p>
 <p align="center">
     The sun rise for me is at 06:54 and the sun set is at 18:40!
@@ -79,11 +79,11 @@
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1595173148/9720/dog_cute.gif?1595173148" width="30"> Dog </h2>
 
 <p align="center">
-    <img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;terrier-silky&#x2F;n02097658_8690.jpg" height="300px">
+    <img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;basenji&#x2F;n02110806_1667.jpg" height="300px">
 </p>
 
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1500426137/2648/allo-tongue.gif?1500426137" width="30"> Joke </h2>
 
 <p align="center">
-    How many Chuck Norris&#39; does it take to change a light bulb? None, Chuck Norris prefers to kill in the dark.
+    The crossing lights in Chuck Norris&#39;s home town say &#39;Die slowly&#39; and &#39;die quickly&#39;. They each have a picture of Chuck Norris punching or kicking a pedestrian.
 </p>
