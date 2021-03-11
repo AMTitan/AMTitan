@@ -1,4 +1,4 @@
-# <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> My name is Arthur Melton and I have ![Profile View Counter](https://komarev.com/ghpvc/?username=AMTitan) (Last updated on Thursday, 11 March, 00:37 GMT-5).
+# <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> My name is Arthur Melton and I have ![Profile View Counter](https://komarev.com/ghpvc/?username=AMTitan) (Last updated on Thursday, 11 March, 00:38 GMT-5).
 
 <h3> <img src="https://emojis.slackmojis.com/emojis/images/1581539211/7808/party-blob.gif?1581539211" width="30"/> About Me </h3>
 
@@ -61,29 +61,29 @@
     <img style="width:100%" src="https://github-readme-stats.vercel.app/api/wakatime?username=AMTitan&layout=compact&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" />
 </p>
 
-<h2> <img src="http://openweathermap.org/img/w/01n.png" width="30"> Weather </h2>
+<h2> <img src="http://openweathermap.org/img/w/04n.png" width="30"> Weather </h2>
 
 <p align="center">
-    The weather for me its a clear sky and the temperature is 11.65°C (52.97°F) but it actually feels like 8.2°C (46.76°F)!
+    The weather for me its a broken clouds and the temperature is 11.14°C (52.05°F) but it actually feels like 8.64°C (47.55°F)!
 </p>
 <p align="center">
     The sun rise for me is at 06:52 and the sun set is at 18:41!
 </p>
 <p align="center">
-    The wind for me  is 1.86 meters/sec (4.16mph)!
+    The wind for me  is 1.35 meters/sec (3.02mph)!
 </p>
 <p align="center">
-    The persaintage of the sky is filled with clouds for me is 1%!
+    The persaintage of the sky is filled with clouds for me is 52%!
 </p>
 
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1595173148/9720/dog_cute.gif?1595173148" width="30"> Dog </h2>
 
 <p align="center">
-    <img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;schnauzer-miniature&#x2F;n02097047_5223.jpg" height="300px">
+    <img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;mastiff-tibetan&#x2F;n02108551_11271.jpg" height="300px">
 </p>
 
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1500426137/2648/allo-tongue.gif?1500426137" width="30"> Joke </h2>
 
 <p align="center">
-    Chuck Norris is the only human being to display the Heisenberg uncertainty principle - you can never know both exactly where and how quickly he will roundhouse-kick you in the face.
+    If Chuck Norris were a calendar, every month would be named Chucktober, and every day he&#39;d kick your ass.
 </p>
