@@ -64,7 +64,7 @@
 <h2> <img src="http://openweathermap.org/img/w/01n.png" width="30"> Weather </h2>
 
 <p align="center">
-    The weather for me its a clear sky and the temperature is 9.24°C (48.63°F) but it actually feels like 6.44°C (43.59°F)!
+    The weather for me its a clear sky and the temperature is 9.39°C (48.9°F) but it actually feels like 6.61°C (43.9°F)!
 </p>
 <p align="center">
     The sun rise for me is at 06:52 and the sun set is at 18:41!
@@ -79,11 +79,11 @@
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1595173148/9720/dog_cute.gif?1595173148" width="30"> Dog </h2>
 
 <p align="center">
-    <img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;kelpie&#x2F;n02105412_7264.jpg" height="300px">
+    <img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;hound-english&#x2F;n02089973_3265.jpg" height="300px">
 </p>
 
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1500426137/2648/allo-tongue.gif?1500426137" width="30"> Joke </h2>
 
 <p align="center">
-    Wilt Chamberlain claims to have slept with more than 20,000 women in his lifetime. Chuck Norris calls this &#39;a slow Tuesday.&#39;
+    The chemical formula for the highly toxic cyanide ion is CN-. These are also Chuck Norris&#39; initials. This is not a coincidence.
 </p>
