@@ -64,7 +64,7 @@
 <h2> <img src="http://openweathermap.org/img/w/03n.png" width="30"> Weather </h2>
 
 <p align="center">
-    The weather for me its a scattered clouds and the temperature is 12°C (53.6°F) but it actually feels like 9.91°C (49.84°F)!
+    The weather for me its a scattered clouds and the temperature is 12.38°C (54.28°F) but it actually feels like 10.37°C (50.67°F)!
 </p>
 <p align="center">
     The sun rise for me is at 06:52 and the sun set is at 18:41!
@@ -79,11 +79,11 @@
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1595173148/9720/dog_cute.gif?1595173148" width="30"> Dog </h2>
 
 <p align="center">
-    <img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;dane-great&#x2F;n02109047_6008.jpg" height="300px">
+    <img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;entlebucher&#x2F;n02108000_398.jpg" height="300px">
 </p>
 
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1500426137/2648/allo-tongue.gif?1500426137" width="30"> Joke </h2>
 
 <p align="center">
-    There is in fact an &#39;I&#39; in Norris, but there is no &#39;team&#39;. Not even close.
+    Chuck Norris doesn&#39;t throw up if he drinks too much. Chuck Norris throws down!
 </p>
