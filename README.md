@@ -1,4 +1,4 @@
-# <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> My name is Arthur Melton and I have ![Profile View Counter](https://komarev.com/ghpvc/?username=AMTitan) (Last updated on Friday, 12 March, 02:52 GMT-5).
+# <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> My name is Arthur Melton and I have ![Profile View Counter](https://komarev.com/ghpvc/?username=AMTitan) (Last updated on Friday, 12 March, 02:53 GMT-5).
 
 <h3> <img src="https://emojis.slackmojis.com/emojis/images/1581539211/7808/party-blob.gif?1581539211" width="30"/> About Me </h3>
 
@@ -61,29 +61,29 @@
     <img style="width:100%" src="https://github-readme-stats.vercel.app/api/wakatime?username=AMTitan&layout=compact&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" />
 </p>
 
-<h2> <img src="http://openweathermap.org/img/w/01n.png" width="30"> Weather </h2>
+<h2> <img src="http://openweathermap.org/img/w/03n.png" width="30"> Weather </h2>
 
 <p align="center">
-    The weather for me its a clear sky and the temperature is 10.28°C (50.5°F) but it actually feels like 8.54°C (47.37°F)!
+    The weather for me its a scattered clouds and the temperature is 11.02°C (51.84°F) but it actually feels like 10.04°C (50.07°F)!
 </p>
 <p align="center">
     The sun rise for me is at 06:51 and the sun set is at 18:42!
 </p>
 <p align="center">
-    The wind for me  is 1.54 meters/sec (3.44mph)!
+    The wind for me  is 0.64 meters/sec (1.43mph)!
 </p>
 <p align="center">
-    The persaintage of the sky is filled with clouds for me is 1%!
+    The persaintage of the sky is filled with clouds for me is 41%!
 </p>
 
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1595173148/9720/dog_cute.gif?1595173148" width="30"> Dog </h2>
 
 <p align="center">
-    <img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;mountain-swiss&#x2F;n02107574_1661.jpg" height="300px">
+    <img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;ridgeback-rhodesian&#x2F;n02087394_4459.jpg" height="300px">
 </p>
 
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1500426137/2648/allo-tongue.gif?1500426137" width="30"> Joke </h2>
 
 <p align="center">
-    There are only 10 types of people in the world: those that understand binary, those that don’t, and those that didn&#39;t expect a ternary joke.
+    3 Database SQL walked into a NoSQL bar. A little while later they walked out, because they couldn&#39;t find a table.
 </p>
