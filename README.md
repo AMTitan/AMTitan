@@ -61,29 +61,29 @@
     <img style="width:100%" src="https://github-readme-stats.vercel.app/api/wakatime?username=AMTitan&layout=compact&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" />
 </p>
 
-<h2> <img src="http://openweathermap.org/img/w/03d.png" width="30"> Weather </h2>
+<h2> <img src="http://openweathermap.org/img/w/04d.png" width="30"> Weather </h2>
 
 <p align="center">
-    The weather for me its a scattered clouds and the temperature is 13.78°C (56.8°F) but it actually feels like 13.69°C (56.64°F)!
+    The weather for me its a broken clouds and the temperature is 13.26°C (55.87°F) but it actually feels like 13.2°C (55.76°F)!
 </p>
 <p align="center">
     The sun rise for me is at 06:50 and the sun set is at 18:43!
 </p>
 <p align="center">
-    The wind for me  is 1.39 meters/sec (3.11mph)!
+    The wind for me  is 1.54 meters/sec (3.44mph)!
 </p>
 <p align="center">
-    The persaintage of the sky is filled with clouds for me is 40%!
+    The persaintage of the sky is filled with clouds for me is 75%!
 </p>
 
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1595173148/9720/dog_cute.gif?1595173148" width="30"> Dog </h2>
 
 <p align="center">
-    <img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;terrier-kerryblue&#x2F;n02093859_1635.jpg" height="300px">
+    <img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;cairn&#x2F;n02096177_8324.jpg" height="300px">
 </p>
 
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1500426137/2648/allo-tongue.gif?1500426137" width="30"> Joke </h2>
 
 <p align="center">
-    Chuck Norris invented a language that incorporates karate and roundhouse kicks. So next time Chuck Norris is kicking your ass, don?t be offended or hurt, he may be just trying to tell you he likes your hat.
+    It&#39;s widely believed that Jesus was Chuck Norris&#39; stunt double for crucifixion due to the fact that it is impossible for nails to pierce Chuck Norris&#39; skin.
 </p>
