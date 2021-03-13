@@ -64,7 +64,7 @@
 <h2> <img src="http://openweathermap.org/img/w/04d.png" width="30"> Weather </h2>
 
 <p align="center">
-    The weather for me its a overcast clouds and the temperature is 23.12°C (73.62°F) but it actually feels like 23.39°C (74.1°F)!
+    The weather for me its a overcast clouds and the temperature is 23.17°C (73.71°F) but it actually feels like 23.45°C (74.21°F)!
 </p>
 <p align="center">
     The sun rise for me is at 06:50 and the sun set is at 18:43!
@@ -79,11 +79,11 @@
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1595173148/9720/dog_cute.gif?1595173148" width="30"> Dog </h2>
 
 <p align="center">
-    <img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;australian-shepherd&#x2F;pepper.jpg" height="300px">
+    <img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;hound-basset&#x2F;n02088238_11136.jpg" height="300px">
 </p>
 
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1500426137/2648/allo-tongue.gif?1500426137" width="30"> Joke </h2>
 
 <p align="center">
-    When Chuck Norris was a baby, he didn&#39;t suck his mother&#39;s breast. His mother served him whiskey, straight out of the bottle.
+    Chuck Norris&#39; Penis is a third degree blackbelt, and an honorable 32nd-degree mason.
 </p>
