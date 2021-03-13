@@ -61,10 +61,10 @@
     <img style="width:100%" src="https://github-readme-stats.vercel.app/api/wakatime?username=AMTitan&layout=compact&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" />
 </p>
 
-<h2> <img src="http://openweathermap.org/img/w/04n.png" width="30"> Weather </h2>
+<h2> <img src="http://openweathermap.org/img/w/03n.png" width="30"> Weather </h2>
 
 <p align="center">
-    The weather for me its a overcast clouds and the temperature is 13.6°C (56.48°F) but it actually feels like 13.03°C (55.45°F)!
+    The weather for me its a scattered clouds and the temperature is 14.02°C (57.24°F) but it actually feels like 13.78°C (56.8°F)!
 </p>
 <p align="center">
     The sun rise for me is at 06:50 and the sun set is at 18:43!
@@ -73,17 +73,17 @@
     The wind for me  is 1.26 meters/sec (2.82mph)!
 </p>
 <p align="center">
-    The persaintage of the sky is filled with clouds for me is 95%!
+    The persaintage of the sky is filled with clouds for me is 40%!
 </p>
 
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1595173148/9720/dog_cute.gif?1595173148" width="30"> Dog </h2>
 
 <p align="center">
-    <img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;doberman&#x2F;n02107142_3236.jpg" height="300px">
+    <img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;rottweiler&#x2F;n02106550_208.jpg" height="300px">
 </p>
 
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1500426137/2648/allo-tongue.gif?1500426137" width="30"> Joke </h2>
 
 <p align="center">
-    The truth is out there. Anybody got the URL?
+    Chuck Norris is the only man who has, literally, beaten the odds. With his fists.
 </p>
