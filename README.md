@@ -64,7 +64,7 @@
 <h2> <img src="http://openweathermap.org/img/w/04d.png" width="30"> Weather </h2>
 
 <p align="center">
-    The weather for me its a broken clouds and the temperature is 21.46°C (70.63°F) but it actually feels like 23.46°C (74.23°F)!
+    The weather for me its a broken clouds and the temperature is 21.45°C (70.61°F) but it actually feels like 23.45°C (74.21°F)!
 </p>
 <p align="center">
     The sun rise for me is at 06:50 and the sun set is at 18:43!
@@ -79,11 +79,11 @@
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1595173148/9720/dog_cute.gif?1595173148" width="30"> Dog </h2>
 
 <p align="center">
-    <img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;terrier-lakeland&#x2F;n02095570_6222.jpg" height="300px">
+    <img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;terrier-norfolk&#x2F;n02094114_787.jpg" height="300px">
 </p>
 
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1500426137/2648/allo-tongue.gif?1500426137" width="30"> Joke </h2>
 
 <p align="center">
-    What&#39;s the object-oriented way to become wealthy? Inheritance.
+    When Chuck Norris says &#39;More cowbell&#39;, he MEANS it.
 </p>
