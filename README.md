@@ -64,13 +64,13 @@
 <h2> <img src="http://openweathermap.org/img/w/01n.png" width="30"> Weather </h2>
 
 <p align="center">
-    The weather for me its a clear sky and the temperature is 13.16°C (55.69°F) but it actually feels like 12.57°C (54.63°F)!
+    The weather for me its a clear sky and the temperature is 13.16°C (55.69°F) but it actually feels like 12.59°C (54.66°F)!
 </p>
 <p align="center">
     The sun rise for me is at 06:50 and the sun set is at 18:43!
 </p>
 <p align="center">
-    The wind for me  is 1.4 meters/sec (3.13mph)!
+    The wind for me  is 1.37 meters/sec (3.06mph)!
 </p>
 <p align="center">
     The persaintage of the sky is filled with clouds for me is 1%!
@@ -79,11 +79,11 @@
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1595173148/9720/dog_cute.gif?1595173148" width="30"> Dog </h2>
 
 <p align="center">
-    <img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;terrier-yorkshire&#x2F;n02094433_4710.jpg" height="300px">
+    <img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;greyhound-italian&#x2F;n02091032_309.jpg" height="300px">
 </p>
 
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1500426137/2648/allo-tongue.gif?1500426137" width="30"> Joke </h2>
 
 <p align="center">
-    The beginning of the programmer’s wisdom is understanding the difference between getting program to run and having a runnable program.
+    A high tide means Chuck Norris is flying over your coast. The tide is caused by God pissing his pants.
 </p>
