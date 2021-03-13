@@ -61,29 +61,29 @@
     <img style="width:100%" src="https://github-readme-stats.vercel.app/api/wakatime?username=AMTitan&layout=compact&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" />
 </p>
 
-<h2> <img src="http://openweathermap.org/img/w/04n.png" width="30"> Weather </h2>
+<h2> <img src="http://openweathermap.org/img/w/01n.png" width="30"> Weather </h2>
 
 <p align="center">
-    The weather for me its a overcast clouds and the temperature is 14.5°C (58.1°F) but it actually feels like 13.58°C (56.44°F)!
+    The weather for me its a clear sky and the temperature is 14.97°C (58.95°F) but it actually feels like 13.42°C (56.16°F)!
 </p>
 <p align="center">
     The sun rise for me is at 06:51 and the sun set is at 18:42!
 </p>
 <p align="center">
-    The wind for me  is 1.74 meters/sec (3.89mph)!
+    The wind for me  is 1.54 meters/sec (3.44mph)!
 </p>
 <p align="center">
-    The persaintage of the sky is filled with clouds for me is 94%!
+    The persaintage of the sky is filled with clouds for me is 1%!
 </p>
 
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1595173148/9720/dog_cute.gif?1595173148" width="30"> Dog </h2>
 
 <p align="center">
-    <img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;dingo&#x2F;n02115641_7549.jpg" height="300px">
+    <img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;weimaraner&#x2F;n02092339_235.jpg" height="300px">
 </p>
 
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1500426137/2648/allo-tongue.gif?1500426137" width="30"> Joke </h2>
 
 <p align="center">
-    Using his trademark roundhouse kick, Chuck Norris once made a fieldgoal in RJ Stadium in Tampa Bay from the 50 yard line of Qualcomm stadium in San Diego.
+    Why did the chicken cross the road? It was called with theOtherSide(chicken)
 </p>
