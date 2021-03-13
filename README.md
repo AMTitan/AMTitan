@@ -64,26 +64,26 @@
 <h2> <img src="http://openweathermap.org/img/w/04n.png" width="30"> Weather </h2>
 
 <p align="center">
-    The weather for me its a overcast clouds and the temperature is 15.51°C (59.92°F) but it actually feels like 14.46°C (58.03°F)!
+    The weather for me its a overcast clouds and the temperature is 15.72°C (60.3°F) but it actually feels like 14.74°C (58.53°F)!
 </p>
 <p align="center">
     The sun rise for me is at 06:51 and the sun set is at 18:42!
 </p>
 <p align="center">
-    The wind for me  is 2 meters/sec (4.47mph)!
+    The wind for me  is 1.99 meters/sec (4.45mph)!
 </p>
 <p align="center">
-    The persaintage of the sky is filled with clouds for me is 93%!
+    The persaintage of the sky is filled with clouds for me is 100%!
 </p>
 
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1595173148/9720/dog_cute.gif?1595173148" width="30"> Dog </h2>
 
 <p align="center">
-    <img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;terrier-wheaten&#x2F;n02098105_398.jpg" height="300px">
+    <img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;springer-english&#x2F;n02102040_3260.jpg" height="300px">
 </p>
 
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1500426137/2648/allo-tongue.gif?1500426137" width="30"> Joke </h2>
 
 <p align="center">
-    Roses are #ff0000, violets are #0000ff, I use hex codes, but I&#39;d use RGB for you
+    What was going through the minds of all of Chuck Norris&#39; victims before they died? His shoe.
 </p>
