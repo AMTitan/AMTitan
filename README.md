@@ -64,7 +64,7 @@
 <h2> <img src="http://openweathermap.org/img/w/04n.png" width="30"> Weather </h2>
 
 <p align="center">
-    The weather for me its a overcast clouds and the temperature is 15.06°C (59.11°F) but it actually feels like 13.09°C (55.56°F)!
+    The weather for me its a overcast clouds and the temperature is 14.98°C (58.96°F) but it actually feels like 12.99°C (55.38°F)!
 </p>
 <p align="center">
     The sun rise for me is at 07:48 and the sun set is at 19:44!
@@ -79,11 +79,11 @@
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1595173148/9720/dog_cute.gif?1595173148" width="30"> Dog </h2>
 
 <p align="center">
-    <img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;australian-shepherd&#x2F;leroy.jpg" height="300px">
+    <img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;redbone&#x2F;n02090379_3410.jpg" height="300px">
 </p>
 
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1500426137/2648/allo-tongue.gif?1500426137" width="30"> Joke </h2>
 
 <p align="center">
-    When Chuck Norris has sex with a man, it won&#39;t be because he is gay. It will be because he has run out of women.
+    When taking the SAT, write &#39;Chuck Norris&#39; for every answer. You will score over 8000.
 </p>
