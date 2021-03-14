@@ -64,26 +64,26 @@
 <h2> <img src="http://openweathermap.org/img/w/04n.png" width="30"> Weather </h2>
 
 <p align="center">
-    The weather for me its a overcast clouds and the temperature is 11.78°C (53.2°F) but it actually feels like 9.76°C (49.57°F)!
+    The weather for me its a broken clouds and the temperature is 11.87°C (53.37°F) but it actually feels like 9.93°C (49.87°F)!
 </p>
 <p align="center">
     The sun rise for me is at 07:48 and the sun set is at 19:44!
 </p>
 <p align="center">
-    The wind for me  is 1.85 meters/sec (4.14mph)!
+    The wind for me  is 1.71 meters/sec (3.83mph)!
 </p>
 <p align="center">
-    The persaintage of the sky is filled with clouds for me is 86%!
+    The persaintage of the sky is filled with clouds for me is 63%!
 </p>
 
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1595173148/9720/dog_cute.gif?1595173148" width="30"> Dog </h2>
 
 <p align="center">
-    <img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;terrier-toy&#x2F;n02087046_4455.jpg" height="300px">
+    <img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;poodle-standard&#x2F;n02113799_1144.jpg" height="300px">
 </p>
 
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1500426137/2648/allo-tongue.gif?1500426137" width="30"> Joke </h2>
 
 <p align="center">
-    No one has ever spoken during review of Chuck Norris&#39; code and lived to tell about it.
+    Chuck Norris doesnt shave; he kicks himself in the face. The only thing that can cut Chuck Norris is Chuck Norris.
 </p>
