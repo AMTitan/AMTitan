@@ -64,7 +64,7 @@
 <h2> <img src="http://openweathermap.org/img/w/04d.png" width="30"> Weather </h2>
 
 <p align="center">
-    The weather for me its a overcast clouds and the temperature is 12.05°C (53.69°F) but it actually feels like 10.3°C (50.54°F)!
+    The weather for me its a overcast clouds and the temperature is 12.04°C (53.67°F) but it actually feels like 10.29°C (50.52°F)!
 </p>
 <p align="center">
     The sun rise for me is at 07:48 and the sun set is at 19:44!
@@ -79,11 +79,11 @@
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1595173148/9720/dog_cute.gif?1595173148" width="30"> Dog </h2>
 
 <p align="center">
-    <img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;pointer-germanlonghair&#x2F;hans4.jpg" height="300px">
+    <img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;hound-english&#x2F;n02089973_533.jpg" height="300px">
 </p>
 
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1500426137/2648/allo-tongue.gif?1500426137" width="30"> Joke </h2>
 
 <p align="center">
-    Mr. T pities the fool. Chuck Norris rips the fool&#39;s head off.
+    Most people have 23 pairs of chromosomes. Chuck Norris has 72... and they&#39;re all poisonous.
 </p>
