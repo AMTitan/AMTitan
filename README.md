@@ -64,7 +64,7 @@
 <h2> <img src="http://openweathermap.org/img/w/04n.png" width="30"> Weather </h2>
 
 <p align="center">
-    The weather for me its a broken clouds and the temperature is 12.79°C (55.02°F) but it actually feels like 10.78°C (51.4°F)!
+    The weather for me its a broken clouds and the temperature is 12.85°C (55.13°F) but it actually feels like 10.81°C (51.46°F)!
 </p>
 <p align="center">
     The sun rise for me is at 07:48 and the sun set is at 19:44!
@@ -79,11 +79,11 @@
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1595173148/9720/dog_cute.gif?1595173148" width="30"> Dog </h2>
 
 <p align="center">
-    <img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;spaniel-blenheim&#x2F;n02086646_2366.jpg" height="300px">
+    <img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;mix&#x2F;otis.jpg" height="300px">
 </p>
 
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1500426137/2648/allo-tongue.gif?1500426137" width="30"> Joke </h2>
 
 <p align="center">
-    There are only 10 types of people in the world: those that understand binary, those that don’t, and those that didn&#39;t expect a ternary joke.
+    If you work in an office with Chuck Norris, don&#39;t ask him for his three-hole-punch.
 </p>
