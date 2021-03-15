@@ -64,7 +64,7 @@
 <h2> <img src="http://openweathermap.org/img/w/04d.png" width="30"> Weather </h2>
 
 <p align="center">
-    The weather for me its a overcast clouds and the temperature is 18.45°C (65.21°F) but it actually feels like 16.66°C (61.99°F)!
+    The weather for me its a overcast clouds and the temperature is 18.54°C (65.37°F) but it actually feels like 16.55°C (61.79°F)!
 </p>
 <p align="center">
     The sun rise for me is at 07:47 and the sun set is at 19:44!
@@ -79,11 +79,11 @@
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1595173148/9720/dog_cute.gif?1595173148" width="30"> Dog </h2>
 
 <p align="center">
-    <img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;bullterrier-staffordshire&#x2F;n02093256_3462.jpg" height="300px">
+    <img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;terrier-bedlington&#x2F;n02093647_2477.jpg" height="300px">
 </p>
 
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1500426137/2648/allo-tongue.gif?1500426137" width="30"> Joke </h2>
 
 <p align="center">
-    Chuck Norris does not own a house. He walks into random houses and people move.
+    182,000 Americans die from Chuck Norris-related accidents every year.
 </p>
