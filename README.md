@@ -64,7 +64,7 @@
 <h2> <img src="http://openweathermap.org/img/w/04n.png" width="30"> Weather </h2>
 
 <p align="center">
-    The weather for me its a overcast clouds and the temperature is 17.51°C (63.52°F) but it actually feels like 15.82°C (60.48°F)!
+    The weather for me its a overcast clouds and the temperature is 17.6°C (63.68°F) but it actually feels like 15.93°C (60.67°F)!
 </p>
 <p align="center">
     The sun rise for me is at 07:47 and the sun set is at 19:44!
@@ -79,11 +79,11 @@
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1595173148/9720/dog_cute.gif?1595173148" width="30"> Dog </h2>
 
 <p align="center">
-    <img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;airedale&#x2F;n02096051_119.jpg" height="300px">
+    <img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;hound-plott&#x2F;hhh_plott002.JPG" height="300px">
 </p>
 
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1500426137/2648/allo-tongue.gif?1500426137" width="30"> Joke </h2>
 
 <p align="center">
-    The original title for Star Wars was &#39;Skywalker: Texas Ranger&#39;. Starring Chuck Norris.
+    Maslow&#39;s theory of higher needs does not apply to Chuck Norris. He only has two needs: killing people and finding people to kill.
 </p>
