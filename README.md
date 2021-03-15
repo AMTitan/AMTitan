@@ -64,13 +64,13 @@
 <h2> <img src="http://openweathermap.org/img/w/04d.png" width="30"> Weather </h2>
 
 <p align="center">
-    The weather for me its a overcast clouds and the temperature is 18.36°C (65.05°F) but it actually feels like 15.23°C (59.41°F)!
+    The weather for me its a overcast clouds and the temperature is 18.24°C (64.83°F) but it actually feels like 14.32°C (57.78°F)!
 </p>
 <p align="center">
     The sun rise for me is at 07:47 and the sun set is at 19:44!
 </p>
 <p align="center">
-    The wind for me  is 3.13 meters/sec (7mph)!
+    The wind for me  is 4.02 meters/sec (8.99mph)!
 </p>
 <p align="center">
     The persaintage of the sky is filled with clouds for me is 85%!
@@ -79,11 +79,11 @@
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1595173148/9720/dog_cute.gif?1595173148" width="30"> Dog </h2>
 
 <p align="center">
-    <img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;buhund-norwegian&#x2F;hakon1.jpg" height="300px">
+    <img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;mexicanhairless&#x2F;n02113978_131.jpg" height="300px">
 </p>
 
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1500426137/2648/allo-tongue.gif?1500426137" width="30"> Joke </h2>
 
 <p align="center">
-    Chuck Norris has a deep and abiding respect for human life... unless it gets in his way.
+    How does a Programmer COok food ? In O(1)
 </p>
