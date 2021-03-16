@@ -61,10 +61,10 @@
     <img style="width:100%" src="https://github-readme-stats.vercel.app/api/wakatime?username=AMTitan&layout=compact&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" />
 </p>
 
-<h2> <img src="http://openweathermap.org/img/w/10d.png" width="30"> Weather </h2>
+<h2> <img src="http://openweathermap.org/img/w/10n.png" width="30"> Weather </h2>
 
 <p align="center">
-    The weather for me its a light rain and the temperature is 7.88°C (46.18°F) but it actually feels like 5.75°C (42.35°F)!
+    The weather for me its a light rain and the temperature is 8.06°C (46.51°F) but it actually feels like 5.9°C (42.62°F)!
 </p>
 <p align="center">
     The sun rise for me is at 07:46 and the sun set is at 19:45!
@@ -79,11 +79,11 @@
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1595173148/9720/dog_cute.gif?1595173148" width="30"> Dog </h2>
 
 <p align="center">
-    <img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;australian-shepherd&#x2F;leroy.jpg" height="300px">
+    <img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;waterdog-spanish&#x2F;20181023_072736.jpg" height="300px">
 </p>
 
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1500426137/2648/allo-tongue.gif?1500426137" width="30"> Joke </h2>
 
 <p align="center">
-    Chuck Norris? sperm is so badass, he had sex with Nicole Kidman, and 7 months later she prematurely gave birth to a Ford Excursion.
+    When J. Robert Oppenheimer said &#39;I am become death, the destroyer Of worlds&#39;, He was not referring to the atomic bomb. He was referring to the Chuck Norris halloween costume he was wearing.
 </p>
