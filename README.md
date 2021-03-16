@@ -85,5 +85,5 @@
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1500426137/2648/allo-tongue.gif?1500426137" width="30"> Joke </h2>
 
 <p align="center">
-    Chuck Norris can solve the Towers of Hanoi in one move.
+    C:&#x2F;&#x2F;dos  &lt;br&gt;C:&#x2F;&#x2F;dos.run  &lt;br&gt;run.dos.run
 </p>
