@@ -64,13 +64,13 @@
 <h2> <img src="http://openweathermap.org/img/w/04n.png" width="30"> Weather </h2>
 
 <p align="center">
-    The weather for me its a overcast clouds and the temperature is 9.48°C (49.06°F) but it actually feels like 8.13°C (46.63°F)!
+    The weather for me its a overcast clouds and the temperature is 9.51°C (49.12°F) but it actually feels like 8.05°C (46.49°F)!
 </p>
 <p align="center">
     The sun rise for me is at 07:44 and the sun set is at 19:46!
 </p>
 <p align="center">
-    The wind for me  is 1.68 meters/sec (3.76mph)!
+    The wind for me  is 1.85 meters/sec (4.14mph)!
 </p>
 <p align="center">
     The persaintage of the sky is filled with clouds for me is 100%!
@@ -79,11 +79,11 @@
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1595173148/9720/dog_cute.gif?1595173148" width="30"> Dog </h2>
 
 <p align="center">
-    <img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;pyrenees&#x2F;n02111500_2736.jpg" height="300px">
+    <img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;mexicanhairless&#x2F;n02113978_505.jpg" height="300px">
 </p>
 
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1500426137/2648/allo-tongue.gif?1500426137" width="30"> Joke </h2>
 
 <p align="center">
-    Chuck Norris once roundhouse kicked someone so hard that his foot broke the speed of light, went back in time, and killed Amelia Earhart while she was flying over the Pacific Ocean.
+    &#39;Let the Bodies Hit the Floor&#39; was originally written as Chuck Norris&#39; theme song.
 </p>
