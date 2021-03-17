@@ -61,16 +61,16 @@
     <img style="width:100%" src="https://github-readme-stats.vercel.app/api/wakatime?username=AMTitan&layout=compact&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" />
 </p>
 
-<h2> <img src="http://openweathermap.org/img/w/09d.png" width="30"> Weather </h2>
+<h2> <img src="http://openweathermap.org/img/w/04d.png" width="30"> Weather </h2>
 
 <p align="center">
-    The weather for me its a drizzle and the temperature is 11.12°C (52.02°F) but it actually feels like 8.6°C (47.48°F)!
+    The weather for me its a overcast clouds and the temperature is 11.42°C (52.56°F) but it actually feels like 9.35°C (48.83°F)!
 </p>
 <p align="center">
     The sun rise for me is at 07:44 and the sun set is at 19:46!
 </p>
 <p align="center">
-    The wind for me  is 4.12 meters/sec (9.22mph)!
+    The wind for me  is 3.6 meters/sec (8.05mph)!
 </p>
 <p align="center">
     The persaintage of the sky is filled with clouds for me is 90%!
@@ -79,11 +79,11 @@
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1595173148/9720/dog_cute.gif?1595173148" width="30"> Dog </h2>
 
 <p align="center">
-    <img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;australian-shepherd&#x2F;leroy.jpg" height="300px">
+    <img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;spaniel-welsh&#x2F;n02102177_1476.jpg" height="300px">
 </p>
 
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1500426137/2648/allo-tongue.gif?1500426137" width="30"> Joke </h2>
 
 <p align="center">
-    Chuck Norris is currently suing myspace for taking the name of what he calls everything around you.
+    MacGyver can build an airplane out of gum and paper clips. Chuck Norris can kill him and take it.
 </p>
