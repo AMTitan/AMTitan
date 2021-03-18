@@ -61,29 +61,29 @@
     <img style="width:100%" src="https://github-readme-stats.vercel.app/api/wakatime?username=AMTitan&layout=compact&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" />
 </p>
 
-<h2> <img src="http://openweathermap.org/img/w/03d.png" width="30"> Weather </h2>
+<h2> <img src="http://openweathermap.org/img/w/04d.png" width="30"> Weather </h2>
 
 <p align="center">
-    The weather for me its a scattered clouds and the temperature is 17.62°C (63.72°F) but it actually feels like 15.83°C (60.49°F)!
+    The weather for me its a broken clouds and the temperature is 17.71°C (63.88°F) but it actually feels like 11.71°C (53.08°F)!
 </p>
 <p align="center">
     The sun rise for me is at 07:43 and the sun set is at 19:47!
 </p>
 <p align="center">
-    The wind for me  is 2.24 meters/sec (5.01mph)!
+    The wind for me  is 7.72 meters/sec (17.27mph)!
 </p>
 <p align="center">
-    The persaintage of the sky is filled with clouds for me is 50%!
+    The persaintage of the sky is filled with clouds for me is 75%!
 </p>
 
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1595173148/9720/dog_cute.gif?1595173148" width="30"> Dog </h2>
 
 <p align="center">
-    <img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;lhasa&#x2F;n02098413_4115.jpg" height="300px">
+    <img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;borzoi&#x2F;n02090622_7858.jpg" height="300px">
 </p>
 
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1500426137/2648/allo-tongue.gif?1500426137" width="30"> Joke </h2>
 
 <p align="center">
-    Time waits for no man. Unless that man is Chuck Norris.
+    According to the Encyclopedia Brittanica, the Native American &#39;Trail of Tears&#39; has been redefined as anywhere that Chuck Norris walks.
 </p>
