@@ -64,13 +64,13 @@
 <h2> <img src="http://openweathermap.org/img/w/50n.png" width="30"> Weather </h2>
 
 <p align="center">
-    The weather for me its a mist and the temperature is 13.13°C (55.63°F) but it actually feels like 10.86°C (51.55°F)!
+    The weather for me its a mist and the temperature is 13.14°C (55.65°F) but it actually feels like 10.16°C (50.29°F)!
 </p>
 <p align="center">
     The sun rise for me is at 07:43 and the sun set is at 19:47!
 </p>
 <p align="center">
-    The wind for me  is 4.63 meters/sec (10.36mph)!
+    The wind for me  is 5.66 meters/sec (12.66mph)!
 </p>
 <p align="center">
     The persaintage of the sky is filled with clouds for me is 90%!
@@ -79,11 +79,11 @@
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1595173148/9720/dog_cute.gif?1595173148" width="30"> Dog </h2>
 
 <p align="center">
-    <img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;briard&#x2F;n02105251_7434.jpg" height="300px">
+    <img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;boxer&#x2F;n02108089_3248.jpg" height="300px">
 </p>
 
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1500426137/2648/allo-tongue.gif?1500426137" width="30"> Joke </h2>
 
 <p align="center">
-    Chuck Norris doesnt shave; he kicks himself in the face. The only thing that can cut Chuck Norris is Chuck Norris.
+    Chuck Norris originally wrote the first dictionary. The definition for each word is as follows - A swift roundhouse kick to the face.
 </p>
