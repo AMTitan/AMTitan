@@ -64,13 +64,13 @@
 <h2> <img src="http://openweathermap.org/img/w/10n.png" width="30"> Weather </h2>
 
 <p align="center">
-    The weather for me its a heavy intensity rain and the temperature is 14.21°C (57.58°F) but it actually feels like 14.87°C (58.77°F)!
+    The weather for me its a heavy intensity rain and the temperature is 14.44°C (57.99°F) but it actually feels like 12.13°C (53.83°F)!
 </p>
 <p align="center">
     The sun rise for me is at 07:43 and the sun set is at 19:47!
 </p>
 <p align="center">
-    The wind for me  is 0.89 meters/sec (1.99mph)!
+    The wind for me  is 5.25 meters/sec (11.74mph)!
 </p>
 <p align="center">
     The persaintage of the sky is filled with clouds for me is 100%!
@@ -79,11 +79,11 @@
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1595173148/9720/dog_cute.gif?1595173148" width="30"> Dog </h2>
 
 <p align="center">
-    <img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;kelpie&#x2F;n02105412_2496.jpg" height="300px">
+    <img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;poodle-standard&#x2F;n02113799_419.jpg" height="300px">
 </p>
 
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1500426137/2648/allo-tongue.gif?1500426137" width="30"> Joke </h2>
 
 <p align="center">
-    Chuck Norris is responsible for China&#39;s over-population. He hosted a Karate tournament in Beijing and all women within 1,000 miles became pregnant instantly.
+    Chuck Norris can win at solitaire with only 18 cards.
 </p>
