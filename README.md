@@ -79,11 +79,11 @@
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1595173148/9720/dog_cute.gif?1595173148" width="30"> Dog </h2>
 
 <p align="center">
-    <img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;collie-border&#x2F;n02106166_5047.jpg" height="300px">
+    <img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;whippet&#x2F;n02091134_12759.jpg" height="300px">
 </p>
 
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1500426137/2648/allo-tongue.gif?1500426137" width="30"> Joke </h2>
 
 <p align="center">
-    The word &#39;Kill&#39; was invented by Chuck Norris. Other words were &#39;Die&#39;, &#39;Beer&#39;, and &#39;What&#39;.
+    When Chuck Norris does a pushup, he isn&#39;t lifting himself up, he&#39;s pushing the Earth down.
 </p>
