@@ -64,7 +64,7 @@
 <h2> <img src="http://openweathermap.org/img/w/04d.png" width="30"> Weather </h2>
 
 <p align="center">
-    The weather for me its a broken clouds and the temperature is 14.29°C (57.72°F) but it actually feels like 12.1°C (53.78°F)!
+    The weather for me its a broken clouds and the temperature is 13.98°C (57.16°F) but it actually feels like 11.72°C (53.1°F)!
 </p>
 <p align="center">
     The sun rise for me is at 07:43 and the sun set is at 19:47!
@@ -79,11 +79,11 @@
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1595173148/9720/dog_cute.gif?1595173148" width="30"> Dog </h2>
 
 <p align="center">
-    <img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;labrador&#x2F;lab_portrait.JPG" height="300px">
+    <img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;shiba&#x2F;shiba-11.jpg" height="300px">
 </p>
 
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1500426137/2648/allo-tongue.gif?1500426137" width="30"> Joke </h2>
 
 <p align="center">
-    Chuck Norris programs occupy 150% of CPU, even when they are not executing.
+    The pie scene in &#39;American Pie&#39; is based on a dare Chuck Norris took when he was younger. However, in Chuck Norris&#39; case, the &#39;pie&#39; was the molten crater of an active volcano.
 </p>
