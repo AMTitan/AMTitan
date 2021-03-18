@@ -64,13 +64,13 @@
 <h2> <img src="http://openweathermap.org/img/w/50n.png" width="30"> Weather </h2>
 
 <p align="center">
-    The weather for me its a fog and the temperature is 12.86°C (55.15°F) but it actually feels like 11.95°C (53.51°F)!
+    The weather for me its a mist and the temperature is 13.07°C (55.53°F) but it actually feels like 11.14°C (52.05°F)!
 </p>
 <p align="center">
     The sun rise for me is at 07:43 and the sun set is at 19:47!
 </p>
 <p align="center">
-    The wind for me  is 2.57 meters/sec (5.75mph)!
+    The wind for me  is 4.12 meters/sec (9.22mph)!
 </p>
 <p align="center">
     The persaintage of the sky is filled with clouds for me is 90%!
@@ -79,11 +79,11 @@
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1595173148/9720/dog_cute.gif?1595173148" width="30"> Dog </h2>
 
 <p align="center">
-    <img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;dane-great&#x2F;n02109047_31049.jpg" height="300px">
+    <img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;komondor&#x2F;n02105505_3647.jpg" height="300px">
 </p>
 
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1500426137/2648/allo-tongue.gif?1500426137" width="30"> Joke </h2>
 
 <p align="center">
-    When Chuck Norris makes a burrito, its main ingredient is real toes.
+    Chuck Norris built a time machine and went back in time to stop the JFK assassination. As Oswald shot, Chuck met all three bullets with his beard, deflecting them. JFK&#39;s head exploded out of sheer amazement.
 </p>
