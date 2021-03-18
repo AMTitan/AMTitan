@@ -61,29 +61,29 @@
     <img style="width:100%" src="https://github-readme-stats.vercel.app/api/wakatime?username=AMTitan&layout=compact&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" />
 </p>
 
-<h2> <img src="http://openweathermap.org/img/w/03d.png" width="30"> Weather </h2>
+<h2> <img src="http://openweathermap.org/img/w/04d.png" width="30"> Weather </h2>
 
 <p align="center">
-    The weather for me its a scattered clouds and the temperature is 21.38°C (70.48°F) but it actually feels like 19.63°C (67.33°F)!
+    The weather for me its a broken clouds and the temperature is 21.61°C (70.9°F) but it actually feels like 20.49°C (68.88°F)!
 </p>
 <p align="center">
     The sun rise for me is at 07:43 and the sun set is at 19:47!
 </p>
 <p align="center">
-    The wind for me  is 3.13 meters/sec (7mph)!
+    The wind for me  is 2.68 meters/sec (5.99mph)!
 </p>
 <p align="center">
-    The persaintage of the sky is filled with clouds for me is 36%!
+    The persaintage of the sky is filled with clouds for me is 56%!
 </p>
 
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1595173148/9720/dog_cute.gif?1595173148" width="30"> Dog </h2>
 
 <p align="center">
-    <img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;weimaraner&#x2F;n02092339_6620.jpg" height="300px">
+    <img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;terrier-norfolk&#x2F;n02094114_699.jpg" height="300px">
 </p>
 
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1500426137/2648/allo-tongue.gif?1500426137" width="30"> Joke </h2>
 
 <p align="center">
-    They had to edit the first ending of &#39;Lone Wolf McQuade&#39; after Chuck Norris kicked David Carradine&#39;s ass, then proceeded to barbecue and eat him.
+    There is in fact an &#39;I&#39; in Norris, but there is no &#39;team&#39;. Not even close.
 </p>
