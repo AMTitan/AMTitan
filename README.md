@@ -64,13 +64,13 @@
 <h2> <img src="http://openweathermap.org/img/w/04d.png" width="30"> Weather </h2>
 
 <p align="center">
-    The weather for me its a overcast clouds and the temperature is 14.48°C (58.06°F) but it actually feels like 12.26°C (54.07°F)!
+    The weather for me its a overcast clouds and the temperature is 14.52°C (58.14°F) but it actually feels like 13.85°C (56.93°F)!
 </p>
 <p align="center">
     The sun rise for me is at 07:41 and the sun set is at 19:47!
 </p>
 <p align="center">
-    The wind for me  is 2.65 meters/sec (5.93mph)!
+    The wind for me  is 0.45 meters/sec (1.01mph)!
 </p>
 <p align="center">
     The persaintage of the sky is filled with clouds for me is 98%!
@@ -79,11 +79,11 @@
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1595173148/9720/dog_cute.gif?1595173148" width="30"> Dog </h2>
 
 <p align="center">
-    <img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;terrier-bedlington&#x2F;n02093647_21.jpg" height="300px">
+    <img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;poodle-miniature&#x2F;242981_4709618542275_742310792_o.jpg" height="300px">
 </p>
 
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1500426137/2648/allo-tongue.gif?1500426137" width="30"> Joke </h2>
 
 <p align="center">
-    The US did not boycott the 1980 Summer Olympics in Moscow due to political reasons: Chuck Norris killed the entire US team with a single round-house kick during TaeKwonDo practice.
+    Chuck Norris&#39; programs never exit, they terminate.
 </p>
