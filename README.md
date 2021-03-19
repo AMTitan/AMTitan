@@ -64,13 +64,13 @@
 <h2> <img src="http://openweathermap.org/img/w/02d.png" width="30"> Weather </h2>
 
 <p align="center">
-    The weather for me its a few clouds and the temperature is 14.52°C (58.14°F) but it actually feels like 13.55°C (56.39°F)!
+    The weather for me its a few clouds and the temperature is 14.88°C (58.78°F) but it actually feels like 13.62°C (56.52°F)!
 </p>
 <p align="center">
     The sun rise for me is at 07:41 and the sun set is at 19:47!
 </p>
 <p align="center">
-    The wind for me  is 0.89 meters/sec (1.99mph)!
+    The wind for me  is 1.34 meters/sec (3mph)!
 </p>
 <p align="center">
     The persaintage of the sky is filled with clouds for me is 17%!
@@ -79,11 +79,11 @@
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1595173148/9720/dog_cute.gif?1595173148" width="30"> Dog </h2>
 
 <p align="center">
-    <img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;corgi-cardigan&#x2F;n02113186_4711.jpg" height="300px">
+    <img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;terrier-silky&#x2F;n02097658_646.jpg" height="300px">
 </p>
 
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1500426137/2648/allo-tongue.gif?1500426137" width="30"> Joke </h2>
 
 <p align="center">
-    UNIX is user friendly, it&#39;s just very particular about who it&#39;s friends are.
+    Mr. T pities the fool. Chuck Norris rips the fool&#39;s head off.
 </p>
