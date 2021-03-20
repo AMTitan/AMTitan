@@ -64,13 +64,13 @@
 <h2> <img src="http://openweathermap.org/img/w/01d.png" width="30"> Weather </h2>
 
 <p align="center">
-    The weather for me its a clear sky and the temperature is 6.45°C (43.61°F) but it actually feels like 2.47°C (36.45°F)!
+    The weather for me its a clear sky and the temperature is 6.48°C (43.66°F) but it actually feels like 1.47°C (34.65°F)!
 </p>
 <p align="center">
     The sun rise for me is at 07:40 and the sun set is at 19:48!
 </p>
 <p align="center">
-    The wind for me  is 2.24 meters/sec (5.01mph)!
+    The wind for me  is 3.58 meters/sec (8.01mph)!
 </p>
 <p align="center">
     The persaintage of the sky is filled with clouds for me is 5%!
@@ -79,11 +79,11 @@
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1595173148/9720/dog_cute.gif?1595173148" width="30"> Dog </h2>
 
 <p align="center">
-    <img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;retriever-curly&#x2F;n02099429_1472.jpg" height="300px">
+    <img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;terrier-silky&#x2F;n02097658_3639.jpg" height="300px">
 </p>
 
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1500426137/2648/allo-tongue.gif?1500426137" width="30"> Joke </h2>
 
 <p align="center">
-    A study showed the leading causes of death in the United States are: 1. Heart disease, 2. Chuck Norris, 3. Cancer
+    If the box says: &#39;This software requires Windows 7 or better&#39; Does that mean it&#39;ll run on Linux?
 </p>
