@@ -64,13 +64,13 @@
 <h2> <img src="http://openweathermap.org/img/w/01d.png" width="30"> Weather </h2>
 
 <p align="center">
-    The weather for me its a clear sky and the temperature is 6.8°C (44.24°F) but it actually feels like 2.45°C (36.41°F)!
+    The weather for me its a clear sky and the temperature is 6.81°C (44.26°F) but it actually feels like 2.09°C (35.76°F)!
 </p>
 <p align="center">
     The sun rise for me is at 07:40 and the sun set is at 19:48!
 </p>
 <p align="center">
-    The wind for me  is 2.68 meters/sec (5.99mph)!
+    The wind for me  is 3.13 meters/sec (7mph)!
 </p>
 <p align="center">
     The persaintage of the sky is filled with clouds for me is 5%!
@@ -79,11 +79,11 @@
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1595173148/9720/dog_cute.gif?1595173148" width="30"> Dog </h2>
 
 <p align="center">
-    <img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;cattledog-australian&#x2F;IMG_1418.jpg" height="300px">
+    <img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;dhole&#x2F;n02115913_750.jpg" height="300px">
 </p>
 
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1500426137/2648/allo-tongue.gif?1500426137" width="30"> Joke </h2>
 
 <p align="center">
-    It is better to give than to receive. This is especially true of a Chuck Norris roundhouse kick.
+    When in a bar, you can order a drink called a &#39;Chuck Norris&#39;. It is also known as a &#39;Bloody Mary&#39;, if your name happens to be Mary.
 </p>
