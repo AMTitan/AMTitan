@@ -64,26 +64,26 @@
 <h2> <img src="http://openweathermap.org/img/w/04n.png" width="30"> Weather </h2>
 
 <p align="center">
-    The weather for me its a broken clouds and the temperature is 10.78°C (51.4°F) but it actually feels like 7.72°C (45.9°F)!
+    The weather for me its a broken clouds and the temperature is 10.71°C (51.28°F) but it actually feels like 5.81°C (42.46°F)!
 </p>
 <p align="center">
     The sun rise for me is at 07:40 and the sun set is at 19:48!
 </p>
 <p align="center">
-    The wind for me  is 2.68 meters/sec (5.99mph)!
+    The wind for me  is 5.28 meters/sec (11.81mph)!
 </p>
 <p align="center">
-    The persaintage of the sky is filled with clouds for me is 78%!
+    The persaintage of the sky is filled with clouds for me is 66%!
 </p>
 
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1595173148/9720/dog_cute.gif?1595173148" width="30"> Dog </h2>
 
 <p align="center">
-    <img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;stbernard&#x2F;n02109525_7121.jpg" height="300px">
+    <img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;ridgeback-rhodesian&#x2F;n02087394_7507.jpg" height="300px">
 </p>
 
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1500426137/2648/allo-tongue.gif?1500426137" width="30"> Joke </h2>
 
 <p align="center">
-    Why did Microsoft release Windows 10 ( and not windows 9) ?Because 7 8 9
+    When Chuck Norris has sex with a man, it won&#39;t be because he is gay. It will be because he has run out of women.
 </p>
