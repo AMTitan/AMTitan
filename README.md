@@ -64,7 +64,7 @@
 <h2> <img src="http://openweathermap.org/img/w/01n.png" width="30"> Weather </h2>
 
 <p align="center">
-    The weather for me its a clear sky and the temperature is 6.02°C (42.84°F) but it actually feels like 2.52°C (36.54°F)!
+    The weather for me its a clear sky and the temperature is 6.18°C (43.12°F) but it actually feels like 2.7°C (36.86°F)!
 </p>
 <p align="center">
     The sun rise for me is at 07:40 and the sun set is at 19:48!
@@ -79,11 +79,11 @@
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1595173148/9720/dog_cute.gif?1595173148" width="30"> Dog </h2>
 
 <p align="center">
-    <img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;terrier-yorkshire&#x2F;n02094433_3655.jpg" height="300px">
+    <img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;saluki&#x2F;n02091831_1512.jpg" height="300px">
 </p>
 
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1500426137/2648/allo-tongue.gif?1500426137" width="30"> Joke </h2>
 
 <p align="center">
-    CPU (Coffee Processing Unit)
+    Chuck Norris once rode a bull, and nine months later it had a calf.
 </p>
