@@ -64,7 +64,7 @@
 <h2> <img src="http://openweathermap.org/img/w/03d.png" width="30"> Weather </h2>
 
 <p align="center">
-    The weather for me its a scattered clouds and the temperature is 17.38°C (63.28°F) but it actually feels like 15.21°C (59.38°F)!
+    The weather for me its a scattered clouds and the temperature is 17.51°C (63.52°F) but it actually feels like 15.37°C (59.67°F)!
 </p>
 <p align="center">
     The sun rise for me is at 07:39 and the sun set is at 19:49!
@@ -79,11 +79,11 @@
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1595173148/9720/dog_cute.gif?1595173148" width="30"> Dog </h2>
 
 <p align="center">
-    <img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;mix&#x2F;Roxy_1.jpg" height="300px">
+    <img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;shiba&#x2F;shiba-5.jpg" height="300px">
 </p>
 
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1500426137/2648/allo-tongue.gif?1500426137" width="30"> Joke </h2>
 
 <p align="center">
-    In an average living room there are 1,242 objects Chuck Norris could use to kill you, including the room itself.
+    Chuck Norris always knows the EXACT location of Carmen SanDiego.
 </p>
