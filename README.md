@@ -64,7 +64,7 @@
 <h2> <img src="http://openweathermap.org/img/w/01n.png" width="30"> Weather </h2>
 
 <p align="center">
-    The weather for me its a clear sky and the temperature is 7.92°C (46.26°F) but it actually feels like 5.16°C (41.29°F)!
+    The weather for me its a clear sky and the temperature is 8.08°C (46.54°F) but it actually feels like 5.34°C (41.61°F)!
 </p>
 <p align="center">
     The sun rise for me is at 07:39 and the sun set is at 19:49!
@@ -73,7 +73,7 @@
     The wind for me  is 0.89 meters/sec (1.99mph)!
 </p>
 <p align="center">
-    The persaintage of the sky is filled with clouds for me is 8%!
+    The persaintage of the sky is filled with clouds for me is 5%!
 </p>
 
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1595173148/9720/dog_cute.gif?1595173148" width="30"> Dog </h2>
@@ -85,5 +85,5 @@
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1500426137/2648/allo-tongue.gif?1500426137" width="30"> Joke </h2>
 
 <p align="center">
-    Programming today is a race between software engineers striving to build bigger and better idiot-proof programs and the Universe trying to produce bigger and better idiots. So far the Universe is winning.
+    When Chuck Norris works out on the Total Gym, the Total Gym feels like it&#39;s been raped.
 </p>
