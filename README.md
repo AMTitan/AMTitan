@@ -64,7 +64,7 @@
 <h2> <img src="http://openweathermap.org/img/w/04d.png" width="30"> Weather </h2>
 
 <p align="center">
-    The weather for me its a broken clouds and the temperature is 15.67°C (60.21°F) but it actually feels like 13.56°C (56.41°F)!
+    The weather for me its a broken clouds and the temperature is 15.65°C (60.17°F) but it actually feels like 13.95°C (57.11°F)!
 </p>
 <p align="center">
     The sun rise for me is at 07:39 and the sun set is at 19:49!
@@ -79,11 +79,11 @@
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1595173148/9720/dog_cute.gif?1595173148" width="30"> Dog </h2>
 
 <p align="center">
-    <img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;malamute&#x2F;n02110063_12843.jpg" height="300px">
+    <img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;malinois&#x2F;n02105162_3925.jpg" height="300px">
 </p>
 
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1500426137/2648/allo-tongue.gif?1500426137" width="30"> Joke </h2>
 
 <p align="center">
-    Some kids play Kick the can. Chuck Norris played Kick the keg.
+    If, by some incredible space-time paradox, Chuck Norris would ever fight himself, he&#39;d win. Period.
 </p>
