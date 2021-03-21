@@ -64,10 +64,10 @@
 <h2> <img src="http://openweathermap.org/img/w/01n.png" width="30"> Weather </h2>
 
 <p align="center">
-    The weather for me its a clear sky and the temperature is 7.75°C (45.95°F) but it actually feels like 4.69°C (40.44°F)!
+    The weather for me its a clear sky and the temperature is 7.96°C (46.33°F) but it actually feels like 4.92°C (40.86°F)!
 </p>
 <p align="center">
-    The sun rise for me is at 07:39 and the sun set is at 19:49!
+    The sun rise for me is at 07:40 and the sun set is at 19:48!
 </p>
 <p align="center">
     The wind for me  is 0.89 meters/sec (1.99mph)!
@@ -79,11 +79,11 @@
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1595173148/9720/dog_cute.gif?1595173148" width="30"> Dog </h2>
 
 <p align="center">
-    <img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;spaniel-brittany&#x2F;n02101388_348.jpg" height="300px">
+    <img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;pyrenees&#x2F;n02111500_1474.jpg" height="300px">
 </p>
 
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1500426137/2648/allo-tongue.gif?1500426137" width="30"> Joke </h2>
 
 <p align="center">
-    What&#39;s the object-oriented way to become wealthy? Inheritance.
+    Some people like to eat frogs&#39; legs. Chuck Norris likes to eat lizard legs. Hence, snakes.
 </p>
