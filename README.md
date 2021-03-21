@@ -64,13 +64,13 @@
 <h2> <img src="http://openweathermap.org/img/w/03d.png" width="30"> Weather </h2>
 
 <p align="center">
-    The weather for me its a scattered clouds and the temperature is 18.05°C (64.49°F) but it actually feels like 16.09°C (60.96°F)!
+    The weather for me its a scattered clouds and the temperature is 17.9°C (64.22°F) but it actually feels like 15.6°C (60.08°F)!
 </p>
 <p align="center">
     The sun rise for me is at 07:39 and the sun set is at 19:49!
 </p>
 <p align="center">
-    The wind for me  is 2.24 meters/sec (5.01mph)!
+    The wind for me  is 2.68 meters/sec (5.99mph)!
 </p>
 <p align="center">
     The persaintage of the sky is filled with clouds for me is 43%!
@@ -79,11 +79,11 @@
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1595173148/9720/dog_cute.gif?1595173148" width="30"> Dog </h2>
 
 <p align="center">
-    <img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;affenpinscher&#x2F;n02110627_3001.jpg" height="300px">
+    <img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;shiba&#x2F;shiba-2.jpg" height="300px">
 </p>
 
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1500426137/2648/allo-tongue.gif?1500426137" width="30"> Joke </h2>
 
 <p align="center">
-    The crossing lights in Chuck Norris&#39;s home town say &#39;Die slowly&#39; and &#39;die quickly&#39;. They each have a picture of Chuck Norris punching or kicking a pedestrian.
+    Some people wear Superman pajamas. Superman wears Chuck Norris pajamas.
 </p>
