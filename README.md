@@ -1,4 +1,4 @@
-# <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> My name is Arthur Melton and I have ![Profile View Counter](https://komarev.com/ghpvc/?username=AMTitan) (Last updated on Monday, 22 March, 12:51 GMT-4).
+# <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> My name is Arthur Melton and I have ![Profile View Counter](https://komarev.com/ghpvc/?username=AMTitan) (Last updated on Monday, 22 March, 12:52 GMT-4).
 
 <h3> <img src="https://emojis.slackmojis.com/emojis/images/1581539211/7808/party-blob.gif?1581539211" width="30"/> About Me </h3>
 
@@ -64,13 +64,13 @@
 <h2> <img src="http://openweathermap.org/img/w/04d.png" width="30"> Weather </h2>
 
 <p align="center">
-    The weather for me its a broken clouds and the temperature is 18.4°C (65.12°F) but it actually feels like 17.09°C (62.76°F)!
+    The weather for me its a broken clouds and the temperature is 18.21°C (64.78°F) but it actually feels like 16.36°C (61.45°F)!
 </p>
 <p align="center">
     The sun rise for me is at 07:37 and the sun set is at 19:50!
 </p>
 <p align="center">
-    The wind for me  is 1.34 meters/sec (3mph)!
+    The wind for me  is 2.24 meters/sec (5.01mph)!
 </p>
 <p align="center">
     The persaintage of the sky is filled with clouds for me is 53%!
@@ -79,11 +79,11 @@
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1595173148/9720/dog_cute.gif?1595173148" width="30"> Dog </h2>
 
 <p align="center">
-    <img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;pinscher-miniature&#x2F;n02107312_3071.jpg" height="300px">
+    <img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;terrier-sealyham&#x2F;n02095889_3047.jpg" height="300px">
 </p>
 
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1500426137/2648/allo-tongue.gif?1500426137" width="30"> Joke </h2>
 
 <p align="center">
-    Michael Sinz: “Programming is like sex... one mistake and you have to support it for the rest of your life.”
+    If Ruby is not and Perl is the answer then you don’t understand the question.
 </p>
