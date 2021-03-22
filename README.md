@@ -1,4 +1,4 @@
-# <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> My name is Arthur Melton and I have ![Profile View Counter](https://komarev.com/ghpvc/?username=AMTitan) (Last updated on Sunday, 21 March, 23:33 GMT-4).
+# <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> My name is Arthur Melton and I have ![Profile View Counter](https://komarev.com/ghpvc/?username=AMTitan) (Last updated on Sunday, 21 March, 23:34 GMT-4).
 
 <h3> <img src="https://emojis.slackmojis.com/emojis/images/1581539211/7808/party-blob.gif?1581539211" width="30"/> About Me </h3>
 
@@ -64,26 +64,26 @@
 <h2> <img src="http://openweathermap.org/img/w/03n.png" width="30"> Weather </h2>
 
 <p align="center">
-    The weather for me its a scattered clouds and the temperature is 9.39°C (48.9°F) but it actually feels like 5.96°C (42.73°F)!
+    The weather for me its a scattered clouds and the temperature is 9.56°C (49.21°F) but it actually feels like 5.92°C (42.66°F)!
 </p>
 <p align="center">
     The sun rise for me is at 07:39 and the sun set is at 19:49!
 </p>
 <p align="center">
-    The wind for me  is 3.73 meters/sec (8.34mph)!
+    The wind for me  is 4.09 meters/sec (9.15mph)!
 </p>
 <p align="center">
-    The persaintage of the sky is filled with clouds for me is 50%!
+    The persaintage of the sky is filled with clouds for me is 46%!
 </p>
 
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1595173148/9720/dog_cute.gif?1595173148" width="30"> Dog </h2>
 
 <p align="center">
-    <img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;hound-afghan&#x2F;n02088094_11182.jpg" height="300px">
+    <img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;frise-bichon&#x2F;jh-ezio-2.jpg" height="300px">
 </p>
 
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1500426137/2648/allo-tongue.gif?1500426137" width="30"> Joke </h2>
 
 <p align="center">
-    Chuck Norris doesn&#39;t churn butter. He roundhouse kicks the cows and the butter comes straight out.
+    Chuck Norris doesn&#39;t use web standards as the web will conform to him.
 </p>
