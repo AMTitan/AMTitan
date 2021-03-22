@@ -64,7 +64,7 @@
 <h2> <img src="http://openweathermap.org/img/w/03d.png" width="30"> Weather </h2>
 
 <p align="center">
-    The weather for me its a scattered clouds and the temperature is 13°C (55.4°F) but it actually feels like 10.08°C (50.14°F)!
+    The weather for me its a scattered clouds and the temperature is 12.96°C (55.33°F) but it actually feels like 10.04°C (50.07°F)!
 </p>
 <p align="center">
     The sun rise for me is at 07:37 and the sun set is at 19:50!
@@ -79,11 +79,11 @@
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1595173148/9720/dog_cute.gif?1595173148" width="30"> Dog </h2>
 
 <p align="center">
-    <img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;ridgeback-rhodesian&#x2F;n02087394_3477.jpg" height="300px">
+    <img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;terrier-westhighland&#x2F;n02098286_763.jpg" height="300px">
 </p>
 
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1500426137/2648/allo-tongue.gif?1500426137" width="30"> Joke </h2>
 
 <p align="center">
-    Faster than a speeding bullet... More powerful than a locomotive... Able to leap tall buildings in a single bound... These are some of Chuck Norris&#39;s warm-up exercises.
+    Chuck Norris can spawn threads that complete before they are started.
 </p>
