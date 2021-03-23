@@ -64,10 +64,10 @@
 <h2> <img src="http://openweathermap.org/img/w/04n.png" width="30"> Weather </h2>
 
 <p align="center">
-    The weather for me its a overcast clouds and the temperature is 13.61°C (56.5°F) but it actually feels like 12.12°C (53.82°F)!
+    The weather for me its a overcast clouds and the temperature is 13.62°C (56.52°F) but it actually feels like 12.13°C (53.83°F)!
 </p>
 <p align="center">
-    The sun rise for me is at 07:37 and the sun set is at 19:50!
+    The sun rise for me is at 07:36 and the sun set is at 19:50!
 </p>
 <p align="center">
     The wind for me  is 0.89 meters/sec (1.99mph)!
@@ -79,11 +79,11 @@
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1595173148/9720/dog_cute.gif?1595173148" width="30"> Dog </h2>
 
 <p align="center">
-    <img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;terrier-fox&#x2F;n02095314_398.jpg" height="300px">
+    <img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;poodle-toy&#x2F;n02113624_8444.jpg" height="300px">
 </p>
 
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1500426137/2648/allo-tongue.gif?1500426137" width="30"> Joke </h2>
 
 <p align="center">
-    Chuck Norris solved the Travelling Salesman problem in O(1) time. Here&#39;s the pseudo-code: Break salesman into N pieces. Kick each piece to a different city.
+    Why is C sad? Because C++ told him &#39;You have no class&#39;.
 </p>
