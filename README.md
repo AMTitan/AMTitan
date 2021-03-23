@@ -1,4 +1,4 @@
-# <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> My name is Arthur Melton and I have ![Profile View Counter](https://komarev.com/ghpvc/?username=AMTitan) (Last updated on Tuesday, 23 March, 02:26 GMT-4).
+# <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> My name is Arthur Melton and I have ![Profile View Counter](https://komarev.com/ghpvc/?username=AMTitan) (Last updated on Tuesday, 23 March, 02:27 GMT-4).
 
 <h3> <img src="https://emojis.slackmojis.com/emojis/images/1581539211/7808/party-blob.gif?1581539211" width="30"/> About Me </h3>
 
@@ -64,26 +64,26 @@
 <h2> <img src="http://openweathermap.org/img/w/04n.png" width="30"> Weather </h2>
 
 <p align="center">
-    The weather for me its a overcast clouds and the temperature is 13.38°C (56.08°F) but it actually feels like 11.58°C (52.84°F)!
+    The weather for me its a overcast clouds and the temperature is 13.48°C (56.26°F) but it actually feels like 12.01°C (53.62°F)!
 </p>
 <p align="center">
     The sun rise for me is at 07:36 and the sun set is at 19:50!
 </p>
 <p align="center">
-    The wind for me  is 1.34 meters/sec (3mph)!
+    The wind for me  is 0.89 meters/sec (1.99mph)!
 </p>
 <p align="center">
-    The persaintage of the sky is filled with clouds for me is 95%!
+    The persaintage of the sky is filled with clouds for me is 96%!
 </p>
 
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1595173148/9720/dog_cute.gif?1595173148" width="30"> Dog </h2>
 
 <p align="center">
-    <img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;sheepdog-english&#x2F;n02105641_9502.jpg" height="300px">
+    <img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;mastiff-bull&#x2F;n02108422_2949.jpg" height="300px">
 </p>
 
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1500426137/2648/allo-tongue.gif?1500426137" width="30"> Joke </h2>
 
 <p align="center">
-    What do computers and air conditioners have in common? They both become useless when you open windows.
+    Never look a gift Chuck Norris in the mouth, because he will bite your damn eyes off.
 </p>
