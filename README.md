@@ -64,7 +64,7 @@
 <h2> <img src="http://openweathermap.org/img/w/04d.png" width="30"> Weather </h2>
 
 <p align="center">
-    The weather for me its a overcast clouds and the temperature is 22.81°C (73.06°F) but it actually feels like 23.85°C (74.93°F)!
+    The weather for me its a overcast clouds and the temperature is 22.71°C (72.88°F) but it actually feels like 23.72°C (74.7°F)!
 </p>
 <p align="center">
     The sun rise for me is at 07:34 and the sun set is at 19:51!
@@ -73,17 +73,17 @@
     The wind for me  is 0.89 meters/sec (1.99mph)!
 </p>
 <p align="center">
-    The persaintage of the sky is filled with clouds for me is 87%!
+    The persaintage of the sky is filled with clouds for me is 91%!
 </p>
 
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1595173148/9720/dog_cute.gif?1595173148" width="30"> Dog </h2>
 
 <p align="center">
-    <img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;boxer&#x2F;n02108089_11001.jpg" height="300px">
+    <img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;keeshond&#x2F;n02112350_4590.jpg" height="300px">
 </p>
 
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1500426137/2648/allo-tongue.gif?1500426137" width="30"> Joke </h2>
 
 <p align="center">
-    Chuck Norris can spawn threads that complete before they are started.
+    Chuck Norris is actually the front man for Apple. He let&#39;s Steve Jobs run the show when he&#39;s on a mission. Chuck Norris is always on a mission.
 </p>
