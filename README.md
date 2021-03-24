@@ -1,4 +1,4 @@
-# <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> My name is Arthur Melton and I have ![Profile View Counter](https://komarev.com/ghpvc/?username=AMTitan) (Last updated on Wednesday, 24 March, 02:12 GMT-4).
+# <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> My name is Arthur Melton and I have ![Profile View Counter](https://komarev.com/ghpvc/?username=AMTitan) (Last updated on Wednesday, 24 March, 02:13 GMT-4).
 
 <h3> <img src="https://emojis.slackmojis.com/emojis/images/1581539211/7808/party-blob.gif?1581539211" width="30"/> About Me </h3>
 
@@ -64,7 +64,7 @@
 <h2> <img src="http://openweathermap.org/img/w/04n.png" width="30"> Weather </h2>
 
 <p align="center">
-    The weather for me its a overcast clouds and the temperature is 16.35°C (61.43°F) but it actually feels like 15.87°C (60.57°F)!
+    The weather for me its a overcast clouds and the temperature is 16.34°C (61.41°F) but it actually feels like 15.86°C (60.55°F)!
 </p>
 <p align="center">
     The sun rise for me is at 07:34 and the sun set is at 19:51!
@@ -85,5 +85,5 @@
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1500426137/2648/allo-tongue.gif?1500426137" width="30"> Joke </h2>
 
 <p align="center">
-    They had to edit the first ending of &#39;Lone Wolf McQuade&#39; after Chuck Norris kicked David Carradine&#39;s ass, then proceeded to barbecue and eat him.
+    The Internet: where men are men women are men and children are FBI agents.
 </p>
