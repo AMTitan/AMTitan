@@ -64,7 +64,7 @@
 <h2> <img src="http://openweathermap.org/img/w/04d.png" width="30"> Weather </h2>
 
 <p align="center">
-    The weather for me its a overcast clouds and the temperature is 22.41°C (72.34°F) but it actually feels like 23.09°C (73.56°F)!
+    The weather for me its a overcast clouds and the temperature is 22.56°C (72.61°F) but it actually feels like 23.11°C (73.6°F)!
 </p>
 <p align="center">
     The sun rise for me is at 07:34 and the sun set is at 19:51!
@@ -79,11 +79,11 @@
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1595173148/9720/dog_cute.gif?1595173148" width="30"> Dog </h2>
 
 <p align="center">
-    <img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;terrier-fox&#x2F;n02095314_691.jpg" height="300px">
+    <img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;clumber&#x2F;n02101556_3896.jpg" height="300px">
 </p>
 
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1500426137/2648/allo-tongue.gif?1500426137" width="30"> Joke </h2>
 
 <p align="center">
-    Chuck Norris does not need to know about class factory pattern. He can instantiate interfaces.
+    He who lives by the sword, dies by the sword. He who lives by Chuck Norris, dies by the roundhouse kick.
 </p>
