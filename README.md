@@ -64,7 +64,7 @@
 <h2> <img src="http://openweathermap.org/img/w/04n.png" width="30"> Weather </h2>
 
 <p align="center">
-    The weather for me its a broken clouds and the temperature is 20.71°C (69.28°F) but it actually feels like 20.92°C (69.66°F)!
+    The weather for me its a broken clouds and the temperature is 21.1°C (69.98°F) but it actually feels like 21.27°C (70.29°F)!
 </p>
 <p align="center">
     The sun rise for me is at 07:34 and the sun set is at 19:51!
@@ -79,11 +79,11 @@
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1595173148/9720/dog_cute.gif?1595173148" width="30"> Dog </h2>
 
 <p align="center">
-    <img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;shiba&#x2F;shiba-12.jpg" height="300px">
+    <img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;pinscher-miniature&#x2F;n02107312_4997.jpg" height="300px">
 </p>
 
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1500426137/2648/allo-tongue.gif?1500426137" width="30"> Joke </h2>
 
 <p align="center">
-    It takes Chuck Norris 20 minutes to watch 60 Minutes.
+    Using his trademark roundhouse kick, Chuck Norris once made a fieldgoal in RJ Stadium in Tampa Bay from the 50 yard line of Qualcomm stadium in San Diego.
 </p>
