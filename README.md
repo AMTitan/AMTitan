@@ -64,13 +64,13 @@
 <h2> <img src="http://openweathermap.org/img/w/04d.png" width="30"> Weather </h2>
 
 <p align="center">
-    The weather for me its a overcast clouds and the temperature is 18.82°C (65.88°F) but it actually feels like 18.71°C (65.68°F)!
+    The weather for me its a overcast clouds and the temperature is 18.5°C (65.3°F) but it actually feels like 17.86°C (64.15°F)!
 </p>
 <p align="center">
     The sun rise for me is at 07:33 and the sun set is at 19:52!
 </p>
 <p align="center">
-    The wind for me  is 4.05 meters/sec (9.06mph)!
+    The wind for me  is 4.61 meters/sec (10.31mph)!
 </p>
 <p align="center">
     The persaintage of the sky is filled with clouds for me is 100%!
@@ -79,11 +79,11 @@
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1595173148/9720/dog_cute.gif?1595173148" width="30"> Dog </h2>
 
 <p align="center">
-    <img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;schnauzer-giant&#x2F;n02097130_4991.jpg" height="300px">
+    <img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;pointer-germanlonghair&#x2F;hans3.jpg" height="300px">
 </p>
 
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1500426137/2648/allo-tongue.gif?1500426137" width="30"> Joke </h2>
 
 <p align="center">
-    My daily Unix command list: unzip; strip; touch; finger; mount; fsck; more; yes; unmount; sleep.
+    Computers make very fast and very accurate mistakes.
 </p>
