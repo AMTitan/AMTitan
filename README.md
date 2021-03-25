@@ -64,7 +64,7 @@
 <h2> <img src="http://openweathermap.org/img/w/04d.png" width="30"> Weather </h2>
 
 <p align="center">
-    The weather for me its a overcast clouds and the temperature is 18.56°C (65.41°F) but it actually feels like 17.88°C (64.18°F)!
+    The weather for me its a overcast clouds and the temperature is 18.58°C (65.44°F) but it actually feels like 17.98°C (64.36°F)!
 </p>
 <p align="center">
     The sun rise for me is at 07:33 and the sun set is at 19:52!
@@ -79,11 +79,11 @@
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1595173148/9720/dog_cute.gif?1595173148" width="30"> Dog </h2>
 
 <p align="center">
-    <img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;schnauzer-giant&#x2F;n02097130_5121.jpg" height="300px">
+    <img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;shihtzu&#x2F;n02086240_6585.jpg" height="300px">
 </p>
 
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1500426137/2648/allo-tongue.gif?1500426137" width="30"> Joke </h2>
 
 <p align="center">
-    In the first Jurassic Park movie, the Tyrannosaurus Rex wasn&#39;t chasing the jeep. Chuck Norris was chasing the Tyrannosaurus AND the jeep.
+    The quickest way to a man&#39;s heart is with Chuck Norris&#39; fist.
 </p>
