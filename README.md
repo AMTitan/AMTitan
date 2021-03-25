@@ -64,7 +64,7 @@
 <h2> <img src="http://openweathermap.org/img/w/04d.png" width="30"> Weather </h2>
 
 <p align="center">
-    The weather for me its a overcast clouds and the temperature is 16.93°C (62.47°F) but it actually feels like 18.09°C (64.56°F)!
+    The weather for me its a overcast clouds and the temperature is 16.87°C (62.37°F) but it actually feels like 18.01°C (64.42°F)!
 </p>
 <p align="center">
     The sun rise for me is at 07:33 and the sun set is at 19:52!
@@ -79,11 +79,11 @@
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1595173148/9720/dog_cute.gif?1595173148" width="30"> Dog </h2>
 
 <p align="center">
-    <img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;dhole&#x2F;n02115913_25.jpg" height="300px">
+    <img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;mountain-swiss&#x2F;n02107574_1499.jpg" height="300px">
 </p>
 
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1500426137/2648/allo-tongue.gif?1500426137" width="30"> Joke </h2>
 
 <p align="center">
-    Chuck Norris roundhouse kicks don&#39;t really kill people. They wipe out their entire existence from the space-time continuum.
+    It is better to give than to receive. This is especially true of a Chuck Norris roundhouse kick.
 </p>
