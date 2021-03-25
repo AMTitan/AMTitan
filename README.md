@@ -64,7 +64,7 @@
 <h2> <img src="http://openweathermap.org/img/w/04n.png" width="30"> Weather </h2>
 
 <p align="center">
-    The weather for me its a broken clouds and the temperature is 15.28°C (59.5°F) but it actually feels like 15.27°C (59.49°F)!
+    The weather for me its a broken clouds and the temperature is 15.35°C (59.63°F) but it actually feels like 15.3°C (59.54°F)!
 </p>
 <p align="center">
     The sun rise for me is at 07:33 and the sun set is at 19:52!
@@ -79,11 +79,11 @@
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1595173148/9720/dog_cute.gif?1595173148" width="30"> Dog </h2>
 
 <p align="center">
-    <img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;beagle&#x2F;n02088364_2502.jpg" height="300px">
+    <img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;havanese&#x2F;00100trPORTRAIT_00100_BURST20191112123933390_COVER.jpg" height="300px">
 </p>
 
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1500426137/2648/allo-tongue.gif?1500426137" width="30"> Joke </h2>
 
 <p align="center">
-    Chuck Norris doesn&#39;t do Burn Down charts, he does Smack Down charts.
+    When Chuck Norris wants an egg, he cracks open a chicken.
 </p>
