@@ -64,7 +64,7 @@
 <h2> <img src="http://openweathermap.org/img/w/10n.png" width="30"> Weather </h2>
 
 <p align="center">
-    The weather for me its a heavy intensity rain and the temperature is 18.33°C (64.99°F) but it actually feels like 20.81°C (69.46°F)!
+    The weather for me its a heavy intensity rain and the temperature is 18.28°C (64.9°F) but it actually feels like 20.74°C (69.33°F)!
 </p>
 <p align="center">
     The sun rise for me is at 07:33 and the sun set is at 19:52!
@@ -79,11 +79,11 @@
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1595173148/9720/dog_cute.gif?1595173148" width="30"> Dog </h2>
 
 <p align="center">
-    <img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;terrier-wheaten&#x2F;n02098105_2942.jpg" height="300px">
+    <img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;australian-shepherd&#x2F;leroy.jpg" height="300px">
 </p>
 
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1500426137/2648/allo-tongue.gif?1500426137" width="30"> Joke </h2>
 
 <p align="center">
-    According to the Encyclopedia Brittanica, the Native American &#39;Trail of Tears&#39; has been redefined as anywhere that Chuck Norris walks.
+    Chuck Norris can divide by zero.
 </p>
