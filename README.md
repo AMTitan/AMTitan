@@ -64,7 +64,7 @@
 <h2> <img src="http://openweathermap.org/img/w/04n.png" width="30"> Weather </h2>
 
 <p align="center">
-    The weather for me its a overcast clouds and the temperature is 18.49°C (65.28°F) but it actually feels like 17.54°C (63.57°F)!
+    The weather for me its a overcast clouds and the temperature is 18.31°C (64.96°F) but it actually feels like 17.28°C (63.1°F)!
 </p>
 <p align="center">
     The sun rise for me is at 07:33 and the sun set is at 19:52!
@@ -79,11 +79,11 @@
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1595173148/9720/dog_cute.gif?1595173148" width="30"> Dog </h2>
 
 <p align="center">
-    <img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;basenji&#x2F;n02110806_6247.jpg" height="300px">
+    <img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;mountain-bernese&#x2F;n02107683_6378.jpg" height="300px">
 </p>
 
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1500426137/2648/allo-tongue.gif?1500426137" width="30"> Joke </h2>
 
 <p align="center">
-    Chuck Norris&#39; sperm can be seen with the naked eye. Each one is the size of a quarter.
+    The term &#39;Cleveland Steamer&#39; got its name from Chuck Norris, when he took a dump while visiting the Rock and Roll Hall of fame and buried northern Ohio under a glacier of fecal matter.
 </p>
