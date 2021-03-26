@@ -64,13 +64,13 @@
 <h2> <img src="http://openweathermap.org/img/w/04n.png" width="30"> Weather </h2>
 
 <p align="center">
-    The weather for me its a overcast clouds and the temperature is 16.84°C (62.31°F) but it actually feels like 17.09°C (62.76°F)!
+    The weather for me its a overcast clouds and the temperature is 16.84°C (62.31°F) but it actually feels like 16.6°C (61.88°F)!
 </p>
 <p align="center">
     The sun rise for me is at 07:32 and the sun set is at 19:53!
 </p>
 <p align="center">
-    The wind for me  is 2.68 meters/sec (5.99mph)!
+    The wind for me  is 3.38 meters/sec (7.56mph)!
 </p>
 <p align="center">
     The persaintage of the sky is filled with clouds for me is 100%!
@@ -79,11 +79,11 @@
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1595173148/9720/dog_cute.gif?1595173148" width="30"> Dog </h2>
 
 <p align="center">
-    <img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;labradoodle&#x2F;labradoodle-forrest.png" height="300px">
+    <img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;schipperke&#x2F;n02104365_6798.jpg" height="300px">
 </p>
 
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1500426137/2648/allo-tongue.gif?1500426137" width="30"> Joke </h2>
 
 <p align="center">
-    Chuck Norris qualified with a top speed of 324 mph at the Daytona 500, without a car.
+    Newton&#39;s Third Law is wrong: Although it states that for each action, there is an equal and opposite reaction, there is no force equal in reaction to a Chuck Norris roundhouse kick.
 </p>
