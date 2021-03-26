@@ -64,13 +64,13 @@
 <h2> <img src="http://openweathermap.org/img/w/04n.png" width="30"> Weather </h2>
 
 <p align="center">
-    The weather for me its a overcast clouds and the temperature is 17.39°C (63.3°F) but it actually feels like 17.3°C (63.14°F)!
+    The weather for me its a overcast clouds and the temperature is 17.63°C (63.73°F) but it actually feels like 19.69°C (67.44°F)!
 </p>
 <p align="center">
     The sun rise for me is at 07:32 and the sun set is at 19:53!
 </p>
 <p align="center">
-    The wind for me  is 3.38 meters/sec (7.56mph)!
+    The wind for me  is 0.45 meters/sec (1.01mph)!
 </p>
 <p align="center">
     The persaintage of the sky is filled with clouds for me is 100%!
@@ -79,11 +79,11 @@
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1595173148/9720/dog_cute.gif?1595173148" width="30"> Dog </h2>
 
 <p align="center">
-    <img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;mexicanhairless&#x2F;n02113978_3746.jpg" height="300px">
+    <img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;collie-border&#x2F;n02106166_950.jpg" height="300px">
 </p>
 
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1500426137/2648/allo-tongue.gif?1500426137" width="30"> Joke </h2>
 
 <p align="center">
-    Why is C sad? Because C++ told him &#39;You have no class&#39;.
+    There are three kinds of people: those who can count and those who can’t.
 </p>
