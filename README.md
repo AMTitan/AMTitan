@@ -64,26 +64,26 @@
 <h2> <img src="http://openweathermap.org/img/w/04n.png" width="30"> Weather </h2>
 
 <p align="center">
-    The weather for me its a overcast clouds and the temperature is 15.82°C (60.48°F) but it actually feels like 16.85°C (62.33°F)!
+    The weather for me its a broken clouds and the temperature is 15.81°C (60.46°F) but it actually feels like 16.93°C (62.47°F)!
 </p>
 <p align="center">
     The sun rise for me is at 07:30 and the sun set is at 19:53!
 </p>
 <p align="center">
-    The wind for me  is 0.51 meters/sec (1.14mph)!
+    The wind for me  is 0.37 meters/sec (0.83mph)!
 </p>
 <p align="center">
-    The persaintage of the sky is filled with clouds for me is 98%!
+    The persaintage of the sky is filled with clouds for me is 66%!
 </p>
 
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1595173148/9720/dog_cute.gif?1595173148" width="30"> Dog </h2>
 
 <p align="center">
-    <img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;hound-plott&#x2F;hhh-23456.jpeg" height="300px">
+    <img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;bulldog-english&#x2F;jager-2.jpg" height="300px">
 </p>
 
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1500426137/2648/allo-tongue.gif?1500426137" width="30"> Joke </h2>
 
 <p align="center">
-    Everybody loves Raymond. Except Chuck Norris.
+    If, by some incredible space-time paradox, Chuck Norris would ever fight himself, he&#39;d win. Period.
 </p>
