@@ -64,7 +64,7 @@
 <h2> <img src="http://openweathermap.org/img/w/04d.png" width="30"> Weather </h2>
 
 <p align="center">
-    The weather for me its a overcast clouds and the temperature is 19.76°C (67.57°F) but it actually feels like 20.8°C (69.44°F)!
+    The weather for me its a overcast clouds and the temperature is 19.79°C (67.62°F) but it actually feels like 20.84°C (69.51°F)!
 </p>
 <p align="center">
     The sun rise for me is at 07:30 and the sun set is at 19:53!
@@ -79,11 +79,11 @@
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1595173148/9720/dog_cute.gif?1595173148" width="30"> Dog </h2>
 
 <p align="center">
-    <img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;malinois&#x2F;n02105162_5327.jpg" height="300px">
+    <img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;mastiff-tibetan&#x2F;n02108551_3522.jpg" height="300px">
 </p>
 
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1500426137/2648/allo-tongue.gif?1500426137" width="30"> Joke </h2>
 
 <p align="center">
-    Chuck Norris programs occupy 150% of CPU, even when they are not executing.
+    When Chuck Norris makes a burrito, its main ingredient is real toes.
 </p>
