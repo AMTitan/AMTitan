@@ -64,7 +64,7 @@
 <h2> <img src="http://openweathermap.org/img/w/04d.png" width="30"> Weather </h2>
 
 <p align="center">
-    The weather for me its a overcast clouds and the temperature is 17.17°C (62.91°F) but it actually feels like 18.36°C (65.05°F)!
+    The weather for me its a overcast clouds and the temperature is 17.34°C (63.21°F) but it actually feels like 18.53°C (65.35°F)!
 </p>
 <p align="center">
     The sun rise for me is at 07:30 and the sun set is at 19:53!
@@ -79,11 +79,11 @@
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1595173148/9720/dog_cute.gif?1595173148" width="30"> Dog </h2>
 
 <p align="center">
-    <img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;labradoodle&#x2F;labradoodle-forrest.png" height="300px">
+    <img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;akita&#x2F;Akita_Dog.jpg" height="300px">
 </p>
 
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1500426137/2648/allo-tongue.gif?1500426137" width="30"> Joke </h2>
 
 <p align="center">
-    Roses are #ff0000, violets are #0000ff, I use hex codes, but I&#39;d use RGB for you
+    Chuck Norris invented the bolt-action rifle, liquor, sexual intercourse, and football-- in that order.
 </p>
