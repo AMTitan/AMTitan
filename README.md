@@ -64,7 +64,7 @@
 <h2> <img src="http://openweathermap.org/img/w/03n.png" width="30"> Weather </h2>
 
 <p align="center">
-    The weather for me its a scattered clouds and the temperature is 15.92°C (60.66°F) but it actually feels like 16.92°C (62.46°F)!
+    The weather for me its a scattered clouds and the temperature is 15.9°C (60.62°F) but it actually feels like 16.89°C (62.4°F)!
 </p>
 <p align="center">
     The sun rise for me is at 07:30 and the sun set is at 19:53!
@@ -73,17 +73,17 @@
     The wind for me  is 0.94 meters/sec (2.1mph)!
 </p>
 <p align="center">
-    The persaintage of the sky is filled with clouds for me is 35%!
+    The persaintage of the sky is filled with clouds for me is 30%!
 </p>
 
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1595173148/9720/dog_cute.gif?1595173148" width="30"> Dog </h2>
 
 <p align="center">
-    <img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;shiba&#x2F;shiba-1.jpg" height="300px">
+    <img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;retriever-flatcoated&#x2F;n02099267_3018.jpg" height="300px">
 </p>
 
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1500426137/2648/allo-tongue.gif?1500426137" width="30"> Joke </h2>
 
 <p align="center">
-    Kryptonite has been found to contain trace elements of Chuck Norris roundhouse kicks to the face. This is why it is so deadly to Superman.
+    Programmers are tools for converting caffeine into code.
 </p>
