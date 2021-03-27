@@ -64,7 +64,7 @@
 <h2> <img src="http://openweathermap.org/img/w/04d.png" width="30"> Weather </h2>
 
 <p align="center">
-    The weather for me its a broken clouds and the temperature is 27.24°C (81.03°F) but it actually feels like 25.95°C (78.71°F)!
+    The weather for me its a broken clouds and the temperature is 27.25°C (81.05°F) but it actually feels like 25.96°C (78.73°F)!
 </p>
 <p align="center">
     The sun rise for me is at 07:30 and the sun set is at 19:53!
@@ -79,11 +79,11 @@
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1595173148/9720/dog_cute.gif?1595173148" width="30"> Dog </h2>
 
 <p align="center">
-    <img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;mix&#x2F;jack.jpeg" height="300px">
+    <img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;poodle-miniature&#x2F;n02113712_3790.jpg" height="300px">
 </p>
 
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1500426137/2648/allo-tongue.gif?1500426137" width="30"> Joke </h2>
 
 <p align="center">
-    When Chuck Norris does a pushup, he isn&#39;t lifting himself up, he&#39;s pushing the Earth down.
+    Count from one to ten. That&#39;s how long it would take Chuck Norris to kill you...Fourty seven times.
 </p>
