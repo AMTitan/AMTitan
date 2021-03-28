@@ -64,13 +64,13 @@
 <h2> <img src="http://openweathermap.org/img/w/04n.png" width="30"> Weather </h2>
 
 <p align="center">
-    The weather for me its a overcast clouds and the temperature is 21.42°C (70.56°F) but it actually feels like 23.18°C (73.72°F)!
+    The weather for me its a overcast clouds and the temperature is 21.42°C (70.56°F) but it actually feels like 22.7°C (72.86°F)!
 </p>
 <p align="center">
     The sun rise for me is at 07:29 and the sun set is at 19:54!
 </p>
 <p align="center">
-    The wind for me  is 0.89 meters/sec (1.99mph)!
+    The wind for me  is 1.34 meters/sec (3mph)!
 </p>
 <p align="center">
     The persaintage of the sky is filled with clouds for me is 100%!
@@ -79,11 +79,11 @@
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1595173148/9720/dog_cute.gif?1595173148" width="30"> Dog </h2>
 
 <p align="center">
-    <img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;spaniel-sussex&#x2F;n02102480_6229.jpg" height="300px">
+    <img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;komondor&#x2F;n02105505_1018.jpg" height="300px">
 </p>
 
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1500426137/2648/allo-tongue.gif?1500426137" width="30"> Joke </h2>
 
 <p align="center">
-    To err is human – and to blame it on a computer is even more so.
+    Jack Bauer tried to use his detailed knowledge of torture techniques, but to no avail: Chuck Norris thrives on pain. Chuck Norris then ripped off Jack Bauer&#39;s arm and beat him to death with it. Game, set, match.
 </p>
