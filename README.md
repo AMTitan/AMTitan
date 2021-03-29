@@ -64,13 +64,13 @@
 <h2> <img src="http://openweathermap.org/img/w/01d.png" width="30"> Weather </h2>
 
 <p align="center">
-    The weather for me its a clear sky and the temperature is 6.84°C (44.31°F) but it actually feels like 3.88°C (38.98°F)!
+    The weather for me its a clear sky and the temperature is 8.1°C (46.58°F) but it actually feels like 5.06°C (41.11°F)!
 </p>
 <p align="center">
     The sun rise for me is at 07:28 and the sun set is at 19:55!
 </p>
 <p align="center">
-    The wind for me  is 1.41 meters/sec (3.15mph)!
+    The wind for me  is 1.78 meters/sec (3.98mph)!
 </p>
 <p align="center">
     The persaintage of the sky is filled with clouds for me is 0%!
@@ -79,11 +79,11 @@
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1595173148/9720/dog_cute.gif?1595173148" width="30"> Dog </h2>
 
 <p align="center">
-    <img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;borzoi&#x2F;n02090622_8509.jpg" height="300px">
+    <img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;malamute&#x2F;n02110063_17995.jpg" height="300px">
 </p>
 
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1500426137/2648/allo-tongue.gif?1500426137" width="30"> Joke </h2>
 
 <p align="center">
-    Chuck Norris is not Politically Correct. He is just Correct. Always.
+    One time, at band camp, Chuck Norris ate a percussionist.
 </p>
