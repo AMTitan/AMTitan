@@ -64,7 +64,7 @@
 <h2> <img src="http://openweathermap.org/img/w/01d.png" width="30"> Weather </h2>
 
 <p align="center">
-    The weather for me its a clear sky and the temperature is 19.57°C (67.23°F) but it actually feels like 17.58°C (63.64°F)!
+    The weather for me its a clear sky and the temperature is 19.64°C (67.35°F) but it actually feels like 17.66°C (63.79°F)!
 </p>
 <p align="center">
     The sun rise for me is at 07:28 and the sun set is at 19:55!
@@ -79,11 +79,11 @@
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1595173148/9720/dog_cute.gif?1595173148" width="30"> Dog </h2>
 
 <p align="center">
-    <img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;poodle-toy&#x2F;n02113624_528.jpg" height="300px">
+    <img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;puggle&#x2F;IMG_084828.jpg" height="300px">
 </p>
 
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1500426137/2648/allo-tongue.gif?1500426137" width="30"> Joke </h2>
 
 <p align="center">
-    There are no such things as tornados. Chuck Norris just hates trailer parks.
+    A programmer is having trouble with his keyboard double-pressing. He asks his coworker what he should do. &#39;Hit it,&#39; he says. The programmer hits it, but nothing changes. His coworker exclaims &#39;No, really BASH it!&#39;
 </p>
