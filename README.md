@@ -64,7 +64,7 @@
 <h2> <img src="http://openweathermap.org/img/w/01n.png" width="30"> Weather </h2>
 
 <p align="center">
-    The weather for me its a clear sky and the temperature is 8.64°C (47.55°F) but it actually feels like 5.25°C (41.45°F)!
+    The weather for me its a clear sky and the temperature is 8.65°C (47.57°F) but it actually feels like 5.3°C (41.54°F)!
 </p>
 <p align="center">
     The sun rise for me is at 07:26 and the sun set is at 19:56!
@@ -79,11 +79,11 @@
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1595173148/9720/dog_cute.gif?1595173148" width="30"> Dog </h2>
 
 <p align="center">
-    <img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;samoyed&#x2F;n02111889_3399.jpg" height="300px">
+    <img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;husky&#x2F;n02110185_11626.jpg" height="300px">
 </p>
 
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1500426137/2648/allo-tongue.gif?1500426137" width="30"> Joke </h2>
 
 <p align="center">
-    All roads lead to Chuck Norris. And by the transitive property, a roundhouse kick to the face.
+    Why is C sad? Because C++ told him &#39;You have no class&#39;.
 </p>
