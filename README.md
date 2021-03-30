@@ -79,11 +79,11 @@
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1595173148/9720/dog_cute.gif?1595173148" width="30"> Dog </h2>
 
 <p align="center">
-    <img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;spaniel-irish&#x2F;n02102973_4511.jpg" height="300px">
+    <img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;mix&#x2F;cman2.jpg" height="300px">
 </p>
 
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1500426137/2648/allo-tongue.gif?1500426137" width="30"> Joke </h2>
 
 <p align="center">
-    It&#39;s widely believed that Jesus was Chuck Norris&#39; stunt double for crucifixion due to the fact that it is impossible for nails to pierce Chuck Norris&#39; skin.
+    Contrary to popular belief, the Titanic didn&#39;t hit an iceberg. The ship was off course and ran into Chuck Norris while he was doing the backstroke across the Atlantic.
 </p>
