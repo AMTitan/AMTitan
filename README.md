@@ -64,7 +64,7 @@
 <h2> <img src="http://openweathermap.org/img/w/02d.png" width="30"> Weather </h2>
 
 <p align="center">
-    The weather for me its a few clouds and the temperature is 18.99°C (66.18°F) but it actually feels like 18.82°C (65.88°F)!
+    The weather for me its a few clouds and the temperature is 19.15°C (66.47°F) but it actually feels like 19.03°C (66.25°F)!
 </p>
 <p align="center">
     The sun rise for me is at 07:26 and the sun set is at 19:56!
@@ -79,11 +79,11 @@
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1595173148/9720/dog_cute.gif?1595173148" width="30"> Dog </h2>
 
 <p align="center">
-    <img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;terrier-norfolk&#x2F;n02094114_3248.jpg" height="300px">
+    <img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;terrier-norfolk&#x2F;n02094114_2990.jpg" height="300px">
 </p>
 
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1500426137/2648/allo-tongue.gif?1500426137" width="30"> Joke </h2>
 
 <p align="center">
-    If tapped, a Chuck Norris roundhouse kick could power the country of Australia for 44 minutes.
+    Erik Naggum: “Microsoft is not the answer. Microsoft is the question. NO is the answer.”
 </p>
