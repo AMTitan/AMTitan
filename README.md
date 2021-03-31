@@ -64,7 +64,7 @@
 <h2> <img src="http://openweathermap.org/img/w/04d.png" width="30"> Weather </h2>
 
 <p align="center">
-    The weather for me its a overcast clouds and the temperature is 15.31°C (59.56°F) but it actually feels like 15.3°C (59.54°F)!
+    The weather for me its a overcast clouds and the temperature is 15.83°C (60.49°F) but it actually feels like 16.03°C (60.85°F)!
 </p>
 <p align="center">
     The sun rise for me is at 07:25 and the sun set is at 19:56!
@@ -79,11 +79,11 @@
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1595173148/9720/dog_cute.gif?1595173148" width="30"> Dog </h2>
 
 <p align="center">
-    <img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;mexicanhairless&#x2F;n02113978_1954.jpg" height="300px">
+    <img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;stbernard&#x2F;n02109525_2681.jpg" height="300px">
 </p>
 
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1500426137/2648/allo-tongue.gif?1500426137" width="30"> Joke </h2>
 
 <p align="center">
-    Along with his black belt, Chuck Norris often chooses to wear brown shoes. No one has DARED call him on it. Ever.
+    Chuck Norris doesn&#39;t churn butter. He roundhouse kicks the cows and the butter comes straight out.
 </p>
