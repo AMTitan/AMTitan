@@ -64,13 +64,13 @@
 <h2> <img src="http://openweathermap.org/img/w/10d.png" width="30"> Weather </h2>
 
 <p align="center">
-    The weather for me its a moderate rain and the temperature is 17.8°C (64.04°F) but it actually feels like 18.12°C (64.62°F)!
+    The weather for me its a heavy intensity rain and the temperature is 17.8°C (64.04°F) but it actually feels like 18.12°C (64.62°F)!
 </p>
 <p align="center">
     The sun rise for me is at 07:25 and the sun set is at 19:56!
 </p>
 <p align="center">
-    The wind for me  is 1.79 meters/sec (4mph)!
+    The wind for me  is 2.68 meters/sec (5.99mph)!
 </p>
 <p align="center">
     The persaintage of the sky is filled with clouds for me is 100%!
@@ -79,11 +79,11 @@
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1595173148/9720/dog_cute.gif?1595173148" width="30"> Dog </h2>
 
 <p align="center">
-    <img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;affenpinscher&#x2F;n02110627_641.jpg" height="300px">
+    <img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;bullterrier-staffordshire&#x2F;n02093256_2737.jpg" height="300px">
 </p>
 
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1500426137/2648/allo-tongue.gif?1500426137" width="30"> Joke </h2>
 
 <p align="center">
-    Chuck Norris is responsible for China&#39;s over-population. He hosted a Karate tournament in Beijing and all women within 1,000 miles became pregnant instantly.
+    SON: What are clouds made of? DAD: Linux servers, mostly
 </p>
