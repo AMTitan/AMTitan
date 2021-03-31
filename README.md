@@ -64,7 +64,7 @@
 <h2> <img src="http://openweathermap.org/img/w/10n.png" width="30"> Weather </h2>
 
 <p align="center">
-    The weather for me its a light rain and the temperature is 16.56°C (61.81°F) but it actually feels like 18.26°C (64.87°F)!
+    The weather for me its a moderate rain and the temperature is 16.4°C (61.52°F) but it actually feels like 18.04°C (64.47°F)!
 </p>
 <p align="center">
     The sun rise for me is at 07:25 and the sun set is at 19:56!
@@ -79,11 +79,11 @@
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1595173148/9720/dog_cute.gif?1595173148" width="30"> Dog </h2>
 
 <p align="center">
-    <img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;schipperke&#x2F;n02104365_10247.jpg" height="300px">
+    <img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;bluetick&#x2F;n02088632_4491.jpg" height="300px">
 </p>
 
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1500426137/2648/allo-tongue.gif?1500426137" width="30"> Joke </h2>
 
 <p align="center">
-    Chuck Norris is widely predicted to be first black president. If you&#39;re thinking to yourself, &#39;But Chuck Norris isn&#39;t black&#39;, then you are dead wrong. And stop being a racist.
+    Chuck Norris can kick through all 6 degrees of separation, hitting anyone, anywhere, in the face, at any time.
 </p>
