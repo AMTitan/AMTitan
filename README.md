@@ -64,13 +64,13 @@
 <h2> <img src="http://openweathermap.org/img/w/10d.png" width="30"> Weather </h2>
 
 <p align="center">
-    The weather for me its a moderate rain and the temperature is 16.29°C (61.32°F) but it actually feels like 16.53°C (61.75°F)!
+    The weather for me its a heavy intensity rain and the temperature is 16.28°C (61.3°F) but it actually feels like 16.52°C (61.74°F)!
 </p>
 <p align="center">
     The sun rise for me is at 07:25 and the sun set is at 19:56!
 </p>
 <p align="center">
-    The wind for me  is 2.82 meters/sec (6.31mph)!
+    The wind for me  is 3.19 meters/sec (7.14mph)!
 </p>
 <p align="center">
     The persaintage of the sky is filled with clouds for me is 100%!
@@ -79,11 +79,11 @@
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1595173148/9720/dog_cute.gif?1595173148" width="30"> Dog </h2>
 
 <p align="center">
-    <img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;basenji&#x2F;n02110806_3880.jpg" height="300px">
+    <img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;havanese&#x2F;00100trPORTRAIT_00100_BURST20191112123933390_COVER.jpg" height="300px">
 </p>
 
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1500426137/2648/allo-tongue.gif?1500426137" width="30"> Joke </h2>
 
 <p align="center">
-    Chuck Norris wipes his ass with chain mail and sandpaper.
+    Artificial intelligence usually beats real stupidity.
 </p>
