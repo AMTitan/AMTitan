@@ -64,7 +64,7 @@
 <h2> <img src="http://openweathermap.org/img/w/01d.png" width="30"> Weather </h2>
 
 <p align="center">
-    The weather for me its a clear sky and the temperature is 3.3°C (37.94°F) but it actually feels like 2.24°C (36.03°F)!
+    The weather for me its a clear sky and the temperature is 3.44°C (38.19°F) but it actually feels like 2.4°C (36.32°F)!
 </p>
 <p align="center">
     The sun rise for me is at 07:23 and the sun set is at 19:57!
@@ -79,11 +79,11 @@
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1595173148/9720/dog_cute.gif?1595173148" width="30"> Dog </h2>
 
 <p align="center">
-    <img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;clumber&#x2F;n02101556_488.jpg" height="300px">
+    <img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;terrier-border&#x2F;n02093754_5298.jpg" height="300px">
 </p>
 
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1500426137/2648/allo-tongue.gif?1500426137" width="30"> Joke </h2>
 
 <p align="center">
-    Chuck Norris does not kick ass and take names. In fact, Chuck Norris kicks ass and assigns the corpse a number. It is currently recorded to be in the billions.
+    When Chuck Norris throws exceptions, it&#39;s across the room.
 </p>
