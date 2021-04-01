@@ -64,7 +64,7 @@
 <h2> <img src="http://openweathermap.org/img/w/01n.png" width="30"> Weather </h2>
 
 <p align="center">
-    The weather for me its a clear sky and the temperature is 5.35°C (41.63°F) but it actually feels like 5.35°C (41.63°F)!
+    The weather for me its a clear sky and the temperature is 5.36°C (41.65°F) but it actually feels like 5.36°C (41.65°F)!
 </p>
 <p align="center">
     The sun rise for me is at 07:23 and the sun set is at 19:57!
@@ -79,11 +79,11 @@
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1595173148/9720/dog_cute.gif?1595173148" width="30"> Dog </h2>
 
 <p align="center">
-    <img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;pyrenees&#x2F;n02111500_6792.jpg" height="300px">
+    <img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;groenendael&#x2F;n02105056_6387.jpg" height="300px">
 </p>
 
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1500426137/2648/allo-tongue.gif?1500426137" width="30"> Joke </h2>
 
 <p align="center">
-    Godzilla is a Japanese rendition of Chuck Norris&#39; first visit to Tokyo.
+    Chuck Norris&#39;s beard can type 140 wpm.
 </p>
