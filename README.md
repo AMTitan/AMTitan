@@ -64,13 +64,13 @@
 <h2> <img src="http://openweathermap.org/img/w/01d.png" width="30"> Weather </h2>
 
 <p align="center">
-    The weather for me its a clear sky and the temperature is 10.47°C (50.85°F) but it actually feels like 8.54°C (47.37°F)!
+    The weather for me its a clear sky and the temperature is 10.63°C (51.13°F) but it actually feels like 8.71°C (47.68°F)!
 </p>
 <p align="center">
     The sun rise for me is at 07:22 and the sun set is at 19:58!
 </p>
 <p align="center">
-    The wind for me  is 3.69 meters/sec (8.25mph)!
+    The wind for me  is 3.83 meters/sec (8.57mph)!
 </p>
 <p align="center">
     The persaintage of the sky is filled with clouds for me is 0%!
@@ -79,11 +79,11 @@
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1595173148/9720/dog_cute.gif?1595173148" width="30"> Dog </h2>
 
 <p align="center">
-    <img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;newfoundland&#x2F;n02111277_12042.jpg" height="300px">
+    <img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;bulldog-french&#x2F;n02108915_3300.jpg" height="300px">
 </p>
 
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1500426137/2648/allo-tongue.gif?1500426137" width="30"> Joke </h2>
 
 <p align="center">
-    Be nice to the nerds; for all you know they might be the next Bill Gates!
+    Do you know why Baskin Robbins only has 31 flavors? Because Chuck Norris doesn&#39;t like Fudge Ripple.
 </p>
