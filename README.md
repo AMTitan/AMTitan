@@ -79,11 +79,11 @@
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1595173148/9720/dog_cute.gif?1595173148" width="30"> Dog </h2>
 
 <p align="center">
-    <img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;hound-walker&#x2F;n02089867_3727.jpg" height="300px">
+    <img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;pitbull&#x2F;IMG_20190826_121528_876.jpg" height="300px">
 </p>
 
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1500426137/2648/allo-tongue.gif?1500426137" width="30"> Joke </h2>
 
 <p align="center">
-    How much wood would a woodchuck chuck if a woodchuck could Chuck Norris? All of it.
+    If you Google search &#39;Chuck Norris getting his ass kicked&#39; you will generate zero results. It just doesn&#39;t happen.
 </p>
