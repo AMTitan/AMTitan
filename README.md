@@ -64,7 +64,7 @@
 <h2> <img src="http://openweathermap.org/img/w/01d.png" width="30"> Weather </h2>
 
 <p align="center">
-    The weather for me its a clear sky and the temperature is 6°C (42.8°F) but it actually feels like 4.31°C (39.76°F)!
+    The weather for me its a clear sky and the temperature is 5.82°C (42.48°F) but it actually feels like 4.1°C (39.38°F)!
 </p>
 <p align="center">
     The sun rise for me is at 07:22 and the sun set is at 19:58!
@@ -79,11 +79,11 @@
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1595173148/9720/dog_cute.gif?1595173148" width="30"> Dog </h2>
 
 <p align="center">
-    <img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;terrier-bedlington&#x2F;n02093647_239.jpg" height="300px">
+    <img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;spaniel-blenheim&#x2F;n02086646_3466.jpg" height="300px">
 </p>
 
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1500426137/2648/allo-tongue.gif?1500426137" width="30"> Joke </h2>
 
 <p align="center">
-    Chuck Norris is not Politically Correct. He is just Correct. Always.
+    Chuck Norris built a better mousetrap, but the world was too frightened to beat a path to his door.
 </p>
