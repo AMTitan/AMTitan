@@ -73,17 +73,17 @@
     The wind for me  is 0.45 meters/sec (1.01mph)!
 </p>
 <p align="center">
-    The persaintage of the sky is filled with clouds for me is 3%!
+    The persaintage of the sky is filled with clouds for me is 5%!
 </p>
 
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1595173148/9720/dog_cute.gif?1595173148" width="30"> Dog </h2>
 
 <p align="center">
-    <img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;schnauzer-giant&#x2F;n02097130_2552.jpg" height="300px">
+    <img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;buhund-norwegian&#x2F;hakon2.jpg" height="300px">
 </p>
 
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1500426137/2648/allo-tongue.gif?1500426137" width="30"> Joke </h2>
 
 <p align="center">
-    Whiteboards are white because Chuck Norris scared them that way.
+    I’m not anti-social; I’m just not user friendly.
 </p>
