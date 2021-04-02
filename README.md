@@ -64,7 +64,7 @@
 <h2> <img src="http://openweathermap.org/img/w/01d.png" width="30"> Weather </h2>
 
 <p align="center">
-    The weather for me its a clear sky and the temperature is 5.67°C (42.21°F) but it actually feels like 4.92°C (40.86°F)!
+    The weather for me its a clear sky and the temperature is 5.57°C (42.03°F) but it actually feels like 4.81°C (40.66°F)!
 </p>
 <p align="center">
     The sun rise for me is at 07:22 and the sun set is at 19:58!
@@ -79,11 +79,11 @@
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1595173148/9720/dog_cute.gif?1595173148" width="30"> Dog </h2>
 
 <p align="center">
-    <img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;pointer-german&#x2F;n02100236_4783.jpg" height="300px">
+    <img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;malinois&#x2F;n02105162_6690.jpg" height="300px">
 </p>
 
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1500426137/2648/allo-tongue.gif?1500426137" width="30"> Joke </h2>
 
 <p align="center">
-    Chuck Norris invented a language that incorporates karate and roundhouse kicks. So next time Chuck Norris is kicking your ass, don?t be offended or hurt, he may be just trying to tell you he likes your hat.
+    What many people dont know is Chuck Norris is the founder of planned parenthood. Not even unborn children can escape his wrath.
 </p>
