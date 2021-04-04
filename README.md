@@ -64,7 +64,7 @@
 <h2> <img src="http://openweathermap.org/img/w/01n.png" width="30"> Weather </h2>
 
 <p align="center">
-    The weather for me its a clear sky and the temperature is 11°C (51.8°F) but it actually feels like 9.41°C (48.94°F)!
+    The weather for me its a clear sky and the temperature is 11.62°C (52.92°F) but it actually feels like 9.99°C (49.98°F)!
 </p>
 <p align="center">
     The sun rise for me is at 07:21 and the sun set is at 19:59!
@@ -79,11 +79,11 @@
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1595173148/9720/dog_cute.gif?1595173148" width="30"> Dog </h2>
 
 <p align="center">
-    <img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;terrier-patterdale&#x2F;dog-1268559_640.jpg" height="300px">
+    <img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;pembroke&#x2F;n02113023_6702.jpg" height="300px">
 </p>
 
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1500426137/2648/allo-tongue.gif?1500426137" width="30"> Joke </h2>
 
 <p align="center">
-    Everything King Midas touches turnes to gold. Everything Chuck Norris touches turns up dead.
+    Diamonds are not, despite popular belief, carbon. They are, in fact, Chuck Norris fecal matter. This was proven a recently, when scientific analysis revealed what appeared to be Jean-Claude Van Damme bone fragments inside the Hope Diamond.
 </p>
