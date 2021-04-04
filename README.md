@@ -64,7 +64,7 @@
 <h2> <img src="http://openweathermap.org/img/w/01n.png" width="30"> Weather </h2>
 
 <p align="center">
-    The weather for me its a clear sky and the temperature is 12.69°C (54.84°F) but it actually feels like 10.98°C (51.76°F)!
+    The weather for me its a clear sky and the temperature is 12.6°C (54.68°F) but it actually feels like 10.99°C (51.78°F)!
 </p>
 <p align="center">
     The sun rise for me is at 07:21 and the sun set is at 19:59!
@@ -79,11 +79,11 @@
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1595173148/9720/dog_cute.gif?1595173148" width="30"> Dog </h2>
 
 <p align="center">
-    <img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;terrier-patterdale&#x2F;Patterdale.jpg" height="300px">
+    <img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;leonberg&#x2F;n02111129_3917.jpg" height="300px">
 </p>
 
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1500426137/2648/allo-tongue.gif?1500426137" width="30"> Joke </h2>
 
 <p align="center">
-    Behind every successful man, there is a woman. Behind every dead man, there is Chuck Norris.
+    Real programmers start counting from 0
 </p>
