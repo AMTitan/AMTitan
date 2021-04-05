@@ -64,7 +64,7 @@
 <h2> <img src="http://openweathermap.org/img/w/01n.png" width="30"> Weather </h2>
 
 <p align="center">
-    The weather for me its a clear sky and the temperature is 16.26°C (61.27°F) but it actually feels like 14.93°C (58.87°F)!
+    The weather for me its a clear sky and the temperature is 16.02°C (60.84°F) but it actually feels like 14.75°C (58.55°F)!
 </p>
 <p align="center">
     The sun rise for me is at 07:19 and the sun set is at 19:59!
@@ -79,11 +79,11 @@
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1595173148/9720/dog_cute.gif?1595173148" width="30"> Dog </h2>
 
 <p align="center">
-    <img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;labrador&#x2F;n02099712_4543.jpg" height="300px">
+    <img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;retriever-chesapeake&#x2F;n02099849_1922.jpg" height="300px">
 </p>
 
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1500426137/2648/allo-tongue.gif?1500426137" width="30"> Joke </h2>
 
 <p align="center">
-    There are only 10 types of people in the world: those that understand binary, those that don’t, and those that didn&#39;t expect a ternary joke.
+    Fool me once, shame on you. Fool Chuck Norris once and he will roundhouse kick you in the face.
 </p>
