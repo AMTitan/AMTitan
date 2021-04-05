@@ -64,7 +64,7 @@
 <h2> <img src="http://openweathermap.org/img/w/01d.png" width="30"> Weather </h2>
 
 <p align="center">
-    The weather for me its a clear sky and the temperature is 25.23°C (77.41°F) but it actually feels like 24.41°C (75.94°F)!
+    The weather for me its a clear sky and the temperature is 25.18°C (77.32°F) but it actually feels like 24.35°C (75.83°F)!
 </p>
 <p align="center">
     The sun rise for me is at 07:18 and the sun set is at 20:00!
@@ -79,11 +79,11 @@
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1595173148/9720/dog_cute.gif?1595173148" width="30"> Dog </h2>
 
 <p align="center">
-    <img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;affenpinscher&#x2F;n02110627_8048.jpg" height="300px">
+    <img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;mastiff-tibetan&#x2F;n02108551_441.jpg" height="300px">
 </p>
 
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1500426137/2648/allo-tongue.gif?1500426137" width="30"> Joke </h2>
 
 <p align="center">
-    Why did the programmer die in the shower? The shampoo bottle said: Wash, rinse, repeat.
+    Fear is not the only emotion Chuck Norris can smell. He can also detect hope, as in &#39;I hope I don&#39;t get a roundhouse kick from Chuck Norris.&#39;
 </p>
