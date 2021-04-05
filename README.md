@@ -64,7 +64,7 @@
 <h2> <img src="http://openweathermap.org/img/w/01n.png" width="30"> Weather </h2>
 
 <p align="center">
-    The weather for me its a clear sky and the temperature is 15.35°C (59.63°F) but it actually feels like 14.06°C (57.31°F)!
+    The weather for me its a clear sky and the temperature is 15.31°C (59.56°F) but it actually feels like 14.02°C (57.24°F)!
 </p>
 <p align="center">
     The sun rise for me is at 07:19 and the sun set is at 19:59!
@@ -79,11 +79,11 @@
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1595173148/9720/dog_cute.gif?1595173148" width="30"> Dog </h2>
 
 <p align="center">
-    <img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;terrier-patterdale&#x2F;320px-05078045_Patterdale_Terrier.jpg" height="300px">
+    <img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;terrier-lakeland&#x2F;n02095570_510.jpg" height="300px">
 </p>
 
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1500426137/2648/allo-tongue.gif?1500426137" width="30"> Joke </h2>
 
 <p align="center">
-    Chuck Norris doesn&#39;t daydream. He&#39;s too busy giving other people nightmares.
+    According to the Encyclopedia Brittanica, the Native American &#39;Trail of Tears&#39; has been redefined as anywhere that Chuck Norris walks.
 </p>
