@@ -64,7 +64,7 @@
 <h2> <img src="http://openweathermap.org/img/w/01n.png" width="30"> Weather </h2>
 
 <p align="center">
-    The weather for me its a clear sky and the temperature is 9.1°C (48.38°F) but it actually feels like 6.37°C (43.47°F)!
+    The weather for me its a clear sky and the temperature is 9.11°C (48.4°F) but it actually feels like 8.16°C (46.69°F)!
 </p>
 <p align="center">
     The sun rise for me is at 07:18 and the sun set is at 20:00!
@@ -79,11 +79,11 @@
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1595173148/9720/dog_cute.gif?1595173148" width="30"> Dog </h2>
 
 <p align="center">
-    <img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;cotondetulear&#x2F;100_2013.jpg" height="300px">
+    <img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;frise-bichon&#x2F;7.jpg" height="300px">
 </p>
 
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1500426137/2648/allo-tongue.gif?1500426137" width="30"> Joke </h2>
 
 <p align="center">
-    President Roosevelt once rode his horse 100 miles. Chuck Norris carried his the same distance in half the time.
+    When Chuck Norris plays Oregon Trail, his family does not die from cholera or dysentery, but rather, roundhouse kicks to the face. He also requires no wagon, since he carries the oxen, axels, and buffalo meat on his back. He always makes it to Oregon before you.
 </p>
