@@ -64,7 +64,7 @@
 <h2> <img src="http://openweathermap.org/img/w/01d.png" width="30"> Weather </h2>
 
 <p align="center">
-    The weather for me its a clear sky and the temperature is 25.72°C (78.3°F) but it actually feels like 25.18°C (77.32°F)!
+    The weather for me its a clear sky and the temperature is 25.63°C (78.13°F) but it actually feels like 25.01°C (77.02°F)!
 </p>
 <p align="center">
     The sun rise for me is at 07:17 and the sun set is at 20:01!
@@ -79,11 +79,11 @@
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1595173148/9720/dog_cute.gif?1595173148" width="30"> Dog </h2>
 
 <p align="center">
-    <img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;terrier-border&#x2F;n02093754_6061.jpg" height="300px">
+    <img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;pinscher-miniature&#x2F;n02107312_867.jpg" height="300px">
 </p>
 
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1500426137/2648/allo-tongue.gif?1500426137" width="30"> Joke </h2>
 
 <p align="center">
-    Chuck Norris never wet his bed as a child. The bed wet itself out of fear.
+    Chuck Norris doesn&#39;t look both ways before he crosses the street... he just roundhouses any cars that get too close.
 </p>
