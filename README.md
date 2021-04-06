@@ -64,13 +64,13 @@
 <h2> <img src="http://openweathermap.org/img/w/01n.png" width="30"> Weather </h2>
 
 <p align="center">
-    The weather for me its a clear sky and the temperature is 20.27°C (68.49°F) but it actually feels like 19.32°C (66.78°F)!
+    The weather for me its a clear sky and the temperature is 20.98°C (69.76°F) but it actually feels like 18.07°C (64.53°F)!
 </p>
 <p align="center">
     The sun rise for me is at 07:18 and the sun set is at 20:00!
 </p>
 <p align="center">
-    The wind for me  is 2.54 meters/sec (5.68mph)!
+    The wind for me  is 2.53 meters/sec (5.66mph)!
 </p>
 <p align="center">
     The persaintage of the sky is filled with clouds for me is 0%!
@@ -79,11 +79,11 @@
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1595173148/9720/dog_cute.gif?1595173148" width="30"> Dog </h2>
 
 <p align="center">
-    <img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;african&#x2F;n02116738_2344.jpg" height="300px">
+    <img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;retriever-golden&#x2F;n02099601_7037.jpg" height="300px">
 </p>
 
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1500426137/2648/allo-tongue.gif?1500426137" width="30"> Joke </h2>
 
 <p align="center">
-    I don&#39;t see women as objects. I consider each to be in a class of her own.
+    Chuck Norris doesn&#39;t need to use AJAX because pages are too afraid to postback anyways.
 </p>
