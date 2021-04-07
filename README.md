@@ -64,13 +64,13 @@
 <h2> <img src="http://openweathermap.org/img/w/01n.png" width="30"> Weather </h2>
 
 <p align="center">
-    The weather for me its a clear sky and the temperature is 21.26°C (70.27°F) but it actually feels like 19.22°C (66.6°F)!
+    The weather for me its a clear sky and the temperature is 20.87°C (69.57°F) but it actually feels like 20.16°C (68.29°F)!
 </p>
 <p align="center">
     The sun rise for me is at 07:17 and the sun set is at 20:01!
 </p>
 <p align="center">
-    The wind for me  is 2.31 meters/sec (5.17mph)!
+    The wind for me  is 2.37 meters/sec (5.3mph)!
 </p>
 <p align="center">
     The persaintage of the sky is filled with clouds for me is 3%!
@@ -79,11 +79,11 @@
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1595173148/9720/dog_cute.gif?1595173148" width="30"> Dog </h2>
 
 <p align="center">
-    <img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;terrier-russell&#x2F;little1.jpg" height="300px">
+    <img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;chow&#x2F;n02112137_2947.jpg" height="300px">
 </p>
 
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1500426137/2648/allo-tongue.gif?1500426137" width="30"> Joke </h2>
 
 <p align="center">
-    Newton&#39;s Third Law is wrong: Although it states that for each action, there is an equal and opposite reaction, there is no force equal in reaction to a Chuck Norris roundhouse kick.
+    There is no theory of evolution, just a list of creatures Chuck Norris allows to live.
 </p>
