@@ -64,10 +64,10 @@
 <h2> <img src="http://openweathermap.org/img/w/01n.png" width="30"> Weather </h2>
 
 <p align="center">
-    The weather for me its a clear sky and the temperature is 14.49°C (58.08°F) but it actually feels like 13.8°C (56.84°F)!
+    The weather for me its a clear sky and the temperature is 14.31°C (57.76°F) but it actually feels like 13.62°C (56.52°F)!
 </p>
 <p align="center">
-    The sun rise for me is at 07:17 and the sun set is at 20:01!
+    The sun rise for me is at 07:15 and the sun set is at 20:02!
 </p>
 <p align="center">
     The wind for me  is 0.6 meters/sec (1.34mph)!
@@ -79,11 +79,11 @@
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1595173148/9720/dog_cute.gif?1595173148" width="30"> Dog </h2>
 
 <p align="center">
-    <img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;rottweiler&#x2F;n02106550_4962.jpg" height="300px">
+    <img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;vizsla&#x2F;n02100583_2736.jpg" height="300px">
 </p>
 
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1500426137/2648/allo-tongue.gif?1500426137" width="30"> Joke </h2>
 
 <p align="center">
-    If you ask Chuck Norris what time it is, he always answers &#39;Two seconds till&#39;. After you ask &#39;Two seconds to what?&#39;, he roundhouse kicks you in the face.
+    Chuck Norris writes code that optimizes itself.
 </p>
