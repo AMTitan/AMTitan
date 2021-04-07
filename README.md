@@ -64,7 +64,7 @@
 <h2> <img src="http://openweathermap.org/img/w/04d.png" width="30"> Weather </h2>
 
 <p align="center">
-    The weather for me its a broken clouds and the temperature is 26.3°C (79.34°F) but it actually feels like 26.3°C (79.34°F)!
+    The weather for me its a broken clouds and the temperature is 26.47°C (79.65°F) but it actually feels like 26.47°C (79.65°F)!
 </p>
 <p align="center">
     The sun rise for me is at 07:15 and the sun set is at 20:02!
@@ -79,11 +79,11 @@
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1595173148/9720/dog_cute.gif?1595173148" width="30"> Dog </h2>
 
 <p align="center">
-    <img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;briard&#x2F;n02105251_6984.jpg" height="300px">
+    <img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;pointer-germanlonghair&#x2F;hans3.jpg" height="300px">
 </p>
 
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1500426137/2648/allo-tongue.gif?1500426137" width="30"> Joke </h2>
 
 <p align="center">
-    When Steven Seagal kills a ninja, he only takes its hide. When Chuck Norris kills a ninja, he uses every part.
+    Wo hu cang long. The translation from Mandarin Chinese reads: &#39;Crouching Chuck, Hidden Norris&#39;
 </p>
