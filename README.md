@@ -64,13 +64,13 @@
 <h2> <img src="http://openweathermap.org/img/w/04d.png" width="30"> Weather </h2>
 
 <p align="center">
-    The weather for me its a broken clouds and the temperature is 20.69°C (69.24°F) but it actually feels like 20.25°C (68.45°F)!
+    The weather for me its a broken clouds and the temperature is 20.84°C (69.51°F) but it actually feels like 20.42°C (68.76°F)!
 </p>
 <p align="center">
     The sun rise for me is at 07:15 and the sun set is at 20:02!
 </p>
 <p align="center">
-    The wind for me  is 1.34 meters/sec (3mph)!
+    The wind for me  is 0.45 meters/sec (1.01mph)!
 </p>
 <p align="center">
     The persaintage of the sky is filled with clouds for me is 76%!
@@ -79,11 +79,11 @@
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1595173148/9720/dog_cute.gif?1595173148" width="30"> Dog </h2>
 
 <p align="center">
-    <img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;otterhound&#x2F;n02091635_436.jpg" height="300px">
+    <img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;hound-ibizan&#x2F;n02091244_4086.jpg" height="300px">
 </p>
 
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1500426137/2648/allo-tongue.gif?1500426137" width="30"> Joke </h2>
 
 <p align="center">
-    Someone once tried to tell Chuck Norris that roundhouse kicks aren&#39;t the best way to kick someone. This has been recorded by historians as the worst mistake anyone has ever made.
+    All browsers support the hex definitions #chuck and #norris for the colors black and blue.
 </p>
