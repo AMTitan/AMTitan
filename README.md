@@ -64,26 +64,26 @@
 <h2> <img src="http://openweathermap.org/img/w/04n.png" width="30"> Weather </h2>
 
 <p align="center">
-    The weather for me its a overcast clouds and the temperature is 15.8°C (60.44°F) but it actually feels like 15.63°C (60.13°F)!
+    The weather for me its a overcast clouds and the temperature is 15.32°C (59.58°F) but it actually feels like 15.1°C (59.18°F)!
 </p>
 <p align="center">
     The sun rise for me is at 07:14 and the sun set is at 20:02!
 </p>
 <p align="center">
-    The wind for me  is 1.75 meters/sec (3.91mph)!
+    The wind for me  is 1.55 meters/sec (3.47mph)!
 </p>
 <p align="center">
-    The persaintage of the sky is filled with clouds for me is 98%!
+    The persaintage of the sky is filled with clouds for me is 95%!
 </p>
 
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1595173148/9720/dog_cute.gif?1595173148" width="30"> Dog </h2>
 
 <p align="center">
-    <img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;vizsla&#x2F;n02100583_9435.jpg" height="300px">
+    <img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;retriever-curly&#x2F;n02099429_1883.jpg" height="300px">
 </p>
 
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1500426137/2648/allo-tongue.gif?1500426137" width="30"> Joke </h2>
 
 <p align="center">
-    Chuck Norris&#39;s first program was kill -9.
+    Google won&#39;t search for Chuck Norris because it knows you don&#39;t find Chuck Norris, he finds you.
 </p>
