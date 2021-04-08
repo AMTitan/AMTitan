@@ -64,7 +64,7 @@
 <h2> <img src="http://openweathermap.org/img/w/04d.png" width="30"> Weather </h2>
 
 <p align="center">
-    The weather for me its a overcast clouds and the temperature is 22.54°C (72.57°F) but it actually feels like 22.55°C (72.59°F)!
+    The weather for me its a overcast clouds and the temperature is 22.8°C (73.04°F) but it actually feels like 22.83°C (73.09°F)!
 </p>
 <p align="center">
     The sun rise for me is at 07:14 and the sun set is at 20:02!
@@ -79,11 +79,11 @@
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1595173148/9720/dog_cute.gif?1595173148" width="30"> Dog </h2>
 
 <p align="center">
-    <img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;pekinese&#x2F;n02086079_2358.jpg" height="300px">
+    <img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;borzoi&#x2F;n02090622_7377.jpg" height="300px">
 </p>
 
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1500426137/2648/allo-tongue.gif?1500426137" width="30"> Joke </h2>
 
 <p align="center">
-    In the movie &#39;The Matrix&#39;, Chuck Norris is the Matrix. If you pay close attention in the green &#39;falling code&#39; scenes, you can make out the faint texture of his beard.
+    Teenage Mutant Ninja Turtles is based on a true story: Chuck Norris once swallowed a turtle whole, and when he crapped it out, the turtle was six feet tall and had learned karate.
 </p>
