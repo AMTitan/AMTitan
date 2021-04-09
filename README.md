@@ -64,10 +64,10 @@
 <h2> <img src="http://openweathermap.org/img/w/01n.png" width="30"> Weather </h2>
 
 <p align="center">
-    The weather for me its a clear sky and the temperature is 16.26°C (61.27°F) but it actually feels like 16.19°C (61.14°F)!
+    The weather for me its a clear sky and the temperature is 16.29°C (61.32°F) but it actually feels like 16.22°C (61.2°F)!
 </p>
 <p align="center">
-    The sun rise for me is at 07:13 and the sun set is at 20:03!
+    The sun rise for me is at 07:14 and the sun set is at 20:02!
 </p>
 <p align="center">
     The wind for me  is 1.26 meters/sec (2.82mph)!
@@ -79,11 +79,11 @@
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1595173148/9720/dog_cute.gif?1595173148" width="30"> Dog </h2>
 
 <p align="center">
-    <img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;dhole&#x2F;n02115913_4320.jpg" height="300px">
+    <img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;bulldog-boston&#x2F;n02096585_7933.jpg" height="300px">
 </p>
 
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1500426137/2648/allo-tongue.gif?1500426137" width="30"> Joke </h2>
 
 <p align="center">
-    Chuck Norris? sperm is so badass, he had sex with Nicole Kidman, and 7 months later she prematurely gave birth to a Ford Excursion.
+    In an average living room there are 1,242 objects Chuck Norris could use to kill you, including the room itself.
 </p>
