@@ -64,7 +64,7 @@
 <h2> <img src="http://openweathermap.org/img/w/04n.png" width="30"> Weather </h2>
 
 <p align="center">
-    The weather for me its a overcast clouds and the temperature is 15.42°C (59.76°F) but it actually feels like 15.45°C (59.81°F)!
+    The weather for me its a overcast clouds and the temperature is 15.36°C (59.65°F) but it actually feels like 15.35°C (59.63°F)!
 </p>
 <p align="center">
     The sun rise for me is at 07:13 and the sun set is at 20:03!
@@ -79,11 +79,11 @@
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1595173148/9720/dog_cute.gif?1595173148" width="30"> Dog </h2>
 
 <p align="center">
-    <img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;hound-basset&#x2F;n02088238_600.jpg" height="300px">
+    <img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;springer-english&#x2F;n02102040_2163.jpg" height="300px">
 </p>
 
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1500426137/2648/allo-tongue.gif?1500426137" width="30"> Joke </h2>
 
 <p align="center">
-    I&#39;ve got a really good UDP joke to tell you, but i don&#39;t know if you&#39;ll get it
+    Fear is not the only emotion Chuck Norris can smell. He can also detect hope, as in &#39;I hope I don&#39;t get a roundhouse kick from Chuck Norris.&#39;
 </p>
