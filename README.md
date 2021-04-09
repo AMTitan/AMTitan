@@ -64,7 +64,7 @@
 <h2> <img src="http://openweathermap.org/img/w/04d.png" width="30"> Weather </h2>
 
 <p align="center">
-    The weather for me its a overcast clouds and the temperature is 18.7°C (65.66°F) but it actually feels like 18.98°C (66.16°F)!
+    The weather for me its a overcast clouds and the temperature is 18.39°C (65.1°F) but it actually feels like 18.69°C (65.64°F)!
 </p>
 <p align="center">
     The sun rise for me is at 07:13 and the sun set is at 20:03!
@@ -79,11 +79,11 @@
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1595173148/9720/dog_cute.gif?1595173148" width="30"> Dog </h2>
 
 <p align="center">
-    <img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;basenji&#x2F;n02110806_6247.jpg" height="300px">
+    <img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;havanese&#x2F;00100trPORTRAIT_00100_BURST20191222103956878_COVER.jpg" height="300px">
 </p>
 
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1500426137/2648/allo-tongue.gif?1500426137" width="30"> Joke </h2>
 
 <p align="center">
-    The more I C.... the less I see.
+    How many theoretical physicists does it take to screw in a light bulb? Two. One to hold the bulb and one to rotate the universe.
 </p>
