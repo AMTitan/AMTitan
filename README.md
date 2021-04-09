@@ -64,13 +64,13 @@
 <h2> <img src="http://openweathermap.org/img/w/01n.png" width="30"> Weather </h2>
 
 <p align="center">
-    The weather for me its a clear sky and the temperature is 16.94°C (62.49°F) but it actually feels like 16.91°C (62.44°F)!
+    The weather for me its a clear sky and the temperature is 17.01°C (62.62°F) but it actually feels like 16.99°C (62.58°F)!
 </p>
 <p align="center">
     The sun rise for me is at 07:14 and the sun set is at 20:02!
 </p>
 <p align="center">
-    The wind for me  is 1.26 meters/sec (2.82mph)!
+    The wind for me  is 1.3 meters/sec (2.91mph)!
 </p>
 <p align="center">
     The persaintage of the sky is filled with clouds for me is 1%!
@@ -79,11 +79,11 @@
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1595173148/9720/dog_cute.gif?1595173148" width="30"> Dog </h2>
 
 <p align="center">
-    <img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;wolfhound-irish&#x2F;n02090721_868.jpg" height="300px">
+    <img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;pomeranian&#x2F;n02112018_4928.jpg" height="300px">
 </p>
 
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1500426137/2648/allo-tongue.gif?1500426137" width="30"> Joke </h2>
 
 <p align="center">
-    Chuck Norris does not need to type-cast. The Chuck-Norris Compiler (CNC) sees through things. All way down. Always.
+    The last thing you hear before Chuck Norris gives you a roundhouse kick? No one knows because dead men tell no tales.
 </p>
