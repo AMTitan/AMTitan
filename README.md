@@ -64,7 +64,7 @@
 <h2> <img src="http://openweathermap.org/img/w/04d.png" width="30"> Weather </h2>
 
 <p align="center">
-    The weather for me its a overcast clouds and the temperature is 16.93°C (62.47°F) but it actually feels like 17°C (62.6°F)!
+    The weather for me its a overcast clouds and the temperature is 16.83°C (62.29°F) but it actually feels like 16.87°C (62.37°F)!
 </p>
 <p align="center">
     The sun rise for me is at 07:11 and the sun set is at 20:04!
@@ -79,11 +79,11 @@
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1595173148/9720/dog_cute.gif?1595173148" width="30"> Dog </h2>
 
 <p align="center">
-    <img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;keeshond&#x2F;n02112350_9545.jpg" height="300px">
+    <img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;retriever-golden&#x2F;n02099601_7227.jpg" height="300px">
 </p>
 
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1500426137/2648/allo-tongue.gif?1500426137" width="30"> Joke </h2>
 
 <p align="center">
-    Chuck Norris and Mr. T walked into a bar. The bar was instantly destroyed, as that level of awesome cannot be contained in one building.
+    Chuck Norris&#39; Internet connection is faster upstream than downstream because even data has more incentive to run from him than to him.
 </p>
