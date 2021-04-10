@@ -64,7 +64,7 @@
 <h2> <img src="http://openweathermap.org/img/w/10d.png" width="30"> Weather </h2>
 
 <p align="center">
-    The weather for me its a light rain and the temperature is 17.18°C (62.92°F) but it actually feels like 17.46°C (63.43°F)!
+    The weather for me its a light rain and the temperature is 17.15°C (62.87°F) but it actually feels like 17.43°C (63.37°F)!
 </p>
 <p align="center">
     The sun rise for me is at 07:11 and the sun set is at 20:04!
@@ -79,11 +79,11 @@
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1595173148/9720/dog_cute.gif?1595173148" width="30"> Dog </h2>
 
 <p align="center">
-    <img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;vizsla&#x2F;n02100583_13008.jpg" height="300px">
+    <img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;collie-border&#x2F;n02106166_6710.jpg" height="300px">
 </p>
 
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1500426137/2648/allo-tongue.gif?1500426137" width="30"> Joke </h2>
 
 <p align="center">
-    Enter any 11-digit prime number to continue.
+    Jack Bauer tried to use his detailed knowledge of torture techniques, but to no avail: Chuck Norris thrives on pain. Chuck Norris then ripped off Jack Bauer&#39;s arm and beat him to death with it. Game, set, match.
 </p>
