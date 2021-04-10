@@ -64,7 +64,7 @@
 <h2> <img src="http://openweathermap.org/img/w/04d.png" width="30"> Weather </h2>
 
 <p align="center">
-    The weather for me its a overcast clouds and the temperature is 19.57°C (67.23°F) but it actually feels like 19.91°C (67.84°F)!
+    The weather for me its a overcast clouds and the temperature is 19.5°C (67.1°F) but it actually feels like 19.78°C (67.6°F)!
 </p>
 <p align="center">
     The sun rise for me is at 07:11 and the sun set is at 20:04!
@@ -79,11 +79,11 @@
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1595173148/9720/dog_cute.gif?1595173148" width="30"> Dog </h2>
 
 <p align="center">
-    <img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;schnauzer-miniature&#x2F;n02097047_2417.jpg" height="300px">
+    <img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;hound-ibizan&#x2F;n02091244_3735.jpg" height="300px">
 </p>
 
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1500426137/2648/allo-tongue.gif?1500426137" width="30"> Joke </h2>
 
 <p align="center">
-    Chuck Norris can hit you so hard that he can actually alter your DNA. Decades from now your descendants will occasionally clutch their heads and yell &#39;What The Hell was That?&#39;.
+    Ozzy Osbourne bites the heads off of bats. Chuck Norris bites the heads off of Siberian Tigers.
 </p>
