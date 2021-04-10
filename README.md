@@ -64,13 +64,13 @@
 <h2> <img src="http://openweathermap.org/img/w/04d.png" width="30"> Weather </h2>
 
 <p align="center">
-    The weather for me its a overcast clouds and the temperature is 16.66°C (61.99°F) but it actually feels like 16.84°C (62.31°F)!
+    The weather for me its a overcast clouds and the temperature is 16.66°C (61.99°F) but it actually feels like 16.86°C (62.35°F)!
 </p>
 <p align="center">
     The sun rise for me is at 07:11 and the sun set is at 20:04!
 </p>
 <p align="center">
-    The wind for me  is 1.34 meters/sec (3mph)!
+    The wind for me  is 1.79 meters/sec (4mph)!
 </p>
 <p align="center">
     The persaintage of the sky is filled with clouds for me is 100%!
@@ -79,11 +79,11 @@
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1595173148/9720/dog_cute.gif?1595173148" width="30"> Dog </h2>
 
 <p align="center">
-    <img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;cotondetulear&#x2F;IMG_20160830_202631573.jpg" height="300px">
+    <img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;terrier-yorkshire&#x2F;n02094433_1312.jpg" height="300px">
 </p>
 
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1500426137/2648/allo-tongue.gif?1500426137" width="30"> Joke </h2>
 
 <p align="center">
-    The Internet: where men are men women are men and children are FBI agents.
+    Why did Microsoft release Windows 10 ( and not windows 9) ?Because 7 8 9
 </p>
