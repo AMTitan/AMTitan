@@ -64,26 +64,26 @@
 <h2> <img src="http://openweathermap.org/img/w/03d.png" width="30"> Weather </h2>
 
 <p align="center">
-    The weather for me its a scattered clouds and the temperature is 13.08°C (55.54°F) but it actually feels like 12.92°C (55.26°F)!
+    The weather for me its a scattered clouds and the temperature is 13.12°C (55.62°F) but it actually feels like 12.97°C (55.35°F)!
 </p>
 <p align="center">
     The sun rise for me is at 07:10 and the sun set is at 20:05!
 </p>
 <p align="center">
-    The wind for me  is 2.94 meters/sec (6.58mph)!
+    The wind for me  is 2.61 meters/sec (5.84mph)!
 </p>
 <p align="center">
-    The persaintage of the sky is filled with clouds for me is 31%!
+    The persaintage of the sky is filled with clouds for me is 37%!
 </p>
 
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1595173148/9720/dog_cute.gif?1595173148" width="30"> Dog </h2>
 
 <p align="center">
-    <img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;setter-gordon&#x2F;n02101006_22.jpg" height="300px">
+    <img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;stbernard&#x2F;n02109525_17182.jpg" height="300px">
 </p>
 
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1500426137/2648/allo-tongue.gif?1500426137" width="30"> Joke </h2>
 
 <p align="center">
-    The grass is always greener on the other side, unless Chuck Norris has been there. In that case the grass is most likely soaked in blood and tears.
+    It is better to give than to receive. This is especially true of a Chuck Norris roundhouse kick.
 </p>
