@@ -64,7 +64,7 @@
 <h2> <img src="http://openweathermap.org/img/w/01d.png" width="30"> Weather </h2>
 
 <p align="center">
-    The weather for me its a clear sky and the temperature is 22.3°C (72.14°F) but it actually feels like 21.47°C (70.65°F)!
+    The weather for me its a clear sky and the temperature is 22.24°C (72.03°F) but it actually feels like 21.41°C (70.54°F)!
 </p>
 <p align="center">
     The sun rise for me is at 07:10 and the sun set is at 20:05!
@@ -79,11 +79,11 @@
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1595173148/9720/dog_cute.gif?1595173148" width="30"> Dog </h2>
 
 <p align="center">
-    <img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;bullterrier-staffordshire&#x2F;n02093256_2405.jpg" height="300px">
+    <img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;dane-great&#x2F;n02109047_13072.jpg" height="300px">
 </p>
 
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1500426137/2648/allo-tongue.gif?1500426137" width="30"> Joke </h2>
 
 <p align="center">
-    &#39;Icy-Hot&#39; is too weak for Chuck Norris. After a workout, Chuck Norris rubs his muscles down with liquid-hot MAGMA.
+    Chuck Norris can access the DB from the UI.
 </p>
