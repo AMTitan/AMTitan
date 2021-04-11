@@ -64,7 +64,7 @@
 <h2> <img src="http://openweathermap.org/img/w/04n.png" width="30"> Weather </h2>
 
 <p align="center">
-    The weather for me its a broken clouds and the temperature is 15.6°C (60.08°F) but it actually feels like 15.64°C (60.15°F)!
+    The weather for me its a broken clouds and the temperature is 15.64°C (60.15°F) but it actually feels like 15.69°C (60.24°F)!
 </p>
 <p align="center">
     The sun rise for me is at 07:10 and the sun set is at 20:05!
@@ -79,11 +79,11 @@
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1595173148/9720/dog_cute.gif?1595173148" width="30"> Dog </h2>
 
 <p align="center">
-    <img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;collie-border&#x2F;n02106166_2685.jpg" height="300px">
+    <img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;bouvier&#x2F;n02106382_7656.jpg" height="300px">
 </p>
 
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1500426137/2648/allo-tongue.gif?1500426137" width="30"> Joke </h2>
 
 <p align="center">
-    He who lives by the sword, dies by the sword. He who lives by Chuck Norris, dies by the roundhouse kick.
+    When Chuck Norris is in a crowded area, he doesn&#39;t walk around people. He walks through them.
 </p>
