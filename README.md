@@ -64,13 +64,13 @@
 <h2> <img src="http://openweathermap.org/img/w/01d.png" width="30"> Weather </h2>
 
 <p align="center">
-    The weather for me its a clear sky and the temperature is 21.21°C (70.18°F) but it actually feels like 20.51°C (68.92°F)!
+    The weather for me its a clear sky and the temperature is 21.12°C (70.02°F) but it actually feels like 20.44°C (68.79°F)!
 </p>
 <p align="center">
     The sun rise for me is at 07:10 and the sun set is at 20:05!
 </p>
 <p align="center">
-    The wind for me  is 1.34 meters/sec (3mph)!
+    The wind for me  is 1.79 meters/sec (4mph)!
 </p>
 <p align="center">
     The persaintage of the sky is filled with clouds for me is 0%!
@@ -79,11 +79,11 @@
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1595173148/9720/dog_cute.gif?1595173148" width="30"> Dog </h2>
 
 <p align="center">
-    <img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;saluki&#x2F;n02091831_6582.jpg" height="300px">
+    <img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;mastiff-tibetan&#x2F;n02108551_1664.jpg" height="300px">
 </p>
 
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1500426137/2648/allo-tongue.gif?1500426137" width="30"> Joke </h2>
 
 <p align="center">
-    Chuck Norris has never been in a fight, ever. Do you call one roundhouse kick to the face a fight?
+    I&#39;ve got a really good UDP joke to tell you, but i don&#39;t know if you&#39;ll get it
 </p>
