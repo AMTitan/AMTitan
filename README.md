@@ -61,29 +61,29 @@
     <img style="width:100%" src="https://github-readme-stats.vercel.app/api/wakatime?username=AMTitan&layout=compact&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" />
 </p>
 
-<h2> <img src="http://openweathermap.org/img/w/03n.png" width="30"> Weather </h2>
+<h2> <img src="http://openweathermap.org/img/w/04n.png" width="30"> Weather </h2>
 
 <p align="center">
-    The weather for me its a scattered clouds and the temperature is 14.21°C (57.58°F) but it actually feels like 14.17°C (57.51°F)!
+    The weather for me its a broken clouds and the temperature is 14.36°C (57.85°F) but it actually feels like 14.33°C (57.79°F)!
 </p>
 <p align="center">
     The sun rise for me is at 07:10 and the sun set is at 20:05!
 </p>
 <p align="center">
-    The wind for me  is 2.23 meters/sec (4.99mph)!
+    The wind for me  is 2.28 meters/sec (5.1mph)!
 </p>
 <p align="center">
-    The persaintage of the sky is filled with clouds for me is 48%!
+    The persaintage of the sky is filled with clouds for me is 67%!
 </p>
 
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1595173148/9720/dog_cute.gif?1595173148" width="30"> Dog </h2>
 
 <p align="center">
-    <img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;terrier-patterdale&#x2F;Patterdale.jpg" height="300px">
+    <img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;kelpie&#x2F;n02105412_5983.jpg" height="300px">
 </p>
 
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1500426137/2648/allo-tongue.gif?1500426137" width="30"> Joke </h2>
 
 <p align="center">
-    Chuck Norris can&#39;t finish a &#39;color by numbers&#39; because his markers are filled with the blood of his victims. Unfortunately, all blood is dark red.
+    Industrial logging isn&#39;t the cause of deforestation. Chuck Norris needs toothpicks.
 </p>
