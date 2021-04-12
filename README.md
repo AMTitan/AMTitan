@@ -64,7 +64,7 @@
 <h2> <img src="http://openweathermap.org/img/w/01d.png" width="30"> Weather </h2>
 
 <p align="center">
-    The weather for me its a clear sky and the temperature is 23.75°C (74.75°F) but it actually feels like 23.2°C (73.76°F)!
+    The weather for me its a clear sky and the temperature is 23.9°C (75.02°F) but it actually feels like 23.36°C (74.05°F)!
 </p>
 <p align="center">
     The sun rise for me is at 07:09 and the sun set is at 20:05!
@@ -79,11 +79,11 @@
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1595173148/9720/dog_cute.gif?1595173148" width="30"> Dog </h2>
 
 <p align="center">
-    <img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;greyhound-italian&#x2F;n02091032_658.jpg" height="300px">
+    <img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;redbone&#x2F;n02090379_1020.jpg" height="300px">
 </p>
 
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1500426137/2648/allo-tongue.gif?1500426137" width="30"> Joke </h2>
 
 <p align="center">
-    Chuck Norris has never been in a fight, ever. Do you call one roundhouse kick to the face a fight?
+    When in a bar, you can order a drink called a &#39;Chuck Norris&#39;. It is also known as a &#39;Bloody Mary&#39;, if your name happens to be Mary.
 </p>
