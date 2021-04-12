@@ -64,7 +64,7 @@
 <h2> <img src="http://openweathermap.org/img/w/01d.png" width="30"> Weather </h2>
 
 <p align="center">
-    The weather for me its a clear sky and the temperature is 20.12°C (68.22°F) but it actually feels like 19.28°C (66.7°F)!
+    The weather for me its a clear sky and the temperature is 19.75°C (67.55°F) but it actually feels like 18.88°C (65.98°F)!
 </p>
 <p align="center">
     The sun rise for me is at 07:10 and the sun set is at 20:05!
@@ -79,11 +79,11 @@
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1595173148/9720/dog_cute.gif?1595173148" width="30"> Dog </h2>
 
 <p align="center">
-    <img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;terrier-tibetan&#x2F;n02097474_410.jpg" height="300px">
+    <img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;retriever-flatcoated&#x2F;n02099267_3441.jpg" height="300px">
 </p>
 
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1500426137/2648/allo-tongue.gif?1500426137" width="30"> Joke </h2>
 
 <p align="center">
-    Chuck Norris once ate a whole cake before his friends could tell him there was a stripper in it.
+    Chuck Norris&#39; house has no doors, only walls that he walks through.
 </p>
