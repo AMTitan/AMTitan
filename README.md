@@ -64,13 +64,13 @@
 <h2> <img src="http://openweathermap.org/img/w/01d.png" width="30"> Weather </h2>
 
 <p align="center">
-    The weather for me its a clear sky and the temperature is 14.09°C (57.36°F) but it actually feels like 13.3°C (55.94°F)!
+    The weather for me its a clear sky and the temperature is 14.75°C (58.55°F) but it actually feels like 13.95°C (57.11°F)!
 </p>
 <p align="center">
     The sun rise for me is at 07:09 and the sun set is at 20:05!
 </p>
 <p align="center">
-    The wind for me  is 3.71 meters/sec (8.3mph)!
+    The wind for me  is 0.45 meters/sec (1.01mph)!
 </p>
 <p align="center">
     The persaintage of the sky is filled with clouds for me is 0%!
@@ -79,11 +79,11 @@
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1595173148/9720/dog_cute.gif?1595173148" width="30"> Dog </h2>
 
 <p align="center">
-    <img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;havanese&#x2F;00100trPORTRAIT_00100_BURST20191222103956878_COVER.jpg" height="300px">
+    <img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;ovcharka-caucasian&#x2F;IMG_20191125_161809.jpg" height="300px">
 </p>
 
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1500426137/2648/allo-tongue.gif?1500426137" width="30"> Joke </h2>
 
 <p align="center">
-    Chuck Norris has a deep and abiding respect for human life... unless it gets in his way.
+    Chuck Norris smells what the Rock is cooking... because the Rock is Chuck Norris&#39; personal chef.
 </p>
