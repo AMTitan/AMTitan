@@ -85,5 +85,5 @@
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1500426137/2648/allo-tongue.gif?1500426137" width="30"> Joke </h2>
 
 <p align="center">
-    Chuck Norris is not hung like a horse. Horses are hung like Chuck Norris.
+    Java programmers are some of the most materialistic people I know, very object-oriented
 </p>
