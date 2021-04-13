@@ -64,13 +64,13 @@
 <h2> <img src="http://openweathermap.org/img/w/04d.png" width="30"> Weather </h2>
 
 <p align="center">
-    The weather for me its a broken clouds and the temperature is 28.09°C (82.56°F) but it actually feels like 27.31°C (81.16°F)!
+    The weather for me its a broken clouds and the temperature is 28.14°C (82.65°F) but it actually feels like 27.35°C (81.23°F)!
 </p>
 <p align="center">
     The sun rise for me is at 07:08 and the sun set is at 20:06!
 </p>
 <p align="center">
-    The wind for me  is 0.89 meters/sec (1.99mph)!
+    The wind for me  is 1.34 meters/sec (3mph)!
 </p>
 <p align="center">
     The persaintage of the sky is filled with clouds for me is 73%!
@@ -79,11 +79,11 @@
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1595173148/9720/dog_cute.gif?1595173148" width="30"> Dog </h2>
 
 <p align="center">
-    <img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;setter-english&#x2F;n02100735_7863.jpg" height="300px">
+    <img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;cairn&#x2F;n02096177_6751.jpg" height="300px">
 </p>
 
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1500426137/2648/allo-tongue.gif?1500426137" width="30"> Joke </h2>
 
 <p align="center">
-    3 Database SQL walked into a NoSQL bar. A little while later they walked out, because they couldn&#39;t find a table.
+    An anagram for Walker Texas Ranger is KARATE WRANGLER SEX. I don&#39;t know what that is, but it sounds AWESOME.
 </p>
