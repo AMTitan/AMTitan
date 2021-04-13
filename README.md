@@ -64,13 +64,13 @@
 <h2> <img src="http://openweathermap.org/img/w/03n.png" width="30"> Weather </h2>
 
 <p align="center">
-    The weather for me its a scattered clouds and the temperature is 13.4°C (56.12°F) but it actually feels like 12.65°C (54.77°F)!
+    The weather for me its a scattered clouds and the temperature is 13.27°C (55.89°F) but it actually feels like 12.56°C (54.61°F)!
 </p>
 <p align="center">
     The sun rise for me is at 07:08 and the sun set is at 20:06!
 </p>
 <p align="center">
-    The wind for me  is 1.65 meters/sec (3.69mph)!
+    The wind for me  is 1.62 meters/sec (3.62mph)!
 </p>
 <p align="center">
     The persaintage of the sky is filled with clouds for me is 40%!
@@ -79,11 +79,11 @@
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1595173148/9720/dog_cute.gif?1595173148" width="30"> Dog </h2>
 
 <p align="center">
-    <img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;spaniel-brittany&#x2F;n02101388_6494.jpg" height="300px">
+    <img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;mastiff-tibetan&#x2F;n02108551_4341.jpg" height="300px">
 </p>
 
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1500426137/2648/allo-tongue.gif?1500426137" width="30"> Joke </h2>
 
 <p align="center">
-    Chuck Norris got his drivers license at the age of 16. Seconds.
+    Chuck Norris is not hung like a horse. Horses are hung like Chuck Norris.
 </p>
