@@ -64,7 +64,7 @@
 <h2> <img src="http://openweathermap.org/img/w/04n.png" width="30"> Weather </h2>
 
 <p align="center">
-    The weather for me its a overcast clouds and the temperature is 21.94°C (71.49°F) but it actually feels like 21.23°C (70.21°F)!
+    The weather for me its a overcast clouds and the temperature is 21.77°C (71.19°F) but it actually feels like 21.05°C (69.89°F)!
 </p>
 <p align="center">
     The sun rise for me is at 07:09 and the sun set is at 20:05!
@@ -79,11 +79,11 @@
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1595173148/9720/dog_cute.gif?1595173148" width="30"> Dog </h2>
 
 <p align="center">
-    <img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;mastiff-bull&#x2F;n02108422_4637.jpg" height="300px">
+    <img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;schipperke&#x2F;n02104365_6601.jpg" height="300px">
 </p>
 
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1500426137/2648/allo-tongue.gif?1500426137" width="30"> Joke </h2>
 
 <p align="center">
-    Chuck Norris doesnt shave; he kicks himself in the face. The only thing that can cut Chuck Norris is Chuck Norris.
+    Chuck Norris originally wrote the first dictionary. The definition for each word is as follows - A swift roundhouse kick to the face.
 </p>
