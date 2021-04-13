@@ -64,7 +64,7 @@
 <h2> <img src="http://openweathermap.org/img/w/04d.png" width="30"> Weather </h2>
 
 <p align="center">
-    The weather for me its a broken clouds and the temperature is 25.62°C (78.12°F) but it actually feels like 25.23°C (77.41°F)!
+    The weather for me its a broken clouds and the temperature is 25.85°C (78.53°F) but it actually feels like 25.46°C (77.83°F)!
 </p>
 <p align="center">
     The sun rise for me is at 07:08 and the sun set is at 20:06!
@@ -79,11 +79,11 @@
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1595173148/9720/dog_cute.gif?1595173148" width="30"> Dog </h2>
 
 <p align="center">
-    <img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;elkhound-norwegian&#x2F;n02091467_3380.jpg" height="300px">
+    <img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;kuvasz&#x2F;n02104029_852.jpg" height="300px">
 </p>
 
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1500426137/2648/allo-tongue.gif?1500426137" width="30"> Joke </h2>
 
 <p align="center">
-    For undercover police work, Chuck Norris pins his badge underneath his shirt, directly into his chest.
+    Chuck Norris doesnt wear a watch, HE decides what time it is.
 </p>
