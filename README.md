@@ -64,26 +64,26 @@
 <h2> <img src="http://openweathermap.org/img/w/04n.png" width="30"> Weather </h2>
 
 <p align="center">
-    The weather for me its a broken clouds and the temperature is 12.96°C (55.33°F) but it actually feels like 12.5°C (54.5°F)!
+    The weather for me its a broken clouds and the temperature is 12.79°C (55.02°F) but it actually feels like 12.29°C (54.12°F)!
 </p>
 <p align="center">
     The sun rise for me is at 07:08 and the sun set is at 20:06!
 </p>
 <p align="center">
-    The wind for me  is 1.63 meters/sec (3.65mph)!
+    The wind for me  is 1.6 meters/sec (3.58mph)!
 </p>
 <p align="center">
-    The persaintage of the sky is filled with clouds for me is 68%!
+    The persaintage of the sky is filled with clouds for me is 75%!
 </p>
 
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1595173148/9720/dog_cute.gif?1595173148" width="30"> Dog </h2>
 
 <p align="center">
-    <img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;terrier-border&#x2F;n02093754_3113.jpg" height="300px">
+    <img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;retriever-flatcoated&#x2F;n02099267_838.jpg" height="300px">
 </p>
 
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1500426137/2648/allo-tongue.gif?1500426137" width="30"> Joke </h2>
 
 <p align="center">
-    The Drummer for Def Leppard&#39;s only got one arm. Chuck Norris needed a back scratcher.
+    Chuck Norris does not &#39;style&#39; his hair. It lays perfectly in place out of sheer terror.
 </p>
