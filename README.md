@@ -64,7 +64,7 @@
 <h2> <img src="http://openweathermap.org/img/w/04n.png" width="30"> Weather </h2>
 
 <p align="center">
-    The weather for me its a broken clouds and the temperature is 17.61°C (63.7°F) but it actually feels like 16.89°C (62.4°F)!
+    The weather for me its a broken clouds and the temperature is 17.6°C (63.68°F) but it actually feels like 16.88°C (62.38°F)!
 </p>
 <p align="center">
     The sun rise for me is at 07:09 and the sun set is at 20:05!
@@ -79,11 +79,11 @@
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1595173148/9720/dog_cute.gif?1595173148" width="30"> Dog </h2>
 
 <p align="center">
-    <img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;wolfhound-irish&#x2F;n02090721_1349.jpg" height="300px">
+    <img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;pug&#x2F;n02110958_16433.jpg" height="300px">
 </p>
 
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1500426137/2648/allo-tongue.gif?1500426137" width="30"> Joke </h2>
 
 <p align="center">
-    Police label anyone attacking Chuck Norris as a Code 45-11.... A suicide.
+    Maslow&#39;s theory of higher needs does not apply to Chuck Norris. He only has two needs: killing people and finding people to kill.
 </p>
