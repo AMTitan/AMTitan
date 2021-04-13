@@ -79,11 +79,11 @@
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1595173148/9720/dog_cute.gif?1595173148" width="30"> Dog </h2>
 
 <p align="center">
-    <img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;beagle&#x2F;n02088364_16695.jpg" height="300px">
+    <img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;ridgeback-rhodesian&#x2F;n02087394_8152.jpg" height="300px">
 </p>
 
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1500426137/2648/allo-tongue.gif?1500426137" width="30"> Joke </h2>
 
 <p align="center">
-    The crossing lights in Chuck Norris&#39;s home town say &#39;Die slowly&#39; and &#39;die quickly&#39;. They each have a picture of Chuck Norris punching or kicking a pedestrian.
+    The opening scene of the movie &#39;Saving Private Ryan&#39; is loosely based on games of dodgeball Chuck Norris played in second grade.
 </p>
