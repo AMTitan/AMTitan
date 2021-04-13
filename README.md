@@ -64,7 +64,7 @@
 <h2> <img src="http://openweathermap.org/img/w/01n.png" width="30"> Weather </h2>
 
 <p align="center">
-    The weather for me its a clear sky and the temperature is 23.9°C (75.02°F) but it actually feels like 23.21°C (73.78°F)!
+    The weather for me its a clear sky and the temperature is 24.02°C (75.24°F) but it actually feels like 23.34°C (74.01°F)!
 </p>
 <p align="center">
     The sun rise for me is at 07:09 and the sun set is at 20:05!
@@ -73,17 +73,17 @@
     The wind for me  is 0.89 meters/sec (1.99mph)!
 </p>
 <p align="center">
-    The persaintage of the sky is filled with clouds for me is 3%!
+    The persaintage of the sky is filled with clouds for me is 4%!
 </p>
 
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1595173148/9720/dog_cute.gif?1595173148" width="30"> Dog </h2>
 
 <p align="center">
-    <img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;bulldog-boston&#x2F;n02096585_1586.jpg" height="300px">
+    <img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;brabancon&#x2F;n02112706_1251.jpg" height="300px">
 </p>
 
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1500426137/2648/allo-tongue.gif?1500426137" width="30"> Joke </h2>
 
 <p align="center">
-    The air around Chuck Norris is always a balmy 78 degrees.
+    Chuck Norris is responsible for China&#39;s over-population. He hosted a Karate tournament in Beijing and all women within 1,000 miles became pregnant instantly.
 </p>
