@@ -64,7 +64,7 @@
 <h2> <img src="http://openweathermap.org/img/w/01n.png" width="30"> Weather </h2>
 
 <p align="center">
-    The weather for me its a clear sky and the temperature is 14.65°C (58.37°F) but it actually feels like 14.16°C (57.49°F)!
+    The weather for me its a clear sky and the temperature is 14.51°C (58.12°F) but it actually feels like 14°C (57.2°F)!
 </p>
 <p align="center">
     The sun rise for me is at 07:06 and the sun set is at 20:07!
@@ -79,11 +79,11 @@
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1595173148/9720/dog_cute.gif?1595173148" width="30"> Dog </h2>
 
 <p align="center">
-    <img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;otterhound&#x2F;n02091635_1367.jpg" height="300px">
+    <img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;terrier-toy&#x2F;n02087046_267.jpg" height="300px">
 </p>
 
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1500426137/2648/allo-tongue.gif?1500426137" width="30"> Joke </h2>
 
 <p align="center">
-    Chuck Norris doesn&#39;t have disk latency because the hard drive knows to hurry the hell up.
+    If Ruby is not and Perl is the answer then you don’t understand the question.
 </p>
