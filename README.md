@@ -64,13 +64,13 @@
 <h2> <img src="http://openweathermap.org/img/w/04d.png" width="30"> Weather </h2>
 
 <p align="center">
-    The weather for me its a overcast clouds and the temperature is 14.06°C (57.31°F) but it actually feels like 13.98°C (57.16°F)!
+    The weather for me its a overcast clouds and the temperature is 14.19°C (57.54°F) but it actually feels like 14.12°C (57.42°F)!
 </p>
 <p align="center">
     The sun rise for me is at 07:05 and the sun set is at 20:08!
 </p>
 <p align="center">
-    The wind for me  is 0.45 meters/sec (1.01mph)!
+    The wind for me  is 3.1 meters/sec (6.93mph)!
 </p>
 <p align="center">
     The persaintage of the sky is filled with clouds for me is 99%!
@@ -79,11 +79,11 @@
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1595173148/9720/dog_cute.gif?1595173148" width="30"> Dog </h2>
 
 <p align="center">
-    <img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;spaniel-blenheim&#x2F;n02086646_2355.jpg" height="300px">
+    <img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;ovcharka-caucasian&#x2F;IMG_20190628_144843.jpg" height="300px">
 </p>
 
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1500426137/2648/allo-tongue.gif?1500426137" width="30"> Joke </h2>
 
 <p align="center">
-    Chuck Norris&#39; testicles do not produce sperm. They produce tiny white ninjas that recognize only one mission: seek and destroy.
+    Industrial logging isn&#39;t the cause of deforestation. Chuck Norris needs toothpicks.
 </p>
