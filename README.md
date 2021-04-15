@@ -64,7 +64,7 @@
 <h2> <img src="http://openweathermap.org/img/w/04d.png" width="30"> Weather </h2>
 
 <p align="center">
-    The weather for me its a broken clouds and the temperature is 18.04°C (64.47°F) but it actually feels like 17.13°C (62.83°F)!
+    The weather for me its a broken clouds and the temperature is 18.32°C (64.98°F) but it actually feels like 17.46°C (63.43°F)!
 </p>
 <p align="center">
     The sun rise for me is at 07:05 and the sun set is at 20:08!
@@ -79,11 +79,11 @@
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1595173148/9720/dog_cute.gif?1595173148" width="30"> Dog </h2>
 
 <p align="center">
-    <img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;terrier-silky&#x2F;n02097658_2329.jpg" height="300px">
+    <img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;sheepdog-english&#x2F;n02105641_2918.jpg" height="300px">
 </p>
 
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1500426137/2648/allo-tongue.gif?1500426137" width="30"> Joke </h2>
 
 <p align="center">
-    Crime does not pay - unless you are an undertaker following Walker, Texas Ranger, on a routine patrol.
+    Chuck Norris won super bowls VII and VIII singlehandedly before unexpectedly retiring to pursue a career in ass-kicking.
 </p>
