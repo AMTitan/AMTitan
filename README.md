@@ -64,7 +64,7 @@
 <h2> <img src="http://openweathermap.org/img/w/04d.png" width="30"> Weather </h2>
 
 <p align="center">
-    The weather for me its a overcast clouds and the temperature is 12.95°C (55.31°F) but it actually feels like 11.84°C (53.31°F)!
+    The weather for me its a overcast clouds and the temperature is 13.05°C (55.49°F) but it actually feels like 11.95°C (53.51°F)!
 </p>
 <p align="center">
     The sun rise for me is at 07:04 and the sun set is at 20:09!
@@ -79,11 +79,11 @@
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1595173148/9720/dog_cute.gif?1595173148" width="30"> Dog </h2>
 
 <p align="center">
-    <img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;hound-blood&#x2F;n02088466_10773.jpg" height="300px">
+    <img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;pug&#x2F;n02110958_1108.jpg" height="300px">
 </p>
 
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1500426137/2648/allo-tongue.gif?1500426137" width="30"> Joke </h2>
 
 <p align="center">
-    Chuck Norris once shat blood - the blood of 11,940 natives he had killed and eaten.
+    TNT was originally developed by Chuck Norris to cure indigestion.
 </p>
