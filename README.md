@@ -64,26 +64,26 @@
 <h2> <img src="http://openweathermap.org/img/w/04n.png" width="30"> Weather </h2>
 
 <p align="center">
-    The weather for me its a overcast clouds and the temperature is 10.7°C (51.26°F) but it actually feels like 9.37°C (48.87°F)!
+    The weather for me its a overcast clouds and the temperature is 10.64°C (51.15°F) but it actually feels like 9.3°C (48.74°F)!
 </p>
 <p align="center">
     The sun rise for me is at 07:04 and the sun set is at 20:09!
 </p>
 <p align="center">
-    The wind for me  is 2.78 meters/sec (6.22mph)!
+    The wind for me  is 2.59 meters/sec (5.79mph)!
 </p>
 <p align="center">
-    The persaintage of the sky is filled with clouds for me is 94%!
+    The persaintage of the sky is filled with clouds for me is 95%!
 </p>
 
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1595173148/9720/dog_cute.gif?1595173148" width="30"> Dog </h2>
 
 <p align="center">
-    <img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;coonhound&#x2F;n02089078_465.jpg" height="300px">
+    <img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;poodle-toy&#x2F;n02113624_2427.jpg" height="300px">
 </p>
 
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1500426137/2648/allo-tongue.gif?1500426137" width="30"> Joke </h2>
 
 <p align="center">
-    The phrase &#39;break a leg&#39; was originally coined by Chuck Norris&#39;s co-stars in Walker, Texas Ranger as a good luck charm, indicating that a broken leg might be the worst extent of their injuries. This never proved to be the case.
+    Chuck Norris describes human beings as &#39;a sociable holder for blood and guts&#39;.
 </p>
