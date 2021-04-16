@@ -64,7 +64,7 @@
 <h2> <img src="http://openweathermap.org/img/w/04n.png" width="30"> Weather </h2>
 
 <p align="center">
-    The weather for me its a overcast clouds and the temperature is 8.85°C (47.93°F) but it actually feels like 7.53°C (45.55°F)!
+    The weather for me its a overcast clouds and the temperature is 8.8°C (47.84°F) but it actually feels like 7.47°C (45.45°F)!
 </p>
 <p align="center">
     The sun rise for me is at 07:04 and the sun set is at 20:09!
@@ -79,11 +79,11 @@
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1595173148/9720/dog_cute.gif?1595173148" width="30"> Dog </h2>
 
 <p align="center">
-    <img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;pug&#x2F;n02110958_326.jpg" height="300px">
+    <img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;terrier-scottish&#x2F;n02097298_7835.jpg" height="300px">
 </p>
 
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1500426137/2648/allo-tongue.gif?1500426137" width="30"> Joke </h2>
 
 <p align="center">
-    As an infant, Chuck Norris&#39; parents gave him a toy hammer. He gave the world Stonehenge.
+    Chuck Norris doesn&#39;t daydream. He&#39;s too busy giving other people nightmares.
 </p>
