@@ -64,7 +64,7 @@
 <h2> <img src="http://openweathermap.org/img/w/04d.png" width="30"> Weather </h2>
 
 <p align="center">
-    The weather for me its a broken clouds and the temperature is 17.22°C (63°F) but it actually feels like 15.75°C (60.35°F)!
+    The weather for me its a broken clouds and the temperature is 16.77°C (62.19°F) but it actually feels like 15.26°C (59.47°F)!
 </p>
 <p align="center">
     The sun rise for me is at 07:03 and the sun set is at 20:09!
@@ -79,11 +79,11 @@
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1595173148/9720/dog_cute.gif?1595173148" width="30"> Dog </h2>
 
 <p align="center">
-    <img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;dingo&#x2F;n02115641_2701.jpg" height="300px">
+    <img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;keeshond&#x2F;n02112350_9680.jpg" height="300px">
 </p>
 
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1500426137/2648/allo-tongue.gif?1500426137" width="30"> Joke </h2>
 
 <p align="center">
-    The Drummer for Def Leppard&#39;s only got one arm. Chuck Norris needed a back scratcher.
+    In the Words of Julius Caesar, &#39;Veni, Vidi, Vici, Chuck Norris&#39;. Translation: I came, I saw, and I was roundhouse-kicked inthe face by Chuck Norris.
 </p>
