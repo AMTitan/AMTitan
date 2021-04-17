@@ -64,13 +64,13 @@
 <h2> <img src="http://openweathermap.org/img/w/04d.png" width="30"> Weather </h2>
 
 <p align="center">
-    The weather for me its a overcast clouds and the temperature is 16.95°C (62.51°F) but it actually feels like 15.82°C (60.48°F)!
+    The weather for me its a overcast clouds and the temperature is 17.08°C (62.74°F) but it actually feels like 15.94°C (60.69°F)!
 </p>
 <p align="center">
     The sun rise for me is at 07:04 and the sun set is at 20:09!
 </p>
 <p align="center">
-    The wind for me  is 2.98 meters/sec (6.67mph)!
+    The wind for me  is 0.45 meters/sec (1.01mph)!
 </p>
 <p align="center">
     The persaintage of the sky is filled with clouds for me is 100%!
@@ -79,11 +79,11 @@
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1595173148/9720/dog_cute.gif?1595173148" width="30"> Dog </h2>
 
 <p align="center">
-    <img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;husky&#x2F;n02110185_6473.jpg" height="300px">
+    <img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;shihtzu&#x2F;n02086240_7728.jpg" height="300px">
 </p>
 
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1500426137/2648/allo-tongue.gif?1500426137" width="30"> Joke </h2>
 
 <p align="center">
-    How do you tell an introverted computer scientist from an extroverted computer scientist? The extrovert looks at *your* shoes when he talks to you.
+    That&#39;s not Chuck Norris doing push-ups -- that&#39;s Chuck Norris moving the Earth away from the path of a deadly asteroid.
 </p>
