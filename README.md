@@ -67,7 +67,7 @@
     The weather for me its a overcast clouds and the temperature is 12.98°C (55.36°F) but it actually feels like 11.85°C (53.33°F)!
 </p>
 <p align="center">
-    The sun rise for me is at 07:04 and the sun set is at 20:09!
+    The sun rise for me is at 07:03 and the sun set is at 20:09!
 </p>
 <p align="center">
     The wind for me  is 0.81 meters/sec (1.81mph)!
@@ -79,11 +79,11 @@
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1595173148/9720/dog_cute.gif?1595173148" width="30"> Dog </h2>
 
 <p align="center">
-    <img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;vizsla&#x2F;n02100583_11785.jpg" height="300px">
+    <img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;ovcharka-caucasian&#x2F;IMG_20190811_105232.jpg" height="300px">
 </p>
 
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1500426137/2648/allo-tongue.gif?1500426137" width="30"> Joke </h2>
 
 <p align="center">
-    With the rising cost of gasoline, Chuck Norris is beginning to worry about his drinking habit.
+    It is scientifically impossible for Chuck Norris to have had a mortal father. The most popular theory is that he went back in time and fathered himself.
 </p>
