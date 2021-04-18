@@ -64,26 +64,26 @@
 <h2> <img src="http://openweathermap.org/img/w/01d.png" width="30"> Weather </h2>
 
 <p align="center">
-    The weather for me its a clear sky and the temperature is 9.3°C (48.74°F) but it actually feels like 8.6°C (47.48°F)!
+    The weather for me its a clear sky and the temperature is 11.11°C (52°F) but it actually feels like 10.1°C (50.18°F)!
 </p>
 <p align="center">
     The sun rise for me is at 07:01 and the sun set is at 20:10!
 </p>
 <p align="center">
-    The wind for me  is 1.75 meters/sec (3.91mph)!
+    The wind for me  is 0.45 meters/sec (1.01mph)!
 </p>
 <p align="center">
-    The persaintage of the sky is filled with clouds for me is 1%!
+    The persaintage of the sky is filled with clouds for me is 5%!
 </p>
 
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1595173148/9720/dog_cute.gif?1595173148" width="30"> Dog </h2>
 
 <p align="center">
-    <img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;cockapoo&#x2F;bubbles2.jpg" height="300px">
+    <img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;hound-plott&#x2F;hhh-23456.jpeg" height="300px">
 </p>
 
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1500426137/2648/allo-tongue.gif?1500426137" width="30"> Joke </h2>
 
 <p align="center">
-    When Chuck Norris plays Monopoly, it affects the actual world economy.
+    Chuck Norris does not own a house. He walks into random houses and people move.
 </p>
