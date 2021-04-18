@@ -64,7 +64,7 @@
 <h2> <img src="http://openweathermap.org/img/w/02d.png" width="30"> Weather </h2>
 
 <p align="center">
-    The weather for me its a few clouds and the temperature is 19.62°C (67.32°F) but it actually feels like 18.73°C (65.71°F)!
+    The weather for me its a few clouds and the temperature is 19.57°C (67.23°F) but it actually feels like 18.68°C (65.62°F)!
 </p>
 <p align="center">
     The sun rise for me is at 07:01 and the sun set is at 20:10!
@@ -79,11 +79,11 @@
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1595173148/9720/dog_cute.gif?1595173148" width="30"> Dog </h2>
 
 <p align="center">
-    <img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;terrier-dandie&#x2F;n02096437_3985.jpg" height="300px">
+    <img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;cotondetulear&#x2F;100_2013.jpg" height="300px">
 </p>
 
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1500426137/2648/allo-tongue.gif?1500426137" width="30"> Joke </h2>
 
 <p align="center">
-    In a recent survey it was discovered the 94% of American women lost their virginity to Chuck Norris. The other 6% were incredibly fat or ugly.
+    The class object inherits from Chuck Norris
 </p>
