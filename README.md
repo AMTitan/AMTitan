@@ -64,7 +64,7 @@
 <h2> <img src="http://openweathermap.org/img/w/01d.png" width="30"> Weather </h2>
 
 <p align="center">
-    The weather for me its a clear sky and the temperature is 14.66°C (58.39°F) but it actually feels like 13.88°C (56.98°F)!
+    The weather for me its a clear sky and the temperature is 14.98°C (58.96°F) but it actually feels like 14.18°C (57.52°F)!
 </p>
 <p align="center">
     The sun rise for me is at 07:00 and the sun set is at 20:11!
@@ -79,11 +79,11 @@
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1595173148/9720/dog_cute.gif?1595173148" width="30"> Dog </h2>
 
 <p align="center">
-    <img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;frise-bichon&#x2F;jh-ezio-2.jpg" height="300px">
+    <img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;waterdog-spanish&#x2F;20181023_072736.jpg" height="300px">
 </p>
 
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1500426137/2648/allo-tongue.gif?1500426137" width="30"> Joke </h2>
 
 <p align="center">
-    It is said that looking into Chuck Norris&#39; eyes will reveal your future. Unfortunately, everybody&#39;s future is always the same: death by a roundhouse-kick to the face.
+    Scientifically speaking, it is impossible to charge Chuck Norris with &#39;obstruction of justice.&#39; This is because even Chuck Norris cannot be in two places at the same time.
 </p>
