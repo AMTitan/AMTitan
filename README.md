@@ -64,26 +64,26 @@
 <h2> <img src="http://openweathermap.org/img/w/04n.png" width="30"> Weather </h2>
 
 <p align="center">
-    The weather for me its a overcast clouds and the temperature is 15.05°C (59.09°F) but it actually feels like 14.26°C (57.67°F)!
+    The weather for me its a broken clouds and the temperature is 14.91°C (58.84°F) but it actually feels like 14.1°C (57.38°F)!
 </p>
 <p align="center">
     The sun rise for me is at 07:01 and the sun set is at 20:10!
 </p>
 <p align="center">
-    The wind for me  is 4.38 meters/sec (9.8mph)!
+    The wind for me  is 3.79 meters/sec (8.48mph)!
 </p>
 <p align="center">
-    The persaintage of the sky is filled with clouds for me is 96%!
+    The persaintage of the sky is filled with clouds for me is 51%!
 </p>
 
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1595173148/9720/dog_cute.gif?1595173148" width="30"> Dog </h2>
 
 <p align="center">
-    <img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;labrador&#x2F;n02099712_6232.jpg" height="300px">
+    <img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;elkhound-norwegian&#x2F;n02091467_5003.jpg" height="300px">
 </p>
 
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1500426137/2648/allo-tongue.gif?1500426137" width="30"> Joke </h2>
 
 <p align="center">
-    Chuck Norris doesn&#39;t bug hunt as that signifies a probability of failure, he goes bug killing.
+    There is endless debate about the existence of the human soul. Well it does exist and Chuck Norris finds it delicious.
 </p>
