@@ -64,7 +64,7 @@
 <h2> <img src="http://openweathermap.org/img/w/04n.png" width="30"> Weather </h2>
 
 <p align="center">
-    The weather for me its a broken clouds and the temperature is 10.94°C (51.69°F) but it actually feels like 10.15°C (50.27°F)!
+    The weather for me its a broken clouds and the temperature is 11.05°C (51.89°F) but it actually feels like 10.27°C (50.49°F)!
 </p>
 <p align="center">
     The sun rise for me is at 06:59 and the sun set is at 20:12!
@@ -79,11 +79,11 @@
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1595173148/9720/dog_cute.gif?1595173148" width="30"> Dog </h2>
 
 <p align="center">
-    <img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;rottweiler&#x2F;n02106550_13213.jpg" height="300px">
+    <img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;frise-bichon&#x2F;7.jpg" height="300px">
 </p>
 
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1500426137/2648/allo-tongue.gif?1500426137" width="30"> Joke </h2>
 
 <p align="center">
-    A Chuck Norris-delivered Roundhouse Kick is the preferred method of execution in 16 states.
+    Scientists have estimated that the energy given off during the Big Bang is roughly equal to 1CNRhK (Chuck Norris Roundhouse Kick).
 </p>
