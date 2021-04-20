@@ -64,7 +64,7 @@
 <h2> <img src="http://openweathermap.org/img/w/03n.png" width="30"> Weather </h2>
 
 <p align="center">
-    The weather for me its a scattered clouds and the temperature is 12.13°C (53.83°F) but it actually feels like 11.25°C (52.25°F)!
+    The weather for me its a scattered clouds and the temperature is 12.11°C (53.8°F) but it actually feels like 11.23°C (52.21°F)!
 </p>
 <p align="center">
     The sun rise for me is at 07:00 and the sun set is at 20:11!
@@ -79,11 +79,11 @@
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1595173148/9720/dog_cute.gif?1595173148" width="30"> Dog </h2>
 
 <p align="center">
-    <img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;bulldog-french&#x2F;IMG_1657.jpg" height="300px">
+    <img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;pointer-germanlonghair&#x2F;hans4.jpg" height="300px">
 </p>
 
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1500426137/2648/allo-tongue.gif?1500426137" width="30"> Joke </h2>
 
 <p align="center">
-    Do you know why Baskin Robbins only has 31 flavors? Because Chuck Norris doesn&#39;t like Fudge Ripple.
+    Chuck Norris once went skydiving, but promised never to do it again. One Grand Canyon is enough.
 </p>
