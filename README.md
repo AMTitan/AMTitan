@@ -64,7 +64,7 @@
 <h2> <img src="http://openweathermap.org/img/w/03d.png" width="30"> Weather </h2>
 
 <p align="center">
-    The weather for me its a scattered clouds and the temperature is 21.4°C (70.52°F) but it actually feels like 20.67°C (69.21°F)!
+    The weather for me its a scattered clouds and the temperature is 21.42°C (70.56°F) but it actually feels like 20.69°C (69.24°F)!
 </p>
 <p align="center">
     The sun rise for me is at 06:59 and the sun set is at 20:12!
@@ -79,11 +79,11 @@
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1595173148/9720/dog_cute.gif?1595173148" width="30"> Dog </h2>
 
 <p align="center">
-    <img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;mastiff-tibetan&#x2F;n02108551_968.jpg" height="300px">
+    <img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;komondor&#x2F;n02105505_3723.jpg" height="300px">
 </p>
 
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1500426137/2648/allo-tongue.gif?1500426137" width="30"> Joke </h2>
 
 <p align="center">
-    In the movie &#39;The Matrix&#39;, Chuck Norris is the Matrix. If you pay close attention in the green &#39;falling code&#39; scenes, you can make out the faint texture of his beard.
+    A movie scene depicting Chuck Norris losing a fight with Bruce Lee was the product of history&#39;s most expensive visual effect. When adjusted for inflation, the effect cost more than the Gross National Product of Paraguay.
 </p>
