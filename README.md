@@ -64,7 +64,7 @@
 <h2> <img src="http://openweathermap.org/img/w/04n.png" width="30"> Weather </h2>
 
 <p align="center">
-    The weather for me its a broken clouds and the temperature is 13.86°C (56.95°F) but it actually feels like 13.44°C (56.19°F)!
+    The weather for me its a broken clouds and the temperature is 12.83°C (55.09°F) but it actually feels like 12.13°C (53.83°F)!
 </p>
 <p align="center">
     The sun rise for me is at 06:58 and the sun set is at 20:12!
@@ -79,11 +79,11 @@
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1595173148/9720/dog_cute.gif?1595173148" width="30"> Dog </h2>
 
 <p align="center">
-    <img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;borzoi&#x2F;n02090622_10619.jpg" height="300px">
+    <img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;poodle-toy&#x2F;n02113624_925.jpg" height="300px">
 </p>
 
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1500426137/2648/allo-tongue.gif?1500426137" width="30"> Joke </h2>
 
 <p align="center">
-    There is in fact an &#39;I&#39; in Norris, but there is no &#39;team&#39;. Not even close.
+    There are only 10 types of people in the world: those that understand binary and those that don’t.
 </p>
