@@ -61,29 +61,29 @@
     <img style="width:100%" src="https://github-readme-stats.vercel.app/api/wakatime?username=AMTitan&layout=compact&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" />
 </p>
 
-<h2> <img src="http://openweathermap.org/img/w/03d.png" width="30"> Weather </h2>
+<h2> <img src="http://openweathermap.org/img/w/03n.png" width="30"> Weather </h2>
 
 <p align="center">
-    The weather for me its a scattered clouds and the temperature is 20.08°C (68.14°F) but it actually feels like 19.34°C (66.81°F)!
+    The weather for me its a scattered clouds and the temperature is 20.02°C (68.04°F) but it actually feels like 19.28°C (66.7°F)!
 </p>
 <p align="center">
     The sun rise for me is at 06:59 and the sun set is at 20:12!
 </p>
 <p align="center">
-    The wind for me  is 2.74 meters/sec (6.13mph)!
+    The wind for me  is 2.67 meters/sec (5.97mph)!
 </p>
 <p align="center">
-    The persaintage of the sky is filled with clouds for me is 47%!
+    The persaintage of the sky is filled with clouds for me is 30%!
 </p>
 
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1595173148/9720/dog_cute.gif?1595173148" width="30"> Dog </h2>
 
 <p align="center">
-    <img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;terrier-russell&#x2F;little1.jpg" height="300px">
+    <img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;terrier-sealyham&#x2F;n02095889_5718.jpg" height="300px">
 </p>
 
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1500426137/2648/allo-tongue.gif?1500426137" width="30"> Joke </h2>
 
 <p align="center">
-    Jesus can walk on water, but Chuck Norris can walk on Jesus.
+    Computers are like air conditioners: they stop working when you open Windows.
 </p>
