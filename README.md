@@ -64,13 +64,13 @@
 <h2> <img src="http://openweathermap.org/img/w/01n.png" width="30"> Weather </h2>
 
 <p align="center">
-    The weather for me its a clear sky and the temperature is 11.04°C (51.87°F) but it actually feels like 9.98°C (49.96°F)!
+    The weather for me its a clear sky and the temperature is 10.87°C (51.57°F) but it actually feels like 9.79°C (49.62°F)!
 </p>
 <p align="center">
     The sun rise for me is at 06:58 and the sun set is at 20:12!
 </p>
 <p align="center">
-    The wind for me  is 3.11 meters/sec (6.96mph)!
+    The wind for me  is 4.31 meters/sec (9.64mph)!
 </p>
 <p align="center">
     The persaintage of the sky is filled with clouds for me is 1%!
@@ -79,11 +79,11 @@
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1595173148/9720/dog_cute.gif?1595173148" width="30"> Dog </h2>
 
 <p align="center">
-    <img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;terrier-sealyham&#x2F;n02095889_1019.jpg" height="300px">
+    <img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;sheepdog-english&#x2F;n02105641_9319.jpg" height="300px">
 </p>
 
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1500426137/2648/allo-tongue.gif?1500426137" width="30"> Joke </h2>
 
 <p align="center">
-    Chuck Norris puts his pants on one leg at a time, just like the rest of us. The only difference is, then he kills people.
+    Crop circles are Chuck Norris&#39; way of telling the world that sometimes corn needs to lie down.
 </p>
