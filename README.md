@@ -64,13 +64,13 @@
 <h2> <img src="http://openweathermap.org/img/w/03d.png" width="30"> Weather </h2>
 
 <p align="center">
-    The weather for me its a scattered clouds and the temperature is 16.02°C (60.84°F) but it actually feels like 14.57°C (58.23°F)!
+    The weather for me its a scattered clouds and the temperature is 15.79°C (60.42°F) but it actually feels like 14.26°C (57.67°F)!
 </p>
 <p align="center">
     The sun rise for me is at 06:57 and the sun set is at 20:13!
 </p>
 <p align="center">
-    The wind for me  is 0.89 meters/sec (1.99mph)!
+    The wind for me  is 1.34 meters/sec (3mph)!
 </p>
 <p align="center">
     The persaintage of the sky is filled with clouds for me is 47%!
@@ -79,11 +79,11 @@
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1595173148/9720/dog_cute.gif?1595173148" width="30"> Dog </h2>
 
 <p align="center">
-    <img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;malinois&#x2F;n02105162_5556.jpg" height="300px">
+    <img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;airedale&#x2F;n02096051_5048.jpg" height="300px">
 </p>
 
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1500426137/2648/allo-tongue.gif?1500426137" width="30"> Joke </h2>
 
 <p align="center">
-    Count from one to ten. That&#39;s how long it would take Chuck Norris to kill you...Fourty seven times.
+    A movie scene depicting Chuck Norris losing a fight with Bruce Lee was the product of history&#39;s most expensive visual effect. When adjusted for inflation, the effect cost more than the Gross National Product of Paraguay.
 </p>
