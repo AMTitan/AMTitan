@@ -64,7 +64,7 @@
 <h2> <img src="http://openweathermap.org/img/w/01d.png" width="30"> Weather </h2>
 
 <p align="center">
-    The weather for me its a clear sky and the temperature is -0.72°C (30.7°F) but it actually feels like -2.7°C (27.14°F)!
+    The weather for me its a clear sky and the temperature is -0.9°C (30.38°F) but it actually feels like -2.91°C (26.76°F)!
 </p>
 <p align="center">
     The sun rise for me is at 06:57 and the sun set is at 20:13!
@@ -79,11 +79,11 @@
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1595173148/9720/dog_cute.gif?1595173148" width="30"> Dog </h2>
 
 <p align="center">
-    <img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;terrier-kerryblue&#x2F;n02093859_781.jpg" height="300px">
+    <img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;doberman&#x2F;n02107142_9772.jpg" height="300px">
 </p>
 
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1500426137/2648/allo-tongue.gif?1500426137" width="30"> Joke </h2>
 
 <p align="center">
-    When Chuck Norris calls 1-900 numbers, he doesn&#39;t get charged. He holds up the phone and money falls out.
+    Chuck Norris doesn&#39;t need sudo, he just types &#39;Chuck Norris&#39; before his commands.
 </p>
