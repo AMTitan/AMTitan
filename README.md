@@ -79,11 +79,11 @@
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1595173148/9720/dog_cute.gif?1595173148" width="30"> Dog </h2>
 
 <p align="center">
-    <img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;buhund-norwegian&#x2F;hakon3.jpg" height="300px">
+    <img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;dingo&#x2F;n02115641_6974.jpg" height="300px">
 </p>
 
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1500426137/2648/allo-tongue.gif?1500426137" width="30"> Joke </h2>
 
 <p align="center">
-    Wilt Chamberlain claims to have slept with more than 20,000 women in his lifetime. Chuck Norris calls this &#39;a slow Tuesday.&#39;
+    Contrary to popular belief, there is indeed enough Chuck Norris to go around.
 </p>
