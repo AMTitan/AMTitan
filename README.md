@@ -64,26 +64,26 @@
 <h2> <img src="http://openweathermap.org/img/w/01n.png" width="30"> Weather </h2>
 
 <p align="center">
-    The weather for me its a clear sky and the temperature is -0.53°C (31.05°F) but it actually feels like -2.65°C (27.23°F)!
+    The weather for me its a clear sky and the temperature is -0.02°C (31.96°F) but it actually feels like -2.22°C (28°F)!
 </p>
 <p align="center">
     The sun rise for me is at 06:57 and the sun set is at 20:13!
 </p>
 <p align="center">
-    The wind for me  is 1.69 meters/sec (3.78mph)!
+    The wind for me  is 1.8 meters/sec (4.03mph)!
 </p>
 <p align="center">
-    The persaintage of the sky is filled with clouds for me is 2%!
+    The persaintage of the sky is filled with clouds for me is 3%!
 </p>
 
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1595173148/9720/dog_cute.gif?1595173148" width="30"> Dog </h2>
 
 <p align="center">
-    <img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;setter-gordon&#x2F;n02101006_8271.jpg" height="300px">
+    <img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;terrier-lakeland&#x2F;n02095570_1171.jpg" height="300px">
 </p>
 
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1500426137/2648/allo-tongue.gif?1500426137" width="30"> Joke </h2>
 
 <p align="center">
-    Some people like to eat frogs&#39; legs. Chuck Norris likes to eat lizard legs. Hence, snakes.
+    Chuck Norris eats beef jerky and craps gunpowder. Then, he uses that gunpowder to make a bullet, which he uses to kill a cow and make more beef jerky. Some people refer to this as the &#39;Circle of Life.&#39;
 </p>
