@@ -64,7 +64,7 @@
 <h2> <img src="http://openweathermap.org/img/w/04d.png" width="30"> Weather </h2>
 
 <p align="center">
-    The weather for me its a overcast clouds and the temperature is 7.8°C (46.04°F) but it actually feels like 7.8°C (46.04°F)!
+    The weather for me its a overcast clouds and the temperature is 8.27°C (46.89°F) but it actually feels like 8.27°C (46.89°F)!
 </p>
 <p align="center">
     The sun rise for me is at 06:56 and the sun set is at 20:14!
@@ -79,11 +79,11 @@
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1595173148/9720/dog_cute.gif?1595173148" width="30"> Dog </h2>
 
 <p align="center">
-    <img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;terrier-irish&#x2F;n02093991_4169.jpg" height="300px">
+    <img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;pomeranian&#x2F;n02112018_1556.jpg" height="300px">
 </p>
 
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1500426137/2648/allo-tongue.gif?1500426137" width="30"> Joke </h2>
 
 <p align="center">
-    How much wood would a woodchuck chuck if a woodchuck could Chuck Norris? All of it.
+    Project managers never ask Chuck Norris for estimations... ever.
 </p>
