@@ -64,7 +64,7 @@
 <h2> <img src="http://openweathermap.org/img/w/04d.png" width="30"> Weather </h2>
 
 <p align="center">
-    The weather for me its a overcast clouds and the temperature is 13.81°C (56.86°F) but it actually feels like 13.13°C (55.63°F)!
+    The weather for me its a overcast clouds and the temperature is 13.77°C (56.79°F) but it actually feels like 13.08°C (55.54°F)!
 </p>
 <p align="center">
     The sun rise for me is at 06:56 and the sun set is at 20:14!
@@ -79,11 +79,11 @@
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1595173148/9720/dog_cute.gif?1595173148" width="30"> Dog </h2>
 
 <p align="center">
-    <img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;akita&#x2F;512px-Ainu-Dog.jpg" height="300px">
+    <img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;pitbull&#x2F;IMG_20190826_121528_876.jpg" height="300px">
 </p>
 
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1500426137/2648/allo-tongue.gif?1500426137" width="30"> Joke </h2>
 
 <p align="center">
-    Only Chuck Norris can prevent forest fires.
+    Chuck Norris doesn&#39;t bug hunt as that signifies a probability of failure, he goes bug killing.
 </p>
