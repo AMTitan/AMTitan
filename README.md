@@ -64,26 +64,26 @@
 <h2> <img src="http://openweathermap.org/img/w/04d.png" width="30"> Weather </h2>
 
 <p align="center">
-    The weather for me its a broken clouds and the temperature is 4.59°C (40.26°F) but it actually feels like 3.05°C (37.49°F)!
+    The weather for me its a broken clouds and the temperature is 5.31°C (41.56°F) but it actually feels like 3.47°C (38.25°F)!
 </p>
 <p align="center">
     The sun rise for me is at 06:56 and the sun set is at 20:14!
 </p>
 <p align="center">
-    The wind for me  is 1.85 meters/sec (4.14mph)!
+    The wind for me  is 2.27 meters/sec (5.08mph)!
 </p>
 <p align="center">
-    The persaintage of the sky is filled with clouds for me is 68%!
+    The persaintage of the sky is filled with clouds for me is 74%!
 </p>
 
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1595173148/9720/dog_cute.gif?1595173148" width="30"> Dog </h2>
 
 <p align="center">
-    <img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;leonberg&#x2F;n02111129_4048.jpg" height="300px">
+    <img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;cattledog-australian&#x2F;IMG_1211.jpg" height="300px">
 </p>
 
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1500426137/2648/allo-tongue.gif?1500426137" width="30"> Joke </h2>
 
 <p align="center">
-    Chuck Norris is the only known mammal in history to have an opposable thumb. On his penis.
+    Chuck Norris doesn&#39;t say &#39;who&#39;s your daddy&#39;, because he knows the answer.
 </p>
