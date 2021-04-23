@@ -64,26 +64,26 @@
 <h2> <img src="http://openweathermap.org/img/w/03n.png" width="30"> Weather </h2>
 
 <p align="center">
-    The weather for me its a scattered clouds and the temperature is 3.56°C (38.41°F) but it actually feels like 3.56°C (38.41°F)!
+    The weather for me its a scattered clouds and the temperature is 3.19°C (37.74°F) but it actually feels like 3.19°C (37.74°F)!
 </p>
 <p align="center">
     The sun rise for me is at 06:56 and the sun set is at 20:14!
 </p>
 <p align="center">
-    The wind for me  is 1.25 meters/sec (2.8mph)!
+    The wind for me  is 1.01 meters/sec (2.26mph)!
 </p>
 <p align="center">
-    The persaintage of the sky is filled with clouds for me is 40%!
+    The persaintage of the sky is filled with clouds for me is 38%!
 </p>
 
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1595173148/9720/dog_cute.gif?1595173148" width="30"> Dog </h2>
 
 <p align="center">
-    <img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;groenendael&#x2F;n02105056_143.jpg" height="300px">
+    <img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;cairn&#x2F;n02096177_1123.jpg" height="300px">
 </p>
 
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1500426137/2648/allo-tongue.gif?1500426137" width="30"> Joke </h2>
 
 <p align="center">
-    With Chuck Norris P &#x3D; NP. There&#39;s no nondeterminism with Chuck Norris decisions.
+    Gotta love the people who wrote the algorithm for Ola share,They go out of their way to help others
 </p>
