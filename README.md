@@ -64,7 +64,7 @@
 <h2> <img src="http://openweathermap.org/img/w/04d.png" width="30"> Weather </h2>
 
 <p align="center">
-    The weather for me its a overcast clouds and the temperature is 14.52°C (58.14°F) but it actually feels like 14.59°C (58.26°F)!
+    The weather for me its a overcast clouds and the temperature is 14.63°C (58.33°F) but it actually feels like 14.71°C (58.48°F)!
 </p>
 <p align="center">
     The sun rise for me is at 06:54 and the sun set is at 20:15!
@@ -79,11 +79,11 @@
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1595173148/9720/dog_cute.gif?1595173148" width="30"> Dog </h2>
 
 <p align="center">
-    <img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;corgi-cardigan&#x2F;n02113186_694.jpg" height="300px">
+    <img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;greyhound-italian&#x2F;n02091032_9628.jpg" height="300px">
 </p>
 
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1500426137/2648/allo-tongue.gif?1500426137" width="30"> Joke </h2>
 
 <p align="center">
-    If the box says: &#39;This software requires Windows 7 or better&#39; Does that mean it&#39;ll run on Linux?
+    Chuck Norris can judge a book by its cover.
 </p>
