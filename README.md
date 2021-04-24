@@ -64,7 +64,7 @@
 <h2> <img src="http://openweathermap.org/img/w/10d.png" width="30"> Weather </h2>
 
 <p align="center">
-    The weather for me its a moderate rain and the temperature is 10.22°C (50.4°F) but it actually feels like 9.8°C (49.64°F)!
+    The weather for me its a moderate rain and the temperature is 10.25°C (50.45°F) but it actually feels like 9.84°C (49.71°F)!
 </p>
 <p align="center">
     The sun rise for me is at 06:54 and the sun set is at 20:15!
@@ -79,11 +79,11 @@
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1595173148/9720/dog_cute.gif?1595173148" width="30"> Dog </h2>
 
 <p align="center">
-    <img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;hound-afghan&#x2F;n02088094_2292.jpg" height="300px">
+    <img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;hound-plott&#x2F;hhh_plott002.JPG" height="300px">
 </p>
 
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1500426137/2648/allo-tongue.gif?1500426137" width="30"> Joke </h2>
 
 <p align="center">
-    Jesus can walk on water, but Chuck Norris can walk on Jesus.
+    No statement can catch the ChuckNorrisException.
 </p>
