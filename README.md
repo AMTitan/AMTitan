@@ -64,7 +64,7 @@
 <h2> <img src="http://openweathermap.org/img/w/04n.png" width="30"> Weather </h2>
 
 <p align="center">
-    The weather for me its a broken clouds and the temperature is 15.04°C (59.07°F) but it actually feels like 15.13°C (59.23°F)!
+    The weather for me its a overcast clouds and the temperature is 14.92°C (58.86°F) but it actually feels like 15°C (59°F)!
 </p>
 <p align="center">
     The sun rise for me is at 06:54 and the sun set is at 20:15!
@@ -73,17 +73,17 @@
     The wind for me  is 0.5 meters/sec (1.12mph)!
 </p>
 <p align="center">
-    The persaintage of the sky is filled with clouds for me is 83%!
+    The persaintage of the sky is filled with clouds for me is 86%!
 </p>
 
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1595173148/9720/dog_cute.gif?1595173148" width="30"> Dog </h2>
 
 <p align="center">
-    <img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;terrier-lakeland&#x2F;n02095570_3152.jpg" height="300px">
+    <img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;malinois&#x2F;n02105162_5954.jpg" height="300px">
 </p>
 
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1500426137/2648/allo-tongue.gif?1500426137" width="30"> Joke </h2>
 
 <p align="center">
-    In the Bible, Jesus turned water into wine. But then Chuck Norris turned that wine into beer.
+    One day Chuck Norris walked down the street with a massive erection. There were no survivors.
 </p>
