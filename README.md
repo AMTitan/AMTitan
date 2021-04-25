@@ -64,7 +64,7 @@
 <h2> <img src="http://openweathermap.org/img/w/02d.png" width="30"> Weather </h2>
 
 <p align="center">
-    The weather for me its a few clouds and the temperature is 13.9°C (57.02°F) but it actually feels like 13.49°C (56.28°F)!
+    The weather for me its a few clouds and the temperature is 13.97°C (57.15°F) but it actually feels like 13.56°C (56.41°F)!
 </p>
 <p align="center">
     The sun rise for me is at 06:53 and the sun set is at 20:16!
@@ -79,11 +79,11 @@
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1595173148/9720/dog_cute.gif?1595173148" width="30"> Dog </h2>
 
 <p align="center">
-    <img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;waterdog-spanish&#x2F;20180723_185544.jpg" height="300px">
+    <img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;dalmatian&#x2F;cooper2.jpg" height="300px">
 </p>
 
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1500426137/2648/allo-tongue.gif?1500426137" width="30"> Joke </h2>
 
 <p align="center">
-    Chuck Norris solved the Travelling Salesman problem in O(1) time. Here&#39;s the pseudo-code: Break salesman into N pieces. Kick each piece to a different city.
+    Chuck Norris once shot down a German fighter plane with his finger. By yelling &#39;Bang!&#39;
 </p>
