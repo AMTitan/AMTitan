@@ -1,4 +1,4 @@
-# <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> My name is Arthur Melton and I have ![Profile View Counter](https://komarev.com/ghpvc/?username=AMTitan) (Last updated on Sunday, 25 April, 11:06 GMT-4).
+# <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> My name is Arthur Melton and I have ![Profile View Counter](https://komarev.com/ghpvc/?username=AMTitan) (Last updated on Sunday, 25 April, 11:07 GMT-4).
 
 <h3> <img src="https://emojis.slackmojis.com/emojis/images/1581539211/7808/party-blob.gif?1581539211" width="30"/> About Me </h3>
 
@@ -64,7 +64,7 @@
 <h2> <img src="http://openweathermap.org/img/w/02d.png" width="30"> Weather </h2>
 
 <p align="center">
-    The weather for me its a few clouds and the temperature is 15.98°C (60.76°F) but it actually feels like 15.62°C (60.12°F)!
+    The weather for me its a few clouds and the temperature is 15.97°C (60.75°F) but it actually feels like 15.61°C (60.1°F)!
 </p>
 <p align="center">
     The sun rise for me is at 06:53 and the sun set is at 20:16!
@@ -79,11 +79,11 @@
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1595173148/9720/dog_cute.gif?1595173148" width="30"> Dog </h2>
 
 <p align="center">
-    <img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;cairn&#x2F;n02096177_99.jpg" height="300px">
+    <img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;havanese&#x2F;00100trPORTRAIT_00100_BURST20191222103956878_COVER.jpg" height="300px">
 </p>
 
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1500426137/2648/allo-tongue.gif?1500426137" width="30"> Joke </h2>
 
 <p align="center">
-    Chuck Norris doesn&#39;t chew gum. Chuck Norris chews tin foil.
+    Fact: Chuck Norris doesn&#39;t consider it sex if the woman survives.
 </p>
