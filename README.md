@@ -64,7 +64,7 @@
 <h2> <img src="http://openweathermap.org/img/w/03d.png" width="30"> Weather </h2>
 
 <p align="center">
-    The weather for me its a scattered clouds and the temperature is 11.95°C (53.51°F) but it actually feels like 11.63°C (52.93°F)!
+    The weather for me its a scattered clouds and the temperature is 11.87°C (53.37°F) but it actually feels like 11.54°C (52.77°F)!
 </p>
 <p align="center">
     The sun rise for me is at 06:53 and the sun set is at 20:16!
@@ -79,11 +79,11 @@
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1595173148/9720/dog_cute.gif?1595173148" width="30"> Dog </h2>
 
 <p align="center">
-    <img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;retriever-curly&#x2F;n02099429_244.jpg" height="300px">
+    <img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;papillon&#x2F;n02086910_5942.jpg" height="300px">
 </p>
 
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1500426137/2648/allo-tongue.gif?1500426137" width="30"> Joke </h2>
 
 <p align="center">
-    The phrase &#39;break a leg&#39; was originally coined by Chuck Norris&#39;s co-stars in Walker, Texas Ranger as a good luck charm, indicating that a broken leg might be the worst extent of their injuries. This never proved to be the case.
+    A high tide means Chuck Norris is flying over your coast. The tide is caused by God pissing his pants.
 </p>
