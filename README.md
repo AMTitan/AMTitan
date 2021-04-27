@@ -64,7 +64,7 @@
 <h2> <img src="http://openweathermap.org/img/w/04n.png" width="30"> Weather </h2>
 
 <p align="center">
-    The weather for me its a overcast clouds and the temperature is 16.68°C (62.02°F) but it actually feels like 16.41°C (61.54°F)!
+    The weather for me its a overcast clouds and the temperature is 16.69°C (62.04°F) but it actually feels like 16.43°C (61.57°F)!
 </p>
 <p align="center">
     The sun rise for me is at 06:52 and the sun set is at 20:16!
@@ -79,11 +79,11 @@
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1595173148/9720/dog_cute.gif?1595173148" width="30"> Dog </h2>
 
 <p align="center">
-    <img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;cattledog-australian&#x2F;IMG_1688.jpg" height="300px">
+    <img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;schnauzer-miniature&#x2F;n02097047_1394.jpg" height="300px">
 </p>
 
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1500426137/2648/allo-tongue.gif?1500426137" width="30"> Joke </h2>
 
 <p align="center">
-    Le gf: I&#39;ll dump you.Le bf: hex dump or binary dump? 
+    Penguins love cold... they wont survive the sun.
 </p>
