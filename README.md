@@ -70,20 +70,20 @@
     The sun rise for me is at 06:51 and the sun set is at 20:17!
 </p>
 <p align="center">
-    The wind for me  is 1.47 meters/sec (3.29mph)!
+    The wind for me  is 1.63 meters/sec (3.65mph)!
 </p>
 <p align="center">
-    The persaintage of the sky is filled with clouds for me is 95%!
+    The persaintage of the sky is filled with clouds for me is 99%!
 </p>
 
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1595173148/9720/dog_cute.gif?1595173148" width="30"> Dog </h2>
 
 <p align="center">
-    <img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;saluki&#x2F;n02091831_4463.jpg" height="300px">
+    <img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;boxer&#x2F;n02108089_11875.jpg" height="300px">
 </p>
 
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1500426137/2648/allo-tongue.gif?1500426137" width="30"> Joke </h2>
 
 <p align="center">
-    If you ask Chuck Norris what time it is, he always answers &#39;Two seconds till&#39;. After you ask &#39;Two seconds to what?&#39;, he roundhouse kicks you in the face.
+    Chuck Norris once roundhouse kicked someone so hard that his foot broke the speed of light, went back in time, and killed Amelia Earhart while she was flying over the Pacific Ocean.
 </p>
