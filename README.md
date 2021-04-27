@@ -64,7 +64,7 @@
 <h2> <img src="http://openweathermap.org/img/w/04d.png" width="30"> Weather </h2>
 
 <p align="center">
-    The weather for me its a overcast clouds and the temperature is 26.66°C (79.99°F) but it actually feels like 26.66°C (79.99°F)!
+    The weather for me its a overcast clouds and the temperature is 26.73°C (80.11°F) but it actually feels like 27.28°C (81.1°F)!
 </p>
 <p align="center">
     The sun rise for me is at 06:51 and the sun set is at 20:17!
@@ -79,11 +79,11 @@
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1595173148/9720/dog_cute.gif?1595173148" width="30"> Dog </h2>
 
 <p align="center">
-    <img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;sheepdog-shetland&#x2F;n02105855_13611.jpg" height="300px">
+    <img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;havanese&#x2F;00100trPORTRAIT_00100_BURST20191030212452971_COVER.jpg" height="300px">
 </p>
 
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1500426137/2648/allo-tongue.gif?1500426137" width="30"> Joke </h2>
 
 <p align="center">
-    July 4th is Independence day. And the day Chuck Norris was born. Coincidence? I think not.
+    Chuck Norris has banned rainbows from the state of North Dakota.
 </p>
