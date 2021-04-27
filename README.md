@@ -64,26 +64,26 @@
 <h2> <img src="http://openweathermap.org/img/w/04d.png" width="30"> Weather </h2>
 
 <p align="center">
-    The weather for me its a overcast clouds and the temperature is 12.74°C (54.93°F) but it actually feels like 12.47°C (54.45°F)!
+    The weather for me its a overcast clouds and the temperature is 12.73°C (54.91°F) but it actually feels like 12.49°C (54.48°F)!
 </p>
 <p align="center">
     The sun rise for me is at 06:51 and the sun set is at 20:17!
 </p>
 <p align="center">
-    The wind for me  is 1.73 meters/sec (3.87mph)!
+    The wind for me  is 1.63 meters/sec (3.65mph)!
 </p>
 <p align="center">
-    The persaintage of the sky is filled with clouds for me is 100%!
+    The persaintage of the sky is filled with clouds for me is 99%!
 </p>
 
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1595173148/9720/dog_cute.gif?1595173148" width="30"> Dog </h2>
 
 <p align="center">
-    <img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;poodle-toy&#x2F;n02113624_5459.jpg" height="300px">
+    <img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;weimaraner&#x2F;n02092339_3837.jpg" height="300px">
 </p>
 
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1500426137/2648/allo-tongue.gif?1500426137" width="30"> Joke </h2>
 
 <p align="center">
-    Chuck Norris will never have a heart attack. His heart isn&#39;t nearly foolish enough to attack him.
+    When Chuck Norris was denied an Egg McMuffin at McDonald&#39;s because it was 10:35, he roundhouse kicked the store so hard it became a Wendy&#39;s.
 </p>
