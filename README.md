@@ -64,26 +64,26 @@
 <h2> <img src="http://openweathermap.org/img/w/04n.png" width="30"> Weather </h2>
 
 <p align="center">
-    The weather for me its a overcast clouds and the temperature is 18.62°C (65.52°F) but it actually feels like 18.31°C (64.96°F)!
+    The weather for me its a broken clouds and the temperature is 19.08°C (66.34°F) but it actually feels like 18.79°C (65.82°F)!
 </p>
 <p align="center">
     The sun rise for me is at 06:52 and the sun set is at 20:16!
 </p>
 <p align="center">
-    The wind for me  is 2.28 meters/sec (5.1mph)!
+    The wind for me  is 2.33 meters/sec (5.21mph)!
 </p>
 <p align="center">
-    The persaintage of the sky is filled with clouds for me is 88%!
+    The persaintage of the sky is filled with clouds for me is 77%!
 </p>
 
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1595173148/9720/dog_cute.gif?1595173148" width="30"> Dog </h2>
 
 <p align="center">
-    <img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;eskimo&#x2F;n02109961_2706.jpg" height="300px">
+    <img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;terrier-fox&#x2F;n02095314_1407.jpg" height="300px">
 </p>
 
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1500426137/2648/allo-tongue.gif?1500426137" width="30"> Joke </h2>
 
 <p align="center">
-    Chuck Norris doesn&#39;t go on the internet, he has every internet site stored in his memory. He refreshes webpages by blinking.
+    It takes 14 puppeteers to make Chuck Norris smile, but only 2 to make him destroy an orphanage.
 </p>
