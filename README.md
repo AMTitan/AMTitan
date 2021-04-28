@@ -64,7 +64,7 @@
 <h2> <img src="http://openweathermap.org/img/w/04n.png" width="30"> Weather </h2>
 
 <p align="center">
-    The weather for me its a overcast clouds and the temperature is 22.68°C (72.82°F) but it actually feels like 22.67°C (72.81°F)!
+    The weather for me its a overcast clouds and the temperature is 22.73°C (72.91°F) but it actually feels like 22.73°C (72.91°F)!
 </p>
 <p align="center">
     The sun rise for me is at 06:51 and the sun set is at 20:17!
@@ -79,11 +79,11 @@
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1595173148/9720/dog_cute.gif?1595173148" width="30"> Dog </h2>
 
 <p align="center">
-    <img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;buhund-norwegian&#x2F;hakon1.jpg" height="300px">
+    <img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;terrier-norwich&#x2F;n02094258_2816.jpg" height="300px">
 </p>
 
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1500426137/2648/allo-tongue.gif?1500426137" width="30"> Joke </h2>
 
 <p align="center">
-    Chuck Norris doesn&#39;t need sudo, he just types &#39;Chuck Norris&#39; before his commands.
+    Chuck Norris&#39; credit cards have no limit. Last weekend, he maxed them out.
 </p>
