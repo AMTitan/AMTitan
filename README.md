@@ -64,13 +64,13 @@
 <h2> <img src="http://openweathermap.org/img/w/04d.png" width="30"> Weather </h2>
 
 <p align="center">
-    The weather for me its a overcast clouds and the temperature is 21.95°C (71.51°F) but it actually feels like 22.16°C (71.89°F)!
+    The weather for me its a overcast clouds and the temperature is 21.69°C (71.04°F) but it actually feels like 21.93°C (71.47°F)!
 </p>
 <p align="center">
     The sun rise for me is at 06:49 and the sun set is at 20:19!
 </p>
 <p align="center">
-    The wind for me  is 1.34 meters/sec (3mph)!
+    The wind for me  is 1.79 meters/sec (4mph)!
 </p>
 <p align="center">
     The persaintage of the sky is filled with clouds for me is 100%!
@@ -79,11 +79,11 @@
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1595173148/9720/dog_cute.gif?1595173148" width="30"> Dog </h2>
 
 <p align="center">
-    <img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;hound-plott&#x2F;hhh_plott002.JPG" height="300px">
+    <img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;samoyed&#x2F;n02111889_3476.jpg" height="300px">
 </p>
 
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1500426137/2648/allo-tongue.gif?1500426137" width="30"> Joke </h2>
 
 <p align="center">
-    The code that is the hardest to debug is the code that you know cannot possibly be wrong.
+    When Chuck Norris is web surfing websites get the message &#39;Warning: Internet Explorer has deemed this user to be malicious or dangerous. Proceed?&#39;.
 </p>
