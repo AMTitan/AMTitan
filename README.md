@@ -64,7 +64,7 @@
 <h2> <img src="http://openweathermap.org/img/w/04d.png" width="30"> Weather </h2>
 
 <p align="center">
-    The weather for me its a overcast clouds and the temperature is 25.33°C (77.59°F) but it actually feels like 25.62°C (78.12°F)!
+    The weather for me its a overcast clouds and the temperature is 25.39°C (77.7°F) but it actually feels like 25.66°C (78.19°F)!
 </p>
 <p align="center">
     The sun rise for me is at 06:49 and the sun set is at 20:19!
@@ -79,11 +79,11 @@
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1595173148/9720/dog_cute.gif?1595173148" width="30"> Dog </h2>
 
 <p align="center">
-    <img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;mastiff-tibetan&#x2F;n02108551_634.jpg" height="300px">
+    <img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;terrier-bedlington&#x2F;n02093647_2316.jpg" height="300px">
 </p>
 
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1500426137/2648/allo-tongue.gif?1500426137" width="30"> Joke </h2>
 
 <p align="center">
-    Chuck Norris compresses his files by doing a flying round house kick to the hard drive.
+    Chuck Norris doesn&#39;t needs try-catch, exceptions are too afraid to raise.
 </p>
