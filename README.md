@@ -64,26 +64,26 @@
 <h2> <img src="http://openweathermap.org/img/w/04n.png" width="30"> Weather </h2>
 
 <p align="center">
-    The weather for me its a overcast clouds and the temperature is 17.01°C (62.62°F) but it actually feels like 17.17°C (62.91°F)!
+    The weather for me its a broken clouds and the temperature is 16.69°C (62.04°F) but it actually feels like 16.82°C (62.28°F)!
 </p>
 <p align="center">
     The sun rise for me is at 06:49 and the sun set is at 20:19!
 </p>
 <p align="center">
-    The wind for me  is 1.84 meters/sec (4.12mph)!
+    The wind for me  is 1.8 meters/sec (4.03mph)!
 </p>
 <p align="center">
-    The persaintage of the sky is filled with clouds for me is 94%!
+    The persaintage of the sky is filled with clouds for me is 73%!
 </p>
 
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1595173148/9720/dog_cute.gif?1595173148" width="30"> Dog </h2>
 
 <p align="center">
-    <img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;hound-english&#x2F;n02089973_1803.jpg" height="300px">
+    <img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;terrier-border&#x2F;n02093754_4332.jpg" height="300px">
 </p>
 
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1500426137/2648/allo-tongue.gif?1500426137" width="30"> Joke </h2>
 
 <p align="center">
-    I have a good joke on Information Technology, but you won&#39;t get IT
+    The easiest way to determine Chuck Norris&#39; age is to cut him in half and count the rings.
 </p>
