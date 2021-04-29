@@ -64,7 +64,7 @@
 <h2> <img src="http://openweathermap.org/img/w/04d.png" width="30"> Weather </h2>
 
 <p align="center">
-    The weather for me its a overcast clouds and the temperature is 19.84°C (67.71°F) but it actually feels like 20.05°C (68.09°F)!
+    The weather for me its a overcast clouds and the temperature is 20.2°C (68.36°F) but it actually feels like 20.44°C (68.79°F)!
 </p>
 <p align="center">
     The sun rise for me is at 06:49 and the sun set is at 20:19!
@@ -79,11 +79,11 @@
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1595173148/9720/dog_cute.gif?1595173148" width="30"> Dog </h2>
 
 <p align="center">
-    <img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;terrier-toy&#x2F;n02087046_6003.jpg" height="300px">
+    <img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;cairn&#x2F;n02096177_6555.jpg" height="300px">
 </p>
 
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1500426137/2648/allo-tongue.gif?1500426137" width="30"> Joke </h2>
 
 <p align="center">
-    The original title for Star Wars was &#39;Skywalker: Texas Ranger&#39;. Starring Chuck Norris.
+    MacGyver can build an airplane out of gum and paper clips. Chuck Norris can kill him and take it.
 </p>
