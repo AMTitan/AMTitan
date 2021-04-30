@@ -64,7 +64,7 @@
 <h2> <img src="http://openweathermap.org/img/w/04n.png" width="30"> Weather </h2>
 
 <p align="center">
-    The weather for me its a broken clouds and the temperature is 21.12°C (70.02°F) but it actually feels like 21.48°C (70.66°F)!
+    The weather for me its a broken clouds and the temperature is 20.82°C (69.48°F) but it actually feels like 21.2°C (70.16°F)!
 </p>
 <p align="center">
     The sun rise for me is at 06:48 and the sun set is at 20:20!
@@ -73,17 +73,17 @@
     The wind for me  is 1.34 meters/sec (3mph)!
 </p>
 <p align="center">
-    The persaintage of the sky is filled with clouds for me is 77%!
+    The persaintage of the sky is filled with clouds for me is 69%!
 </p>
 
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1595173148/9720/dog_cute.gif?1595173148" width="30"> Dog </h2>
 
 <p align="center">
-    <img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;bluetick&#x2F;n02088632_2870.jpg" height="300px">
+    <img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;african&#x2F;n02116738_8512.jpg" height="300px">
 </p>
 
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1500426137/2648/allo-tongue.gif?1500426137" width="30"> Joke </h2>
 
 <p align="center">
-    Chuck Norris burst the dot com bubble.
+    Bugs come in through open Windows.
 </p>
