@@ -64,10 +64,10 @@
 <h2> <img src="http://openweathermap.org/img/w/04n.png" width="30"> Weather </h2>
 
 <p align="center">
-    The weather for me its a broken clouds and the temperature is 21.36°C (70.45°F) but it actually feels like 21.72°C (71.1°F)!
+    The weather for me its a broken clouds and the temperature is 21.4°C (70.52°F) but it actually feels like 21.76°C (71.17°F)!
 </p>
 <p align="center">
-    The sun rise for me is at 06:48 and the sun set is at 20:20!
+    The sun rise for me is at 06:49 and the sun set is at 20:19!
 </p>
 <p align="center">
     The wind for me  is 0.89 meters/sec (1.99mph)!
@@ -79,11 +79,11 @@
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1595173148/9720/dog_cute.gif?1595173148" width="30"> Dog </h2>
 
 <p align="center">
-    <img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;hound-walker&#x2F;n02089867_1764.jpg" height="300px">
+    <img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;terrier-scottish&#x2F;n02097298_8224.jpg" height="300px">
 </p>
 
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1500426137/2648/allo-tongue.gif?1500426137" width="30"> Joke </h2>
 
 <p align="center">
-    Chuck Norris once pulled out a single hair from his beard and skewered three men through the heart with it.
+    How much wood would a woodchuck chuck if a woodchuck could Chuck Norris? All of it.
 </p>
