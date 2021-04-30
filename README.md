@@ -64,13 +64,13 @@
 <h2> <img src="http://openweathermap.org/img/w/04n.png" width="30"> Weather </h2>
 
 <p align="center">
-    The weather for me its a broken clouds and the temperature is 20.83°C (69.49°F) but it actually feels like 21.24°C (70.23°F)!
+    The weather for me its a broken clouds and the temperature is 21.02°C (69.84°F) but it actually feels like 21.45°C (70.61°F)!
 </p>
 <p align="center">
     The sun rise for me is at 06:48 and the sun set is at 20:20!
 </p>
 <p align="center">
-    The wind for me  is 1.34 meters/sec (3mph)!
+    The wind for me  is 0.89 meters/sec (1.99mph)!
 </p>
 <p align="center">
     The persaintage of the sky is filled with clouds for me is 69%!
@@ -79,11 +79,11 @@
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1595173148/9720/dog_cute.gif?1595173148" width="30"> Dog </h2>
 
 <p align="center">
-    <img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;terrier-fox&#x2F;n02095314_3054.jpg" height="300px">
+    <img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;samoyed&#x2F;n02111889_597.jpg" height="300px">
 </p>
 
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1500426137/2648/allo-tongue.gif?1500426137" width="30"> Joke </h2>
 
 <p align="center">
-    Chuck Norris is the only person to ever win a staring contest against Ray Charles and Stevie Wonder.
+    When J. Robert Oppenheimer said &#39;I am become death, the destroyer Of worlds&#39;, He was not referring to the atomic bomb. He was referring to the Chuck Norris halloween costume he was wearing.
 </p>
