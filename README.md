@@ -64,7 +64,7 @@
 <h2> <img src="http://openweathermap.org/img/w/04d.png" width="30"> Weather </h2>
 
 <p align="center">
-    The weather for me its a overcast clouds and the temperature is 21.14°C (70.05°F) but it actually feels like 20.54°C (68.97°F)!
+    The weather for me its a overcast clouds and the temperature is 21.01°C (69.82°F) but it actually feels like 20.47°C (68.85°F)!
 </p>
 <p align="center">
     The sun rise for me is at 06:48 and the sun set is at 20:20!
@@ -79,11 +79,11 @@
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1595173148/9720/dog_cute.gif?1595173148" width="30"> Dog </h2>
 
 <p align="center">
-    <img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;kuvasz&#x2F;n02104029_3378.jpg" height="300px">
+    <img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;terrier-tibetan&#x2F;n02097474_3991.jpg" height="300px">
 </p>
 
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1500426137/2648/allo-tongue.gif?1500426137" width="30"> Joke </h2>
 
 <p align="center">
-    Those aren&#39;t credits that roll after Walker Texas Ranger. It is actually a list of fatalities that occurred during the making of the episode.
+    Chuck Norris doesn&#39;t see dead people. He makes people dead.
 </p>
