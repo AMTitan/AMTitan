@@ -64,7 +64,7 @@
 <h2> <img src="http://openweathermap.org/img/w/01d.png" width="30"> Weather </h2>
 
 <p align="center">
-    The weather for me its a clear sky and the temperature is 22.38°C (72.28°F) but it actually feels like 21.67°C (71.01°F)!
+    The weather for me its a clear sky and the temperature is 22.41°C (72.34°F) but it actually feels like 21.7°C (71.06°F)!
 </p>
 <p align="center">
     The sun rise for me is at 06:47 and the sun set is at 20:20!
@@ -79,11 +79,11 @@
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1595173148/9720/dog_cute.gif?1595173148" width="30"> Dog </h2>
 
 <p align="center">
-    <img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;mastiff-bull&#x2F;n02108422_3711.jpg" height="300px">
+    <img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;shihtzu&#x2F;n02086240_8049.jpg" height="300px">
 </p>
 
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1500426137/2648/allo-tongue.gif?1500426137" width="30"> Joke </h2>
 
 <p align="center">
-    Some people ask for a Kleenex when they sneeze, Chuck Norris asks for a body bag.
+    The pie scene in &#39;American Pie&#39; is based on a dare Chuck Norris took when he was younger. However, in Chuck Norris&#39; case, the &#39;pie&#39; was the molten crater of an active volcano.
 </p>
