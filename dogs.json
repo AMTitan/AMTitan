@@ -1,7 +1,12 @@
+<!DOCTYPE html>
 <html>
-<head><title>524 Origin Time-out</title></head>
-<body bgcolor="white">
-<center><h1>524 Origin Time-out</h1></center>
-<hr><center>cloudflare-nginx</center>
+<head>
+<title>503 Backend fetch failed</title>
+</head>
+<body>
+<h1>Error 503 Backend fetch failed</h1>
+<p>Backend fetch failed</p>
+<hr>
+<p>Varnish cache server</p>
 </body>
 </html>
