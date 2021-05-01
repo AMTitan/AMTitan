@@ -64,7 +64,7 @@
 <h2> <img src="http://openweathermap.org/img/w/04n.png" width="30"> Weather </h2>
 
 <p align="center">
-    The weather for me its a overcast clouds and the temperature is 17.32°C (63.18°F) but it actually feels like 16.49°C (61.68°F)!
+    The weather for me its a overcast clouds and the temperature is 17°C (62.6°F) but it actually feels like 16.14°C (61.05°F)!
 </p>
 <p align="center">
     The sun rise for me is at 06:48 and the sun set is at 20:20!
@@ -73,17 +73,17 @@
     The wind for me  is 0.45 meters/sec (1.01mph)!
 </p>
 <p align="center">
-    The persaintage of the sky is filled with clouds for me is 94%!
+    The persaintage of the sky is filled with clouds for me is 96%!
 </p>
 
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1595173148/9720/dog_cute.gif?1595173148" width="30"> Dog </h2>
 
 <p align="center">
-    <img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;malinois&#x2F;n02105162_6013.jpg" height="300px">
+    <img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;terrier-irish&#x2F;n02093991_3174.jpg" height="300px">
 </p>
 
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1500426137/2648/allo-tongue.gif?1500426137" width="30"> Joke </h2>
 
 <p align="center">
-    Why do fish likes nibbles the size of 2^n? So they can byte
+    If the box says: &#39;This software requires Windows 7 or better&#39; Does that mean it&#39;ll run on Linux?
 </p>
