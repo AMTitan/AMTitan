@@ -64,26 +64,26 @@
 <h2> <img src="http://openweathermap.org/img/w/03d.png" width="30"> Weather </h2>
 
 <p align="center">
-    The weather for me its a scattered clouds and the temperature is 24.44°C (75.99°F) but it actually feels like 23.91°C (75.04°F)!
+    The weather for me its a scattered clouds and the temperature is 23.83°C (74.89°F) but it actually feels like 23.23°C (73.81°F)!
 </p>
 <p align="center">
     The sun rise for me is at 06:47 and the sun set is at 20:20!
 </p>
 <p align="center">
-    The wind for me  is 1.38 meters/sec (3.09mph)!
+    The wind for me  is 0.96 meters/sec (2.15mph)!
 </p>
 <p align="center">
-    The persaintage of the sky is filled with clouds for me is 48%!
+    The persaintage of the sky is filled with clouds for me is 47%!
 </p>
 
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1595173148/9720/dog_cute.gif?1595173148" width="30"> Dog </h2>
 
 <p align="center">
-    <img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;labradoodle&#x2F;labradoodle-forrest.png" height="300px">
+    <img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;papillon&#x2F;n02086910_5560.jpg" height="300px">
 </p>
 
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1500426137/2648/allo-tongue.gif?1500426137" width="30"> Joke </h2>
 
 <p align="center">
-    There are only 10 types of people in the world: those that understand binary and those that don’t.
+    A study showed the leading causes of death in the United States are: 1. Heart disease, 2. Chuck Norris, 3. Cancer
 </p>
