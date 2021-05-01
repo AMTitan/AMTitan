@@ -64,13 +64,13 @@
 <h2> <img src="http://openweathermap.org/img/w/04n.png" width="30"> Weather </h2>
 
 <p align="center">
-    The weather for me its a overcast clouds and the temperature is 14.82°C (58.68°F) but it actually feels like 14.05°C (57.29°F)!
+    The weather for me its a overcast clouds and the temperature is 14.84°C (58.71°F) but it actually feels like 14.08°C (57.34°F)!
 </p>
 <p align="center">
     The sun rise for me is at 06:47 and the sun set is at 20:20!
 </p>
 <p align="center">
-    The wind for me  is 2.06 meters/sec (4.61mph)!
+    The wind for me  is 2.29 meters/sec (5.12mph)!
 </p>
 <p align="center">
     The persaintage of the sky is filled with clouds for me is 97%!
@@ -79,11 +79,11 @@
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1595173148/9720/dog_cute.gif?1595173148" width="30"> Dog </h2>
 
 <p align="center">
-    <img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;maltese&#x2F;n02085936_4713.jpg" height="300px">
+    <img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;terrier-border&#x2F;n02093754_1954.jpg" height="300px">
 </p>
 
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1500426137/2648/allo-tongue.gif?1500426137" width="30"> Joke </h2>
 
 <p align="center">
-    When an episode of Walker Texas Ranger was aired in France, the French surrendered to Chuck Norris just to be on the safe side.
+    Chuck Norris does not follow fashion trends, they follow him. But then he turns around and kicks their ass. Nobody follows Chuck Norris.
 </p>
