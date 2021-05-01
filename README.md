@@ -64,7 +64,7 @@
 <h2> <img src="http://openweathermap.org/img/w/02d.png" width="30"> Weather </h2>
 
 <p align="center">
-    The weather for me its a few clouds and the temperature is 25.78°C (78.4°F) but it actually feels like 25.25°C (77.45°F)!
+    The weather for me its a few clouds and the temperature is 25.67°C (78.21°F) but it actually feels like 25.13°C (77.23°F)!
 </p>
 <p align="center">
     The sun rise for me is at 06:47 and the sun set is at 20:20!
@@ -79,11 +79,11 @@
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1595173148/9720/dog_cute.gif?1595173148" width="30"> Dog </h2>
 
 <p align="center">
-    <img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;pug&#x2F;n02110958_15766.jpg" height="300px">
+    <img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;whippet&#x2F;n02091134_18951.jpg" height="300px">
 </p>
 
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1500426137/2648/allo-tongue.gif?1500426137" width="30"> Joke </h2>
 
 <p align="center">
-    Chuck Norris originally appeared in the &#39;Street Fighter II&#39; video game, but was removed by Beta Testers because every button caused him to do a roundhouse kick. When asked about this glitch, Norris replied &#39;That&#39;s no glitch.&#39;
+    When J. Robert Oppenheimer said &#39;I am become death, the destroyer Of worlds&#39;, He was not referring to the atomic bomb. He was referring to the Chuck Norris halloween costume he was wearing.
 </p>
