@@ -64,26 +64,26 @@
 <h2> <img src="http://openweathermap.org/img/w/04n.png" width="30"> Weather </h2>
 
 <p align="center">
-    The weather for me its a overcast clouds and the temperature is 12.79°C (55.02°F) but it actually feels like 12.14°C (53.85°F)!
+    The weather for me its a overcast clouds and the temperature is 12.98°C (55.36°F) but it actually feels like 12.32°C (54.18°F)!
 </p>
 <p align="center">
     The sun rise for me is at 06:46 and the sun set is at 20:21!
 </p>
 <p align="center">
-    The wind for me  is 1.37 meters/sec (3.06mph)!
+    The wind for me  is 1.45 meters/sec (3.24mph)!
 </p>
 <p align="center">
-    The persaintage of the sky is filled with clouds for me is 92%!
+    The persaintage of the sky is filled with clouds for me is 99%!
 </p>
 
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1595173148/9720/dog_cute.gif?1595173148" width="30"> Dog </h2>
 
 <p align="center">
-    <img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;terrier-russell&#x2F;jack1.jpg" height="300px">
+    <img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;pointer-germanlonghair&#x2F;hans4.jpg" height="300px">
 </p>
 
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1500426137/2648/allo-tongue.gif?1500426137" width="30"> Joke </h2>
 
 <p align="center">
-    Chuck Norris breaks RSA 128-bit encrypted codes in milliseconds.
+    Chuck Norris can kick through all 6 degrees of separation, hitting anyone, anywhere, in the face, at any time.
 </p>
