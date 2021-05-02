@@ -64,26 +64,26 @@
 <h2> <img src="http://openweathermap.org/img/w/04n.png" width="30"> Weather </h2>
 
 <p align="center">
-    The weather for me its a overcast clouds and the temperature is 12.8°C (55.04°F) but it actually feels like 12.15°C (53.87°F)!
+    The weather for me its a overcast clouds and the temperature is 12.8°C (55.04°F) but it actually feels like 12.12°C (53.82°F)!
 </p>
 <p align="center">
     The sun rise for me is at 06:46 and the sun set is at 20:21!
 </p>
 <p align="center">
-    The wind for me  is 1.33 meters/sec (2.98mph)!
+    The wind for me  is 1.37 meters/sec (3.06mph)!
 </p>
 <p align="center">
-    The persaintage of the sky is filled with clouds for me is 88%!
+    The persaintage of the sky is filled with clouds for me is 92%!
 </p>
 
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1595173148/9720/dog_cute.gif?1595173148" width="30"> Dog </h2>
 
 <p align="center">
-    <img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;ovcharka-caucasian&#x2F;IMG_20191130_160405.jpg" height="300px">
+    <img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;bluetick&#x2F;n02088632_4313.jpg" height="300px">
 </p>
 
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1500426137/2648/allo-tongue.gif?1500426137" width="30"> Joke </h2>
 
 <p align="center">
-    Who called it female foeticide and not Binary ?
+    Chuck Norris doesn&#39;t cheat death. He wins fair and square.
 </p>
