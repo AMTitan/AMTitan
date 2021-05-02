@@ -61,16 +61,16 @@
     <img style="width:100%" src="https://github-readme-stats.vercel.app/api/wakatime?username=AMTitan&layout=compact&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" />
 </p>
 
-<h2> <img src="http://openweathermap.org/img/w/04d.png" width="30"> Weather </h2>
+<h2> <img src="http://openweathermap.org/img/w/10d.png" width="30"> Weather </h2>
 
 <p align="center">
-    The weather for me its a overcast clouds and the temperature is 25.73°C (78.31°F) but it actually feels like 25.77°C (78.39°F)!
+    The weather for me its a light rain and the temperature is 25.61°C (78.1°F) but it actually feels like 25.74°C (78.33°F)!
 </p>
 <p align="center">
     The sun rise for me is at 06:46 and the sun set is at 20:21!
 </p>
 <p align="center">
-    The wind for me  is 1.79 meters/sec (4mph)!
+    The wind for me  is 0.45 meters/sec (1.01mph)!
 </p>
 <p align="center">
     The persaintage of the sky is filled with clouds for me is 100%!
@@ -79,11 +79,11 @@
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1595173148/9720/dog_cute.gif?1595173148" width="30"> Dog </h2>
 
 <p align="center">
-    <img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;bouvier&#x2F;n02106382_1731.jpg" height="300px">
+    <img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;terrier-american&#x2F;n02093428_12016.jpg" height="300px">
 </p>
 
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1500426137/2648/allo-tongue.gif?1500426137" width="30"> Joke </h2>
 
 <p align="center">
-    If the box says: &#39;This software requires Windows 7 or better&#39; Does that mean it&#39;ll run on Linux?
+    UNIX is basically a simple operating system... but you have to be a genius to understand the simplicity.
 </p>
