@@ -64,7 +64,7 @@
 <h2> <img src="http://openweathermap.org/img/w/04d.png" width="30"> Weather </h2>
 
 <p align="center">
-    The weather for me its a overcast clouds and the temperature is 25.45°C (77.81°F) but it actually feels like 25.59°C (78.06°F)!
+    The weather for me its a overcast clouds and the temperature is 25.49°C (77.88°F) but it actually feels like 25.64°C (78.15°F)!
 </p>
 <p align="center">
     The sun rise for me is at 06:46 and the sun set is at 20:21!
@@ -79,11 +79,11 @@
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1595173148/9720/dog_cute.gif?1595173148" width="30"> Dog </h2>
 
 <p align="center">
-    <img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;mastiff-tibetan&#x2F;n02108551_3501.jpg" height="300px">
+    <img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;terrier-tibetan&#x2F;n02097474_7046.jpg" height="300px">
 </p>
 
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1500426137/2648/allo-tongue.gif?1500426137" width="30"> Joke </h2>
 
 <p align="center">
-    Evolution is God’s way of issuing upgrades.
+    Chuck Norris once kicked a horse in the chin. Its decendants are known today as Giraffes.
 </p>
