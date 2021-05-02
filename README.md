@@ -64,7 +64,7 @@
 <h2> <img src="http://openweathermap.org/img/w/04n.png" width="30"> Weather </h2>
 
 <p align="center">
-    The weather for me its a overcast clouds and the temperature is 14.19°C (57.54°F) but it actually feels like 13.99°C (57.18°F)!
+    The weather for me its a overcast clouds and the temperature is 14.35°C (57.83°F) but it actually feels like 14.16°C (57.49°F)!
 </p>
 <p align="center">
     The sun rise for me is at 06:46 and the sun set is at 20:21!
@@ -79,11 +79,11 @@
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1595173148/9720/dog_cute.gif?1595173148" width="30"> Dog </h2>
 
 <p align="center">
-    <img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;setter-english&#x2F;n02100735_568.jpg" height="300px">
+    <img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;retriever-golden&#x2F;n02099601_569.jpg" height="300px">
 </p>
 
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1500426137/2648/allo-tongue.gif?1500426137" width="30"> Joke </h2>
 
 <p align="center">
-    If Chuck Norris were a calendar, every month would be named Chucktober, and every day he&#39;d kick your ass.
+    Chuck Norris uses 8&#39;x10&#39; sheets of plywood as toilet paper.
 </p>
