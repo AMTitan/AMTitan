@@ -64,7 +64,7 @@
 <h2> <img src="http://openweathermap.org/img/w/10d.png" width="30"> Weather </h2>
 
 <p align="center">
-    The weather for me its a heavy intensity rain and the temperature is 20.67°C (69.21°F) but it actually feels like 21.35°C (70.43°F)!
+    The weather for me its a heavy intensity rain and the temperature is 20.72°C (69.3°F) but it actually feels like 21.41°C (70.54°F)!
 </p>
 <p align="center">
     The sun rise for me is at 06:45 and the sun set is at 20:22!
@@ -79,11 +79,11 @@
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1595173148/9720/dog_cute.gif?1595173148" width="30"> Dog </h2>
 
 <p align="center">
-    <img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;african&#x2F;n02116738_4335.jpg" height="300px">
+    <img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;beagle&#x2F;n02088364_5123.jpg" height="300px">
 </p>
 
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1500426137/2648/allo-tongue.gif?1500426137" width="30"> Joke </h2>
 
 <p align="center">
-    I’m not anti-social; I’m just not user friendly.
+    A foo walks into a bar, takes a look around and says &#39;Hello World!&#39;.
 </p>
