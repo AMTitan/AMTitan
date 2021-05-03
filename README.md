@@ -64,7 +64,7 @@
 <h2> <img src="http://openweathermap.org/img/w/10d.png" width="30"> Weather </h2>
 
 <p align="center">
-    The weather for me its a light rain and the temperature is 20.24°C (68.43°F) but it actually feels like 20.93°C (69.67°F)!
+    The weather for me its a moderate rain and the temperature is 20.24°C (68.43°F) but it actually feels like 20.93°C (69.67°F)!
 </p>
 <p align="center">
     The sun rise for me is at 06:45 and the sun set is at 20:22!
@@ -79,11 +79,11 @@
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1595173148/9720/dog_cute.gif?1595173148" width="30"> Dog </h2>
 
 <p align="center">
-    <img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;entlebucher&#x2F;n02108000_1291.jpg" height="300px">
+    <img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;terrier-russell&#x2F;iguet4.jpeg" height="300px">
 </p>
 
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1500426137/2648/allo-tongue.gif?1500426137" width="30"> Joke </h2>
 
 <p align="center">
-    Chuck Norris roundhouse kicks don&#39;t really kill people. They wipe out their entire existence from the space-time continuum.
+    The truth is out there. Anybody got the URL?
 </p>
