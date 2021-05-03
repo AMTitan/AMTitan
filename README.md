@@ -64,7 +64,7 @@
 <h2> <img src="http://openweathermap.org/img/w/10d.png" width="30"> Weather </h2>
 
 <p align="center">
-    The weather for me its a moderate rain and the temperature is 19.18°C (66.52°F) but it actually feels like 19.69°C (67.44°F)!
+    The weather for me its a heavy intensity rain and the temperature is 19.1°C (66.38°F) but it actually feels like 19.6°C (67.28°F)!
 </p>
 <p align="center">
     The sun rise for me is at 06:45 and the sun set is at 20:22!
@@ -79,11 +79,11 @@
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1595173148/9720/dog_cute.gif?1595173148" width="30"> Dog </h2>
 
 <p align="center">
-    <img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;ovcharka-caucasian&#x2F;IMG_20191105_141904.jpg" height="300px">
+    <img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;vizsla&#x2F;n02100583_13297.jpg" height="300px">
 </p>
 
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1500426137/2648/allo-tongue.gif?1500426137" width="30"> Joke </h2>
 
 <p align="center">
-    Chuck Norris once worked as a weatherman for the San Diego evening news. Every night he would make the same forecast: Partly cloudy with a 75% chance of Pain.
+    Chuck Norris can compile syntax errors.
 </p>
