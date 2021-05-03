@@ -70,20 +70,20 @@
     The sun rise for me is at 06:45 and the sun set is at 20:22!
 </p>
 <p align="center">
-    The wind for me  is 3.59 meters/sec (8.03mph)!
+    The wind for me  is 2.78 meters/sec (6.22mph)!
 </p>
 <p align="center">
-    The persaintage of the sky is filled with clouds for me is 89%!
+    The persaintage of the sky is filled with clouds for me is 85%!
 </p>
 
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1595173148/9720/dog_cute.gif?1595173148" width="30"> Dog </h2>
 
 <p align="center">
-    <img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;dalmatian&#x2F;cooper2.jpg" height="300px">
+    <img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;dane-great&#x2F;n02109047_23058.jpg" height="300px">
 </p>
 
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1500426137/2648/allo-tongue.gif?1500426137" width="30"> Joke </h2>
 
 <p align="center">
-    Staring at Chuck Norris for extended periods of time without proper eye protection will cause blindess, and possibly foot sized brusies on the face.
+    How many theoretical physicists does it take to screw in a light bulb? Two. One to hold the bulb and one to rotate the universe.
 </p>
