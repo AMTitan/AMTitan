@@ -64,26 +64,26 @@
 <h2> <img src="http://openweathermap.org/img/w/04d.png" width="30"> Weather </h2>
 
 <p align="center">
-    The weather for me its a overcast clouds and the temperature is 21.2°C (70.16°F) but it actually feels like 21.96°C (71.53°F)!
+    The weather for me its a overcast clouds and the temperature is 21.31°C (70.36°F) but it actually feels like 21.95°C (71.51°F)!
 </p>
 <p align="center">
     The sun rise for me is at 06:45 and the sun set is at 20:22!
 </p>
 <p align="center">
-    The wind for me  is 0.45 meters/sec (1.01mph)!
+    The wind for me  is 4.44 meters/sec (9.93mph)!
 </p>
 <p align="center">
-    The persaintage of the sky is filled with clouds for me is 90%!
+    The persaintage of the sky is filled with clouds for me is 87%!
 </p>
 
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1595173148/9720/dog_cute.gif?1595173148" width="30"> Dog </h2>
 
 <p align="center">
-    <img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;terrier-wheaten&#x2F;n02098105_1386.jpg" height="300px">
+    <img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;terrier-bedlington&#x2F;n02093647_1980.jpg" height="300px">
 </p>
 
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1500426137/2648/allo-tongue.gif?1500426137" width="30"> Joke </h2>
 
 <p align="center">
-    Chuck Norris uses tabasco sauce instead of visine.
+    Chuck Norris eats beef jerky and craps gunpowder. Then, he uses that gunpowder to make a bullet, which he uses to kill a cow and make more beef jerky. Some people refer to this as the &#39;Circle of Life.&#39;
 </p>
