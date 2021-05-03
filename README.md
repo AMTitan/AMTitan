@@ -64,26 +64,26 @@
 <h2> <img src="http://openweathermap.org/img/w/10d.png" width="30"> Weather </h2>
 
 <p align="center">
-    The weather for me its a light rain and the temperature is 20.59°C (69.06°F) but it actually feels like 21.19°C (70.14°F)!
+    The weather for me its a light rain and the temperature is 20.42°C (68.76°F) but it actually feels like 21.13°C (70.03°F)!
 </p>
 <p align="center">
     The sun rise for me is at 06:45 and the sun set is at 20:22!
 </p>
 <p align="center">
-    The wind for me  is 4.44 meters/sec (9.93mph)!
+    The wind for me  is 1.54 meters/sec (3.44mph)!
 </p>
 <p align="center">
-    The persaintage of the sky is filled with clouds for me is 87%!
+    The persaintage of the sky is filled with clouds for me is 90%!
 </p>
 
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1595173148/9720/dog_cute.gif?1595173148" width="30"> Dog </h2>
 
 <p align="center">
-    <img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;sheepdog-shetland&#x2F;n02105855_17706.jpg" height="300px">
+    <img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;dhole&#x2F;n02115913_1188.jpg" height="300px">
 </p>
 
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1500426137/2648/allo-tongue.gif?1500426137" width="30"> Joke </h2>
 
 <p align="center">
-    No one has ever pair-programmed with Chuck Norris and lived to tell about it.
+    Erik Naggum: “Microsoft is not the answer. Microsoft is the question. NO is the answer.”
 </p>
