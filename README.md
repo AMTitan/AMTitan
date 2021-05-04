@@ -64,26 +64,26 @@
 <h2> <img src="http://openweathermap.org/img/w/04n.png" width="30"> Weather </h2>
 
 <p align="center">
-    The weather for me its a overcast clouds and the temperature is 20.07°C (68.13°F) but it actually feels like 20.72°C (69.3°F)!
+    The weather for me its a broken clouds and the temperature is 20.18°C (68.32°F) but it actually feels like 20.84°C (69.51°F)!
 </p>
 <p align="center">
     The sun rise for me is at 06:45 and the sun set is at 20:22!
 </p>
 <p align="center">
-    The wind for me  is 2.78 meters/sec (6.22mph)!
+    The wind for me  is 1.83 meters/sec (4.09mph)!
 </p>
 <p align="center">
-    The persaintage of the sky is filled with clouds for me is 85%!
+    The persaintage of the sky is filled with clouds for me is 64%!
 </p>
 
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1595173148/9720/dog_cute.gif?1595173148" width="30"> Dog </h2>
 
 <p align="center">
-    <img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;terrier-russell&#x2F;iguet2.jpeg" height="300px">
+    <img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;dhole&#x2F;n02115913_1796.jpg" height="300px">
 </p>
 
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1500426137/2648/allo-tongue.gif?1500426137" width="30"> Joke </h2>
 
 <p align="center">
-    Chuck Norris owns a chain of fast-food restaurants throughout the southwest. They serve nothing but barbecue-flavored ice cream and Hot Pockets.
+    Who called it female foeticide and not Binary ?
 </p>
