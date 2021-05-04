@@ -61,10 +61,10 @@
     <img style="width:100%" src="https://github-readme-stats.vercel.app/api/wakatime?username=AMTitan&layout=compact&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" />
 </p>
 
-<h2> <img src="http://openweathermap.org/img/w/10n.png" width="30"> Weather </h2>
+<h2> <img src="http://openweathermap.org/img/w/10d.png" width="30"> Weather </h2>
 
 <p align="center">
-    The weather for me its a light rain and the temperature is 20.07°C (68.13°F) but it actually feels like 20.72°C (69.3°F)!
+    The weather for me its a moderate rain and the temperature is 20.03°C (68.05°F) but it actually feels like 20.67°C (69.21°F)!
 </p>
 <p align="center">
     The sun rise for me is at 06:45 and the sun set is at 20:22!
@@ -79,11 +79,11 @@
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1595173148/9720/dog_cute.gif?1595173148" width="30"> Dog </h2>
 
 <p align="center">
-    <img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;bluetick&#x2F;n02088632_1073.jpg" height="300px">
+    <img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;rottweiler&#x2F;n02106550_2197.jpg" height="300px">
 </p>
 
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1500426137/2648/allo-tongue.gif?1500426137" width="30"> Joke </h2>
 
 <p align="center">
-    He who lives by the sword, dies by the sword. He who lives by Chuck Norris, dies by the roundhouse kick.
+    A man once asked Chuck Norris if his real name is &#39;Charles&#39;. Chuck Norris did not respond, he simply stared at him until he exploded.
 </p>
