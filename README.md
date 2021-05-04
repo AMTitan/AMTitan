@@ -64,7 +64,7 @@
 <h2> <img src="http://openweathermap.org/img/w/10d.png" width="30"> Weather </h2>
 
 <p align="center">
-    The weather for me its a moderate rain and the temperature is 17.74°C (63.93°F) but it actually feels like 18.18°C (64.72°F)!
+    The weather for me its a heavy intensity rain and the temperature is 18.25°C (64.85°F) but it actually feels like 18.74°C (65.73°F)!
 </p>
 <p align="center">
     The sun rise for me is at 06:44 and the sun set is at 20:23!
@@ -79,11 +79,11 @@
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1595173148/9720/dog_cute.gif?1595173148" width="30"> Dog </h2>
 
 <p align="center">
-    <img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;pekinese&#x2F;n02086079_422.jpg" height="300px">
+    <img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;hound-english&#x2F;n02089973_811.jpg" height="300px">
 </p>
 
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1500426137/2648/allo-tongue.gif?1500426137" width="30"> Joke </h2>
 
 <p align="center">
-    Scientifically speaking, it is impossible to charge Chuck Norris with &#39;obstruction of justice.&#39; This is because even Chuck Norris cannot be in two places at the same time.
+    Chuck Norris has never been in a fight, ever. Do you call one roundhouse kick to the face a fight?
 </p>
