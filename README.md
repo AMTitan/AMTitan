@@ -64,7 +64,7 @@
 <h2> <img src="http://openweathermap.org/img/w/04n.png" width="30"> Weather </h2>
 
 <p align="center">
-    The weather for me its a overcast clouds and the temperature is 16.32°C (61.38°F) but it actually feels like 16.59°C (61.86°F)!
+    The weather for me its a overcast clouds and the temperature is 16.25°C (61.25°F) but it actually feels like 16.52°C (61.74°F)!
 </p>
 <p align="center">
     The sun rise for me is at 06:43 and the sun set is at 20:24!
@@ -79,11 +79,11 @@
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1595173148/9720/dog_cute.gif?1595173148" width="30"> Dog </h2>
 
 <p align="center">
-    <img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;rottweiler&#x2F;n02106550_4079.jpg" height="300px">
+    <img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;elkhound-norwegian&#x2F;n02091467_917.jpg" height="300px">
 </p>
 
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1500426137/2648/allo-tongue.gif?1500426137" width="30"> Joke </h2>
 
 <p align="center">
-    There are only 10 types of people in the world: those that understand binary and those that don’t.
+    I would love to change the world but they won’t give me the source code.
 </p>
