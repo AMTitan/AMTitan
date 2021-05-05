@@ -64,13 +64,13 @@
 <h2> <img src="http://openweathermap.org/img/w/04d.png" width="30"> Weather </h2>
 
 <p align="center">
-    The weather for me its a overcast clouds and the temperature is 22.33°C (72.19°F) but it actually feels like 22.71°C (72.88°F)!
+    The weather for me its a overcast clouds and the temperature is 22.42°C (72.36°F) but it actually feels like 22.68°C (72.82°F)!
 </p>
 <p align="center">
     The sun rise for me is at 06:43 and the sun set is at 20:24!
 </p>
 <p align="center">
-    The wind for me  is 0.89 meters/sec (1.99mph)!
+    The wind for me  is 1.34 meters/sec (3mph)!
 </p>
 <p align="center">
     The persaintage of the sky is filled with clouds for me is 97%!
@@ -79,11 +79,11 @@
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1595173148/9720/dog_cute.gif?1595173148" width="30"> Dog </h2>
 
 <p align="center">
-    <img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;retriever-flatcoated&#x2F;n02099267_5552.jpg" height="300px">
+    <img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;terrier-lakeland&#x2F;n02095570_4724.jpg" height="300px">
 </p>
 
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1500426137/2648/allo-tongue.gif?1500426137" width="30"> Joke </h2>
 
 <p align="center">
-    The pie scene in &#39;American Pie&#39; is based on a dare Chuck Norris took when he was younger. However, in Chuck Norris&#39; case, the &#39;pie&#39; was the molten crater of an active volcano.
+    Chuck Norris invented a language that incorporates karate and roundhouse kicks. So next time Chuck Norris is kicking your ass, don?t be offended or hurt, he may be just trying to tell you he likes your hat.
 </p>
