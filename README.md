@@ -64,26 +64,26 @@
 <h2> <img src="http://openweathermap.org/img/w/04d.png" width="30"> Weather </h2>
 
 <p align="center">
-    The weather for me its a overcast clouds and the temperature is 16.26°C (61.27°F) but it actually feels like 16.5°C (61.7°F)!
+    The weather for me its a broken clouds and the temperature is 16.22°C (61.2°F) but it actually feels like 16.48°C (61.66°F)!
 </p>
 <p align="center">
     The sun rise for me is at 06:43 and the sun set is at 20:24!
 </p>
 <p align="center">
-    The wind for me  is 0.89 meters/sec (1.99mph)!
+    The wind for me  is 1.34 meters/sec (3mph)!
 </p>
 <p align="center">
-    The persaintage of the sky is filled with clouds for me is 87%!
+    The persaintage of the sky is filled with clouds for me is 84%!
 </p>
 
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1595173148/9720/dog_cute.gif?1595173148" width="30"> Dog </h2>
 
 <p align="center">
-    <img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;dingo&#x2F;n02115641_1228.jpg" height="300px">
+    <img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;lhasa&#x2F;n02098413_8379.jpg" height="300px">
 </p>
 
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1500426137/2648/allo-tongue.gif?1500426137" width="30"> Joke </h2>
 
 <p align="center">
-    Chuck Norris can be unlocked on the hardest level of Tekken. But only Chuck Norris is skilled enough to unlock himself. Then he roundhouse kicks the Playstation back to Japan.
+    UNIX is user friendly, it&#39;s just very particular about who it&#39;s friends are.
 </p>
