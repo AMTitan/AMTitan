@@ -64,7 +64,7 @@
 <h2> <img src="http://openweathermap.org/img/w/04d.png" width="30"> Weather </h2>
 
 <p align="center">
-    The weather for me its a overcast clouds and the temperature is 22.88°C (73.18°F) but it actually feels like 23.16°C (73.69°F)!
+    The weather for me its a overcast clouds and the temperature is 22.89°C (73.2°F) but it actually feels like 23.17°C (73.71°F)!
 </p>
 <p align="center">
     The sun rise for me is at 06:43 and the sun set is at 20:24!
@@ -79,11 +79,11 @@
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1595173148/9720/dog_cute.gif?1595173148" width="30"> Dog </h2>
 
 <p align="center">
-    <img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;pointer-german&#x2F;n02100236_4181.jpg" height="300px">
+    <img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;leonberg&#x2F;n02111129_3301.jpg" height="300px">
 </p>
 
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1500426137/2648/allo-tongue.gif?1500426137" width="30"> Joke </h2>
 
 <p align="center">
-    Chuck Norris built a better mousetrap, but the world was too frightened to beat a path to his door.
+    Chuck Norris just says &#39;no&#39; to drugs. If he said &#39;yes&#39;, it would collapse Colombia&#39;s infrastructure.
 </p>
