@@ -64,7 +64,7 @@
 <h2> <img src="http://openweathermap.org/img/w/01n.png" width="30"> Weather </h2>
 
 <p align="center">
-    The weather for me its a clear sky and the temperature is 13.52°C (56.34°F) but it actually feels like 13.28°C (55.9°F)!
+    The weather for me its a clear sky and the temperature is 13.86°C (56.95°F) but it actually feels like 13.65°C (56.57°F)!
 </p>
 <p align="center">
     The sun rise for me is at 06:42 and the sun set is at 20:24!
@@ -79,11 +79,11 @@
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1595173148/9720/dog_cute.gif?1595173148" width="30"> Dog </h2>
 
 <p align="center">
-    <img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;cockapoo&#x2F;bubbles2.jpg" height="300px">
+    <img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;sheepdog-english&#x2F;n02105641_8372.jpg" height="300px">
 </p>
 
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1500426137/2648/allo-tongue.gif?1500426137" width="30"> Joke </h2>
 
 <p align="center">
-    Chuck Norris always knows the EXACT location of Carmen SanDiego.
+    Chuck Norris is actually the front man for Apple. He let&#39;s Steve Jobs run the show when he&#39;s on a mission. Chuck Norris is always on a mission.
 </p>
