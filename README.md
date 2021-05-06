@@ -64,26 +64,26 @@
 <h2> <img src="http://openweathermap.org/img/w/01n.png" width="30"> Weather </h2>
 
 <p align="center">
-    The weather for me its a clear sky and the temperature is 17.03°C (62.65°F) but it actually feels like 17.01°C (62.62°F)!
+    The weather for me its a clear sky and the temperature is 17.14°C (62.85°F) but it actually feels like 17.13°C (62.83°F)!
 </p>
 <p align="center">
     The sun rise for me is at 06:43 and the sun set is at 20:24!
 </p>
 <p align="center">
-    The wind for me  is 4.36 meters/sec (9.75mph)!
+    The wind for me  is 3.81 meters/sec (8.52mph)!
 </p>
 <p align="center">
-    The persaintage of the sky is filled with clouds for me is 8%!
+    The persaintage of the sky is filled with clouds for me is 7%!
 </p>
 
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1595173148/9720/dog_cute.gif?1595173148" width="30"> Dog </h2>
 
 <p align="center">
-    <img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;papillon&#x2F;n02086910_4011.jpg" height="300px">
+    <img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;terrier-kerryblue&#x2F;n02093859_1852.jpg" height="300px">
 </p>
 
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1500426137/2648/allo-tongue.gif?1500426137" width="30"> Joke </h2>
 
 <p align="center">
-    MacGyver immediately tried to make a bomb out of some Q-Tips and Gatorade, but Chuck Norris roundhouse-kicked him in the solar plexus. MacGyver promptly threw up his own heart.
+    Chuck Norris&#39; favorite cereal is Kellogg&#39;s Nails &#39;N&#39; Gravel.
 </p>
