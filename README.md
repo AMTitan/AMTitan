@@ -64,7 +64,7 @@
 <h2> <img src="http://openweathermap.org/img/w/03d.png" width="30"> Weather </h2>
 
 <p align="center">
-    The weather for me its a scattered clouds and the temperature is 13.85°C (56.93°F) but it actually feels like 13.43°C (56.17°F)!
+    The weather for me its a scattered clouds and the temperature is 13.73°C (56.71°F) but it actually feels like 13.3°C (55.94°F)!
 </p>
 <p align="center">
     The sun rise for me is at 06:42 and the sun set is at 20:24!
@@ -79,11 +79,11 @@
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1595173148/9720/dog_cute.gif?1595173148" width="30"> Dog </h2>
 
 <p align="center">
-    <img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;mix&#x2F;jim_01.jpg" height="300px">
+    <img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;hound-blood&#x2F;n02088466_6834.jpg" height="300px">
 </p>
 
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1500426137/2648/allo-tongue.gif?1500426137" width="30"> Joke </h2>
 
 <p align="center">
-    Le gf: I&#39;ll dump you.Le bf: hex dump or binary dump? 
+    Chuck Norris doesn&#39;t go on the internet, he has every internet site stored in his memory. He refreshes webpages by blinking.
 </p>
