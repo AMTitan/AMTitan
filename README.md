@@ -70,7 +70,7 @@
     The sun rise for me is at 06:42 and the sun set is at 20:24!
 </p>
 <p align="center">
-    The wind for me  is 2.13 meters/sec (4.76mph)!
+    The wind for me  is 3.23 meters/sec (7.23mph)!
 </p>
 <p align="center">
     The persaintage of the sky is filled with clouds for me is 1%!
@@ -79,11 +79,11 @@
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1595173148/9720/dog_cute.gif?1595173148" width="30"> Dog </h2>
 
 <p align="center">
-    <img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;dane-great&#x2F;n02109047_12569.jpg" height="300px">
+    <img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;poodle-miniature&#x2F;n02113712_2726.jpg" height="300px">
 </p>
 
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1500426137/2648/allo-tongue.gif?1500426137" width="30"> Joke </h2>
 
 <p align="center">
-    If you spell Chuck Norris in Scrabble, you win. Forever.
+    There are no races, only countries of people Chuck Norris has beaten to different shades of black and blue.
 </p>
