@@ -64,13 +64,13 @@
 <h2> <img src="http://openweathermap.org/img/w/03n.png" width="30"> Weather </h2>
 
 <p align="center">
-    The weather for me its a scattered clouds and the temperature is 14.42°C (57.96°F) but it actually feels like 13.69°C (56.64°F)!
+    The weather for me its a scattered clouds and the temperature is 14.67°C (58.41°F) but it actually feels like 13.97°C (57.15°F)!
 </p>
 <p align="center">
     The sun rise for me is at 06:41 and the sun set is at 20:25!
 </p>
 <p align="center">
-    The wind for me  is 3.08 meters/sec (6.89mph)!
+    The wind for me  is 3.59 meters/sec (8.03mph)!
 </p>
 <p align="center">
     The persaintage of the sky is filled with clouds for me is 30%!
@@ -79,11 +79,11 @@
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1595173148/9720/dog_cute.gif?1595173148" width="30"> Dog </h2>
 
 <p align="center">
-    <img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;cotondetulear&#x2F;100_2397.jpg" height="300px">
+    <img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;retriever-curly&#x2F;n02099429_1377.jpg" height="300px">
 </p>
 
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1500426137/2648/allo-tongue.gif?1500426137" width="30"> Joke </h2>
 
 <p align="center">
-    The First Law of Thermodynamics states that energy can neither be created nor destroyed... unless it meets Chuck Norris.
+    It&#39;s widely believed that Jesus was Chuck Norris&#39; stunt double for crucifixion due to the fact that it is impossible for nails to pierce Chuck Norris&#39; skin.
 </p>
