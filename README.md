@@ -64,13 +64,13 @@
 <h2> <img src="http://openweathermap.org/img/w/03n.png" width="30"> Weather </h2>
 
 <p align="center">
-    The weather for me its a scattered clouds and the temperature is 14.48°C (58.06°F) but it actually feels like 13.79°C (56.82°F)!
+    The weather for me its a scattered clouds and the temperature is 14.13°C (57.43°F) but it actually feels like 13.37°C (56.07°F)!
 </p>
 <p align="center">
     The sun rise for me is at 06:42 and the sun set is at 20:24!
 </p>
 <p align="center">
-    The wind for me  is 7.11 meters/sec (15.9mph)!
+    The wind for me  is 0.45 meters/sec (1.01mph)!
 </p>
 <p align="center">
     The persaintage of the sky is filled with clouds for me is 25%!
@@ -79,11 +79,11 @@
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1595173148/9720/dog_cute.gif?1595173148" width="30"> Dog </h2>
 
 <p align="center">
-    <img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;pembroke&#x2F;n02113023_3167.jpg" height="300px">
+    <img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;cotondetulear&#x2F;100_2013.jpg" height="300px">
 </p>
 
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1500426137/2648/allo-tongue.gif?1500426137" width="30"> Joke </h2>
 
 <p align="center">
-    The term &#39;Cleveland Steamer&#39; got its name from Chuck Norris, when he took a dump while visiting the Rock and Roll Hall of fame and buried northern Ohio under a glacier of fecal matter.
+    Chuck Norris doesn&#39;t throw up if he drinks too much. Chuck Norris throws down!
 </p>
