@@ -64,7 +64,7 @@
 <h2> <img src="http://openweathermap.org/img/w/01d.png" width="30"> Weather </h2>
 
 <p align="center">
-    The weather for me its a clear sky and the temperature is 18.09°C (64.56°F) but it actually feels like 17.36°C (63.25°F)!
+    The weather for me its a clear sky and the temperature is 18.18°C (64.72°F) but it actually feels like 17.44°C (63.39°F)!
 </p>
 <p align="center">
     The sun rise for me is at 06:42 and the sun set is at 20:24!
@@ -79,11 +79,11 @@
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1595173148/9720/dog_cute.gif?1595173148" width="30"> Dog </h2>
 
 <p align="center">
-    <img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;bulldog-boston&#x2F;n02096585_7542.jpg" height="300px">
+    <img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;borzoi&#x2F;n02090622_7602.jpg" height="300px">
 </p>
 
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1500426137/2648/allo-tongue.gif?1500426137" width="30"> Joke </h2>
 
 <p align="center">
-    One day Chuck Norris walked down the street with a massive erection. There were no survivors.
+    Theres no place like 127.0.0.1
 </p>
