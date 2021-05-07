@@ -64,7 +64,7 @@
 <h2> <img src="http://openweathermap.org/img/w/01d.png" width="30"> Weather </h2>
 
 <p align="center">
-    The weather for me its a clear sky and the temperature is 9.4°C (48.92°F) but it actually feels like 9.4°C (48.92°F)!
+    The weather for me its a clear sky and the temperature is 9.42°C (48.96°F) but it actually feels like 9.42°C (48.96°F)!
 </p>
 <p align="center">
     The sun rise for me is at 06:41 and the sun set is at 20:25!
@@ -79,11 +79,11 @@
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1595173148/9720/dog_cute.gif?1595173148" width="30"> Dog </h2>
 
 <p align="center">
-    <img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;akita&#x2F;Japaneseakita.jpg" height="300px">
+    <img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;terrier-bedlington&#x2F;n02093647_534.jpg" height="300px">
 </p>
 
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1500426137/2648/allo-tongue.gif?1500426137" width="30"> Joke </h2>
 
 <p align="center">
-    Movie trivia: The movie &#39;Invasion U.S.A.&#39; is, in fact, a documentary.
+    Tom Clancy has to pay royalties to Chuck Norris because &#39;The Sum of All Fears&#39; is the name of Chuck Norris&#39; autobiography.
 </p>
