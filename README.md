@@ -64,7 +64,7 @@
 <h2> <img src="http://openweathermap.org/img/w/01n.png" width="30"> Weather </h2>
 
 <p align="center">
-    The weather for me its a clear sky and the temperature is 7.66°C (45.79°F) but it actually feels like 6.69°C (44.04°F)!
+    The weather for me its a clear sky and the temperature is 7.35°C (45.23°F) but it actually feels like 6.33°C (43.39°F)!
 </p>
 <p align="center">
     The sun rise for me is at 06:40 and the sun set is at 20:26!
@@ -79,11 +79,11 @@
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1595173148/9720/dog_cute.gif?1595173148" width="30"> Dog </h2>
 
 <p align="center">
-    <img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;terrier-tibetan&#x2F;n02097474_6671.jpg" height="300px">
+    <img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;pitbull&#x2F;20190710_143021.jpg" height="300px">
 </p>
 
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1500426137/2648/allo-tongue.gif?1500426137" width="30"> Joke </h2>
 
 <p align="center">
-    182,000 Americans die from Chuck Norris-related accidents every year.
+    Rules of fighting: 1) Don&#39;t bring a knife to a gun fight. 2) Don&#39;t bring a gun to a Chuck Norris fight.
 </p>
