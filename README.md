@@ -64,7 +64,7 @@
 <h2> <img src="http://openweathermap.org/img/w/01n.png" width="30"> Weather </h2>
 
 <p align="center">
-    The weather for me its a clear sky and the temperature is 7.74°C (45.93°F) but it actually feels like 6.78°C (44.2°F)!
+    The weather for me its a clear sky and the temperature is 7.67°C (45.81°F) but it actually feels like 6.7°C (44.06°F)!
 </p>
 <p align="center">
     The sun rise for me is at 06:40 and the sun set is at 20:26!
@@ -79,11 +79,11 @@
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1595173148/9720/dog_cute.gif?1595173148" width="30"> Dog </h2>
 
 <p align="center">
-    <img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;cotondetulear&#x2F;IMG_20160830_202631573.jpg" height="300px">
+    <img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;dane-great&#x2F;dane-4.jpg" height="300px">
 </p>
 
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1500426137/2648/allo-tongue.gif?1500426137" width="30"> Joke </h2>
 
 <p align="center">
-    To err is human – and to blame it on a computer is even more so.
+    Erik Naggum: “Microsoft is not the answer. Microsoft is the question. NO is the answer.”
 </p>
