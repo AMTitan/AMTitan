@@ -64,7 +64,7 @@
 <h2> <img src="http://openweathermap.org/img/w/01n.png" width="30"> Weather </h2>
 
 <p align="center">
-    The weather for me its a clear sky and the temperature is 8.01°C (46.42°F) but it actually feels like 7.15°C (44.87°F)!
+    The weather for me its a clear sky and the temperature is 7.98°C (46.36°F) but it actually feels like 7.12°C (44.82°F)!
 </p>
 <p align="center">
     The sun rise for me is at 06:40 and the sun set is at 20:26!
@@ -79,11 +79,11 @@
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1595173148/9720/dog_cute.gif?1595173148" width="30"> Dog </h2>
 
 <p align="center">
-    <img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;frise-bichon&#x2F;1.jpg" height="300px">
+    <img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;terrier-australian&#x2F;n02096294_459.jpg" height="300px">
 </p>
 
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1500426137/2648/allo-tongue.gif?1500426137" width="30"> Joke </h2>
 
 <p align="center">
-    Chuck Norris invented the internet? just so he had a place to store his porn.
+    They say curiosity killed the cat. This is false. Chuck Norris killed the cat. Every single one of them.
 </p>
