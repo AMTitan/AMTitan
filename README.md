@@ -64,7 +64,7 @@
 <h2> <img src="http://openweathermap.org/img/w/04d.png" width="30"> Weather </h2>
 
 <p align="center">
-    The weather for me its a broken clouds and the temperature is 12.3°C (54.14°F) but it actually feels like 11.39°C (52.5°F)!
+    The weather for me its a broken clouds and the temperature is 12.54°C (54.57°F) but it actually feels like 11.65°C (52.97°F)!
 </p>
 <p align="center">
     The sun rise for me is at 06:40 and the sun set is at 20:26!
@@ -79,11 +79,11 @@
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1595173148/9720/dog_cute.gif?1595173148" width="30"> Dog </h2>
 
 <p align="center">
-    <img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;terrier-silky&#x2F;n02097658_1567.jpg" height="300px">
+    <img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;entlebucher&#x2F;n02108000_620.jpg" height="300px">
 </p>
 
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1500426137/2648/allo-tongue.gif?1500426137" width="30"> Joke </h2>
 
 <p align="center">
-    President Roosevelt once rode his horse 100 miles. Chuck Norris carried his the same distance in half the time.
+    Chuck Norris has a deep and abiding respect for human life... unless it gets in his way.
 </p>
