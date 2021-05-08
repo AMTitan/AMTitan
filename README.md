@@ -64,26 +64,26 @@
 <h2> <img src="http://openweathermap.org/img/w/04d.png" width="30"> Weather </h2>
 
 <p align="center">
-    The weather for me its a overcast clouds and the temperature is 17.38°C (63.28°F) but it actually feels like 16.69°C (62.04°F)!
+    The weather for me its a overcast clouds and the temperature is 17.32°C (63.18°F) but it actually feels like 16.28°C (61.3°F)!
 </p>
 <p align="center">
     The sun rise for me is at 06:40 and the sun set is at 20:26!
 </p>
 <p align="center">
-    The wind for me  is 2.52 meters/sec (5.64mph)!
+    The wind for me  is 2.06 meters/sec (4.61mph)!
 </p>
 <p align="center">
-    The persaintage of the sky is filled with clouds for me is 85%!
+    The persaintage of the sky is filled with clouds for me is 90%!
 </p>
 
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1595173148/9720/dog_cute.gif?1595173148" width="30"> Dog </h2>
 
 <p align="center">
-    <img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;african&#x2F;n02116738_1097.jpg" height="300px">
+    <img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;coonhound&#x2F;n02089078_3759.jpg" height="300px">
 </p>
 
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1500426137/2648/allo-tongue.gif?1500426137" width="30"> Joke </h2>
 
 <p align="center">
-    When you&#39;re Chuck Norris, anything + anything is equal to 1. One roundhouse kick to the face.
+    Microsoft: “You’ve got questions. We’ve got dancing paperclips.”
 </p>
