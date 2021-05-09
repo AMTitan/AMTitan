@@ -64,7 +64,7 @@
 <h2> <img src="http://openweathermap.org/img/w/04d.png" width="30"> Weather </h2>
 
 <p align="center">
-    The weather for me its a broken clouds and the temperature is 28.01°C (82.42°F) but it actually feels like 27.89°C (82.2°F)!
+    The weather for me its a broken clouds and the temperature is 27.76°C (81.97°F) but it actually feels like 27.66°C (81.79°F)!
 </p>
 <p align="center">
     The sun rise for me is at 06:40 and the sun set is at 20:27!
@@ -79,11 +79,11 @@
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1595173148/9720/dog_cute.gif?1595173148" width="30"> Dog </h2>
 
 <p align="center">
-    <img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;havanese&#x2F;00100trPORTRAIT_00100_BURST20191103202017556_COVER.jpg" height="300px">
+    <img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;corgi-cardigan&#x2F;n02113186_4976.jpg" height="300px">
 </p>
 
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1500426137/2648/allo-tongue.gif?1500426137" width="30"> Joke </h2>
 
 <p align="center">
-    If you ask Chuck Norris what time it is, he always answers &#39;Two seconds till&#39;. After you ask &#39;Two seconds to what?&#39;, he roundhouse kicks you in the face.
+    Chuck Norris does not eat. Food understands that the only safe haven from Chuck Norris&#39; fists is inside his own body.
 </p>
