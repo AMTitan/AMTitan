@@ -64,26 +64,26 @@
 <h2> <img src="http://openweathermap.org/img/w/02n.png" width="30"> Weather </h2>
 
 <p align="center">
-    The weather for me its a few clouds and the temperature is 10.95°C (51.71°F) but it actually feels like 10.45°C (50.81°F)!
+    The weather for me its a few clouds and the temperature is 10.72°C (51.3°F) but it actually feels like 10.2°C (50.36°F)!
 </p>
 <p align="center">
     The sun rise for me is at 06:40 and the sun set is at 20:27!
 </p>
 <p align="center">
-    The wind for me  is 1.36 meters/sec (3.04mph)!
+    The wind for me  is 1.28 meters/sec (2.86mph)!
 </p>
 <p align="center">
-    The persaintage of the sky is filled with clouds for me is 13%!
+    The persaintage of the sky is filled with clouds for me is 12%!
 </p>
 
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1595173148/9720/dog_cute.gif?1595173148" width="30"> Dog </h2>
 
 <p align="center">
-    <img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;maltese&#x2F;n02085936_10719.jpg" height="300px">
+    <img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;buhund-norwegian&#x2F;hakon1.jpg" height="300px">
 </p>
 
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1500426137/2648/allo-tongue.gif?1500426137" width="30"> Joke </h2>
 
 <p align="center">
-    Chuck Norris has never been accused of murder because his roundhouse kicks are recognized as &#39;acts of God.&#39;
+    &#39;It works on my machine&#39; always holds true for Chuck Norris.
 </p>
