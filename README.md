@@ -64,10 +64,10 @@
 <h2> <img src="http://openweathermap.org/img/w/03n.png" width="30"> Weather </h2>
 
 <p align="center">
-    The weather for me its a scattered clouds and the temperature is 13.04°C (55.47°F) but it actually feels like 12.62°C (54.72°F)!
+    The weather for me its a scattered clouds and the temperature is 13.05°C (55.49°F) but it actually feels like 12.63°C (54.73°F)!
 </p>
 <p align="center">
-    The sun rise for me is at 06:40 and the sun set is at 20:27!
+    The sun rise for me is at 06:40 and the sun set is at 20:26!
 </p>
 <p align="center">
     The wind for me  is 1.14 meters/sec (2.55mph)!
@@ -79,11 +79,11 @@
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1595173148/9720/dog_cute.gif?1595173148" width="30"> Dog </h2>
 
 <p align="center">
-    <img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;otterhound&#x2F;n02091635_1302.jpg" height="300px">
+    <img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;papillon&#x2F;n02086910_1971.jpg" height="300px">
 </p>
 
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1500426137/2648/allo-tongue.gif?1500426137" width="30"> Joke </h2>
 
 <p align="center">
-    While urinating, Chuck Norris is easily capable of welding titanium.
+    NT is the only OS that has caused me to beat a piece of hardware to death with my bare hands.
 </p>
