@@ -64,7 +64,7 @@
 <h2> <img src="http://openweathermap.org/img/w/04d.png" width="30"> Weather </h2>
 
 <p align="center">
-    The weather for me its a overcast clouds and the temperature is 21.28°C (70.3°F) but it actually feels like 21.55°C (70.79°F)!
+    The weather for me its a overcast clouds and the temperature is 21.37°C (70.47°F) but it actually feels like 21.65°C (70.97°F)!
 </p>
 <p align="center">
     The sun rise for me is at 06:39 and the sun set is at 20:28!
@@ -79,11 +79,11 @@
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1595173148/9720/dog_cute.gif?1595173148" width="30"> Dog </h2>
 
 <p align="center">
-    <img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;entlebucher&#x2F;n02108000_1112.jpg" height="300px">
+    <img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;hound-ibizan&#x2F;n02091244_3864.jpg" height="300px">
 </p>
 
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1500426137/2648/allo-tongue.gif?1500426137" width="30"> Joke </h2>
 
 <p align="center">
-    Chuck Norris had to stop washing his clothes in the ocean. The tsunamis were killing people.
+    Chuck Norris&#39;s first program was kill -9.
 </p>
