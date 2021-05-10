@@ -64,13 +64,13 @@
 <h2> <img src="http://openweathermap.org/img/w/10d.png" width="30"> Weather </h2>
 
 <p align="center">
-    The weather for me its a light rain and the temperature is 16.18°C (61.12°F) but it actually feels like 16.41°C (61.54°F)!
+    The weather for me its a light rain and the temperature is 16.21°C (61.18°F) but it actually feels like 16.45°C (61.61°F)!
 </p>
 <p align="center">
     The sun rise for me is at 06:39 and the sun set is at 20:28!
 </p>
 <p align="center">
-    The wind for me  is 2.9 meters/sec (6.49mph)!
+    The wind for me  is 1.53 meters/sec (3.42mph)!
 </p>
 <p align="center">
     The persaintage of the sky is filled with clouds for me is 100%!
@@ -79,11 +79,11 @@
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1595173148/9720/dog_cute.gif?1595173148" width="30"> Dog </h2>
 
 <p align="center">
-    <img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;collie-border&#x2F;n02106166_1055.jpg" height="300px">
+    <img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;terrier-kerryblue&#x2F;n02093859_161.jpg" height="300px">
 </p>
 
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1500426137/2648/allo-tongue.gif?1500426137" width="30"> Joke </h2>
 
 <p align="center">
-    Mr. T pities the fool. Chuck Norris rips the fool&#39;s head off.
+    Chuck Norris does not own a house. He walks into random houses and people move.
 </p>
