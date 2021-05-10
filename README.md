@@ -79,11 +79,11 @@
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1595173148/9720/dog_cute.gif?1595173148" width="30"> Dog </h2>
 
 <p align="center">
-    <img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;deerhound-scottish&#x2F;n02092002_817.jpg" height="300px">
+    <img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;malinois&#x2F;n02105162_6236.jpg" height="300px">
 </p>
 
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1500426137/2648/allo-tongue.gif?1500426137" width="30"> Joke </h2>
 
 <p align="center">
-    Chuck Norris is the only person to ever win a staring contest against Ray Charles and Stevie Wonder.
+    When you play Monopoly with Chuck Norris, you do not pass go, and you do not collect two hundred dollars. You will be lucky if you make it out alive.
 </p>
