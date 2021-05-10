@@ -64,13 +64,13 @@
 <h2> <img src="http://openweathermap.org/img/w/04d.png" width="30"> Weather </h2>
 
 <p align="center">
-    The weather for me its a overcast clouds and the temperature is 17.46°C (63.43°F) but it actually feels like 17.82°C (64.08°F)!
+    The weather for me its a overcast clouds and the temperature is 17.8°C (64.04°F) but it actually feels like 18.17°C (64.71°F)!
 </p>
 <p align="center">
     The sun rise for me is at 06:39 and the sun set is at 20:28!
 </p>
 <p align="center">
-    The wind for me  is 0.45 meters/sec (1.01mph)!
+    The wind for me  is 3.44 meters/sec (7.7mph)!
 </p>
 <p align="center">
     The persaintage of the sky is filled with clouds for me is 100%!
@@ -79,11 +79,11 @@
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1595173148/9720/dog_cute.gif?1595173148" width="30"> Dog </h2>
 
 <p align="center">
-    <img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;bullterrier-staffordshire&#x2F;n02093256_11836.jpg" height="300px">
+    <img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;retriever-chesapeake&#x2F;n02099849_1575.jpg" height="300px">
 </p>
 
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1500426137/2648/allo-tongue.gif?1500426137" width="30"> Joke </h2>
 
 <p align="center">
-    Wilt Chamberlain claims to have slept with more than 20,000 women in his lifetime. Chuck Norris calls this &#39;a slow Tuesday.&#39;
+    Chuck Norris programs do not accept input.
 </p>
