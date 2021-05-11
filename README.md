@@ -64,7 +64,7 @@
 <h2> <img src="http://openweathermap.org/img/w/03n.png" width="30"> Weather </h2>
 
 <p align="center">
-    The weather for me its a scattered clouds and the temperature is 15.56°C (60.01°F) but it actually feels like 15.68°C (60.22°F)!
+    The weather for me its a scattered clouds and the temperature is 15.47°C (59.85°F) but it actually feels like 15.58°C (60.04°F)!
 </p>
 <p align="center">
     The sun rise for me is at 06:38 and the sun set is at 20:28!
@@ -79,11 +79,11 @@
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1595173148/9720/dog_cute.gif?1595173148" width="30"> Dog </h2>
 
 <p align="center">
-    <img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;terrier-bedlington&#x2F;n02093647_3166.jpg" height="300px">
+    <img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;basenji&#x2F;n02110806_3827.jpg" height="300px">
 </p>
 
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1500426137/2648/allo-tongue.gif?1500426137" width="30"> Joke </h2>
 
 <p align="center">
-    Coroners refer to dead people as &#39;ABC&#39;s&#39;. Already Been Chucked.
+    Chuck Norris doesn&#39;t use a computer because a computer does everything slower than Chuck Norris.
 </p>
