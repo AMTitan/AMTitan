@@ -64,7 +64,7 @@
 <h2> <img src="http://openweathermap.org/img/w/04d.png" width="30"> Weather </h2>
 
 <p align="center">
-    The weather for me its a overcast clouds and the temperature is 22.16°C (71.89°F) but it actually feels like 22.34°C (72.21°F)!
+    The weather for me its a overcast clouds and the temperature is 22.11°C (71.8°F) but it actually feels like 22.28°C (72.1°F)!
 </p>
 <p align="center">
     The sun rise for me is at 06:38 and the sun set is at 20:28!
@@ -79,11 +79,11 @@
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1595173148/9720/dog_cute.gif?1595173148" width="30"> Dog </h2>
 
 <p align="center">
-    <img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;terrier-wheaten&#x2F;n02098105_1837.jpg" height="300px">
+    <img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;kuvasz&#x2F;n02104029_4672.jpg" height="300px">
 </p>
 
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1500426137/2648/allo-tongue.gif?1500426137" width="30"> Joke </h2>
 
 <p align="center">
-    Every SQL statement that Chuck Norris codes has an implicit &#39;COMMIT&#39; in its end.
+    A foo walks into a bar, takes a look around and says &#39;Hello World!&#39;.
 </p>
