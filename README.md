@@ -70,20 +70,20 @@
     The sun rise for me is at 06:38 and the sun set is at 20:28!
 </p>
 <p align="center">
-    The wind for me  is 1.9 meters/sec (4.25mph)!
+    The wind for me  is 1.91 meters/sec (4.27mph)!
 </p>
 <p align="center">
-    The persaintage of the sky is filled with clouds for me is 29%!
+    The persaintage of the sky is filled with clouds for me is 33%!
 </p>
 
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1595173148/9720/dog_cute.gif?1595173148" width="30"> Dog </h2>
 
 <p align="center">
-    <img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;entlebucher&#x2F;n02108000_191.jpg" height="300px">
+    <img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;basenji&#x2F;n02110806_2926.jpg" height="300px">
 </p>
 
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1500426137/2648/allo-tongue.gif?1500426137" width="30"> Joke </h2>
 
 <p align="center">
-    How does a Programmer COok food ? In O(1)
+    Chuck Norris can instantiate an abstract class.
 </p>
