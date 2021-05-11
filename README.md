@@ -64,7 +64,7 @@
 <h2> <img src="http://openweathermap.org/img/w/03n.png" width="30"> Weather </h2>
 
 <p align="center">
-    The weather for me its a scattered clouds and the temperature is 16.48°C (61.66°F) but it actually feels like 16.69°C (62.04°F)!
+    The weather for me its a scattered clouds and the temperature is 16.39°C (61.5°F) but it actually feels like 16.59°C (61.86°F)!
 </p>
 <p align="center">
     The sun rise for me is at 06:38 and the sun set is at 20:28!
@@ -79,11 +79,11 @@
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1595173148/9720/dog_cute.gif?1595173148" width="30"> Dog </h2>
 
 <p align="center">
-    <img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;dachshund&#x2F;Daschund-2.jpg" height="300px">
+    <img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;akita&#x2F;512px-Ainu-Dog.jpg" height="300px">
 </p>
 
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1500426137/2648/allo-tongue.gif?1500426137" width="30"> Joke </h2>
 
 <p align="center">
-    The pen is mighter than the sword, but only if the pen is held by Chuck Norris.
+    Simply by pulling on both ends, Chuck Norris can stretch diamonds back into coal.
 </p>
