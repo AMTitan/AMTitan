@@ -64,10 +64,10 @@
 <h2> <img src="http://openweathermap.org/img/w/04n.png" width="30"> Weather </h2>
 
 <p align="center">
-    The weather for me its a overcast clouds and the temperature is 16.59°C (61.86°F) but it actually feels like 16.71°C (62.08°F)!
+    The weather for me its a overcast clouds and the temperature is 16.54°C (61.77°F) but it actually feels like 16.65°C (61.97°F)!
 </p>
 <p align="center">
-    The sun rise for me is at 06:38 and the sun set is at 20:28!
+    The sun rise for me is at 06:37 and the sun set is at 20:29!
 </p>
 <p align="center">
     The wind for me  is 1.22 meters/sec (2.73mph)!
@@ -79,11 +79,11 @@
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1595173148/9720/dog_cute.gif?1595173148" width="30"> Dog </h2>
 
 <p align="center">
-    <img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;corgi-cardigan&#x2F;n02113186_11446.jpg" height="300px">
+    <img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;terrier-bedlington&#x2F;n02093647_2747.jpg" height="300px">
 </p>
 
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1500426137/2648/allo-tongue.gif?1500426137" width="30"> Joke </h2>
 
 <p align="center">
-    To be or not to be? That is the question. The answer? Chuck Norris.
+    Chuck Norris is not hung like a horse. Horses are hung like Chuck Norris.
 </p>
