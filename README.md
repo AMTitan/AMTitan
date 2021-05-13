@@ -64,26 +64,26 @@
 <h2> <img src="http://openweathermap.org/img/w/04d.png" width="30"> Weather </h2>
 
 <p align="center">
-    The weather for me its a broken clouds and the temperature is 19.27°C (66.69°F) but it actually feels like 18.51°C (65.32°F)!
+    The weather for me its a broken clouds and the temperature is 18.98°C (66.16°F) but it actually feels like 18.19°C (64.74°F)!
 </p>
 <p align="center">
     The sun rise for me is at 06:36 and the sun set is at 20:30!
 </p>
 <p align="center">
-    The wind for me  is 1.1 meters/sec (2.46mph)!
+    The wind for me  is 1.09 meters/sec (2.44mph)!
 </p>
 <p align="center">
-    The persaintage of the sky is filled with clouds for me is 54%!
+    The persaintage of the sky is filled with clouds for me is 63%!
 </p>
 
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1595173148/9720/dog_cute.gif?1595173148" width="30"> Dog </h2>
 
 <p align="center">
-    <img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;mexicanhairless&#x2F;n02113978_838.jpg" height="300px">
+    <img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;dane-great&#x2F;n02109047_12899.jpg" height="300px">
 </p>
 
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1500426137/2648/allo-tongue.gif?1500426137" width="30"> Joke </h2>
 
 <p align="center">
-    Chuck Norris is the only human being to display the Heisenberg uncertainty principle - you can never know both exactly where and how quickly he will roundhouse-kick you in the face.
+    When Chuck Norris throws exceptions, it&#39;s across the room.
 </p>
