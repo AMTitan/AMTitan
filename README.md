@@ -64,26 +64,26 @@
 <h2> <img src="http://openweathermap.org/img/w/04d.png" width="30"> Weather </h2>
 
 <p align="center">
-    The weather for me its a broken clouds and the temperature is 7.4°C (45.32°F) but it actually feels like 7.4°C (45.32°F)!
+    The weather for me its a broken clouds and the temperature is 7.7°C (45.86°F) but it actually feels like 7.11°C (44.8°F)!
 </p>
 <p align="center">
     The sun rise for me is at 06:36 and the sun set is at 20:30!
 </p>
 <p align="center">
-    The wind for me  is 1.07 meters/sec (2.39mph)!
+    The wind for me  is 1.43 meters/sec (3.2mph)!
 </p>
 <p align="center">
-    The persaintage of the sky is filled with clouds for me is 70%!
+    The persaintage of the sky is filled with clouds for me is 66%!
 </p>
 
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1595173148/9720/dog_cute.gif?1595173148" width="30"> Dog </h2>
 
 <p align="center">
-    <img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;sheepdog-shetland&#x2F;n02105855_15820.jpg" height="300px">
+    <img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;boxer&#x2F;n02108089_1031.jpg" height="300px">
 </p>
 
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1500426137/2648/allo-tongue.gif?1500426137" width="30"> Joke </h2>
 
 <p align="center">
-    In a tagteam match, Chuck Norris was teamed with Hulk Hogan against King Kong Bundy and Andre The Giant. He pinned all 3 at the same time.
+    Do you have a girlfriend? I will leave the relationship to the databases
 </p>
