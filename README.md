@@ -64,7 +64,7 @@
 <h2> <img src="http://openweathermap.org/img/w/02d.png" width="30"> Weather </h2>
 
 <p align="center">
-    The weather for me its a few clouds and the temperature is 14.14°C (57.45°F) but it actually feels like 13.02°C (55.44°F)!
+    The weather for me its a few clouds and the temperature is 14.02°C (57.24°F) but it actually feels like 12.89°C (55.2°F)!
 </p>
 <p align="center">
     The sun rise for me is at 06:36 and the sun set is at 20:30!
@@ -79,11 +79,11 @@
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1595173148/9720/dog_cute.gif?1595173148" width="30"> Dog </h2>
 
 <p align="center">
-    <img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;pointer-german&#x2F;n02100236_4288.jpg" height="300px">
+    <img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;dachshund&#x2F;Stretched_Dachshund.jpg" height="300px">
 </p>
 
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1500426137/2648/allo-tongue.gif?1500426137" width="30"> Joke </h2>
 
 <p align="center">
-    Project managers never ask Chuck Norris for estimations... ever.
+    Since 1940, the year Chuck Norris was born, roundhouse kick related deaths have increased 13,000 percent.
 </p>
