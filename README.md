@@ -64,13 +64,13 @@
 <h2> <img src="http://openweathermap.org/img/w/04n.png" width="30"> Weather </h2>
 
 <p align="center">
-    The weather for me its a overcast clouds and the temperature is 7.78°C (46°F) but it actually feels like 7.78°C (46°F)!
+    The weather for me its a overcast clouds and the temperature is 7.76°C (45.97°F) but it actually feels like 5.81°C (42.46°F)!
 </p>
 <p align="center">
     The sun rise for me is at 06:37 and the sun set is at 20:29!
 </p>
 <p align="center">
-    The wind for me  is 0.45 meters/sec (1.01mph)!
+    The wind for me  is 3.01 meters/sec (6.73mph)!
 </p>
 <p align="center">
     The persaintage of the sky is filled with clouds for me is 91%!
@@ -79,11 +79,11 @@
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1595173148/9720/dog_cute.gif?1595173148" width="30"> Dog </h2>
 
 <p align="center">
-    <img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;setter-english&#x2F;n02100735_10211.jpg" height="300px">
+    <img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;mastiff-bull&#x2F;n02108422_1879.jpg" height="300px">
 </p>
 
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1500426137/2648/allo-tongue.gif?1500426137" width="30"> Joke </h2>
 
 <p align="center">
-    All browsers support the hex definitions #chuck and #norris for the colors black and blue.
+    Chuck Norris&#39;s keyboard doesn&#39;t have a Ctrl key because nothing controls Chuck Norris.
 </p>
