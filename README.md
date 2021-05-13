@@ -64,7 +64,7 @@
 <h2> <img src="http://openweathermap.org/img/w/02d.png" width="30"> Weather </h2>
 
 <p align="center">
-    The weather for me its a few clouds and the temperature is 19.87°C (67.77°F) but it actually feels like 18.98°C (66.16°F)!
+    The weather for me its a few clouds and the temperature is 20.54°C (68.97°F) but it actually feels like 19.75°C (67.55°F)!
 </p>
 <p align="center">
     The sun rise for me is at 06:36 and the sun set is at 20:30!
@@ -79,11 +79,11 @@
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1595173148/9720/dog_cute.gif?1595173148" width="30"> Dog </h2>
 
 <p align="center">
-    <img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;greyhound-italian&#x2F;n02091032_4705.jpg" height="300px">
+    <img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;briard&#x2F;n02105251_5630.jpg" height="300px">
 </p>
 
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1500426137/2648/allo-tongue.gif?1500426137" width="30"> Joke </h2>
 
 <p align="center">
-    As President Roosevelt said: &#39;We have nothing to fear but fear itself. And Chuck Norris.&#39;
+    Chuck Norris once shat blood - the blood of 11,940 natives he had killed and eaten.
 </p>
