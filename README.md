@@ -64,7 +64,7 @@
 <h2> <img src="http://openweathermap.org/img/w/01d.png" width="30"> Weather </h2>
 
 <p align="center">
-    The weather for me its a clear sky and the temperature is 20.74°C (69.33°F) but it actually feels like 20.2°C (68.36°F)!
+    The weather for me its a clear sky and the temperature is 20.7°C (69.26°F) but it actually feels like 20.16°C (68.29°F)!
 </p>
 <p align="center">
     The sun rise for me is at 06:36 and the sun set is at 20:31!
@@ -79,11 +79,11 @@
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1595173148/9720/dog_cute.gif?1595173148" width="30"> Dog </h2>
 
 <p align="center">
-    <img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;terrier-kerryblue&#x2F;n02093859_773.jpg" height="300px">
+    <img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;hound-english&#x2F;n02089973_2681.jpg" height="300px">
 </p>
 
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1500426137/2648/allo-tongue.gif?1500426137" width="30"> Joke </h2>
 
 <p align="center">
-    Most tough men eat nails for breakfast. Chuck Norris does all of his grocery shopping at Home Depot.
+    Chuck Norris kills anyone that asks: &#39;Do you want fries with that?&#39;. Because by now everyone should know that Chuck doesn&#39;t want fries with anything. Ever.
 </p>
