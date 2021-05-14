@@ -64,7 +64,7 @@
 <h2> <img src="http://openweathermap.org/img/w/03d.png" width="30"> Weather </h2>
 
 <p align="center">
-    The weather for me its a scattered clouds and the temperature is 10.95°C (51.71°F) but it actually feels like 10.63°C (51.13°F)!
+    The weather for me its a scattered clouds and the temperature is 10.94°C (51.69°F) but it actually feels like 10.62°C (51.12°F)!
 </p>
 <p align="center">
     The sun rise for me is at 06:36 and the sun set is at 20:31!
@@ -79,11 +79,11 @@
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1595173148/9720/dog_cute.gif?1595173148" width="30"> Dog </h2>
 
 <p align="center">
-    <img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;ovcharka-caucasian&#x2F;IMG_20190611_152047.jpg" height="300px">
+    <img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;chow&#x2F;n02112137_6160.jpg" height="300px">
 </p>
 
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1500426137/2648/allo-tongue.gif?1500426137" width="30"> Joke </h2>
 
 <p align="center">
-    When taking the SAT, write &#39;Chuck Norris&#39; for every answer. You will score over 8000.
+    Fact: Chuck Norris doesn&#39;t consider it sex if the woman survives.
 </p>
