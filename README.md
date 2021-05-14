@@ -64,26 +64,26 @@
 <h2> <img src="http://openweathermap.org/img/w/04d.png" width="30"> Weather </h2>
 
 <p align="center">
-    The weather for me its a broken clouds and the temperature is 21.84°C (71.31°F) but it actually feels like 21.28°C (70.3°F)!
+    The weather for me its a broken clouds and the temperature is 21.76°C (71.17°F) but it actually feels like 21.01°C (69.82°F)!
 </p>
 <p align="center">
     The sun rise for me is at 06:36 and the sun set is at 20:31!
 </p>
 <p align="center">
-    The wind for me  is 0.45 meters/sec (1.01mph)!
+    The wind for me  is 3.4 meters/sec (7.61mph)!
 </p>
 <p align="center">
-    The persaintage of the sky is filled with clouds for me is 75%!
+    The persaintage of the sky is filled with clouds for me is 73%!
 </p>
 
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1595173148/9720/dog_cute.gif?1595173148" width="30"> Dog </h2>
 
 <p align="center">
-    <img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;leonberg&#x2F;n02111129_1661.jpg" height="300px">
+    <img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;setter-english&#x2F;n02100735_2464.jpg" height="300px">
 </p>
 
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1500426137/2648/allo-tongue.gif?1500426137" width="30"> Joke </h2>
 
 <p align="center">
-    The class object inherits from Chuck Norris
+    For some, the left testicle is larger than the right one. For Chuck Norris, each testicle is larger than the other one.
 </p>
