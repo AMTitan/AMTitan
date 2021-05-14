@@ -1,4 +1,4 @@
-# <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> My name is Arthur Melton and I have ![Profile View Counter](https://komarev.com/ghpvc/?username=AMTitan) (Last updated on Friday, 14 May, 08:36 GMT-4).
+# <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> My name is Arthur Melton and I have ![Profile View Counter](https://komarev.com/ghpvc/?username=AMTitan) (Last updated on Friday, 14 May, 08:37 GMT-4).
 
 <h3> <img src="https://emojis.slackmojis.com/emojis/images/1581539211/7808/party-blob.gif?1581539211" width="30"/> About Me </h3>
 
@@ -61,29 +61,29 @@
     <img style="width:100%" src="https://github-readme-stats.vercel.app/api/wakatime?username=AMTitan&layout=compact&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" />
 </p>
 
-<h2> <img src="http://openweathermap.org/img/w/03d.png" width="30"> Weather </h2>
+<h2> <img src="http://openweathermap.org/img/w/01d.png" width="30"> Weather </h2>
 
 <p align="center">
-    The weather for me its a scattered clouds and the temperature is 11.31°C (52.36°F) but it actually feels like 10.98°C (51.76°F)!
+    The weather for me its a clear sky and the temperature is 12.35°C (54.23°F) but it actually feels like 12.04°C (53.67°F)!
 </p>
 <p align="center">
     The sun rise for me is at 06:36 and the sun set is at 20:31!
 </p>
 <p align="center">
-    The wind for me  is 1.86 meters/sec (4.16mph)!
+    The wind for me  is 2.37 meters/sec (5.3mph)!
 </p>
 <p align="center">
-    The persaintage of the sky is filled with clouds for me is 26%!
+    The persaintage of the sky is filled with clouds for me is 0%!
 </p>
 
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1595173148/9720/dog_cute.gif?1595173148" width="30"> Dog </h2>
 
 <p align="center">
-    <img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;buhund-norwegian&#x2F;hakon3.jpg" height="300px">
+    <img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;pembroke&#x2F;n02113023_6655.jpg" height="300px">
 </p>
 
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1500426137/2648/allo-tongue.gif?1500426137" width="30"> Joke </h2>
 
 <p align="center">
-    Chuck Norris once round-house kicked a salesman. Over the phone.
+    Jack Bauer tried to use his detailed knowledge of torture techniques, but to no avail: Chuck Norris thrives on pain. Chuck Norris then ripped off Jack Bauer&#39;s arm and beat him to death with it. Game, set, match.
 </p>
