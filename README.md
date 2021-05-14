@@ -64,26 +64,26 @@
 <h2> <img src="http://openweathermap.org/img/w/04n.png" width="30"> Weather </h2>
 
 <p align="center">
-    The weather for me its a broken clouds and the temperature is 11.65°C (52.97°F) but it actually feels like 11.17°C (52.11°F)!
+    The weather for me its a broken clouds and the temperature is 11.77°C (53.19°F) but it actually feels like 11.27°C (52.29°F)!
 </p>
 <p align="center">
     The sun rise for me is at 06:36 and the sun set is at 20:31!
 </p>
 <p align="center">
-    The wind for me  is 0.68 meters/sec (1.52mph)!
+    The wind for me  is 1.36 meters/sec (3.04mph)!
 </p>
 <p align="center">
-    The persaintage of the sky is filled with clouds for me is 80%!
+    The persaintage of the sky is filled with clouds for me is 72%!
 </p>
 
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1595173148/9720/dog_cute.gif?1595173148" width="30"> Dog </h2>
 
 <p align="center">
-    <img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;airedale&#x2F;n02096051_8096.jpg" height="300px">
+    <img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;terrier-westhighland&#x2F;n02098286_4362.jpg" height="300px">
 </p>
 
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1500426137/2648/allo-tongue.gif?1500426137" width="30"> Joke </h2>
 
 <p align="center">
-    Chuck Norris never goes to the dentist because his teeth are unbreakable. His enemies never go to the dentist because they have no teeth.
+    Chuck Norris was once in a knife fight, and the knife lost.
 </p>
