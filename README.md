@@ -64,7 +64,7 @@
 <h2> <img src="http://openweathermap.org/img/w/04d.png" width="30"> Weather </h2>
 
 <p align="center">
-    The weather for me its a broken clouds and the temperature is 21.65°C (70.97°F) but it actually feels like 20.97°C (69.75°F)!
+    The weather for me its a broken clouds and the temperature is 21.77°C (71.19°F) but it actually feels like 21.1°C (69.98°F)!
 </p>
 <p align="center">
     The sun rise for me is at 06:36 and the sun set is at 20:31!
@@ -79,11 +79,11 @@
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1595173148/9720/dog_cute.gif?1595173148" width="30"> Dog </h2>
 
 <p align="center">
-    <img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;terrier-patterdale&#x2F;patterdale-terrier-1330018870tnN.jpg" height="300px">
+    <img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;pug&#x2F;n02110958_14711.jpg" height="300px">
 </p>
 
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1500426137/2648/allo-tongue.gif?1500426137" width="30"> Joke </h2>
 
 <p align="center">
-    Chuck Norris eats beef jerky and craps gunpowder. Then, he uses that gunpowder to make a bullet, which he uses to kill a cow and make more beef jerky. Some people refer to this as the &#39;Circle of Life.&#39;
+    Nobody doesn&#39;t like Sara Lee. Except Chuck Norris.
 </p>
