@@ -1,4 +1,4 @@
-# <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> My name is Arthur Melton and I have ![Profile View Counter](https://komarev.com/ghpvc/?username=AMTitan) (Last updated on Friday, 14 May, 07:31 GMT-4).
+# <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> My name is Arthur Melton and I have ![Profile View Counter](https://komarev.com/ghpvc/?username=AMTitan) (Last updated on Friday, 14 May, 07:32 GMT-4).
 
 <h3> <img src="https://emojis.slackmojis.com/emojis/images/1581539211/7808/party-blob.gif?1581539211" width="30"/> About Me </h3>
 
@@ -64,26 +64,26 @@
 <h2> <img src="http://openweathermap.org/img/w/03d.png" width="30"> Weather </h2>
 
 <p align="center">
-    The weather for me its a scattered clouds and the temperature is 9.81°C (49.66°F) but it actually feels like 9.09°C (48.36°F)!
+    The weather for me its a scattered clouds and the temperature is 9.82°C (49.68°F) but it actually feels like 9.14°C (48.45°F)!
 </p>
 <p align="center">
     The sun rise for me is at 06:36 and the sun set is at 20:31!
 </p>
 <p align="center">
-    The wind for me  is 1.86 meters/sec (4.16mph)!
+    The wind for me  is 1.81 meters/sec (4.05mph)!
 </p>
 <p align="center">
-    The persaintage of the sky is filled with clouds for me is 26%!
+    The persaintage of the sky is filled with clouds for me is 31%!
 </p>
 
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1595173148/9720/dog_cute.gif?1595173148" width="30"> Dog </h2>
 
 <p align="center">
-    <img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;pinscher-miniature&#x2F;n02107312_27.jpg" height="300px">
+    <img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;retriever-chesapeake&#x2F;n02099849_3723.jpg" height="300px">
 </p>
 
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1500426137/2648/allo-tongue.gif?1500426137" width="30"> Joke </h2>
 
 <p align="center">
-    Those aren&#39;t credits that roll after Walker Texas Ranger. It is actually a list of fatalities that occurred during the making of the episode.
+    When Chuck Norris wants an egg, he cracks open a chicken.
 </p>
