@@ -64,7 +64,7 @@
 <h2> <img src="http://openweathermap.org/img/w/04n.png" width="30"> Weather </h2>
 
 <p align="center">
-    The weather for me its a broken clouds and the temperature is 12.13°C (53.83°F) but it actually feels like 11.12°C (52.02°F)!
+    The weather for me its a broken clouds and the temperature is 11.98°C (53.56°F) but it actually feels like 11.43°C (52.57°F)!
 </p>
 <p align="center">
     The sun rise for me is at 06:35 and the sun set is at 20:31!
@@ -79,11 +79,11 @@
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1595173148/9720/dog_cute.gif?1595173148" width="30"> Dog </h2>
 
 <p align="center">
-    <img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;terrier-norwich&#x2F;n02094258_61.jpg" height="300px">
+    <img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;schnauzer-miniature&#x2F;n02097047_1419.jpg" height="300px">
 </p>
 
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1500426137/2648/allo-tongue.gif?1500426137" width="30"> Joke </h2>
 
 <p align="center">
-    When Chuck Norris does a pushup, he isn&#39;t lifting himself up, he&#39;s pushing the Earth down.
+    Most people have 23 pairs of chromosomes. Chuck Norris has 72... and they&#39;re all poisonous.
 </p>
