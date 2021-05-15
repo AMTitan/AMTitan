@@ -67,7 +67,7 @@
     The weather for me its a broken clouds and the temperature is 13.25°C (55.85°F) but it actually feels like 12.8°C (55.04°F)!
 </p>
 <p align="center">
-    The sun rise for me is at 06:36 and the sun set is at 20:31!
+    The sun rise for me is at 06:35 and the sun set is at 20:31!
 </p>
 <p align="center">
     The wind for me  is 1.78 meters/sec (3.98mph)!
@@ -79,11 +79,11 @@
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1595173148/9720/dog_cute.gif?1595173148" width="30"> Dog </h2>
 
 <p align="center">
-    <img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;spaniel-blenheim&#x2F;n02086646_1621.jpg" height="300px">
+    <img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;dingo&#x2F;n02115641_10395.jpg" height="300px">
 </p>
 
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1500426137/2648/allo-tongue.gif?1500426137" width="30"> Joke </h2>
 
 <p align="center">
-    I don&#39;t see women as objects. I consider each to be in a class of her own.
+    Chuck Norris can lead a horse to water AND make it drink.
 </p>
