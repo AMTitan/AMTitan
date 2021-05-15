@@ -64,7 +64,7 @@
 <h2> <img src="http://openweathermap.org/img/w/04n.png" width="30"> Weather </h2>
 
 <p align="center">
-    The weather for me its a broken clouds and the temperature is 12.26°C (54.07°F) but it actually feels like 11.81°C (53.26°F)!
+    The weather for me its a broken clouds and the temperature is 12.25°C (54.05°F) but it actually feels like 11.8°C (53.24°F)!
 </p>
 <p align="center">
     The sun rise for me is at 06:35 and the sun set is at 20:31!
@@ -79,11 +79,11 @@
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1595173148/9720/dog_cute.gif?1595173148" width="30"> Dog </h2>
 
 <p align="center">
-    <img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;spaniel-sussex&#x2F;n02102480_842.jpg" height="300px">
+    <img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;pomeranian&#x2F;n02112018_1621.jpg" height="300px">
 </p>
 
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1500426137/2648/allo-tongue.gif?1500426137" width="30"> Joke </h2>
 
 <p align="center">
-    The show Survivor had the original premise of putting people on an island with Chuck Norris. There were no survivors, and nobody is brave enough to go to the island to retrieve the footage.
+    Some people like to eat frogs&#39; legs. Chuck Norris likes to eat lizard legs. Hence, snakes.
 </p>
