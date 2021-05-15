@@ -64,26 +64,26 @@
 <h2> <img src="http://openweathermap.org/img/w/04n.png" width="30"> Weather </h2>
 
 <p align="center">
-    The weather for me its a broken clouds and the temperature is 11.85°C (53.33°F) but it actually feels like 10.87°C (51.57°F)!
+    The weather for me its a overcast clouds and the temperature is 11.72°C (53.1°F) but it actually feels like 10.72°C (51.3°F)!
 </p>
 <p align="center">
     The sun rise for me is at 06:35 and the sun set is at 20:31!
 </p>
 <p align="center">
-    The wind for me  is 1.71 meters/sec (3.83mph)!
+    The wind for me  is 1.75 meters/sec (3.91mph)!
 </p>
 <p align="center">
-    The persaintage of the sky is filled with clouds for me is 77%!
+    The persaintage of the sky is filled with clouds for me is 94%!
 </p>
 
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1595173148/9720/dog_cute.gif?1595173148" width="30"> Dog </h2>
 
 <p align="center">
-    <img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;pointer-germanlonghair&#x2F;hans4.jpg" height="300px">
+    <img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;malamute&#x2F;n02110063_16533.jpg" height="300px">
 </p>
 
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1500426137/2648/allo-tongue.gif?1500426137" width="30"> Joke </h2>
 
 <p align="center">
-    Nobody doesn&#39;t like Sara Lee. Except Chuck Norris.
+    Chuck Norris recently had the idea to sell his urine as a canned beverage. We know this beverage as Red Bull.
 </p>
