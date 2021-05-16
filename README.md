@@ -64,7 +64,7 @@
 <h2> <img src="http://openweathermap.org/img/w/04d.png" width="30"> Weather </h2>
 
 <p align="center">
-    The weather for me its a broken clouds and the temperature is 23.29°C (73.92°F) but it actually feels like 23.11°C (73.6°F)!
+    The weather for me its a broken clouds and the temperature is 22.99°C (73.38°F) but it actually feels like 22.81°C (73.06°F)!
 </p>
 <p align="center">
     The sun rise for me is at 06:34 and the sun set is at 20:32!
@@ -79,11 +79,11 @@
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1595173148/9720/dog_cute.gif?1595173148" width="30"> Dog </h2>
 
 <p align="center">
-    <img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;pointer-germanlonghair&#x2F;hans3.jpg" height="300px">
+    <img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;rottweiler&#x2F;n02106550_11415.jpg" height="300px">
 </p>
 
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1500426137/2648/allo-tongue.gif?1500426137" width="30"> Joke </h2>
 
 <p align="center">
-    Industrial logging isn&#39;t the cause of deforestation. Chuck Norris needs toothpicks.
+    Chuck Norris smells what the Rock is cooking... because the Rock is Chuck Norris&#39; personal chef.
 </p>
