@@ -61,29 +61,29 @@
     <img style="width:100%" src="https://github-readme-stats.vercel.app/api/wakatime?username=AMTitan&layout=compact&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" />
 </p>
 
-<h2> <img src="http://openweathermap.org/img/w/02d.png" width="30"> Weather </h2>
+<h2> <img src="http://openweathermap.org/img/w/04n.png" width="30"> Weather </h2>
 
 <p align="center">
-    The weather for me its a few clouds and the temperature is 20.48°C (68.86°F) but it actually feels like 20.15°C (68.27°F)!
+    The weather for me its a broken clouds and the temperature is 19.62°C (67.32°F) but it actually feels like 19.18°C (66.52°F)!
 </p>
 <p align="center">
     The sun rise for me is at 06:35 and the sun set is at 20:31!
 </p>
 <p align="center">
-    The wind for me  is 0.4 meters/sec (0.89mph)!
+    The wind for me  is 1.02 meters/sec (2.28mph)!
 </p>
 <p align="center">
-    The persaintage of the sky is filled with clouds for me is 21%!
+    The persaintage of the sky is filled with clouds for me is 59%!
 </p>
 
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1595173148/9720/dog_cute.gif?1595173148" width="30"> Dog </h2>
 
 <p align="center">
-    <img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;terrier-bedlington&#x2F;n02093647_3150.jpg" height="300px">
+    <img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;brabancon&#x2F;n02112706_1419.jpg" height="300px">
 </p>
 
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1500426137/2648/allo-tongue.gif?1500426137" width="30"> Joke </h2>
 
 <p align="center">
-    When Steven Seagal kills a ninja, he only takes its hide. When Chuck Norris kills a ninja, he uses every part.
+    Contrary to popular belief, there is indeed enough Chuck Norris to go around.
 </p>
