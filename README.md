@@ -64,7 +64,7 @@
 <h2> <img src="http://openweathermap.org/img/w/04d.png" width="30"> Weather </h2>
 
 <p align="center">
-    The weather for me its a broken clouds and the temperature is 25.75°C (78.35°F) but it actually feels like 25.4°C (77.72°F)!
+    The weather for me its a broken clouds and the temperature is 25.87°C (78.57°F) but it actually feels like 25.53°C (77.95°F)!
 </p>
 <p align="center">
     The sun rise for me is at 06:34 and the sun set is at 20:32!
@@ -79,11 +79,11 @@
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1595173148/9720/dog_cute.gif?1595173148" width="30"> Dog </h2>
 
 <p align="center">
-    <img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;cattledog-australian&#x2F;IMG_3668.jpg" height="300px">
+    <img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;borzoi&#x2F;n02090622_5025.jpg" height="300px">
 </p>
 
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1500426137/2648/allo-tongue.gif?1500426137" width="30"> Joke </h2>
 
 <p align="center">
-    Not everyone that Chuck Norris is mad at gets killed. Some get away. They are called astronauts.
+    Chuck Norris&#39; testicles do not produce sperm. They produce tiny white ninjas that recognize only one mission: seek and destroy.
 </p>
