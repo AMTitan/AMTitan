@@ -64,7 +64,7 @@
 <h2> <img src="http://openweathermap.org/img/w/04n.png" width="30"> Weather </h2>
 
 <p align="center">
-    The weather for me its a broken clouds and the temperature is 16.1°C (60.98°F) but it actually feels like 15.46°C (59.83°F)!
+    The weather for me its a broken clouds and the temperature is 16.19°C (61.14°F) but it actually feels like 15.54°C (59.97°F)!
 </p>
 <p align="center">
     The sun rise for me is at 06:35 and the sun set is at 20:31!
@@ -79,11 +79,11 @@
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1595173148/9720/dog_cute.gif?1595173148" width="30"> Dog </h2>
 
 <p align="center">
-    <img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;setter-gordon&#x2F;n02101006_1551.jpg" height="300px">
+    <img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;pointer-german&#x2F;n02100236_485.jpg" height="300px">
 </p>
 
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1500426137/2648/allo-tongue.gif?1500426137" width="30"> Joke </h2>
 
 <p align="center">
-    C:&#x2F;&#x2F;dos  &lt;br&gt;C:&#x2F;&#x2F;dos.run  &lt;br&gt;run.dos.run
+    When Chuck Norris sends in his taxes, he sends blank forms and includes only a picture of himself, crouched and ready to attack. Chuck Norris has not had to pay taxes, ever.
 </p>
