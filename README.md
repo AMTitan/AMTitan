@@ -1,4 +1,4 @@
-# <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> My name is Arthur Melton and I have ![Profile View Counter](https://komarev.com/ghpvc/?username=AMTitan) (Last updated on Sunday, 16 May, 00:08 GMT-4).
+# <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> My name is Arthur Melton and I have ![Profile View Counter](https://komarev.com/ghpvc/?username=AMTitan) (Last updated on Sunday, 16 May, 00:09 GMT-4).
 
 <h3> <img src="https://emojis.slackmojis.com/emojis/images/1581539211/7808/party-blob.gif?1581539211" width="30"/> About Me </h3>
 
@@ -67,7 +67,7 @@
     The weather for me its a broken clouds and the temperature is 16.1°C (60.98°F) but it actually feels like 15.46°C (59.83°F)!
 </p>
 <p align="center">
-    The sun rise for me is at 06:35 and the sun set is at 20:31!
+    The sun rise for me is at 06:34 and the sun set is at 20:32!
 </p>
 <p align="center">
     The wind for me  is 0.52 meters/sec (1.16mph)!
@@ -79,11 +79,11 @@
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1595173148/9720/dog_cute.gif?1595173148" width="30"> Dog </h2>
 
 <p align="center">
-    <img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;dingo&#x2F;n02115641_7109.jpg" height="300px">
+    <img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;hound-afghan&#x2F;n02088094_5504.jpg" height="300px">
 </p>
 
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1500426137/2648/allo-tongue.gif?1500426137" width="30"> Joke </h2>
 
 <p align="center">
-    In a recent survey it was discovered the 94% of American women lost their virginity to Chuck Norris. The other 6% were incredibly fat or ugly.
+    The phrase &#39;dead ringer&#39; refers to someone who sits behind Chuck Norris in a movie theater and forgets to turn their cell phone off.
 </p>
