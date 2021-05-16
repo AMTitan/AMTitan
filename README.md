@@ -61,29 +61,29 @@
     <img style="width:100%" src="https://github-readme-stats.vercel.app/api/wakatime?username=AMTitan&layout=compact&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" />
 </p>
 
-<h2> <img src="http://openweathermap.org/img/w/03d.png" width="30"> Weather </h2>
+<h2> <img src="http://openweathermap.org/img/w/04d.png" width="30"> Weather </h2>
 
 <p align="center">
-    The weather for me its a scattered clouds and the temperature is 22.98°C (73.36°F) but it actually feels like 22.2°C (71.96°F)!
+    The weather for me its a broken clouds and the temperature is 23.75°C (74.75°F) but it actually feels like 23.04°C (73.47°F)!
 </p>
 <p align="center">
     The sun rise for me is at 06:34 and the sun set is at 20:32!
 </p>
 <p align="center">
-    The wind for me  is 2.06 meters/sec (4.61mph)!
+    The wind for me  is 2.57 meters/sec (5.75mph)!
 </p>
 <p align="center">
-    The persaintage of the sky is filled with clouds for me is 40%!
+    The persaintage of the sky is filled with clouds for me is 75%!
 </p>
 
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1595173148/9720/dog_cute.gif?1595173148" width="30"> Dog </h2>
 
 <p align="center">
-    <img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;waterdog-spanish&#x2F;20180723_185559.jpg" height="300px">
+    <img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;hound-afghan&#x2F;n02088094_115.jpg" height="300px">
 </p>
 
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1500426137/2648/allo-tongue.gif?1500426137" width="30"> Joke </h2>
 
 <p align="center">
-    Hellen Keller&#39;s favorite color is Chuck Norris.
+    Chuck Norris doesn&#39;t say &#39;who&#39;s your daddy&#39;, because he knows the answer.
 </p>
