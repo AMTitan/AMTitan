@@ -70,20 +70,20 @@
     The sun rise for me is at 06:34 and the sun set is at 20:32!
 </p>
 <p align="center">
-    The wind for me  is 1.13 meters/sec (2.53mph)!
+    The wind for me  is 1.48 meters/sec (3.31mph)!
 </p>
 <p align="center">
-    The persaintage of the sky is filled with clouds for me is 86%!
+    The persaintage of the sky is filled with clouds for me is 88%!
 </p>
 
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1595173148/9720/dog_cute.gif?1595173148" width="30"> Dog </h2>
 
 <p align="center">
-    <img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;dingo&#x2F;n02115641_1380.jpg" height="300px">
+    <img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;dhole&#x2F;n02115913_3010.jpg" height="300px">
 </p>
 
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1500426137/2648/allo-tongue.gif?1500426137" width="30"> Joke </h2>
 
 <p align="center">
-    Real programmers start counting from 0
+    Chuck Norris can binary search unsorted data.
 </p>
