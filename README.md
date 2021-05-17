@@ -64,26 +64,26 @@
 <h2> <img src="http://openweathermap.org/img/w/03n.png" width="30"> Weather </h2>
 
 <p align="center">
-    The weather for me its a scattered clouds and the temperature is 13.75°C (56.75°F) but it actually feels like 13.43°C (56.17°F)!
+    The weather for me its a scattered clouds and the temperature is 13.55°C (56.39°F) but it actually feels like 13.21°C (55.78°F)!
 </p>
 <p align="center">
     The sun rise for me is at 06:34 and the sun set is at 20:33!
 </p>
 <p align="center">
-    The wind for me  is 1.28 meters/sec (2.86mph)!
+    The wind for me  is 1.07 meters/sec (2.39mph)!
 </p>
 <p align="center">
-    The persaintage of the sky is filled with clouds for me is 27%!
+    The persaintage of the sky is filled with clouds for me is 30%!
 </p>
 
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1595173148/9720/dog_cute.gif?1595173148" width="30"> Dog </h2>
 
 <p align="center">
-    <img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;terrier-norwich&#x2F;n02094258_1386.jpg" height="300px">
+    <img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;coonhound&#x2F;n02089078_695.jpg" height="300px">
 </p>
 
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1500426137/2648/allo-tongue.gif?1500426137" width="30"> Joke </h2>
 
 <p align="center">
-    How much wood would a woodchuck chuck if a woodchuck could Chuck Norris? All of it.
+    Bugs come in through open Windows.
 </p>
