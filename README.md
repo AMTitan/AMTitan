@@ -64,7 +64,7 @@
 <h2> <img src="http://openweathermap.org/img/w/04n.png" width="30"> Weather </h2>
 
 <p align="center">
-    The weather for me its a broken clouds and the temperature is 12.54°C (54.57°F) but it actually feels like 12.33°C (54.19°F)!
+    The weather for me its a broken clouds and the temperature is 12.47°C (54.45°F) but it actually feels like 12.25°C (54.05°F)!
 </p>
 <p align="center">
     The sun rise for me is at 06:34 and the sun set is at 20:33!
@@ -79,11 +79,11 @@
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1595173148/9720/dog_cute.gif?1595173148" width="30"> Dog </h2>
 
 <p align="center">
-    <img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;spaniel-irish&#x2F;n02102973_4511.jpg" height="300px">
+    <img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;hound-afghan&#x2F;n02088094_12563.jpg" height="300px">
 </p>
 
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1500426137/2648/allo-tongue.gif?1500426137" width="30"> Joke </h2>
 
 <p align="center">
-    In an act of great philanthropy, Chuck made a generous donation to the American Cancer Society. He donated 6,000 dead bodies for scientific research.
+    Some kids play Kick the can. Chuck Norris played Kick the keg.
 </p>
