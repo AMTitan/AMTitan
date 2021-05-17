@@ -64,7 +64,7 @@
 <h2> <img src="http://openweathermap.org/img/w/04d.png" width="30"> Weather </h2>
 
 <p align="center">
-    The weather for me its a overcast clouds and the temperature is 23.64°C (74.55°F) but it actually feels like 23.5°C (74.3°F)!
+    The weather for me its a overcast clouds and the temperature is 23.68°C (74.62°F) but it actually feels like 23.54°C (74.37°F)!
 </p>
 <p align="center">
     The sun rise for me is at 06:34 and the sun set is at 20:33!
@@ -79,11 +79,11 @@
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1595173148/9720/dog_cute.gif?1595173148" width="30"> Dog </h2>
 
 <p align="center">
-    <img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;kelpie&#x2F;n02105412_5373.jpg" height="300px">
+    <img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;briard&#x2F;n02105251_7647.jpg" height="300px">
 </p>
 
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1500426137/2648/allo-tongue.gif?1500426137" width="30"> Joke </h2>
 
 <p align="center">
-    When Chuck Norris falls in water, Chuck Norris doesn&#39;t get wet. Water gets Chuck Norris.
+    Someone once tried to tell Chuck Norris that roundhouse kicks aren&#39;t the best way to kick someone. This has been recorded by historians as the worst mistake anyone has ever made.
 </p>
