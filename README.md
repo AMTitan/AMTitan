@@ -64,13 +64,13 @@
 <h2> <img src="http://openweathermap.org/img/w/04n.png" width="30"> Weather </h2>
 
 <p align="center">
-    The weather for me its a overcast clouds and the temperature is 20.05°C (68.09°F) but it actually feels like 19.99°C (67.98°F)!
+    The weather for me its a overcast clouds and the temperature is 19.98°C (67.96°F) but it actually feels like 19.91°C (67.84°F)!
 </p>
 <p align="center">
     The sun rise for me is at 06:34 and the sun set is at 20:33!
 </p>
 <p align="center">
-    The wind for me  is 2.58 meters/sec (5.77mph)!
+    The wind for me  is 2.33 meters/sec (5.21mph)!
 </p>
 <p align="center">
     The persaintage of the sky is filled with clouds for me is 99%!
@@ -79,11 +79,11 @@
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1595173148/9720/dog_cute.gif?1595173148" width="30"> Dog </h2>
 
 <p align="center">
-    <img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;briard&#x2F;n02105251_7223.jpg" height="300px">
+    <img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;mexicanhairless&#x2F;n02113978_2546.jpg" height="300px">
 </p>
 
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1500426137/2648/allo-tongue.gif?1500426137" width="30"> Joke </h2>
 
 <p align="center">
-    Love does not hurt. Chuck Norris does.
+    It is said that looking into Chuck Norris&#39; eyes will reveal your future. Unfortunately, everybody&#39;s future is always the same: death by a roundhouse-kick to the face.
 </p>
