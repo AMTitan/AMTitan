@@ -64,13 +64,13 @@
 <h2> <img src="http://openweathermap.org/img/w/04d.png" width="30"> Weather </h2>
 
 <p align="center">
-    The weather for me its a overcast clouds and the temperature is 17.71°C (63.88°F) but it actually feels like 17.73°C (63.91°F)!
+    The weather for me its a overcast clouds and the temperature is 17.78°C (64°F) but it actually feels like 17.81°C (64.06°F)!
 </p>
 <p align="center">
     The sun rise for me is at 06:32 and the sun set is at 20:34!
 </p>
 <p align="center">
-    The wind for me  is 3.5 meters/sec (7.83mph)!
+    The wind for me  is 0.45 meters/sec (1.01mph)!
 </p>
 <p align="center">
     The persaintage of the sky is filled with clouds for me is 100%!
@@ -79,11 +79,11 @@
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1595173148/9720/dog_cute.gif?1595173148" width="30"> Dog </h2>
 
 <p align="center">
-    <img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;setter-irish&#x2F;n02100877_8800.jpg" height="300px">
+    <img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;terrier-scottish&#x2F;n02097298_8046.jpg" height="300px">
 </p>
 
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1500426137/2648/allo-tongue.gif?1500426137" width="30"> Joke </h2>
 
 <p align="center">
-    Chuck Norris describes human beings as &#39;a sociable holder for blood and guts&#39;.
+    A UDP packet walks into a bar. The bartender doesn&#39;t acknowledge him.
 </p>
