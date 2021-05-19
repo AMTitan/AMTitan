@@ -64,7 +64,7 @@
 <h2> <img src="http://openweathermap.org/img/w/04d.png" width="30"> Weather </h2>
 
 <p align="center">
-    The weather for me its a overcast clouds and the temperature is 24.8°C (76.64°F) but it actually feels like 24.8°C (76.64°F)!
+    The weather for me its a overcast clouds and the temperature is 24.92°C (76.86°F) but it actually feels like 24.93°C (76.87°F)!
 </p>
 <p align="center">
     The sun rise for me is at 06:32 and the sun set is at 20:34!
@@ -79,11 +79,11 @@
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1595173148/9720/dog_cute.gif?1595173148" width="30"> Dog </h2>
 
 <p align="center">
-    <img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;stbernard&#x2F;n02109525_12272.jpg" height="300px">
+    <img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;beagle&#x2F;n02088364_10575.jpg" height="300px">
 </p>
 
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1500426137/2648/allo-tongue.gif?1500426137" width="30"> Joke </h2>
 
 <p align="center">
-    If you ask Chuck Norris what time it is, he always answers &#39;Two seconds till&#39;. After you ask &#39;Two seconds to what?&#39;, he roundhouse kicks you in the face.
+    When Arnold says &#39;I&#39;ll be back&#39; in Terminator movie it is implied that he&#39;s going to ask Chuck Norris for help.
 </p>
