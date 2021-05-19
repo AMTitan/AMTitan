@@ -1,4 +1,4 @@
-# <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> My name is Arthur Melton and I have ![Profile View Counter](https://komarev.com/ghpvc/?username=AMTitan) (Last updated on Wednesday, 19 May, 14:33 GMT-4).
+# <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> My name is Arthur Melton and I have ![Profile View Counter](https://komarev.com/ghpvc/?username=AMTitan) (Last updated on Wednesday, 19 May, 14:34 GMT-4).
 
 <h3> <img src="https://emojis.slackmojis.com/emojis/images/1581539211/7808/party-blob.gif?1581539211" width="30"/> About Me </h3>
 
@@ -64,7 +64,7 @@
 <h2> <img src="http://openweathermap.org/img/w/04d.png" width="30"> Weather </h2>
 
 <p align="center">
-    The weather for me its a broken clouds and the temperature is 25.38°C (77.68°F) but it actually feels like 25.41°C (77.74°F)!
+    The weather for me its a overcast clouds and the temperature is 25.41°C (77.74°F) but it actually feels like 25.47°C (77.85°F)!
 </p>
 <p align="center">
     The sun rise for me is at 06:32 and the sun set is at 20:34!
@@ -73,17 +73,17 @@
     The wind for me  is 0.89 meters/sec (1.99mph)!
 </p>
 <p align="center">
-    The persaintage of the sky is filled with clouds for me is 81%!
+    The persaintage of the sky is filled with clouds for me is 100%!
 </p>
 
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1595173148/9720/dog_cute.gif?1595173148" width="30"> Dog </h2>
 
 <p align="center">
-    <img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;pyrenees&#x2F;n02111500_8042.jpg" height="300px">
+    <img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;bulldog-french&#x2F;n02108915_3880.jpg" height="300px">
 </p>
 
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1500426137/2648/allo-tongue.gif?1500426137" width="30"> Joke </h2>
 
 <p align="center">
-    The crossing lights in Chuck Norris&#39;s home town say &#39;Die slowly&#39; and &#39;die quickly&#39;. They each have a picture of Chuck Norris punching or kicking a pedestrian.
+    The opening scene of the movie &#39;Saving Private Ryan&#39; is loosely based on games of dodgeball Chuck Norris played in second grade.
 </p>
