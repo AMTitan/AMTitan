@@ -64,26 +64,26 @@
 <h2> <img src="http://openweathermap.org/img/w/04n.png" width="30"> Weather </h2>
 
 <p align="center">
-    The weather for me its a overcast clouds and the temperature is 16.85°C (62.33°F) but it actually feels like 16.86°C (62.35°F)!
+    The weather for me its a overcast clouds and the temperature is 16.73°C (62.11°F) but it actually feels like 16.76°C (62.17°F)!
 </p>
 <p align="center">
     The sun rise for me is at 06:32 and the sun set is at 20:35!
 </p>
 <p align="center">
-    The wind for me  is 3.52 meters/sec (7.87mph)!
+    The wind for me  is 3.35 meters/sec (7.49mph)!
 </p>
 <p align="center">
-    The persaintage of the sky is filled with clouds for me is 96%!
+    The persaintage of the sky is filled with clouds for me is 85%!
 </p>
 
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1595173148/9720/dog_cute.gif?1595173148" width="30"> Dog </h2>
 
 <p align="center">
-    <img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;retriever-chesapeake&#x2F;n02099849_3.jpg" height="300px">
+    <img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;airedale&#x2F;n02096051_3253.jpg" height="300px">
 </p>
 
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1500426137/2648/allo-tongue.gif?1500426137" width="30"> Joke </h2>
 
 <p align="center">
-    Chuck Norris doesn&#39;t do Burn Down charts, he does Smack Down charts.
+    Chuck Norris does not teabag the ladies. He potato-sacks them.
 </p>
