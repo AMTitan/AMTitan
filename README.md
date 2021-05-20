@@ -64,7 +64,7 @@
 <h2> <img src="http://openweathermap.org/img/w/02d.png" width="30"> Weather </h2>
 
 <p align="center">
-    The weather for me its a few clouds and the temperature is 26.19°C (79.14°F) but it actually feels like 26.19°C (79.14°F)!
+    The weather for me its a few clouds and the temperature is 26.13°C (79.03°F) but it actually feels like 26.13°C (79.03°F)!
 </p>
 <p align="center">
     The sun rise for me is at 06:32 and the sun set is at 20:35!
@@ -79,11 +79,11 @@
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1595173148/9720/dog_cute.gif?1595173148" width="30"> Dog </h2>
 
 <p align="center">
-    <img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;kelpie&#x2F;n02105412_1371.jpg" height="300px">
+    <img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;pomeranian&#x2F;n02112018_3097.jpg" height="300px">
 </p>
 
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1500426137/2648/allo-tongue.gif?1500426137" width="30"> Joke </h2>
 
 <p align="center">
-    The only sure things are Death and Taxes?and when Chuck Norris goes to work for the IRS, they&#39;ll be the same thing.
+    According to Einstein&#39;s theory of relativity, Chuck Norris can actually roundhouse kick you yesterday.
 </p>
