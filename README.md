@@ -64,13 +64,13 @@
 <h2> <img src="http://openweathermap.org/img/w/04n.png" width="30"> Weather </h2>
 
 <p align="center">
-    The weather for me its a overcast clouds and the temperature is 21.74°C (71.13°F) but it actually feels like 21.75°C (71.15°F)!
+    The weather for me its a overcast clouds and the temperature is 21.62°C (70.92°F) but it actually feels like 21.69°C (71.04°F)!
 </p>
 <p align="center">
     The sun rise for me is at 06:32 and the sun set is at 20:34!
 </p>
 <p align="center">
-    The wind for me  is 3.61 meters/sec (8.08mph)!
+    The wind for me  is 3.73 meters/sec (8.34mph)!
 </p>
 <p align="center">
     The persaintage of the sky is filled with clouds for me is 100%!
@@ -79,11 +79,11 @@
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1595173148/9720/dog_cute.gif?1595173148" width="30"> Dog </h2>
 
 <p align="center">
-    <img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;terrier-scottish&#x2F;n02097298_1327.jpg" height="300px">
+    <img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;cairn&#x2F;n02096177_10031.jpg" height="300px">
 </p>
 
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1500426137/2648/allo-tongue.gif?1500426137" width="30"> Joke </h2>
 
 <p align="center">
-    The air around Chuck Norris is always a balmy 78 degrees.
+    Fool me once, shame on you. Fool Chuck Norris once and he will roundhouse kick you in the face.
 </p>
