@@ -64,26 +64,26 @@
 <h2> <img src="http://openweathermap.org/img/w/04n.png" width="30"> Weather </h2>
 
 <p align="center">
-    The weather for me its a overcast clouds and the temperature is 17.2°C (62.96°F) but it actually feels like 17.3°C (63.14°F)!
+    The weather for me its a overcast clouds and the temperature is 17.38°C (63.28°F) but it actually feels like 17.5°C (63.5°F)!
 </p>
 <p align="center">
     The sun rise for me is at 06:32 and the sun set is at 20:35!
 </p>
 <p align="center">
-    The wind for me  is 3.52 meters/sec (7.87mph)!
+    The wind for me  is 3.72 meters/sec (8.32mph)!
 </p>
 <p align="center">
-    The persaintage of the sky is filled with clouds for me is 96%!
+    The persaintage of the sky is filled with clouds for me is 99%!
 </p>
 
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1595173148/9720/dog_cute.gif?1595173148" width="30"> Dog </h2>
 
 <p align="center">
-    <img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;terrier-bedlington&#x2F;n02093647_1870.jpg" height="300px">
+    <img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;buhund-norwegian&#x2F;hakon3.jpg" height="300px">
 </p>
 
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1500426137/2648/allo-tongue.gif?1500426137" width="30"> Joke </h2>
 
 <p align="center">
-    Chuck Norris does not need to know about class factory pattern. He can instantiate interfaces.
+    Chuck Norris compresses his files by doing a flying round house kick to the hard drive.
 </p>
