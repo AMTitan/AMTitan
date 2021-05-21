@@ -70,20 +70,20 @@
     The sun rise for me is at 06:31 and the sun set is at 20:36!
 </p>
 <p align="center">
-    The wind for me  is 2.8 meters/sec (6.26mph)!
+    The wind for me  is 2.79 meters/sec (6.24mph)!
 </p>
 <p align="center">
-    The persaintage of the sky is filled with clouds for me is 90%!
+    The persaintage of the sky is filled with clouds for me is 93%!
 </p>
 
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1595173148/9720/dog_cute.gif?1595173148" width="30"> Dog </h2>
 
 <p align="center">
-    <img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;mastiff-tibetan&#x2F;n02108551_2240.jpg" height="300px">
+    <img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;finnish-lapphund&#x2F;mochilamvan.jpg" height="300px">
 </p>
 
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1500426137/2648/allo-tongue.gif?1500426137" width="30"> Joke </h2>
 
 <p align="center">
-    In a fight between Batman and Darth Vader, the winner would be Chuck Norris.
+    Chuck Norris? favourite cut of meat is the roundhouse.
 </p>
