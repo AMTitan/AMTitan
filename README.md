@@ -64,7 +64,7 @@
 <h2> <img src="http://openweathermap.org/img/w/04n.png" width="30"> Weather </h2>
 
 <p align="center">
-    The weather for me its a overcast clouds and the temperature is 20.88°C (69.58°F) but it actually feels like 20.83°C (69.49°F)!
+    The weather for me its a overcast clouds and the temperature is 20.65°C (69.17°F) but it actually feels like 20.57°C (69.03°F)!
 </p>
 <p align="center">
     The sun rise for me is at 06:32 and the sun set is at 20:35!
@@ -79,11 +79,11 @@
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1595173148/9720/dog_cute.gif?1595173148" width="30"> Dog </h2>
 
 <p align="center">
-    <img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;terrier-westhighland&#x2F;n02098286_696.jpg" height="300px">
+    <img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;beagle&#x2F;n02088364_4237.jpg" height="300px">
 </p>
 
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1500426137/2648/allo-tongue.gif?1500426137" width="30"> Joke </h2>
 
 <p align="center">
-    Chuck Norris originally appeared in the &#39;Street Fighter II&#39; video game, but was removed by Beta Testers because every button caused him to do a roundhouse kick. When asked about this glitch, Norris replied &#39;That&#39;s no glitch.&#39;
+    There are only 10 types of people in the world: those that understand binary, those that don’t, and those that didn&#39;t expect a ternary joke.
 </p>
