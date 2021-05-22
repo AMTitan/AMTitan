@@ -64,7 +64,7 @@
 <h2> <img src="http://openweathermap.org/img/w/04n.png" width="30"> Weather </h2>
 
 <p align="center">
-    The weather for me its a overcast clouds and the temperature is 17.17°C (62.91°F) but it actually feels like 17.29°C (63.12°F)!
+    The weather for me its a overcast clouds and the temperature is 17.14°C (62.85°F) but it actually feels like 17.26°C (63.07°F)!
 </p>
 <p align="center">
     The sun rise for me is at 06:31 and the sun set is at 20:37!
@@ -79,11 +79,11 @@
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1595173148/9720/dog_cute.gif?1595173148" width="30"> Dog </h2>
 
 <p align="center">
-    <img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;spaniel-irish&#x2F;n02102973_3844.jpg" height="300px">
+    <img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;terrier-norfolk&#x2F;n02094114_2785.jpg" height="300px">
 </p>
 
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1500426137/2648/allo-tongue.gif?1500426137" width="30"> Joke </h2>
 
 <p align="center">
-    Chuck Norris doesn&#39;t use a computer because a computer does everything slower than Chuck Norris.
+    Maslow&#39;s theory of higher needs does not apply to Chuck Norris. He only has two needs: killing people and finding people to kill.
 </p>
