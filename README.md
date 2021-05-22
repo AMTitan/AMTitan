@@ -64,26 +64,26 @@
 <h2> <img src="http://openweathermap.org/img/w/04n.png" width="30"> Weather </h2>
 
 <p align="center">
-    The weather for me its a overcast clouds and the temperature is 18.78°C (65.8°F) but it actually feels like 18.8°C (65.84°F)!
+    The weather for me its a overcast clouds and the temperature is 18.79°C (65.82°F) but it actually feels like 18.81°C (65.86°F)!
 </p>
 <p align="center">
     The sun rise for me is at 06:31 and the sun set is at 20:37!
 </p>
 <p align="center">
-    The wind for me  is 2.69 meters/sec (6.02mph)!
+    The wind for me  is 2.43 meters/sec (5.44mph)!
 </p>
 <p align="center">
-    The persaintage of the sky is filled with clouds for me is 89%!
+    The persaintage of the sky is filled with clouds for me is 91%!
 </p>
 
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1595173148/9720/dog_cute.gif?1595173148" width="30"> Dog </h2>
 
 <p align="center">
-    <img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;deerhound-scottish&#x2F;n02092002_5668.jpg" height="300px">
+    <img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;coonhound&#x2F;n02089078_3869.jpg" height="300px">
 </p>
 
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1500426137/2648/allo-tongue.gif?1500426137" width="30"> Joke </h2>
 
 <p align="center">
-    Chuck Norris was banned from competitive bullriding after a 1992 exhibition in San Antonio, when he rode the bull 1,346 miles from Texas to Milwaukee Wisconsin to pick up his dry cleaning.
+    Chuck Norris doesn&#39;t churn butter. He roundhouse kicks the cows and the butter comes straight out.
 </p>
