@@ -64,13 +64,13 @@
 <h2> <img src="http://openweathermap.org/img/w/04n.png" width="30"> Weather </h2>
 
 <p align="center">
-    The weather for me its a overcast clouds and the temperature is 16.93°C (62.47°F) but it actually feels like 17.03°C (62.65°F)!
+    The weather for me its a overcast clouds and the temperature is 16.82°C (62.28°F) but it actually feels like 16.91°C (62.44°F)!
 </p>
 <p align="center">
     The sun rise for me is at 06:31 and the sun set is at 20:37!
 </p>
 <p align="center">
-    The wind for me  is 2.5 meters/sec (5.59mph)!
+    The wind for me  is 2.28 meters/sec (5.1mph)!
 </p>
 <p align="center">
     The persaintage of the sky is filled with clouds for me is 100%!
@@ -79,11 +79,11 @@
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1595173148/9720/dog_cute.gif?1595173148" width="30"> Dog </h2>
 
 <p align="center">
-    <img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;terrier-yorkshire&#x2F;n02094433_1483.jpg" height="300px">
+    <img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;husky&#x2F;n02110185_1748.jpg" height="300px">
 </p>
 
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1500426137/2648/allo-tongue.gif?1500426137" width="30"> Joke </h2>
 
 <p align="center">
-    Chuck Norris doesn&#39;t bug hunt as that signifies a probability of failure, he goes bug killing.
+    Chuck Norris does not have to answer the phone. His beard picks up the incoming electrical impulses and translates them into audible sound.
 </p>
