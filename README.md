@@ -64,7 +64,7 @@
 <h2> <img src="http://openweathermap.org/img/w/04d.png" width="30"> Weather </h2>
 
 <p align="center">
-    The weather for me its a overcast clouds and the temperature is 29.04°C (84.27°F) but it actually feels like 28.65°C (83.57°F)!
+    The weather for me its a overcast clouds and the temperature is 28.93°C (84.07°F) but it actually feels like 28.72°C (83.7°F)!
 </p>
 <p align="center">
     The sun rise for me is at 06:31 and the sun set is at 20:37!
@@ -79,11 +79,11 @@
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1595173148/9720/dog_cute.gif?1595173148" width="30"> Dog </h2>
 
 <p align="center">
-    <img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;dingo&#x2F;n02115641_266.jpg" height="300px">
+    <img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;cotondetulear&#x2F;IMAG1063.jpg" height="300px">
 </p>
 
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1500426137/2648/allo-tongue.gif?1500426137" width="30"> Joke </h2>
 
 <p align="center">
-    Most people have 23 pairs of chromosomes. Chuck Norris has 72... and they&#39;re all poisonous.
+    Chuck Norris can binary search unsorted data.
 </p>
