@@ -67,7 +67,7 @@
     The weather for me its a overcast clouds and the temperature is 19.77°C (67.59°F) but it actually feels like 19.89°C (67.8°F)!
 </p>
 <p align="center">
-    The sun rise for me is at 06:31 and the sun set is at 20:37!
+    The sun rise for me is at 06:31 and the sun set is at 20:36!
 </p>
 <p align="center">
     The wind for me  is 3.1 meters/sec (6.93mph)!
@@ -79,11 +79,11 @@
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1595173148/9720/dog_cute.gif?1595173148" width="30"> Dog </h2>
 
 <p align="center">
-    <img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;finnish-lapphund&#x2F;mochilamvan.jpg" height="300px">
+    <img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;otterhound&#x2F;n02091635_2014.jpg" height="300px">
 </p>
 
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1500426137/2648/allo-tongue.gif?1500426137" width="30"> Joke </h2>
 
 <p align="center">
-    Chuck Norris eats steak for every single meal. Most times he forgets to kill the cow.
+    As a teen, Chuck Norris had sex with every nun in a convent tucked away in the hills of Tuscany. Nine months later the nuns gave birth to the 1972 Miami Dolphins, the only undefeated and untied team in professional football history.
 </p>
