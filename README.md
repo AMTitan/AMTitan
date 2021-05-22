@@ -64,7 +64,7 @@
 <h2> <img src="http://openweathermap.org/img/w/04n.png" width="30"> Weather </h2>
 
 <p align="center">
-    The weather for me its a overcast clouds and the temperature is 19.1°C (66.38°F) but it actually feels like 19.13°C (66.43°F)!
+    The weather for me its a overcast clouds and the temperature is 19.13°C (66.43°F) but it actually feels like 19.16°C (66.49°F)!
 </p>
 <p align="center">
     The sun rise for me is at 06:31 and the sun set is at 20:37!
@@ -79,11 +79,11 @@
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1595173148/9720/dog_cute.gif?1595173148" width="30"> Dog </h2>
 
 <p align="center">
-    <img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;mix&#x2F;rilo.jpg" height="300px">
+    <img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;samoyed&#x2F;n02111889_4809.jpg" height="300px">
 </p>
 
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1500426137/2648/allo-tongue.gif?1500426137" width="30"> Joke </h2>
 
 <p align="center">
-    Chuck Norris does not eat. Food understands that the only safe haven from Chuck Norris&#39; fists is inside his own body.
+    Chuck Norris doesn&#39;t believe in ravioli. He stuffs a live turtle with beef and smothers it in pig&#39;s blood.
 </p>
