@@ -64,7 +64,7 @@
 <h2> <img src="http://openweathermap.org/img/w/04d.png" width="30"> Weather </h2>
 
 <p align="center">
-    The weather for me its a overcast clouds and the temperature is 19.86°C (67.75°F) but it actually feels like 20.09°C (68.16°F)!
+    The weather for me its a overcast clouds and the temperature is 20.14°C (68.25°F) but it actually feels like 20.4°C (68.72°F)!
 </p>
 <p align="center">
     The sun rise for me is at 06:31 and the sun set is at 20:37!
@@ -79,11 +79,11 @@
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1595173148/9720/dog_cute.gif?1595173148" width="30"> Dog </h2>
 
 <p align="center">
-    <img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;weimaraner&#x2F;n02092339_5137.jpg" height="300px">
+    <img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;buhund-norwegian&#x2F;hakon1.jpg" height="300px">
 </p>
 
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1500426137/2648/allo-tongue.gif?1500426137" width="30"> Joke </h2>
 
 <p align="center">
-    How many Chuck Norris&#39; does it take to change a light bulb? None, Chuck Norris prefers to kill in the dark.
+    An anagram for Walker Texas Ranger is KARATE WRANGLER SEX. I don&#39;t know what that is, but it sounds AWESOME.
 </p>
