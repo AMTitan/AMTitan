@@ -64,7 +64,7 @@
 <h2> <img src="http://openweathermap.org/img/w/04d.png" width="30"> Weather </h2>
 
 <p align="center">
-    The weather for me its a overcast clouds and the temperature is 25.7°C (78.26°F) but it actually feels like 25.76°C (78.37°F)!
+    The weather for me its a overcast clouds and the temperature is 25.72°C (78.3°F) but it actually feels like 25.78°C (78.4°F)!
 </p>
 <p align="center">
     The sun rise for me is at 06:31 and the sun set is at 20:37!
@@ -79,11 +79,11 @@
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1595173148/9720/dog_cute.gif?1595173148" width="30"> Dog </h2>
 
 <p align="center">
-    <img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;kuvasz&#x2F;n02104029_4746.jpg" height="300px">
+    <img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;frise-bichon&#x2F;jh-ezio-2.jpg" height="300px">
 </p>
 
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1500426137/2648/allo-tongue.gif?1500426137" width="30"> Joke </h2>
 
 <p align="center">
-    There is in fact an &#39;I&#39; in Norris, but there is no &#39;team&#39;. Not even close.
+    The truth will set you free. Unless Chuck Norris has you, in which case, forget it buddy!
 </p>
