@@ -64,7 +64,7 @@
 <h2> <img src="http://openweathermap.org/img/w/04d.png" width="30"> Weather </h2>
 
 <p align="center">
-    The weather for me its a overcast clouds and the temperature is 27.9°C (82.22°F) but it actually feels like 29.41°C (84.94°F)!
+    The weather for me its a overcast clouds and the temperature is 27.89°C (82.2°F) but it actually feels like 29.4°C (84.92°F)!
 </p>
 <p align="center">
     The sun rise for me is at 06:30 and the sun set is at 20:37!
@@ -79,11 +79,11 @@
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1595173148/9720/dog_cute.gif?1595173148" width="30"> Dog </h2>
 
 <p align="center">
-    <img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;akita&#x2F;Akita_Dog.jpg" height="300px">
+    <img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;beagle&#x2F;n02088364_959.jpg" height="300px">
 </p>
 
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1500426137/2648/allo-tongue.gif?1500426137" width="30"> Joke </h2>
 
 <p align="center">
-    If Ruby is not and Perl is the answer then you don’t understand the question.
+    If Chuck Norris writes code with bugs, the bugs fix themselves.
 </p>
