@@ -64,7 +64,7 @@
 <h2> <img src="http://openweathermap.org/img/w/04d.png" width="30"> Weather </h2>
 
 <p align="center">
-    The weather for me its a broken clouds and the temperature is 21.15°C (70.07°F) but it actually feels like 21.36°C (70.45°F)!
+    The weather for me its a broken clouds and the temperature is 21.78°C (71.2°F) but it actually feels like 22.05°C (71.69°F)!
 </p>
 <p align="center">
     The sun rise for me is at 06:30 and the sun set is at 20:37!
@@ -73,17 +73,17 @@
     The wind for me  is 0.45 meters/sec (1.01mph)!
 </p>
 <p align="center">
-    The persaintage of the sky is filled with clouds for me is 66%!
+    The persaintage of the sky is filled with clouds for me is 76%!
 </p>
 
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1595173148/9720/dog_cute.gif?1595173148" width="30"> Dog </h2>
 
 <p align="center">
-    <img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;weimaraner&#x2F;n02092339_5120.jpg" height="300px">
+    <img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;greyhound-italian&#x2F;n02091032_9613.jpg" height="300px">
 </p>
 
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1500426137/2648/allo-tongue.gif?1500426137" width="30"> Joke </h2>
 
 <p align="center">
-    My software never has bugs. It just develops random features.
+    Michael Sinz: “Programming is like sex... one mistake and you have to support it for the rest of your life.”
 </p>
