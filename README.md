@@ -64,26 +64,26 @@
 <h2> <img src="http://openweathermap.org/img/w/04d.png" width="30"> Weather </h2>
 
 <p align="center">
-    The weather for me its a broken clouds and the temperature is 18.41°C (65.14°F) but it actually feels like 18.4°C (65.12°F)!
+    The weather for me its a broken clouds and the temperature is 19.47°C (67.05°F) but it actually feels like 19.01°C (66.22°F)!
 </p>
 <p align="center">
     The sun rise for me is at 06:30 and the sun set is at 20:37!
 </p>
 <p align="center">
-    The wind for me  is 2.23 meters/sec (4.99mph)!
+    The wind for me  is 2.45 meters/sec (5.48mph)!
 </p>
 <p align="center">
-    The persaintage of the sky is filled with clouds for me is 56%!
+    The persaintage of the sky is filled with clouds for me is 66%!
 </p>
 
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1595173148/9720/dog_cute.gif?1595173148" width="30"> Dog </h2>
 
 <p align="center">
-    <img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;papillon&#x2F;n02086910_5530.jpg" height="300px">
+    <img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;setter-gordon&#x2F;n02101006_3103.jpg" height="300px">
 </p>
 
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1500426137/2648/allo-tongue.gif?1500426137" width="30"> Joke </h2>
 
 <p align="center">
-    The class object inherits from Chuck Norris
+    In the beginning there was nothing...then Chuck Norris Roundhouse kicked that nothing in the face and said &#39;Get a job&#39;. That is the story of the universe.
 </p>
