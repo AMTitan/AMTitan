@@ -79,11 +79,11 @@
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1595173148/9720/dog_cute.gif?1595173148" width="30"> Dog </h2>
 
 <p align="center">
-    <img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;retriever-chesapeake&#x2F;n02099849_669.jpg" height="300px">
+    <img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;spaniel-welsh&#x2F;n02102177_661.jpg" height="300px">
 </p>
 
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1500426137/2648/allo-tongue.gif?1500426137" width="30"> Joke </h2>
 
 <p align="center">
-    When Chuck Norris calls 1-900 numbers, he doesn&#39;t get charged. He holds up the phone and money falls out.
+    The phrase &#39;balls to the wall&#39; was originally conceived to describe Chuck Norris entering any building smaller than an aircraft hangar.
 </p>
