@@ -64,7 +64,7 @@
 <h2> <img src="http://openweathermap.org/img/w/03d.png" width="30"> Weather </h2>
 
 <p align="center">
-    The weather for me its a scattered clouds and the temperature is 31.88°C (89.38°F) but it actually feels like 30.28°C (86.5°F)!
+    The weather for me its a scattered clouds and the temperature is 31.93°C (89.47°F) but it actually feels like 33.34°C (92.01°F)!
 </p>
 <p align="center">
     The sun rise for me is at 06:29 and the sun set is at 20:38!
@@ -79,11 +79,11 @@
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1595173148/9720/dog_cute.gif?1595173148" width="30"> Dog </h2>
 
 <p align="center">
-    <img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;keeshond&#x2F;n02112350_7185.jpg" height="300px">
+    <img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;whippet&#x2F;n02091134_392.jpg" height="300px">
 </p>
 
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1500426137/2648/allo-tongue.gif?1500426137" width="30"> Joke </h2>
 
 <p align="center">
-    How many theoretical physicists does it take to screw in a light bulb? Two. One to hold the bulb and one to rotate the universe.
+    Chuck Norris can access private methods.
 </p>
