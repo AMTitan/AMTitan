@@ -64,26 +64,26 @@
 <h2> <img src="http://openweathermap.org/img/w/01d.png" width="30"> Weather </h2>
 
 <p align="center">
-    The weather for me its a clear sky and the temperature is 26.99°C (80.58°F) but it actually feels like 27.72°C (81.9°F)!
+    The weather for me its a clear sky and the temperature is 26.76°C (80.17°F) but it actually feels like 27.54°C (81.57°F)!
 </p>
 <p align="center">
     The sun rise for me is at 06:30 and the sun set is at 20:37!
 </p>
 <p align="center">
-    The wind for me  is 3.49 meters/sec (7.81mph)!
+    The wind for me  is 2.51 meters/sec (5.61mph)!
 </p>
 <p align="center">
-    The persaintage of the sky is filled with clouds for me is 7%!
+    The persaintage of the sky is filled with clouds for me is 6%!
 </p>
 
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1595173148/9720/dog_cute.gif?1595173148" width="30"> Dog </h2>
 
 <p align="center">
-    <img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;airedale&#x2F;n02096051_2954.jpg" height="300px">
+    <img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;kuvasz&#x2F;n02104029_4815.jpg" height="300px">
 </p>
 
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1500426137/2648/allo-tongue.gif?1500426137" width="30"> Joke </h2>
 
 <p align="center">
-    Chuck Norris has never been in a fight, ever. Do you call one roundhouse kick to the face a fight?
+    Chuck Norris doesn&#39;t use web standards as the web will conform to him.
 </p>
