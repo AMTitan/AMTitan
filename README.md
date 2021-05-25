@@ -64,7 +64,7 @@
 <h2> <img src="http://openweathermap.org/img/w/04n.png" width="30"> Weather </h2>
 
 <p align="center">
-    The weather for me its a overcast clouds and the temperature is 22.41°C (72.34°F) but it actually feels like 22.72°C (72.9°F)!
+    The weather for me its a overcast clouds and the temperature is 22.46°C (72.43°F) but it actually feels like 22.77°C (72.99°F)!
 </p>
 <p align="center">
     The sun rise for me is at 06:29 and the sun set is at 20:38!
@@ -79,11 +79,11 @@
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1595173148/9720/dog_cute.gif?1595173148" width="30"> Dog </h2>
 
 <p align="center">
-    <img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;labradoodle&#x2F;labradoodle-forrest.png" height="300px">
+    <img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;leonberg&#x2F;n02111129_164.jpg" height="300px">
 </p>
 
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1500426137/2648/allo-tongue.gif?1500426137" width="30"> Joke </h2>
 
 <p align="center">
-    The First rule of Chuck Norris is: you do not talk about Chuck Norris.
+    They once made a Chuck Norris toilet paper, but there was a problem-- It wouldn&#39;t take shit from anybody.
 </p>
