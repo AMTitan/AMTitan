@@ -64,7 +64,7 @@
 <h2> <img src="http://openweathermap.org/img/w/04n.png" width="30"> Weather </h2>
 
 <p align="center">
-    The weather for me its a broken clouds and the temperature is 18.44°C (65.19°F) but it actually feels like 18.66°C (65.59°F)!
+    The weather for me its a broken clouds and the temperature is 18.45°C (65.21°F) but it actually feels like 18.67°C (65.61°F)!
 </p>
 <p align="center">
     The sun rise for me is at 06:29 and the sun set is at 20:39!
@@ -79,11 +79,11 @@
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1595173148/9720/dog_cute.gif?1595173148" width="30"> Dog </h2>
 
 <p align="center">
-    <img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;bluetick&#x2F;n02088632_4052.jpg" height="300px">
+    <img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;terrier-australian&#x2F;n02096294_7641.jpg" height="300px">
 </p>
 
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1500426137/2648/allo-tongue.gif?1500426137" width="30"> Joke </h2>
 
 <p align="center">
-    The class object inherits from Chuck Norris
+    Some people wear Superman pajamas. Superman wears Chuck Norris pajamas.
 </p>
