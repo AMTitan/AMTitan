@@ -64,7 +64,7 @@
 <h2> <img src="http://openweathermap.org/img/w/03d.png" width="30"> Weather </h2>
 
 <p align="center">
-    The weather for me its a scattered clouds and the temperature is 29.27°C (84.69°F) but it actually feels like 30.29°C (86.52°F)!
+    The weather for me its a scattered clouds and the temperature is 29.38°C (84.88°F) but it actually feels like 30.17°C (86.31°F)!
 </p>
 <p align="center">
     The sun rise for me is at 06:29 and the sun set is at 20:39!
@@ -73,17 +73,17 @@
     The wind for me  is 0.89 meters/sec (1.99mph)!
 </p>
 <p align="center">
-    The persaintage of the sky is filled with clouds for me is 42%!
+    The persaintage of the sky is filled with clouds for me is 36%!
 </p>
 
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1595173148/9720/dog_cute.gif?1595173148" width="30"> Dog </h2>
 
 <p align="center">
-    <img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;havanese&#x2F;00100trPORTRAIT_00100_BURST20191126134713895_COVER.jpg" height="300px">
+    <img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;mastiff-english&#x2F;1.jpg" height="300px">
 </p>
 
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1500426137/2648/allo-tongue.gif?1500426137" width="30"> Joke </h2>
 
 <p align="center">
-    Chuck Norris invented the bolt-action rifle, liquor, sexual intercourse, and football-- in that order.
+    The Bermuda Triangle used to be the Bermuda Square, until Chuck Norris Roundhouse kicked one of the corners off.
 </p>
