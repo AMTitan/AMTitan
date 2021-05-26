@@ -64,26 +64,26 @@
 <h2> <img src="http://openweathermap.org/img/w/02n.png" width="30"> Weather </h2>
 
 <p align="center">
-    The weather for me its a few clouds and the temperature is 20.86°C (69.55°F) but it actually feels like 21.19°C (70.14°F)!
+    The weather for me its a few clouds and the temperature is 20.66°C (69.19°F) but it actually feels like 21°C (69.8°F)!
 </p>
 <p align="center">
     The sun rise for me is at 06:29 and the sun set is at 20:39!
 </p>
 <p align="center">
-    The wind for me  is 1.21 meters/sec (2.71mph)!
+    The wind for me  is 0.18 meters/sec (0.4mph)!
 </p>
 <p align="center">
-    The persaintage of the sky is filled with clouds for me is 14%!
+    The persaintage of the sky is filled with clouds for me is 18%!
 </p>
 
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1595173148/9720/dog_cute.gif?1595173148" width="30"> Dog </h2>
 
 <p align="center">
-    <img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;cockapoo&#x2F;Scout.jpg" height="300px">
+    <img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;retriever-golden&#x2F;n02099601_4843.jpg" height="300px">
 </p>
 
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1500426137/2648/allo-tongue.gif?1500426137" width="30"> Joke </h2>
 
 <p align="center">
-    The truth is out there. Anybody got the URL?
+    Beware of programmers that carry screwdrivers.
 </p>
