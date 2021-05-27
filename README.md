@@ -61,29 +61,29 @@
     <img style="width:100%" src="https://github-readme-stats.vercel.app/api/wakatime?username=AMTitan&layout=compact&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" />
 </p>
 
-<h2> <img src="http://openweathermap.org/img/w/03n.png" width="30"> Weather </h2>
+<h2> <img src="http://openweathermap.org/img/w/04n.png" width="30"> Weather </h2>
 
 <p align="center">
-    The weather for me its a scattered clouds and the temperature is 20.62°C (69.12°F) but it actually feels like 20.7°C (69.26°F)!
+    The weather for me its a broken clouds and the temperature is 20.49°C (68.88°F) but it actually feels like 20.58°C (69.04°F)!
 </p>
 <p align="center">
     The sun rise for me is at 06:28 and the sun set is at 20:40!
 </p>
 <p align="center">
-    The wind for me  is 1.25 meters/sec (2.8mph)!
+    The wind for me  is 1.04 meters/sec (2.33mph)!
 </p>
 <p align="center">
-    The persaintage of the sky is filled with clouds for me is 45%!
+    The persaintage of the sky is filled with clouds for me is 51%!
 </p>
 
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1595173148/9720/dog_cute.gif?1595173148" width="30"> Dog </h2>
 
 <p align="center">
-    <img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;finnish-lapphund&#x2F;mochilamvan.jpg" height="300px">
+    <img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;samoyed&#x2F;n02111889_5267.jpg" height="300px">
 </p>
 
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1500426137/2648/allo-tongue.gif?1500426137" width="30"> Joke </h2>
 
 <p align="center">
-    Chuck Norris sleeps with a pillow under his gun.
+    How many Chuck Norris&#39; does it take to change a light bulb? None, Chuck Norris prefers to kill in the dark.
 </p>
