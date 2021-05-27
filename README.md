@@ -64,7 +64,7 @@
 <h2> <img src="http://openweathermap.org/img/w/03d.png" width="30"> Weather </h2>
 
 <p align="center">
-    The weather for me its a scattered clouds and the temperature is 18.61°C (65.5°F) but it actually feels like 18.77°C (65.79°F)!
+    The weather for me its a scattered clouds and the temperature is 18.86°C (65.95°F) but it actually feels like 19.05°C (66.29°F)!
 </p>
 <p align="center">
     The sun rise for me is at 06:28 and the sun set is at 20:40!
@@ -79,11 +79,11 @@
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1595173148/9720/dog_cute.gif?1595173148" width="30"> Dog </h2>
 
 <p align="center">
-    <img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;terrier-yorkshire&#x2F;n02094433_2678.jpg" height="300px">
+    <img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;kelpie&#x2F;n02105412_1159.jpg" height="300px">
 </p>
 
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1500426137/2648/allo-tongue.gif?1500426137" width="30"> Joke </h2>
 
 <p align="center">
-    Chuck Norris can win in a game of Russian roulette with a fully loaded gun.
+    There are only two things that can cut diamonds: other diamonds, and Chuck Norris.
 </p>
