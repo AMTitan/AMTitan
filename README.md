@@ -64,7 +64,7 @@
 <h2> <img src="http://openweathermap.org/img/w/04d.png" width="30"> Weather </h2>
 
 <p align="center">
-    The weather for me its a overcast clouds and the temperature is 26.2°C (79.16°F) but it actually feels like 26.2°C (79.16°F)!
+    The weather for me its a overcast clouds and the temperature is 26.22°C (79.2°F) but it actually feels like 26.22°C (79.2°F)!
 </p>
 <p align="center">
     The sun rise for me is at 06:28 and the sun set is at 20:40!
@@ -79,11 +79,11 @@
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1595173148/9720/dog_cute.gif?1595173148" width="30"> Dog </h2>
 
 <p align="center">
-    <img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;pyrenees&#x2F;n02111500_2010.jpg" height="300px">
+    <img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;poodle-standard&#x2F;n02113799_2292.jpg" height="300px">
 </p>
 
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1500426137/2648/allo-tongue.gif?1500426137" width="30"> Joke </h2>
 
 <p align="center">
-    Chuck Norris insists on strongly-typed programming languages.
+    When Chuck Norris does a pushup, he isn&#39;t lifting himself up, he&#39;s pushing the Earth down.
 </p>
