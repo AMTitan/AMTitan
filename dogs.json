@@ -1,12 +1,1 @@
-<!DOCTYPE html>
-<html>
-<head>
-<title>503 Backend fetch failed</title>
-</head>
-<body>
-<h1>Error 503 Backend fetch failed</h1>
-<p>Backend fetch failed</p>
-<hr>
-<p>Varnish cache server</p>
-</body>
-</html>
+{"message":"https:\/\/images.dog.ceo\/breeds\/lhasa\/n02098413_17364.jpg","status":"success"}
