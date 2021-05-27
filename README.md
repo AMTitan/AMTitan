@@ -64,13 +64,13 @@
 <h2> <img src="http://openweathermap.org/img/w/02n.png" width="30"> Weather </h2>
 
 <p align="center">
-    The weather for me its a few clouds and the temperature is 22.77°C (72.99°F) but it actually feels like 22.83°C (73.09°F)!
+    The weather for me its a few clouds and the temperature is 22.71°C (72.88°F) but it actually feels like 22.76°C (72.97°F)!
 </p>
 <p align="center">
     The sun rise for me is at 06:29 and the sun set is at 20:39!
 </p>
 <p align="center">
-    The wind for me  is 0.45 meters/sec (1.01mph)!
+    The wind for me  is 2.06 meters/sec (4.61mph)!
 </p>
 <p align="center">
     The persaintage of the sky is filled with clouds for me is 16%!
@@ -79,11 +79,11 @@
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1595173148/9720/dog_cute.gif?1595173148" width="30"> Dog </h2>
 
 <p align="center">
-    <img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;bulldog-french&#x2F;n02108915_328.jpg" height="300px">
+    <img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;leonberg&#x2F;n02111129_4048.jpg" height="300px">
 </p>
 
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1500426137/2648/allo-tongue.gif?1500426137" width="30"> Joke </h2>
 
 <p align="center">
-    Chuck Norris can divide by zero.
+    Roses are #ff0000, violets are #0000ff, I use hex codes, but I&#39;d use RGB for you
 </p>
