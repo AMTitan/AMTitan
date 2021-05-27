@@ -64,26 +64,26 @@
 <h2> <img src="http://openweathermap.org/img/w/03n.png" width="30"> Weather </h2>
 
 <p align="center">
-    The weather for me its a scattered clouds and the temperature is 18.42°C (65.16°F) but it actually feels like 18.51°C (65.32°F)!
+    The weather for me its a scattered clouds and the temperature is 18.41°C (65.14°F) but it actually feels like 18.53°C (65.35°F)!
 </p>
 <p align="center">
     The sun rise for me is at 06:28 and the sun set is at 20:40!
 </p>
 <p align="center">
-    The wind for me  is 1.2 meters/sec (2.68mph)!
+    The wind for me  is 1.31 meters/sec (2.93mph)!
 </p>
 <p align="center">
-    The persaintage of the sky is filled with clouds for me is 34%!
+    The persaintage of the sky is filled with clouds for me is 43%!
 </p>
 
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1595173148/9720/dog_cute.gif?1595173148" width="30"> Dog </h2>
 
 <p align="center">
-    <img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;mastiff-tibetan&#x2F;n02108551_728.jpg" height="300px">
+    <img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;terrier-russell&#x2F;iguet4.jpeg" height="300px">
 </p>
 
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1500426137/2648/allo-tongue.gif?1500426137" width="30"> Joke </h2>
 
 <p align="center">
-    The Manhattan Project was not intended to create nuclear weapons, it was meant to recreate the destructive power in a Chuck Norris Roundhouse Kick. They didn&#39;t even come close.
+    Chuck Norris&#39;s OSI network model has only one layer - Physical.
 </p>
