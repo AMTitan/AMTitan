@@ -64,7 +64,7 @@
 <h2> <img src="http://openweathermap.org/img/w/03n.png" width="30"> Weather </h2>
 
 <p align="center">
-    The weather for me its a scattered clouds and the temperature is 21.74°C (71.13°F) but it actually feels like 21.77°C (71.19°F)!
+    The weather for me its a scattered clouds and the temperature is 21.92°C (71.46°F) but it actually feels like 21.97°C (71.55°F)!
 </p>
 <p align="center">
     The sun rise for me is at 06:28 and the sun set is at 20:40!
@@ -79,11 +79,11 @@
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1595173148/9720/dog_cute.gif?1595173148" width="30"> Dog </h2>
 
 <p align="center">
-    <img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;hound-basset&#x2F;n02088238_7181.jpg" height="300px">
+    <img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;mastiff-tibetan&#x2F;n02108551_5682.jpg" height="300px">
 </p>
 
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1500426137/2648/allo-tongue.gif?1500426137" width="30"> Joke </h2>
 
 <p align="center">
-    An infinite crowd of mathematicians enters a bar. The first one orders a pint... the second one a half pint... the third one a quarter pint… “I understand”... says the bartender – and pours two pints.
+    Chuck Norris once went skydiving, but promised never to do it again. One Grand Canyon is enough.
 </p>
