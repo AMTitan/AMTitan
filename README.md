@@ -64,7 +64,7 @@
 <h2> <img src="http://openweathermap.org/img/w/03n.png" width="30"> Weather </h2>
 
 <p align="center">
-    The weather for me its a scattered clouds and the temperature is 21.6°C (70.88°F) but it actually feels like 21.7°C (71.06°F)!
+    The weather for me its a scattered clouds and the temperature is 21.54°C (70.77°F) but it actually feels like 21.63°C (70.93°F)!
 </p>
 <p align="center">
     The sun rise for me is at 06:28 and the sun set is at 20:40!
@@ -79,11 +79,11 @@
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1595173148/9720/dog_cute.gif?1595173148" width="30"> Dog </h2>
 
 <p align="center">
-    <img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;schnauzer-miniature&#x2F;n02097047_1545.jpg" height="300px">
+    <img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;kuvasz&#x2F;n02104029_3991.jpg" height="300px">
 </p>
 
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1500426137/2648/allo-tongue.gif?1500426137" width="30"> Joke </h2>
 
 <p align="center">
-    If you spell Chuck Norris in Scrabble, you win. Forever.
+    Chuck Norris can&#39;t finish a &#39;color by numbers&#39; because his markers are filled with the blood of his victims. Unfortunately, all blood is dark red.
 </p>
