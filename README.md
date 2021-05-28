@@ -64,7 +64,7 @@
 <h2> <img src="http://openweathermap.org/img/w/04d.png" width="30"> Weather </h2>
 
 <p align="center">
-    The weather for me its a broken clouds and the temperature is 27.43°C (81.37°F) but it actually feels like 29.1°C (84.38°F)!
+    The weather for me its a broken clouds and the temperature is 27.4°C (81.32°F) but it actually feels like 29.35°C (84.83°F)!
 </p>
 <p align="center">
     The sun rise for me is at 06:28 and the sun set is at 20:41!
@@ -79,11 +79,11 @@
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1595173148/9720/dog_cute.gif?1595173148" width="30"> Dog </h2>
 
 <p align="center">
-    <img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;bluetick&#x2F;n02088632_101.jpg" height="300px">
+    <img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;groenendael&#x2F;n02105056_1910.jpg" height="300px">
 </p>
 
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1500426137/2648/allo-tongue.gif?1500426137" width="30"> Joke </h2>
 
 <p align="center">
-    If you rearrange the letters in &#39;Chuck Norris&#39;, they also spell &#39;Crush Rock In&#39;. The words &#39;with his fists&#39; are understood.
+    After taking a steroids test doctors informed Chuck Norris that he had tested positive. He laughed upon receiving this information, and said &#39;of course my urine tested positive, what do you think they make steroids from?&#39;
 </p>
