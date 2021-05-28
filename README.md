@@ -1,4 +1,4 @@
-# <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> My name is Arthur Melton and I have ![Profile View Counter](https://komarev.com/ghpvc/?username=AMTitan) (Last updated on Friday, 28 May, 00:21 GMT-4).
+# <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> My name is Arthur Melton and I have ![Profile View Counter](https://komarev.com/ghpvc/?username=AMTitan) (Last updated on Friday, 28 May, 00:22 GMT-4).
 
 <h3> <img src="https://emojis.slackmojis.com/emojis/images/1581539211/7808/party-blob.gif?1581539211" width="30"/> About Me </h3>
 
@@ -64,13 +64,13 @@
 <h2> <img src="http://openweathermap.org/img/w/04n.png" width="30"> Weather </h2>
 
 <p align="center">
-    The weather for me its a broken clouds and the temperature is 21.79°C (71.22°F) but it actually feels like 22.19°C (71.94°F)!
+    The weather for me its a broken clouds and the temperature is 21.81°C (71.26°F) but it actually feels like 22.21°C (71.98°F)!
 </p>
 <p align="center">
     The sun rise for me is at 06:28 and the sun set is at 20:41!
 </p>
 <p align="center">
-    The wind for me  is 1.73 meters/sec (3.87mph)!
+    The wind for me  is 0.45 meters/sec (1.01mph)!
 </p>
 <p align="center">
     The persaintage of the sky is filled with clouds for me is 75%!
@@ -79,11 +79,11 @@
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1595173148/9720/dog_cute.gif?1595173148" width="30"> Dog </h2>
 
 <p align="center">
-    <img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;mix&#x2F;cman.JPG" height="300px">
+    <img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;terrier-westhighland&#x2F;n02098286_1218.jpg" height="300px">
 </p>
 
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1500426137/2648/allo-tongue.gif?1500426137" width="30"> Joke </h2>
 
 <p align="center">
-    Chuck Norris is the only man who has, literally, beaten the odds. With his fists.
+    Chuck Norris originally appeared in the &#39;Street Fighter II&#39; video game, but was removed by Beta Testers because every button caused him to do a roundhouse kick. When asked about this glitch, Norris replied &#39;That&#39;s no glitch.&#39;
 </p>
