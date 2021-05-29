@@ -64,13 +64,13 @@
 <h2> <img src="http://openweathermap.org/img/w/04n.png" width="30"> Weather </h2>
 
 <p align="center">
-    The weather for me its a overcast clouds and the temperature is 19.17°C (66.51°F) but it actually feels like 19.6°C (67.28°F)!
+    The weather for me its a overcast clouds and the temperature is 19.18°C (66.52°F) but it actually feels like 19.61°C (67.3°F)!
 </p>
 <p align="center">
     The sun rise for me is at 06:27 and the sun set is at 20:41!
 </p>
 <p align="center">
-    The wind for me  is 0.89 meters/sec (1.99mph)!
+    The wind for me  is 0.45 meters/sec (1.01mph)!
 </p>
 <p align="center">
     The persaintage of the sky is filled with clouds for me is 89%!
@@ -79,11 +79,11 @@
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1595173148/9720/dog_cute.gif?1595173148" width="30"> Dog </h2>
 
 <p align="center">
-    <img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;mountain-bernese&#x2F;n02107683_381.jpg" height="300px">
+    <img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;hound-english&#x2F;n02089973_3074.jpg" height="300px">
 </p>
 
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1500426137/2648/allo-tongue.gif?1500426137" width="30"> Joke </h2>
 
 <p align="center">
-    Simply by pulling on both ends, Chuck Norris can stretch diamonds back into coal.
+    Chuck Norris doesn&#39;t believe in Germany.
 </p>
