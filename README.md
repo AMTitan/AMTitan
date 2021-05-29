@@ -64,7 +64,7 @@
 <h2> <img src="http://openweathermap.org/img/w/01d.png" width="30"> Weather </h2>
 
 <p align="center">
-    The weather for me its a clear sky and the temperature is 21.83°C (71.29°F) but it actually feels like 21.64°C (70.95°F)!
+    The weather for me its a clear sky and the temperature is 21.78°C (71.2°F) but it actually feels like 21.58°C (70.84°F)!
 </p>
 <p align="center">
     The sun rise for me is at 06:27 and the sun set is at 20:41!
@@ -79,11 +79,11 @@
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1595173148/9720/dog_cute.gif?1595173148" width="30"> Dog </h2>
 
 <p align="center">
-    <img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;mountain-swiss&#x2F;n02107574_431.jpg" height="300px">
+    <img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;malamute&#x2F;n02110063_12447.jpg" height="300px">
 </p>
 
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1500426137/2648/allo-tongue.gif?1500426137" width="30"> Joke </h2>
 
 <p align="center">
-    Chuck Norris&#39; Internet connection is faster upstream than downstream because even data has more incentive to run from him than to him.
+    Chuck Norris built a better mousetrap, but the world was too frightened to beat a path to his door.
 </p>
