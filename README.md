@@ -64,7 +64,7 @@
 <h2> <img src="http://openweathermap.org/img/w/04d.png" width="30"> Weather </h2>
 
 <p align="center">
-    The weather for me its a overcast clouds and the temperature is 16.58°C (61.84°F) but it actually feels like 16.2°C (61.16°F)!
+    The weather for me its a broken clouds and the temperature is 16.88°C (62.38°F) but it actually feels like 16.5°C (61.7°F)!
 </p>
 <p align="center">
     The sun rise for me is at 06:27 and the sun set is at 20:42!
@@ -73,17 +73,17 @@
     The wind for me  is 0.89 meters/sec (1.99mph)!
 </p>
 <p align="center">
-    The persaintage of the sky is filled with clouds for me is 88%!
+    The persaintage of the sky is filled with clouds for me is 65%!
 </p>
 
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1595173148/9720/dog_cute.gif?1595173148" width="30"> Dog </h2>
 
 <p align="center">
-    <img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;hound-plott&#x2F;hhh-23456.jpeg" height="300px">
+    <img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;appenzeller&#x2F;n02107908_7567.jpg" height="300px">
 </p>
 
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1500426137/2648/allo-tongue.gif?1500426137" width="30"> Joke </h2>
 
 <p align="center">
-    Latest survey shows that 3 out of 4 people make up 75% of the world’s population.
+    Chuck Norris can compile syntax errors.
 </p>
