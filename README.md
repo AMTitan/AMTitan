@@ -64,7 +64,7 @@
 <h2> <img src="http://openweathermap.org/img/w/01n.png" width="30"> Weather </h2>
 
 <p align="center">
-    The weather for me its a clear sky and the temperature is 17.8°C (64.04°F) but it actually feels like 17.44°C (63.39°F)!
+    The weather for me its a clear sky and the temperature is 17.61°C (63.7°F) but it actually feels like 17.25°C (63.05°F)!
 </p>
 <p align="center">
     The sun rise for me is at 06:27 and the sun set is at 20:41!
@@ -79,11 +79,11 @@
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1595173148/9720/dog_cute.gif?1595173148" width="30"> Dog </h2>
 
 <p align="center">
-    <img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;terrier-irish&#x2F;n02093991_3002.jpg" height="300px">
+    <img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;labrador&#x2F;lab_portrait.JPG" height="300px">
 </p>
 
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1500426137/2648/allo-tongue.gif?1500426137" width="30"> Joke </h2>
 
 <p align="center">
-    Chuck Norris doesn&#39;t churn butter. He roundhouse kicks the cows and the butter comes straight out.
+    Fear is not the only emotion Chuck Norris can smell. He can also detect hope, as in &#39;I hope I don&#39;t get a roundhouse kick from Chuck Norris.&#39;
 </p>
