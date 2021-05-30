@@ -64,7 +64,7 @@
 <h2> <img src="http://openweathermap.org/img/w/03n.png" width="30"> Weather </h2>
 
 <p align="center">
-    The weather for me its a scattered clouds and the temperature is 12.72°C (54.9°F) but it actually feels like 12.14°C (53.85°F)!
+    The weather for me its a scattered clouds and the temperature is 12.73°C (54.91°F) but it actually feels like 12.15°C (53.87°F)!
 </p>
 <p align="center">
     The sun rise for me is at 06:27 and the sun set is at 20:42!
@@ -79,11 +79,11 @@
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1595173148/9720/dog_cute.gif?1595173148" width="30"> Dog </h2>
 
 <p align="center">
-    <img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;deerhound-scottish&#x2F;n02092002_348.jpg" height="300px">
+    <img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;terrier-lakeland&#x2F;n02095570_1171.jpg" height="300px">
 </p>
 
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1500426137/2648/allo-tongue.gif?1500426137" width="30"> Joke </h2>
 
 <p align="center">
-    Who let the dogs out? Chuck Norris let the dogs out... and then roundhouse kicked them through an Oldsmobile.
+    Chuck Norris programs occupy 150% of CPU, even when they are not executing.
 </p>
