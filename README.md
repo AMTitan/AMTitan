@@ -64,26 +64,26 @@
 <h2> <img src="http://openweathermap.org/img/w/04d.png" width="30"> Weather </h2>
 
 <p align="center">
-    The weather for me its a broken clouds and the temperature is 23.15°C (73.67°F) but it actually feels like 23.06°C (73.51°F)!
+    The weather for me its a broken clouds and the temperature is 23.77°C (74.79°F) but it actually feels like 23.66°C (74.59°F)!
 </p>
 <p align="center">
     The sun rise for me is at 06:27 and the sun set is at 20:43!
 </p>
 <p align="center">
-    The wind for me  is 3.05 meters/sec (6.82mph)!
+    The wind for me  is 3.23 meters/sec (7.23mph)!
 </p>
 <p align="center">
-    The persaintage of the sky is filled with clouds for me is 77%!
+    The persaintage of the sky is filled with clouds for me is 81%!
 </p>
 
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1595173148/9720/dog_cute.gif?1595173148" width="30"> Dog </h2>
 
 <p align="center">
-    <img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;terrier-australian&#x2F;n02096294_4201.jpg" height="300px">
+    <img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;corgi-cardigan&#x2F;n02113186_8846.jpg" height="300px">
 </p>
 
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1500426137/2648/allo-tongue.gif?1500426137" width="30"> Joke </h2>
 
 <p align="center">
-    Some things Man was never meant to know. For everything else there’s Google.
+    Fear is not the only emotion Chuck Norris can smell. He can also detect hope, as in &#39;I hope I don&#39;t get a roundhouse kick from Chuck Norris.&#39;
 </p>
