@@ -64,7 +64,7 @@
 <h2> <img src="http://openweathermap.org/img/w/04d.png" width="30"> Weather </h2>
 
 <p align="center">
-    The weather for me its a broken clouds and the temperature is 18.62°C (65.52°F) but it actually feels like 18.34°C (65.01°F)!
+    The weather for me its a broken clouds and the temperature is 19.15°C (66.47°F) but it actually feels like 18.9°C (66.02°F)!
 </p>
 <p align="center">
     The sun rise for me is at 06:27 and the sun set is at 20:43!
@@ -79,11 +79,11 @@
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1595173148/9720/dog_cute.gif?1595173148" width="30"> Dog </h2>
 
 <p align="center">
-    <img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;terrier-westhighland&#x2F;n02098286_1089.jpg" height="300px">
+    <img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;cattledog-australian&#x2F;IMG_3469.jpg" height="300px">
 </p>
 
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1500426137/2648/allo-tongue.gif?1500426137" width="30"> Joke </h2>
 
 <p align="center">
-    Chuck Norris is the only known mammal in history to have an opposable thumb. On his penis.
+    If you work in an office with Chuck Norris, don&#39;t ask him for his three-hole-punch.
 </p>
