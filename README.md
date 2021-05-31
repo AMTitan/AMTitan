@@ -1,4 +1,4 @@
-# <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> My name is Arthur Melton and I have ![Profile View Counter](https://komarev.com/ghpvc/?username=AMTitan) (Last updated on Monday, 31 May, 19:33 GMT-4).
+# <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> My name is Arthur Melton and I have ![Profile View Counter](https://komarev.com/ghpvc/?username=AMTitan) (Last updated on Monday, 31 May, 19:34 GMT-4).
 
 <h3> <img src="https://emojis.slackmojis.com/emojis/images/1581539211/7808/party-blob.gif?1581539211" width="30"/> About Me </h3>
 
@@ -64,26 +64,26 @@
 <h2> <img src="http://openweathermap.org/img/w/04d.png" width="30"> Weather </h2>
 
 <p align="center">
-    The weather for me its a broken clouds and the temperature is 23.77°C (74.79°F) but it actually feels like 23.66°C (74.59°F)!
+    The weather for me its a broken clouds and the temperature is 23.22°C (73.8°F) but it actually feels like 23.14°C (73.65°F)!
 </p>
 <p align="center">
     The sun rise for me is at 06:27 and the sun set is at 20:43!
 </p>
 <p align="center">
-    The wind for me  is 3.23 meters/sec (7.23mph)!
+    The wind for me  is 3.05 meters/sec (6.82mph)!
 </p>
 <p align="center">
-    The persaintage of the sky is filled with clouds for me is 81%!
+    The persaintage of the sky is filled with clouds for me is 77%!
 </p>
 
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1595173148/9720/dog_cute.gif?1595173148" width="30"> Dog </h2>
 
 <p align="center">
-    <img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;bullterrier-staffordshire&#x2F;n02093256_1134.jpg" height="300px">
+    <img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;mix&#x2F;Annabelle9.jpeg" height="300px">
 </p>
 
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1500426137/2648/allo-tongue.gif?1500426137" width="30"> Joke </h2>
 
 <p align="center">
-    Divide Chuck Norris by zero and you will in fact get one........one bad-ass that is.
+    When you say &#39;no one&#39;s perfect&#39;, Chuck Norris takes this as a personal insult.
 </p>
