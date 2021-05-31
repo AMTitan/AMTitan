@@ -64,7 +64,7 @@
 <h2> <img src="http://openweathermap.org/img/w/04d.png" width="30"> Weather </h2>
 
 <p align="center">
-    The weather for me its a broken clouds and the temperature is 24.07°C (75.33°F) but it actually feels like 23.97°C (75.15°F)!
+    The weather for me its a broken clouds and the temperature is 24.15°C (75.47°F) but it actually feels like 24.06°C (75.31°F)!
 </p>
 <p align="center">
     The sun rise for me is at 06:27 and the sun set is at 20:43!
@@ -79,11 +79,11 @@
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1595173148/9720/dog_cute.gif?1595173148" width="30"> Dog </h2>
 
 <p align="center">
-    <img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;whippet&#x2F;n02091134_12272.jpg" height="300px">
+    <img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;wolfhound-irish&#x2F;n02090721_1534.jpg" height="300px">
 </p>
 
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1500426137/2648/allo-tongue.gif?1500426137" width="30"> Joke </h2>
 
 <p align="center">
-    Rules of fighting: 1) Don&#39;t bring a knife to a gun fight. 2) Don&#39;t bring a gun to a Chuck Norris fight.
+    What many people dont know is Chuck Norris is the founder of planned parenthood. Not even unborn children can escape his wrath.
 </p>
