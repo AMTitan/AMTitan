@@ -64,7 +64,7 @@
 <h2> <img src="http://openweathermap.org/img/w/02n.png" width="30"> Weather </h2>
 
 <p align="center">
-    The weather for me its a few clouds and the temperature is 17.5°C (63.5°F) but it actually feels like 17.32°C (63.18°F)!
+    The weather for me its a few clouds and the temperature is 17.53°C (63.55°F) but it actually feels like 17.35°C (63.23°F)!
 </p>
 <p align="center">
     The sun rise for me is at 06:26 and the sun set is at 20:43!
@@ -79,11 +79,11 @@
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1595173148/9720/dog_cute.gif?1595173148" width="30"> Dog </h2>
 
 <p align="center">
-    <img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;dingo&#x2F;n02115641_3995.jpg" height="300px">
+    <img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;frise-bichon&#x2F;7.jpg" height="300px">
 </p>
 
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1500426137/2648/allo-tongue.gif?1500426137" width="30"> Joke </h2>
 
 <p align="center">
-    When Chuck Norris goes to out to eat, he orders a whole chicken, but he only eats its soul.
+    When you&#39;re Chuck Norris, anything + anything is equal to 1. One roundhouse kick to the face.
 </p>
