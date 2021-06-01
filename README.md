@@ -64,7 +64,7 @@
 <h2> <img src="http://openweathermap.org/img/w/02n.png" width="30"> Weather </h2>
 
 <p align="center">
-    The weather for me its a few clouds and the temperature is 17.67°C (63.81°F) but it actually feels like 17.5°C (63.5°F)!
+    The weather for me its a few clouds and the temperature is 17.7°C (63.86°F) but it actually feels like 17.54°C (63.57°F)!
 </p>
 <p align="center">
     The sun rise for me is at 06:27 and the sun set is at 20:43!
@@ -79,11 +79,11 @@
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1595173148/9720/dog_cute.gif?1595173148" width="30"> Dog </h2>
 
 <p align="center">
-    <img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;ridgeback-rhodesian&#x2F;n02087394_9361.jpg" height="300px">
+    <img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;sheepdog-shetland&#x2F;n02105855_19616.jpg" height="300px">
 </p>
 
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1500426137/2648/allo-tongue.gif?1500426137" width="30"> Joke </h2>
 
 <p align="center">
-    Human cloning is outlawed because of Chuck Norris, because then it would be possible for a Chuck Norris roundhouse kick to meet another Chuck Norris roundhouse kick. Physicists theorize that this contact would end the universe.
+    Project managers never ask Chuck Norris for estimations... ever.
 </p>
