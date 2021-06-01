@@ -1,4 +1,4 @@
-# <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> My name is Arthur Melton and I have ![Profile View Counter](https://komarev.com/ghpvc/?username=AMTitan) (Last updated on Tuesday, 1 June, 03:50 GMT-4).
+# <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> My name is Arthur Melton and I have ![Profile View Counter](https://komarev.com/ghpvc/?username=AMTitan) (Last updated on Tuesday, 1 June, 03:51 GMT-4).
 
 <h3> <img src="https://emojis.slackmojis.com/emojis/images/1581539211/7808/party-blob.gif?1581539211" width="30"/> About Me </h3>
 
@@ -64,7 +64,7 @@
 <h2> <img src="http://openweathermap.org/img/w/04n.png" width="30"> Weather </h2>
 
 <p align="center">
-    The weather for me its a overcast clouds and the temperature is 14.98°C (58.96°F) but it actually feels like 14.75°C (58.55°F)!
+    The weather for me its a overcast clouds and the temperature is 14.88°C (58.78°F) but it actually feels like 14.64°C (58.35°F)!
 </p>
 <p align="center">
     The sun rise for me is at 06:26 and the sun set is at 20:43!
@@ -79,11 +79,11 @@
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1595173148/9720/dog_cute.gif?1595173148" width="30"> Dog </h2>
 
 <p align="center">
-    <img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;doberman&#x2F;n02107142_9621.jpg" height="300px">
+    <img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;ridgeback-rhodesian&#x2F;n02087394_5578.jpg" height="300px">
 </p>
 
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1500426137/2648/allo-tongue.gif?1500426137" width="30"> Joke </h2>
 
 <p align="center">
-    The pie scene in &#39;American Pie&#39; is based on a dare Chuck Norris took when he was younger. However, in Chuck Norris&#39; case, the &#39;pie&#39; was the molten crater of an active volcano.
+    The word &#39;Kill&#39; was invented by Chuck Norris. Other words were &#39;Die&#39;, &#39;Beer&#39;, and &#39;What&#39;.
 </p>
