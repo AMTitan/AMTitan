@@ -64,13 +64,13 @@
 <h2> <img src="http://openweathermap.org/img/w/04d.png" width="30"> Weather </h2>
 
 <p align="center">
-    The weather for me its a overcast clouds and the temperature is 25.41°C (77.74°F) but it actually feels like 25.65°C (78.17°F)!
+    The weather for me its a overcast clouds and the temperature is 25.49°C (77.88°F) but it actually feels like 25.74°C (78.33°F)!
 </p>
 <p align="center">
     The sun rise for me is at 06:26 and the sun set is at 20:44!
 </p>
 <p align="center">
-    The wind for me  is 2.76 meters/sec (6.17mph)!
+    The wind for me  is 2.63 meters/sec (5.88mph)!
 </p>
 <p align="center">
     The persaintage of the sky is filled with clouds for me is 100%!
@@ -79,11 +79,11 @@
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1595173148/9720/dog_cute.gif?1595173148" width="30"> Dog </h2>
 
 <p align="center">
-    <img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;coonhound&#x2F;n02089078_3821.jpg" height="300px">
+    <img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;hound-basset&#x2F;n02088238_9718.jpg" height="300px">
 </p>
 
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1500426137/2648/allo-tongue.gif?1500426137" width="30"> Joke </h2>
 
 <p align="center">
-    Coroners refer to dead people as &#39;ABC&#39;s&#39;. Already Been Chucked.
+    When Chuck Norris was a baby, he didn&#39;t suck his mother&#39;s breast. His mother served him whiskey, straight out of the bottle.
 </p>
