@@ -64,7 +64,7 @@
 <h2> <img src="http://openweathermap.org/img/w/04n.png" width="30"> Weather </h2>
 
 <p align="center">
-    The weather for me its a overcast clouds and the temperature is 22.36°C (72.25°F) but it actually feels like 22.56°C (72.61°F)!
+    The weather for me its a overcast clouds and the temperature is 22.39°C (72.3°F) but it actually feels like 22.59°C (72.66°F)!
 </p>
 <p align="center">
     The sun rise for me is at 06:26 and the sun set is at 20:44!
@@ -79,11 +79,11 @@
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1595173148/9720/dog_cute.gif?1595173148" width="30"> Dog </h2>
 
 <p align="center">
-    <img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;mountain-bernese&#x2F;n02107683_4168.jpg" height="300px">
+    <img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;malamute&#x2F;n02110063_17622.jpg" height="300px">
 </p>
 
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1500426137/2648/allo-tongue.gif?1500426137" width="30"> Joke </h2>
 
 <p align="center">
-    Chuck Norris kills anyone that asks: &#39;Do you want fries with that?&#39;. Because by now everyone should know that Chuck doesn&#39;t want fries with anything. Ever.
+    Once you go Norris, you are physically unable to go back.
 </p>
