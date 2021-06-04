@@ -64,7 +64,7 @@
 <h2> <img src="http://openweathermap.org/img/w/04n.png" width="30"> Weather </h2>
 
 <p align="center">
-    The weather for me its a overcast clouds and the temperature is 19.34°C (66.81°F) but it actually feels like 19.73°C (67.51°F)!
+    The weather for me its a overcast clouds and the temperature is 19.36°C (66.85°F) but it actually feels like 19.75°C (67.55°F)!
 </p>
 <p align="center">
     The sun rise for me is at 06:26 and the sun set is at 20:45!
@@ -79,11 +79,11 @@
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1595173148/9720/dog_cute.gif?1595173148" width="30"> Dog </h2>
 
 <p align="center">
-    <img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;stbernard&#x2F;n02109525_9426.jpg" height="300px">
+    <img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;hound-afghan&#x2F;n02088094_1335.jpg" height="300px">
 </p>
 
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1500426137/2648/allo-tongue.gif?1500426137" width="30"> Joke </h2>
 
 <p align="center">
-    If I wanted a warm fuzzy feeling... I’d antialias my graphics!
+    Mac users swear by their Mac and PC users swear at their PC.
 </p>
