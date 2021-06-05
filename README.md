@@ -1,4 +1,4 @@
-# <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> My name is Arthur Melton and I have ![Profile View Counter](https://komarev.com/ghpvc/?username=AMTitan) (Last updated on Saturday, 5 June, 11:07 GMT-4).
+# <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> My name is Arthur Melton and I have ![Profile View Counter](https://komarev.com/ghpvc/?username=AMTitan) (Last updated on Saturday, 5 June, 11:08 GMT-4).
 
 <h3> <img src="https://emojis.slackmojis.com/emojis/images/1581539211/7808/party-blob.gif?1581539211" width="30"/> About Me </h3>
 
@@ -19,18 +19,11 @@
     </thead>
     <tbody>
     <tr>
-        <td><a href="https:&#x2F;&#x2F;github.com&#x2F;AMTitan&#x2F;File-Explorer--"><b>File-Explorer--</b></a></td>
-        <td><img alt="Stars" src="https://img.shields.io/github/stars/AMTitan/File-Explorer--?style=flat-square&labelColor=343b41"/></td>
-        <td><img alt="Forks" src="https://img.shields.io/github/forks/AMTitan/File-Explorer--?style=flat-square&labelColor=343b41"/></td>
-        <td><img alt="Issues" src="https://img.shields.io/github/issues/AMTitan/File-Explorer--?style=flat-square&labelColor=343b41"/></td>
-        <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/AMTitan/File-Explorer--?style=flat-square&labelColor=343b41"/></td>
-    </tr>
-    <tr>
-        <td><a href="https:&#x2F;&#x2F;github.com&#x2F;AMTitan&#x2F;Project-Defiance"><b>Project-Defiance</b></a></td>
-        <td><img alt="Stars" src="https://img.shields.io/github/stars/AMTitan/Project-Defiance?style=flat-square&labelColor=343b41"/></td>
-        <td><img alt="Forks" src="https://img.shields.io/github/forks/AMTitan/Project-Defiance?style=flat-square&labelColor=343b41"/></td>
-        <td><img alt="Issues" src="https://img.shields.io/github/issues/AMTitan/Project-Defiance?style=flat-square&labelColor=343b41"/></td>
-        <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/AMTitan/Project-Defiance?style=flat-square&labelColor=343b41"/></td>
+        <td><a href="https:&#x2F;&#x2F;github.com&#x2F;AMTitan&#x2F;Anime-Bot"><b>Anime-Bot</b></a></td>
+        <td><img alt="Stars" src="https://img.shields.io/github/stars/AMTitan/Anime-Bot?style=flat-square&labelColor=343b41"/></td>
+        <td><img alt="Forks" src="https://img.shields.io/github/forks/AMTitan/Anime-Bot?style=flat-square&labelColor=343b41"/></td>
+        <td><img alt="Issues" src="https://img.shields.io/github/issues/AMTitan/Anime-Bot?style=flat-square&labelColor=343b41"/></td>
+        <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/AMTitan/Anime-Bot?style=flat-square&labelColor=343b41"/></td>
     </tr>
     <tr>
         <td><a href="https:&#x2F;&#x2F;github.com&#x2F;AMTitan&#x2F;arthurmelton.me"><b>arthurmelton.me</b></a></td>
@@ -79,11 +72,13 @@
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1595173148/9720/dog_cute.gif?1595173148" width="30"> Dog </h2>
 
 <p align="center">
-    <img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;hound-blood&#x2F;n02088466_8144.jpg" height="300px">
+    <img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;saluki&#x2F;n02091831_1400.jpg" height="300px">
 </p>
 
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1500426137/2648/allo-tongue.gif?1500426137" width="30"> Joke </h2>
 
 <p align="center">
-    Hand over the calculator... friends don’t let friends derive drunk.
+    Chuck Norris&#39; dick is so big, it has it&#39;s own dick, and that dick is still bigger than yours.
 </p>
+
+
