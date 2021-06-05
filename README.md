@@ -70,20 +70,20 @@
     The sun rise for me is at 06:25 and the sun set is at 20:45!
 </p>
 <p align="center">
-    The wind for me  is 1.05 meters/sec (2.35mph)!
+    The wind for me  is 0.94 meters/sec (2.1mph)!
 </p>
 <p align="center">
-    The persaintage of the sky is filled with clouds for me is 100%!
+    The persaintage of the sky is filled with clouds for me is 99%!
 </p>
 
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1595173148/9720/dog_cute.gif?1595173148" width="30"> Dog </h2>
 
 <p align="center">
-    <img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;terrier-irish&#x2F;n02093991_942.jpg" height="300px">
+    <img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;vizsla&#x2F;n02100583_10367.jpg" height="300px">
 </p>
 
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1500426137/2648/allo-tongue.gif?1500426137" width="30"> Joke </h2>
 
 <p align="center">
-    Chuck Norris once worked as a weatherman for the San Diego evening news. Every night he would make the same forecast: Partly cloudy with a 75% chance of Pain.
+    Some people ask for a Kleenex when they sneeze, Chuck Norris asks for a body bag.
 </p>
