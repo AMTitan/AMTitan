@@ -64,7 +64,7 @@
 <h2> <img src="http://openweathermap.org/img/w/04n.png" width="30"> Weather </h2>
 
 <p align="center">
-    The weather for me its a overcast clouds and the temperature is 24.77°C (76.59°F) but it actually feels like 25.08°C (77.14°F)!
+    The weather for me its a overcast clouds and the temperature is 24.85°C (76.73°F) but it actually feels like 25.14°C (77.25°F)!
 </p>
 <p align="center">
     The sun rise for me is at 06:26 and the sun set is at 20:45!
@@ -79,11 +79,11 @@
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1595173148/9720/dog_cute.gif?1595173148" width="30"> Dog </h2>
 
 <p align="center">
-    <img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;cattledog-australian&#x2F;IMG_5177.jpg" height="300px">
+    <img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;terrier-silky&#x2F;n02097658_4728.jpg" height="300px">
 </p>
 
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1500426137/2648/allo-tongue.gif?1500426137" width="30"> Joke </h2>
 
 <p align="center">
-    A movie scene depicting Chuck Norris losing a fight with Bruce Lee was the product of history&#39;s most expensive visual effect. When adjusted for inflation, the effect cost more than the Gross National Product of Paraguay.
+    Chuck Norris&#39;s beard can type 140 wpm.
 </p>
