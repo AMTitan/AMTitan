@@ -67,7 +67,7 @@
     The weather for me its a overcast clouds and the temperature is 22.35°C (72.23°F) but it actually feels like 22.73°C (72.91°F)!
 </p>
 <p align="center">
-    The sun rise for me is at 06:25 and the sun set is at 20:45!
+    The sun rise for me is at 06:26 and the sun set is at 20:45!
 </p>
 <p align="center">
     The wind for me  is 1.18 meters/sec (2.64mph)!
@@ -79,11 +79,11 @@
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1595173148/9720/dog_cute.gif?1595173148" width="30"> Dog </h2>
 
 <p align="center">
-    <img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;terrier-irish&#x2F;n02093991_3339.jpg" height="300px">
+    <img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;frise-bichon&#x2F;2.jpg" height="300px">
 </p>
 
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1500426137/2648/allo-tongue.gif?1500426137" width="30"> Joke </h2>
 
 <p align="center">
-    In honor of Chuck Norris, all McDonald&#39;s in Texas have an even larger size than the super-size. When ordering, just ask to be Chucksized.
+    The box said ‘Requires Windows Vista or better’. So I installed LINUX.
 </p>
