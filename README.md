@@ -57,7 +57,7 @@
 <h2> <img src="http://openweathermap.org/img/w/04d.png" width="30"> Weather </h2>
 
 <p align="center">
-    The weather for me its a overcast clouds and the temperature is 29.06°C (84.31°F) but it actually feels like 31.79°C (89.22°F)!
+    The weather for me its a overcast clouds and the temperature is 29.21°C (84.58°F) but it actually feels like 32.07°C (89.73°F)!
 </p>
 <p align="center">
     The sun rise for me is at 06:25 and the sun set is at 20:45!
@@ -72,13 +72,13 @@
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1595173148/9720/dog_cute.gif?1595173148" width="30"> Dog </h2>
 
 <p align="center">
-    <img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;chihuahua&#x2F;n02085620_3033.jpg" height="300px">
+    <img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;african&#x2F;n02116738_7170.jpg" height="300px">
 </p>
 
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1500426137/2648/allo-tongue.gif?1500426137" width="30"> Joke </h2>
 
 <p align="center">
-    In the Bible, Jesus turned water into wine. But then Chuck Norris turned that wine into beer.
+    3 Database SQL walked into a NoSQL bar. A little while later they walked out, because they couldn&#39;t find a table.
 </p>
 
 
