@@ -1,4 +1,4 @@
-# <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> My name is Arthur Melton and I have ![Profile View Counter](https://komarev.com/ghpvc/?username=AMTitan) (Last updated on Sunday, 6 June, 04:24 GMT-4).
+# <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> My name is Arthur Melton and I have ![Profile View Counter](https://komarev.com/ghpvc/?username=AMTitan) (Last updated on Sunday, 6 June, 04:25 GMT-4).
 
 <h3> <img src="https://emojis.slackmojis.com/emojis/images/1581539211/7808/party-blob.gif?1581539211" width="30"/> About Me </h3>
 
@@ -57,7 +57,7 @@
 <h2> <img src="http://openweathermap.org/img/w/04n.png" width="30"> Weather </h2>
 
 <p align="center">
-    The weather for me its a overcast clouds and the temperature is 21.5°C (70.7°F) but it actually feels like 22.11°C (71.8°F)!
+    The weather for me its a overcast clouds and the temperature is 21.41°C (70.54°F) but it actually feels like 22.01°C (71.62°F)!
 </p>
 <p align="center">
     The sun rise for me is at 06:25 and the sun set is at 20:46!
@@ -78,7 +78,7 @@
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1500426137/2648/allo-tongue.gif?1500426137" width="30"> Joke </h2>
 
 <p align="center">
-    NT is the only OS that has caused me to beat a piece of hardware to death with my bare hands.
+    Chuck Norris runs on batteries. Specifically, Die Hards.
 </p>
 
 
