@@ -60,7 +60,7 @@
     The weather for me its a overcast clouds and the temperature is 22.07°C (71.73°F) but it actually feels like 22.71°C (72.88°F)!
 </p>
 <p align="center">
-    The sun rise for me is at 06:25 and the sun set is at 20:46!
+    The sun rise for me is at 06:25 and the sun set is at 20:45!
 </p>
 <p align="center">
     The wind for me  is 2.04 meters/sec (4.56mph)!
@@ -72,13 +72,13 @@
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1595173148/9720/dog_cute.gif?1595173148" width="30"> Dog </h2>
 
 <p align="center">
-    <img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;terrier-toy&#x2F;n02087046_4039.jpg" height="300px">
+    <img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;dane-great&#x2F;n02109047_13977.jpg" height="300px">
 </p>
 
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1500426137/2648/allo-tongue.gif?1500426137" width="30"> Joke </h2>
 
 <p align="center">
-    Ozzy Osbourne bites the heads off of bats. Chuck Norris bites the heads off of Siberian Tigers.
+    Chuck Norris wears a live rattlesnake as a condom.
 </p>
 
 
