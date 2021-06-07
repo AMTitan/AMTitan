@@ -78,7 +78,7 @@
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1500426137/2648/allo-tongue.gif?1500426137" width="30"> Joke </h2>
 
 <p align="center">
-    Chuck Norris did in fact, build Rome in a day.
+    If Chuck Norris were a calendar, every month would be named Chucktober, and every day he&#39;d kick your ass.
 </p>
 
 
