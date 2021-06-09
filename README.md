@@ -54,10 +54,10 @@
     <img style="width:100%" src="https://github-readme-stats.vercel.app/api/wakatime?username=AMTitan&layout=compact&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" />
 </p>
 
-<h2> <img src="http://openweathermap.org/img/w/10d.png" width="30"> Weather </h2>
+<h2> <img src="http://openweathermap.org/img/w/10n.png" width="30"> Weather </h2>
 
 <p align="center">
-    The weather for me its a light rain and the temperature is 23.72°C (74.7°F) but it actually feels like 24.42°C (75.96°F)!
+    The weather for me its a light rain and the temperature is 23.32°C (73.98°F) but it actually feels like 23.98°C (75.16°F)!
 </p>
 <p align="center">
     The sun rise for me is at 06:25 and the sun set is at 20:47!
@@ -72,13 +72,13 @@
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1595173148/9720/dog_cute.gif?1595173148" width="30"> Dog </h2>
 
 <p align="center">
-    <img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;bouvier&#x2F;n02106382_748.jpg" height="300px">
+    <img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;maltese&#x2F;n02085936_5404.jpg" height="300px">
 </p>
 
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1500426137/2648/allo-tongue.gif?1500426137" width="30"> Joke </h2>
 
 <p align="center">
-    A programmer is having trouble with his keyboard double-pressing. He asks his coworker what he should do. &#39;Hit it,&#39; he says. The programmer hits it, but nothing changes. His coworker exclaims &#39;No, really BASH it!&#39;
+    Chuck Norris kills anyone that asks: &#39;Do you want fries with that?&#39;. Because by now everyone should know that Chuck doesn&#39;t want fries with anything. Ever.
 </p>
 
 
