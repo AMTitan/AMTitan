@@ -63,22 +63,22 @@
     The sun rise for me is at 06:25 and the sun set is at 20:47!
 </p>
 <p align="center">
-    The wind for me  is 1.29 meters/sec (2.89mph)!
+    The wind for me  is 0.39 meters/sec (0.87mph)!
 </p>
 <p align="center">
-    The persaintage of the sky is filled with clouds for me is 71%!
+    The persaintage of the sky is filled with clouds for me is 21%!
 </p>
 
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1595173148/9720/dog_cute.gif?1595173148" width="30"> Dog </h2>
 
 <p align="center">
-    <img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;mastiff-english&#x2F;1.jpg" height="300px">
+    <img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;sheepdog-english&#x2F;n02105641_1855.jpg" height="300px">
 </p>
 
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1500426137/2648/allo-tongue.gif?1500426137" width="30"> Joke </h2>
 
 <p align="center">
-    After returning from World War 2 unscrathed, Bob Dole was congratulated by Chuck Norris with a handshake. The rest is history.
+    Wilt Chamberlain claims to have slept with more than 20,000 women in his lifetime. Chuck Norris calls this &#39;a slow Tuesday.&#39;
 </p>
 
 
