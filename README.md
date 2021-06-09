@@ -57,13 +57,13 @@
 <h2> <img src="http://openweathermap.org/img/w/10d.png" width="30"> Weather </h2>
 
 <p align="center">
-    The weather for me its a light rain and the temperature is 20.47°C (68.85°F) but it actually feels like 21°C (69.8°F)!
+    The weather for me its a light rain and the temperature is 20.49°C (68.88°F) but it actually feels like 21.02°C (69.84°F)!
 </p>
 <p align="center">
     The sun rise for me is at 06:25 and the sun set is at 20:47!
 </p>
 <p align="center">
-    The wind for me  is 0.45 meters/sec (1.01mph)!
+    The wind for me  is 1.87 meters/sec (4.18mph)!
 </p>
 <p align="center">
     The persaintage of the sky is filled with clouds for me is 89%!
@@ -72,13 +72,13 @@
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1595173148/9720/dog_cute.gif?1595173148" width="30"> Dog </h2>
 
 <p align="center">
-    <img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;african&#x2F;n02116738_2802.jpg" height="300px">
+    <img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;terrier-yorkshire&#x2F;n02094433_3983.jpg" height="300px">
 </p>
 
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1500426137/2648/allo-tongue.gif?1500426137" width="30"> Joke </h2>
 
 <p align="center">
-    Chuck Norris has two speeds: Walk and Kill.
+    Chuck Norris has never been accused of murder because his roundhouse kicks are recognized as &#39;acts of God.&#39;
 </p>
 
 
