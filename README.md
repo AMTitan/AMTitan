@@ -54,31 +54,31 @@
     <img style="width:100%" src="https://github-readme-stats.vercel.app/api/wakatime?username=AMTitan&layout=compact&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" />
 </p>
 
-<h2> <img src="http://openweathermap.org/img/w/10d.png" width="30"> Weather </h2>
+<h2> <img src="http://openweathermap.org/img/w/04d.png" width="30"> Weather </h2>
 
 <p align="center">
-    The weather for me its a light rain and the temperature is 23.9°C (75.02°F) but it actually feels like 24.59°C (76.26°F)!
+    The weather for me its a broken clouds and the temperature is 24.22°C (75.6°F) but it actually feels like 24.92°C (76.86°F)!
 </p>
 <p align="center">
     The sun rise for me is at 06:25 and the sun set is at 20:47!
 </p>
 <p align="center">
-    The wind for me  is 1.29 meters/sec (2.89mph)!
+    The wind for me  is 0.8 meters/sec (1.79mph)!
 </p>
 <p align="center">
-    The persaintage of the sky is filled with clouds for me is 71%!
+    The persaintage of the sky is filled with clouds for me is 52%!
 </p>
 
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1595173148/9720/dog_cute.gif?1595173148" width="30"> Dog </h2>
 
 <p align="center">
-    <img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;terrier-australian&#x2F;n02096294_4535.jpg" height="300px">
+    <img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;havanese&#x2F;00100trPORTRAIT_00100_BURST20191103202017556_COVER.jpg" height="300px">
 </p>
 
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1500426137/2648/allo-tongue.gif?1500426137" width="30"> Joke </h2>
 
 <p align="center">
-    Linux: Born to be root. Windows: Born to re-boot
+    Chuck Norris once ate three 72 oz. steaks in one hour. He spent the first 45 minutes having sex with his waitress.
 </p>
 
 
