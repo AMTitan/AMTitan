@@ -57,28 +57,28 @@
 <h2> <img src="http://openweathermap.org/img/w/10d.png" width="30"> Weather </h2>
 
 <p align="center">
-    The weather for me its a light rain and the temperature is 23.9°C (75.02°F) but it actually feels like 24.59°C (76.26°F)!
+    The weather for me its a light rain and the temperature is 23.72°C (74.7°F) but it actually feels like 24.42°C (75.96°F)!
 </p>
 <p align="center">
     The sun rise for me is at 06:25 and the sun set is at 20:47!
 </p>
 <p align="center">
-    The wind for me  is 0.39 meters/sec (0.87mph)!
+    The wind for me  is 1.29 meters/sec (2.89mph)!
 </p>
 <p align="center">
-    The persaintage of the sky is filled with clouds for me is 21%!
+    The persaintage of the sky is filled with clouds for me is 71%!
 </p>
 
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1595173148/9720/dog_cute.gif?1595173148" width="30"> Dog </h2>
 
 <p align="center">
-    <img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;briard&#x2F;n02105251_3407.jpg" height="300px">
+    <img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;malinois&#x2F;n02105162_5299.jpg" height="300px">
 </p>
 
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1500426137/2648/allo-tongue.gif?1500426137" width="30"> Joke </h2>
 
 <p align="center">
-    Once you go Norris, you are physically unable to go back.
+    NT is the only OS that has caused me to beat a piece of hardware to death with my bare hands.
 </p>
 
 
