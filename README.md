@@ -78,7 +78,7 @@
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1500426137/2648/allo-tongue.gif?1500426137" width="30"> Joke </h2>
 
 <p align="center">
-    A high tide means Chuck Norris is flying over your coast. The tide is caused by God pissing his pants.
+    Chuck Norris uses a night light. Not because Chuck Norris is afraid of the dark, but the dark is afraid of Chuck Norris.
 </p>
 
 
