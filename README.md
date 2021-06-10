@@ -57,7 +57,7 @@
 <h2> <img src="http://openweathermap.org/img/w/10n.png" width="30"> Weather </h2>
 
 <p align="center">
-    The weather for me its a light rain and the temperature is 21.78°C (71.2°F) but it actually feels like 22.42°C (72.36°F)!
+    The weather for me its a light rain and the temperature is 21.64°C (70.95°F) but it actually feels like 22.26°C (72.07°F)!
 </p>
 <p align="center">
     The sun rise for me is at 06:25 and the sun set is at 20:47!
@@ -72,13 +72,13 @@
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1595173148/9720/dog_cute.gif?1595173148" width="30"> Dog </h2>
 
 <p align="center">
-    <img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;coonhound&#x2F;n02089078_2021.jpg" height="300px">
+    <img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;maltese&#x2F;n02085936_4929.jpg" height="300px">
 </p>
 
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1500426137/2648/allo-tongue.gif?1500426137" width="30"> Joke </h2>
 
 <p align="center">
-    CAPS LOCK – Preventing Login Since 1980.
+    Chuck Norris is the only person to ever win a staring contest against Ray Charles and Stevie Wonder.
 </p>
 
 
