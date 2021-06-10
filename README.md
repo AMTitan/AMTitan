@@ -57,7 +57,7 @@
 <h2> <img src="http://openweathermap.org/img/w/10n.png" width="30"> Weather </h2>
 
 <p align="center">
-    The weather for me its a light rain and the temperature is 20.37°C (68.67°F) but it actually feels like 20.86°C (69.55°F)!
+    The weather for me its a light rain and the temperature is 20.38°C (68.68°F) but it actually feels like 20.88°C (69.58°F)!
 </p>
 <p align="center">
     The sun rise for me is at 06:25 and the sun set is at 20:48!
@@ -72,13 +72,13 @@
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1595173148/9720/dog_cute.gif?1595173148" width="30"> Dog </h2>
 
 <p align="center">
-    <img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;terrier-tibetan&#x2F;n02097474_6113.jpg" height="300px">
+    <img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;hound-english&#x2F;n02089973_3401.jpg" height="300px">
 </p>
 
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1500426137/2648/allo-tongue.gif?1500426137" width="30"> Joke </h2>
 
 <p align="center">
-    How do you tell an introverted computer scientist from an extroverted computer scientist? The extrovert looks at *your* shoes when he talks to you.
+    If at first you don&#39;t succeed, you&#39;re not Chuck Norris.
 </p>
 
 
