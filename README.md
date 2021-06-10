@@ -57,7 +57,7 @@
 <h2> <img src="http://openweathermap.org/img/w/10n.png" width="30"> Weather </h2>
 
 <p align="center">
-    The weather for me its a light rain and the temperature is 21.68°C (71.02°F) but it actually feels like 22.31°C (72.16°F)!
+    The weather for me its a light rain and the temperature is 21.65°C (70.97°F) but it actually feels like 22.27°C (72.09°F)!
 </p>
 <p align="center">
     The sun rise for me is at 06:25 and the sun set is at 20:47!
@@ -72,13 +72,13 @@
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1595173148/9720/dog_cute.gif?1595173148" width="30"> Dog </h2>
 
 <p align="center">
-    <img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;keeshond&#x2F;n02112350_464.jpg" height="300px">
+    <img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;buhund-norwegian&#x2F;hakon1.jpg" height="300px">
 </p>
 
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1500426137/2648/allo-tongue.gif?1500426137" width="30"> Joke </h2>
 
 <p align="center">
-    Archeologists unearthed an old english dictionary dating back to the year 1236. It defined &#39;victim&#39; as &#39;one who has encountered Chuck Norris&#39;
+    Simply by pulling on both ends, Chuck Norris can stretch diamonds back into coal.
 </p>
 
 
