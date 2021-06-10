@@ -57,10 +57,10 @@
 <h2> <img src="http://openweathermap.org/img/w/10n.png" width="30"> Weather </h2>
 
 <p align="center">
-    The weather for me its a moderate rain and the temperature is 21.28°C (70.3°F) but it actually feels like 21.84°C (71.31°F)!
+    The weather for me its a moderate rain and the temperature is 21.13°C (70.03°F) but it actually feels like 21.67°C (71.01°F)!
 </p>
 <p align="center">
-    The sun rise for me is at 06:25 and the sun set is at 20:47!
+    The sun rise for me is at 06:25 and the sun set is at 20:48!
 </p>
 <p align="center">
     The wind for me  is 0.45 meters/sec (1.01mph)!
@@ -72,13 +72,13 @@
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1595173148/9720/dog_cute.gif?1595173148" width="30"> Dog </h2>
 
 <p align="center">
-    <img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;akita&#x2F;Japaneseakita.jpg" height="300px">
+    <img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;setter-english&#x2F;n02100735_10114.jpg" height="300px">
 </p>
 
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1500426137/2648/allo-tongue.gif?1500426137" width="30"> Joke </h2>
 
 <p align="center">
-    If you work in an office with Chuck Norris, don&#39;t ask him for his three-hole-punch.
+    When Chuck Norris was a baby, he didn&#39;t suck his mother&#39;s breast. His mother served him whiskey, straight out of the bottle.
 </p>
 
 
