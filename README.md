@@ -57,7 +57,7 @@
 <h2> <img src="http://openweathermap.org/img/w/04d.png" width="30"> Weather </h2>
 
 <p align="center">
-    The weather for me its a broken clouds and the temperature is 24.78°C (76.6°F) but it actually feels like 25.69°C (78.24°F)!
+    The weather for me its a broken clouds and the temperature is 24.8°C (76.64°F) but it actually feels like 25.66°C (78.19°F)!
 </p>
 <p align="center">
     The sun rise for me is at 06:25 and the sun set is at 20:48!
@@ -72,13 +72,13 @@
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1595173148/9720/dog_cute.gif?1595173148" width="30"> Dog </h2>
 
 <p align="center">
-    <img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;terrier-wheaten&#x2F;n02098105_2214.jpg" height="300px">
+    <img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;schnauzer-miniature&#x2F;n02097047_3579.jpg" height="300px">
 </p>
 
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1500426137/2648/allo-tongue.gif?1500426137" width="30"> Joke </h2>
 
 <p align="center">
-    The opening scene of the movie &#39;Saving Private Ryan&#39; is loosely based on games of dodgeball Chuck Norris played in second grade.
+    Chuck Norris used to play baseball. When Babe Ruth was hailed as the better player, Chuck Norris killed him with a baseball bat to the throat. Lou Gehrig got off easy.
 </p>
 
 
