@@ -57,7 +57,7 @@
 <h2> <img src="http://openweathermap.org/img/w/04d.png" width="30"> Weather </h2>
 
 <p align="center">
-    The weather for me its a broken clouds and the temperature is 27.01°C (80.62°F) but it actually feels like 29.58°C (85.24°F)!
+    The weather for me its a broken clouds and the temperature is 26.97°C (80.55°F) but it actually feels like 29.4°C (84.92°F)!
 </p>
 <p align="center">
     The sun rise for me is at 06:25 and the sun set is at 20:48!
@@ -78,7 +78,7 @@
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1500426137/2648/allo-tongue.gif?1500426137" width="30"> Joke </h2>
 
 <p align="center">
-    Why does a burger have less energy than a steak? A burger is in its ground state.
+    Project managers never ask Chuck Norris for estimations... ever.
 </p>
 
 
