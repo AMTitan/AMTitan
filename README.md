@@ -57,28 +57,28 @@
 <h2> <img src="http://openweathermap.org/img/w/04d.png" width="30"> Weather </h2>
 
 <p align="center">
-    The weather for me its a broken clouds and the temperature is 21.21°C (70.18°F) but it actually feels like 21.81°C (71.26°F)!
+    The weather for me its a broken clouds and the temperature is 21.14°C (70.05°F) but it actually feels like 21.74°C (71.13°F)!
 </p>
 <p align="center">
     The sun rise for me is at 06:25 and the sun set is at 20:48!
 </p>
 <p align="center">
-    The wind for me  is 2.65 meters/sec (5.93mph)!
+    The wind for me  is 2.17 meters/sec (4.85mph)!
 </p>
 <p align="center">
-    The persaintage of the sky is filled with clouds for me is 78%!
+    The persaintage of the sky is filled with clouds for me is 73%!
 </p>
 
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1595173148/9720/dog_cute.gif?1595173148" width="30"> Dog </h2>
 
 <p align="center">
-    <img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;puggle&#x2F;IMG_074532.jpg" height="300px">
+    <img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;mix&#x2F;Annabelle5.jpeg" height="300px">
 </p>
 
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1500426137/2648/allo-tongue.gif?1500426137" width="30"> Joke </h2>
 
 <p align="center">
-    &#39;Icy-Hot&#39; is too weak for Chuck Norris. After a workout, Chuck Norris rubs his muscles down with liquid-hot MAGMA.
+    Chuck Norris once lost the remote, but maintained control of the TV by yelling at it in between bites of his &#39;Filet of Child&#39; sandwich.
 </p>
 
 
