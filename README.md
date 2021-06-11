@@ -57,28 +57,28 @@
 <h2> <img src="http://openweathermap.org/img/w/04d.png" width="30"> Weather </h2>
 
 <p align="center">
-    The weather for me its a broken clouds and the temperature is 21.14°C (70.05°F) but it actually feels like 21.74°C (71.13°F)!
+    The weather for me its a broken clouds and the temperature is 21.21°C (70.18°F) but it actually feels like 21.81°C (71.26°F)!
 </p>
 <p align="center">
     The sun rise for me is at 06:25 and the sun set is at 20:48!
 </p>
 <p align="center">
-    The wind for me  is 2.17 meters/sec (4.85mph)!
+    The wind for me  is 2.65 meters/sec (5.93mph)!
 </p>
 <p align="center">
-    The persaintage of the sky is filled with clouds for me is 73%!
+    The persaintage of the sky is filled with clouds for me is 78%!
 </p>
 
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1595173148/9720/dog_cute.gif?1595173148" width="30"> Dog </h2>
 
 <p align="center">
-    <img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;pointer-germanlonghair&#x2F;hans1.jpg" height="300px">
+    <img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;hound-afghan&#x2F;n02088094_4072.jpg" height="300px">
 </p>
 
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1500426137/2648/allo-tongue.gif?1500426137" width="30"> Joke </h2>
 
 <p align="center">
-    Chuck Norris can write infinite recursion functions and have them return.
+    Newton&#39;s Third Law is wrong: Although it states that for each action, there is an equal and opposite reaction, there is no force equal in reaction to a Chuck Norris roundhouse kick.
 </p>
 
 
