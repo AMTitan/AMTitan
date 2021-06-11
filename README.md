@@ -57,7 +57,7 @@
 <h2> <img src="http://openweathermap.org/img/w/10n.png" width="30"> Weather </h2>
 
 <p align="center">
-    The weather for me its a light rain and the temperature is 22.27°C (72.09°F) but it actually feels like 22.95°C (73.31°F)!
+    The weather for me its a light rain and the temperature is 22.17°C (71.91°F) but it actually feels like 22.84°C (73.11°F)!
 </p>
 <p align="center">
     The sun rise for me is at 06:25 and the sun set is at 20:48!
@@ -66,19 +66,19 @@
     The wind for me  is 0.45 meters/sec (1.01mph)!
 </p>
 <p align="center">
-    The persaintage of the sky is filled with clouds for me is 100%!
+    The persaintage of the sky is filled with clouds for me is 99%!
 </p>
 
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1595173148/9720/dog_cute.gif?1595173148" width="30"> Dog </h2>
 
 <p align="center">
-    <img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;puggle&#x2F;IMG_074532.jpg" height="300px">
+    <img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;entlebucher&#x2F;n02108000_1600.jpg" height="300px">
 </p>
 
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1500426137/2648/allo-tongue.gif?1500426137" width="30"> Joke </h2>
 
 <p align="center">
-    The First Law of Thermodynamics states that energy can neither be created nor destroyed... unless it meets Chuck Norris.
+    When Chuck Norris throws exceptions, it&#39;s across the room.
 </p>
 
 
