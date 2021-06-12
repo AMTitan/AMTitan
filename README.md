@@ -1,4 +1,4 @@
-# <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> My name is Arthur Melton and I have ![Profile View Counter](https://komarev.com/ghpvc/?username=AMTitan) (Last updated on Saturday, 12 June, 16:21 GMT-4).
+# <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> My name is Arthur Melton and I have ![Profile View Counter](https://komarev.com/ghpvc/?username=AMTitan) (Last updated on Saturday, 12 June, 16:22 GMT-4).
 
 <h3> <img src="https://emojis.slackmojis.com/emojis/images/1581539211/7808/party-blob.gif?1581539211" width="30"/> About Me </h3>
 
@@ -57,7 +57,7 @@
 <h2> <img src="http://openweathermap.org/img/w/04d.png" width="30"> Weather </h2>
 
 <p align="center">
-    The weather for me its a broken clouds and the temperature is 30.82°C (87.48°F) but it actually feels like 35.73°C (96.31°F)!
+    The weather for me its a broken clouds and the temperature is 30.73°C (87.31°F) but it actually feels like 35.78°C (96.4°F)!
 </p>
 <p align="center">
     The sun rise for me is at 06:25 and the sun set is at 20:49!
@@ -72,13 +72,13 @@
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1595173148/9720/dog_cute.gif?1595173148" width="30"> Dog </h2>
 
 <p align="center">
-    <img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;pointer-germanlonghair&#x2F;hans3.jpg" height="300px">
+    <img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;pointer-germanlonghair&#x2F;hans1.jpg" height="300px">
 </p>
 
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1500426137/2648/allo-tongue.gif?1500426137" width="30"> Joke </h2>
 
 <p align="center">
-    Chuck Norris once worked as a weatherman for the San Diego evening news. Every night he would make the same forecast: Partly cloudy with a 75% chance of Pain.
+    The original draft of The Lord of the Rings featured Chuck Norris instead of Frodo Baggins. It was only 5 pages long, as Chuck roundhouse-kicked Sauron&#39;s ass halfway through the first chapter.
 </p>
 
 
