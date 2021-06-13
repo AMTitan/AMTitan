@@ -57,28 +57,28 @@
 <h2> <img src="http://openweathermap.org/img/w/04d.png" width="30"> Weather </h2>
 
 <p align="center">
-    The weather for me its a overcast clouds and the temperature is 24.93°C (76.87°F) but it actually feels like 25.57°C (78.03°F)!
+    The weather for me its a broken clouds and the temperature is 25.39°C (77.7°F) but it actually feels like 26.05°C (78.89°F)!
 </p>
 <p align="center">
     The sun rise for me is at 06:25 and the sun set is at 20:49!
 </p>
 <p align="center">
-    The wind for me  is 2.64 meters/sec (5.91mph)!
+    The wind for me  is 0.45 meters/sec (1.01mph)!
 </p>
 <p align="center">
-    The persaintage of the sky is filled with clouds for me is 92%!
+    The persaintage of the sky is filled with clouds for me is 79%!
 </p>
 
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1595173148/9720/dog_cute.gif?1595173148" width="30"> Dog </h2>
 
 <p align="center">
-    <img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;doberman&#x2F;n02107142_11717.jpg" height="300px">
+    <img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;saluki&#x2F;n02091831_1730.jpg" height="300px">
 </p>
 
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1500426137/2648/allo-tongue.gif?1500426137" width="30"> Joke </h2>
 
 <p align="center">
-    The easiest way to determine Chuck Norris&#39; age is to cut him in half and count the rings.
+    Chuck Norris uses 8&#39;x10&#39; sheets of plywood as toilet paper.
 </p>
 
 
