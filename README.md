@@ -57,7 +57,7 @@
 <h2> <img src="http://openweathermap.org/img/w/04d.png" width="30"> Weather </h2>
 
 <p align="center">
-    The weather for me its a broken clouds and the temperature is 28.38°C (83.08°F) but it actually feels like 31.12°C (88.02°F)!
+    The weather for me its a broken clouds and the temperature is 28.1°C (82.58°F) but it actually feels like 30.59°C (87.06°F)!
 </p>
 <p align="center">
     The sun rise for me is at 06:25 and the sun set is at 20:49!
@@ -72,13 +72,13 @@
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1595173148/9720/dog_cute.gif?1595173148" width="30"> Dog </h2>
 
 <p align="center">
-    <img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;schnauzer-giant&#x2F;n02097130_262.jpg" height="300px">
+    <img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;mastiff-english&#x2F;2.jpg" height="300px">
 </p>
 
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1500426137/2648/allo-tongue.gif?1500426137" width="30"> Joke </h2>
 
 <p align="center">
-    When you say &#39;no one&#39;s perfect&#39;, Chuck Norris takes this as a personal insult.
+    Project managers never ask Chuck Norris for estimations... ever.
 </p>
 
 
