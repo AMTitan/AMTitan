@@ -57,28 +57,28 @@
 <h2> <img src="http://openweathermap.org/img/w/04n.png" width="30"> Weather </h2>
 
 <p align="center">
-    The weather for me its a overcast clouds and the temperature is 21.75°C (71.15°F) but it actually feels like 22.33°C (72.19°F)!
+    The weather for me its a overcast clouds and the temperature is 21.67°C (71.01°F) but it actually feels like 22.24°C (72.03°F)!
 </p>
 <p align="center">
     The sun rise for me is at 06:25 and the sun set is at 20:49!
 </p>
 <p align="center">
-    The wind for me  is 0.48 meters/sec (1.07mph)!
+    The wind for me  is 0.31 meters/sec (0.69mph)!
 </p>
 <p align="center">
-    The persaintage of the sky is filled with clouds for me is 92%!
+    The persaintage of the sky is filled with clouds for me is 95%!
 </p>
 
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1595173148/9720/dog_cute.gif?1595173148" width="30"> Dog </h2>
 
 <p align="center">
-    <img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;pug&#x2F;n02110958_6598.jpg" height="300px">
+    <img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;bulldog-english&#x2F;mami.jpg" height="300px">
 </p>
 
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1500426137/2648/allo-tongue.gif?1500426137" width="30"> Joke </h2>
 
 <p align="center">
-    Using his trademark roundhouse kick, Chuck Norris once made a fieldgoal in RJ Stadium in Tampa Bay from the 50 yard line of Qualcomm stadium in San Diego.
+    There is no theory of evolution, just a list of creatures Chuck Norris allows to live.
 </p>
 
 
