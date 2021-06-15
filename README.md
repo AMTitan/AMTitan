@@ -1,4 +1,4 @@
-# <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> My name is Arthur Melton and I have ![Profile View Counter](https://komarev.com/ghpvc/?username=AMTitan) (Last updated on Tuesday, 15 June, 14:01 GMT-4).
+# <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> My name is Arthur Melton and I have ![Profile View Counter](https://komarev.com/ghpvc/?username=AMTitan) (Last updated on Tuesday, 15 June, 14:02 GMT-4).
 
 <h3> <img src="https://emojis.slackmojis.com/emojis/images/1581539211/7808/party-blob.gif?1581539211" width="30"/> About Me </h3>
 
@@ -57,7 +57,7 @@
 <h2> <img src="http://openweathermap.org/img/w/04d.png" width="30"> Weather </h2>
 
 <p align="center">
-    The weather for me its a broken clouds and the temperature is 30.1°C (86.18°F) but it actually feels like 30.31°C (86.56°F)!
+    The weather for me its a broken clouds and the temperature is 30.09°C (86.16°F) but it actually feels like 30.3°C (86.54°F)!
 </p>
 <p align="center">
     The sun rise for me is at 06:25 and the sun set is at 20:50!
@@ -72,13 +72,13 @@
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1595173148/9720/dog_cute.gif?1595173148" width="30"> Dog </h2>
 
 <p align="center">
-    <img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;whippet&#x2F;n02091134_6159.jpg" height="300px">
+    <img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;spaniel-blenheim&#x2F;n02086646_380.jpg" height="300px">
 </p>
 
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1500426137/2648/allo-tongue.gif?1500426137" width="30"> Joke </h2>
 
 <p align="center">
-    Contrary to popular belief, the Titanic didn&#39;t hit an iceberg. The ship was off course and ran into Chuck Norris while he was doing the backstroke across the Atlantic.
+    When God said, &#39;let there be light&#39;, Chuck Norris said, &#39;say &#39;please&#39;.&#39;
 </p>
 
 
