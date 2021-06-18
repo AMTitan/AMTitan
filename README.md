@@ -57,7 +57,7 @@
 <h2> <img src="http://openweathermap.org/img/w/02d.png" width="30"> Weather </h2>
 
 <p align="center">
-    The weather for me its a few clouds and the temperature is 22.72°C (72.9°F) but it actually feels like 23.06°C (73.51°F)!
+    The weather for me its a few clouds and the temperature is 23.21°C (73.78°F) but it actually feels like 23.54°C (74.37°F)!
 </p>
 <p align="center">
     The sun rise for me is at 06:25 and the sun set is at 20:51!
@@ -72,13 +72,13 @@
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1595173148/9720/dog_cute.gif?1595173148" width="30"> Dog </h2>
 
 <p align="center">
-    <img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;australian-shepherd&#x2F;leroy.jpg" height="300px">
+    <img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;cotondetulear&#x2F;100_2013.jpg" height="300px">
 </p>
 
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1500426137/2648/allo-tongue.gif?1500426137" width="30"> Joke </h2>
 
 <p align="center">
-    When Chuck Norris is web surfing websites get the message &#39;Warning: Internet Explorer has deemed this user to be malicious or dangerous. Proceed?&#39;.
+    Chuck Norris has never been accused of murder because his roundhouse kicks are recognized as &#39;acts of God.&#39;
 </p>
 
 
