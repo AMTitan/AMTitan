@@ -57,13 +57,13 @@
 <h2> <img src="http://openweathermap.org/img/w/01d.png" width="30"> Weather </h2>
 
 <p align="center">
-    The weather for me its a clear sky and the temperature is 27.7°C (81.86°F) but it actually feels like 28.12°C (82.62°F)!
+    The weather for me its a clear sky and the temperature is 27.51°C (81.52°F) but it actually feels like 28°C (82.4°F)!
 </p>
 <p align="center">
     The sun rise for me is at 06:25 and the sun set is at 20:50!
 </p>
 <p align="center">
-    The wind for me  is 0.45 meters/sec (1.01mph)!
+    The wind for me  is 1.11 meters/sec (2.48mph)!
 </p>
 <p align="center">
     The persaintage of the sky is filled with clouds for me is 0%!
@@ -72,13 +72,13 @@
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1595173148/9720/dog_cute.gif?1595173148" width="30"> Dog </h2>
 
 <p align="center">
-    <img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;pug&#x2F;Suki.jpg" height="300px">
+    <img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;spaniel-brittany&#x2F;n02101388_4875.jpg" height="300px">
 </p>
 
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1500426137/2648/allo-tongue.gif?1500426137" width="30"> Joke </h2>
 
 <p align="center">
-    Chuck Norris has two speeds: Walk and Kill.
+    The last thing you hear before Chuck Norris gives you a roundhouse kick? No one knows because dead men tell no tales.
 </p>
 
 
