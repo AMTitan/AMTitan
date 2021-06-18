@@ -57,7 +57,7 @@
 <h2> <img src="http://openweathermap.org/img/w/01n.png" width="30"> Weather </h2>
 
 <p align="center">
-    The weather for me its a clear sky and the temperature is 17.92°C (64.26°F) but it actually feels like 18.12°C (64.62°F)!
+    The weather for me its a clear sky and the temperature is 17.94°C (64.29°F) but it actually feels like 18.14°C (64.65°F)!
 </p>
 <p align="center">
     The sun rise for me is at 06:25 and the sun set is at 20:51!
@@ -72,13 +72,13 @@
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1595173148/9720/dog_cute.gif?1595173148" width="30"> Dog </h2>
 
 <p align="center">
-    <img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;schipperke&#x2F;n02104365_10252.jpg" height="300px">
+    <img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;spaniel-welsh&#x2F;n02102177_2365.jpg" height="300px">
 </p>
 
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1500426137/2648/allo-tongue.gif?1500426137" width="30"> Joke </h2>
 
 <p align="center">
-    If at first you don’t succeed; call it version 1.0.
+    When Chuck Norris goes to donate blood, he declines the syringe, and instead requests a hand gun and a bucket.
 </p>
 
 
