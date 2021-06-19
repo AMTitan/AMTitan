@@ -57,7 +57,7 @@
 <h2> <img src="http://openweathermap.org/img/w/10d.png" width="30"> Weather </h2>
 
 <p align="center">
-    The weather for me its a light rain and the temperature is 20.69°C (69.24°F) but it actually feels like 21.24°C (70.23°F)!
+    The weather for me its a moderate rain and the temperature is 20.67°C (69.21°F) but it actually feels like 21.22°C (70.2°F)!
 </p>
 <p align="center">
     The sun rise for me is at 06:25 and the sun set is at 20:51!
@@ -72,13 +72,13 @@
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1595173148/9720/dog_cute.gif?1595173148" width="30"> Dog </h2>
 
 <p align="center">
-    <img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;bulldog-french&#x2F;n02108915_3880.jpg" height="300px">
+    <img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;dalmatian&#x2F;cooper1.jpg" height="300px">
 </p>
 
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1500426137/2648/allo-tongue.gif?1500426137" width="30"> Joke </h2>
 
 <p align="center">
-    When in a bar, you can order a drink called a &#39;Chuck Norris&#39;. It is also known as a &#39;Bloody Mary&#39;, if your name happens to be Mary.
+    On his birthday, Chuck Norris randomly selects one lucky child to be thrown into the sun.
 </p>
 
 
