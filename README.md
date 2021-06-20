@@ -57,7 +57,7 @@
 <h2> <img src="http://openweathermap.org/img/w/04d.png" width="30"> Weather </h2>
 
 <p align="center">
-    The weather for me its a overcast clouds and the temperature is 26.82°C (80.28°F) but it actually feels like 29.02°C (84.24°F)!
+    The weather for me its a overcast clouds and the temperature is 26.7°C (80.06°F) but it actually feels like 28.79°C (83.82°F)!
 </p>
 <p align="center">
     The sun rise for me is at 06:25 and the sun set is at 20:51!
@@ -72,13 +72,13 @@
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1595173148/9720/dog_cute.gif?1595173148" width="30"> Dog </h2>
 
 <p align="center">
-    <img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;doberman&#x2F;n02107142_10036.jpg" height="300px">
+    <img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;hound-english&#x2F;n02089973_1701.jpg" height="300px">
 </p>
 
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1500426137/2648/allo-tongue.gif?1500426137" width="30"> Joke </h2>
 
 <p align="center">
-    Chuck Norris doesn&#39;t bowl strikes, he just knocks down one pin and the other nine faint.
+    If you Google search &#39;Chuck Norris getting his ass kicked&#39; you will generate zero results. It just doesn&#39;t happen.
 </p>
 
 
