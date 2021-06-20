@@ -57,7 +57,7 @@
 <h2> <img src="http://openweathermap.org/img/w/10n.png" width="30"> Weather </h2>
 
 <p align="center">
-    The weather for me its a light rain and the temperature is 20.85°C (69.53°F) but it actually feels like 21.45°C (70.61°F)!
+    The weather for me its a light rain and the temperature is 20.87°C (69.57°F) but it actually feels like 21.44°C (70.59°F)!
 </p>
 <p align="center">
     The sun rise for me is at 06:25 and the sun set is at 20:51!
@@ -72,13 +72,13 @@
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1595173148/9720/dog_cute.gif?1595173148" width="30"> Dog </h2>
 
 <p align="center">
-    <img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;terrier-bedlington&#x2F;n02093647_665.jpg" height="300px">
+    <img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;terrier-lakeland&#x2F;n02095570_5820.jpg" height="300px">
 </p>
 
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1500426137/2648/allo-tongue.gif?1500426137" width="30"> Joke </h2>
 
 <p align="center">
-    Chuck Norris has two speeds: Walk and Kill.
+    Java programmers are some of the most materialistic people I know, very object-oriented
 </p>
 
 
