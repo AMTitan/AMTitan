@@ -57,7 +57,7 @@
 <h2> <img src="http://openweathermap.org/img/w/03n.png" width="30"> Weather </h2>
 
 <p align="center">
-    The weather for me its a scattered clouds and the temperature is 22.45°C (72.41°F) but it actually feels like 23.13°C (73.63°F)!
+    The weather for me its a scattered clouds and the temperature is 22.44°C (72.39°F) but it actually feels like 23.12°C (73.62°F)!
 </p>
 <p align="center">
     The sun rise for me is at 06:26 and the sun set is at 20:51!
@@ -72,13 +72,13 @@
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1595173148/9720/dog_cute.gif?1595173148" width="30"> Dog </h2>
 
 <p align="center">
-    <img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;bulldog-boston&#x2F;n02096585_1450.jpg" height="300px">
+    <img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;husky&#x2F;n02110185_6105.jpg" height="300px">
 </p>
 
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1500426137/2648/allo-tongue.gif?1500426137" width="30"> Joke </h2>
 
 <p align="center">
-    Enter any 11-digit prime number to continue.
+    Jean-Claude Van Damme once kicked Chuck Norris&#39; ass. He was then awakened from his dream by a roundhouse kick to the face.
 </p>
 
 
