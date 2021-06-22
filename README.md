@@ -57,7 +57,7 @@
 <h2> <img src="http://openweathermap.org/img/w/04n.png" width="30"> Weather </h2>
 
 <p align="center">
-    The weather for me its a broken clouds and the temperature is 21.93°C (71.47°F) but it actually feels like 22.58°C (72.64°F)!
+    The weather for me its a broken clouds and the temperature is 21.92°C (71.46°F) but it actually feels like 22.57°C (72.63°F)!
 </p>
 <p align="center">
     The sun rise for me is at 06:26 and the sun set is at 20:52!
@@ -72,13 +72,13 @@
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1595173148/9720/dog_cute.gif?1595173148" width="30"> Dog </h2>
 
 <p align="center">
-    <img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;terrier-silky&#x2F;n02097658_1065.jpg" height="300px">
+    <img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;frise-bichon&#x2F;jh-ezio-1.jpg" height="300px">
 </p>
 
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1500426137/2648/allo-tongue.gif?1500426137" width="30"> Joke </h2>
 
 <p align="center">
-    UNIX is basically a simple operating system... but you have to be a genius to understand the simplicity.
+    For undercover police work, Chuck Norris pins his badge underneath his shirt, directly into his chest.
 </p>
 
 
