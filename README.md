@@ -57,7 +57,7 @@
 <h2> <img src="http://openweathermap.org/img/w/04d.png" width="30"> Weather </h2>
 
 <p align="center">
-    The weather for me its a overcast clouds and the temperature is 23.49°C (74.28°F) but it actually feels like 24.01°C (75.22°F)!
+    The weather for me its a overcast clouds and the temperature is 23.54°C (74.37°F) but it actually feels like 24.06°C (75.31°F)!
 </p>
 <p align="center">
     The sun rise for me is at 06:26 and the sun set is at 20:52!
@@ -72,13 +72,13 @@
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1595173148/9720/dog_cute.gif?1595173148" width="30"> Dog </h2>
 
 <p align="center">
-    <img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;coonhound&#x2F;n02089078_3615.jpg" height="300px">
+    <img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;spaniel-blenheim&#x2F;n02086646_3.jpg" height="300px">
 </p>
 
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1500426137/2648/allo-tongue.gif?1500426137" width="30"> Joke </h2>
 
 <p align="center">
-    Chuck Norris used to play baseball. When Babe Ruth was hailed as the better player, Chuck Norris killed him with a baseball bat to the throat. Lou Gehrig got off easy.
+    Who called it female foeticide and not Binary ?
 </p>
 
 
