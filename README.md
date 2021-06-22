@@ -54,16 +54,16 @@
     <img style="width:100%" src="https://github-readme-stats.vercel.app/api/wakatime?username=AMTitan&layout=compact&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" />
 </p>
 
-<h2> <img src="http://openweathermap.org/img/w/10n.png" width="30"> Weather </h2>
+<h2> <img src="http://openweathermap.org/img/w/03n.png" width="30"> Weather </h2>
 
 <p align="center">
-    The weather for me its a light rain and the temperature is 22.58°C (72.64°F) but it actually feels like 23.3°C (73.94°F)!
+    The weather for me its a scattered clouds and the temperature is 22.58°C (72.64°F) but it actually feels like 23.3°C (73.94°F)!
 </p>
 <p align="center">
     The sun rise for me is at 06:26 and the sun set is at 20:51!
 </p>
 <p align="center">
-    The wind for me  is 0.45 meters/sec (1.01mph)!
+    The wind for me  is 4.79 meters/sec (10.71mph)!
 </p>
 <p align="center">
     The persaintage of the sky is filled with clouds for me is 46%!
@@ -72,13 +72,13 @@
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1595173148/9720/dog_cute.gif?1595173148" width="30"> Dog </h2>
 
 <p align="center">
-    <img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;otterhound&#x2F;n02091635_1492.jpg" height="300px">
+    <img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;kelpie&#x2F;n02105412_1078.jpg" height="300px">
 </p>
 
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1500426137/2648/allo-tongue.gif?1500426137" width="30"> Joke </h2>
 
 <p align="center">
-    To Chuck Norris, everything contains a vulnerability.
+    Chuck Norris solved the Travelling Salesman problem in O(1) time. Here&#39;s the pseudo-code: Break salesman into N pieces. Kick each piece to a different city.
 </p>
 
 
