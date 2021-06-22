@@ -57,7 +57,7 @@
 <h2> <img src="http://openweathermap.org/img/w/04d.png" width="30"> Weather </h2>
 
 <p align="center">
-    The weather for me its a overcast clouds and the temperature is 19.68°C (67.42°F) but it actually feels like 20.13°C (68.23°F)!
+    The weather for me its a overcast clouds and the temperature is 19.69°C (67.44°F) but it actually feels like 20.14°C (68.25°F)!
 </p>
 <p align="center">
     The sun rise for me is at 06:26 and the sun set is at 20:52!
@@ -72,13 +72,13 @@
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1595173148/9720/dog_cute.gif?1595173148" width="30"> Dog </h2>
 
 <p align="center">
-    <img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;kelpie&#x2F;n02105412_7293.jpg" height="300px">
+    <img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;leonberg&#x2F;n02111129_638.jpg" height="300px">
 </p>
 
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1500426137/2648/allo-tongue.gif?1500426137" width="30"> Joke </h2>
 
 <p align="center">
-    Superman once watched an episode of Walker, Texas Ranger. He then cried himself to sleep.
+    Chuck Norris has never been accused of murder because his roundhouse kicks are recognized as &#39;acts of God.&#39;
 </p>
 
 
