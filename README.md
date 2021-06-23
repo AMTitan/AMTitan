@@ -57,7 +57,7 @@
 <h2> <img src="http://openweathermap.org/img/w/01n.png" width="30"> Weather </h2>
 
 <p align="center">
-    The weather for me its a clear sky and the temperature is 18.88°C (65.98°F) but it actually feels like 19.07°C (66.33°F)!
+    The weather for me its a clear sky and the temperature is 18.87°C (65.97°F) but it actually feels like 19.06°C (66.31°F)!
 </p>
 <p align="center">
     The sun rise for me is at 06:26 and the sun set is at 20:52!
@@ -72,13 +72,13 @@
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1595173148/9720/dog_cute.gif?1595173148" width="30"> Dog </h2>
 
 <p align="center">
-    <img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;bluetick&#x2F;n02088632_2764.jpg" height="300px">
+    <img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;pitbull&#x2F;20190801_154956.jpg" height="300px">
 </p>
 
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1500426137/2648/allo-tongue.gif?1500426137" width="30"> Joke </h2>
 
 <p align="center">
-    3 Database SQL walked into a NoSQL bar. A little while later they walked out, because they couldn&#39;t find a table.
+    Since 1940, the year Chuck Norris was born, roundhouse kick related deaths have increased 13,000 percent.
 </p>
 
 
