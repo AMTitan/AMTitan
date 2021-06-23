@@ -57,7 +57,7 @@
 <h2> <img src="http://openweathermap.org/img/w/02d.png" width="30"> Weather </h2>
 
 <p align="center">
-    The weather for me its a few clouds and the temperature is 26.11°C (79°F) but it actually feels like 26.11°C (79°F)!
+    The weather for me its a few clouds and the temperature is 25.85°C (78.53°F) but it actually feels like 26.4°C (79.52°F)!
 </p>
 <p align="center">
     The sun rise for me is at 06:26 and the sun set is at 20:52!
@@ -66,19 +66,19 @@
     The wind for me  is 0.89 meters/sec (1.99mph)!
 </p>
 <p align="center">
-    The persaintage of the sky is filled with clouds for me is 13%!
+    The persaintage of the sky is filled with clouds for me is 15%!
 </p>
 
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1595173148/9720/dog_cute.gif?1595173148" width="30"> Dog </h2>
 
 <p align="center">
-    <img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;saluki&#x2F;n02091831_11224.jpg" height="300px">
+    <img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;elkhound-norwegian&#x2F;n02091467_7315.jpg" height="300px">
 </p>
 
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1500426137/2648/allo-tongue.gif?1500426137" width="30"> Joke </h2>
 
 <p align="center">
-    Chuck Norris never goes to the dentist because his teeth are unbreakable. His enemies never go to the dentist because they have no teeth.
+    Chuck Norris can unit test entire applications with a single assert.
 </p>
 
 
