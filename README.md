@@ -57,7 +57,7 @@
 <h2> <img src="http://openweathermap.org/img/w/04d.png" width="30"> Weather </h2>
 
 <p align="center">
-    The weather for me its a broken clouds and the temperature is 22.89°C (73.2°F) but it actually feels like 23.09°C (73.56°F)!
+    The weather for me its a broken clouds and the temperature is 22.81°C (73.06°F) but it actually feels like 23°C (73.4°F)!
 </p>
 <p align="center">
     The sun rise for me is at 06:26 and the sun set is at 20:52!
@@ -72,13 +72,13 @@
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1595173148/9720/dog_cute.gif?1595173148" width="30"> Dog </h2>
 
 <p align="center">
-    <img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;mexicanhairless&#x2F;n02113978_2966.jpg" height="300px">
+    <img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;stbernard&#x2F;n02109525_16284.jpg" height="300px">
 </p>
 
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1500426137/2648/allo-tongue.gif?1500426137" width="30"> Joke </h2>
 
 <p align="center">
-    Chuck Norris played Russian Roulette with a fully loaded gun and won.
+    Archeologists unearthed an old english dictionary dating back to the year 1236. It defined &#39;victim&#39; as &#39;one who has encountered Chuck Norris&#39;
 </p>
 
 
