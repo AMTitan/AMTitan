@@ -63,22 +63,22 @@
     The sun rise for me is at 06:26 and the sun set is at 20:52!
 </p>
 <p align="center">
-    The wind for me  is 3.51 meters/sec (7.85mph)!
+    The wind for me  is 4.15 meters/sec (9.28mph)!
 </p>
 <p align="center">
-    The persaintage of the sky is filled with clouds for me is 20%!
+    The persaintage of the sky is filled with clouds for me is 19%!
 </p>
 
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1595173148/9720/dog_cute.gif?1595173148" width="30"> Dog </h2>
 
 <p align="center">
-    <img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;puggle&#x2F;IMG_090821.jpg" height="300px">
+    <img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;corgi-cardigan&#x2F;n02113186_7159.jpg" height="300px">
 </p>
 
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1500426137/2648/allo-tongue.gif?1500426137" width="30"> Joke </h2>
 
 <p align="center">
-    Chuck Norris doesn&#39;t go on the internet, he has every internet site stored in his memory. He refreshes webpages by blinking.
+    Chuck Norris owns a chain of fast-food restaurants throughout the southwest. They serve nothing but barbecue-flavored ice cream and Hot Pockets.
 </p>
 
 
