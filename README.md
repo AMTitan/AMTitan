@@ -57,7 +57,7 @@
 <h2> <img src="http://openweathermap.org/img/w/04d.png" width="30"> Weather </h2>
 
 <p align="center">
-    The weather for me its a overcast clouds and the temperature is 28.04°C (82.47°F) but it actually feels like 29.98°C (85.96°F)!
+    The weather for me its a overcast clouds and the temperature is 28.09°C (82.56°F) but it actually feels like 29.94°C (85.89°F)!
 </p>
 <p align="center">
     The sun rise for me is at 06:27 and the sun set is at 20:52!
@@ -72,13 +72,13 @@
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1595173148/9720/dog_cute.gif?1595173148" width="30"> Dog </h2>
 
 <p align="center">
-    <img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;husky&#x2F;n02110185_12748.jpg" height="300px">
+    <img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;dachshund&#x2F;foxhound-53951_640.jpg" height="300px">
 </p>
 
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1500426137/2648/allo-tongue.gif?1500426137" width="30"> Joke </h2>
 
 <p align="center">
-    Chuck Norris wipes his ass with chain mail and sandpaper.
+    Le gf: I&#39;ll dump you.Le bf: hex dump or binary dump? 
 </p>
 
 
