@@ -72,13 +72,13 @@
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1595173148/9720/dog_cute.gif?1595173148" width="30"> Dog </h2>
 
 <p align="center">
-    <img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;mastiff-tibetan&#x2F;n02108551_2596.jpg" height="300px">
+    <img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;sheepdog-english&#x2F;n02105641_8372.jpg" height="300px">
 </p>
 
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1500426137/2648/allo-tongue.gif?1500426137" width="30"> Joke </h2>
 
 <p align="center">
-    With the rising cost of gasoline, Chuck Norris is beginning to worry about his drinking habit.
+    The only sure things are Death and Taxes?and when Chuck Norris goes to work for the IRS, they&#39;ll be the same thing.
 </p>
 
 
