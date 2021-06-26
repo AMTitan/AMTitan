@@ -57,7 +57,7 @@
 <h2> <img src="http://openweathermap.org/img/w/01n.png" width="30"> Weather </h2>
 
 <p align="center">
-    The weather for me its a clear sky and the temperature is 19.03°C (66.25°F) but it actually feels like 19.26°C (66.67°F)!
+    The weather for me its a clear sky and the temperature is 19.04°C (66.27°F) but it actually feels like 19.27°C (66.69°F)!
 </p>
 <p align="center">
     The sun rise for me is at 06:27 and the sun set is at 20:52!
@@ -72,13 +72,13 @@
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1595173148/9720/dog_cute.gif?1595173148" width="30"> Dog </h2>
 
 <p align="center">
-    <img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;malamute&#x2F;n02110063_10787.jpg" height="300px">
+    <img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;terrier-scottish&#x2F;n02097298_9651.jpg" height="300px">
 </p>
 
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1500426137/2648/allo-tongue.gif?1500426137" width="30"> Joke </h2>
 
 <p align="center">
-    If, by some incredible space-time paradox, Chuck Norris would ever fight himself, he&#39;d win. Period.
+    The best-laid plans of mice and men often go awry. Even the worst-laid plans of Chuck Norris come off without a hitch.
 </p>
 
 
