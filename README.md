@@ -57,13 +57,13 @@
 <h2> <img src="http://openweathermap.org/img/w/04d.png" width="30"> Weather </h2>
 
 <p align="center">
-    The weather for me its a broken clouds and the temperature is 26.64°C (79.95°F) but it actually feels like 26.64°C (79.95°F)!
+    The weather for me its a broken clouds and the temperature is 26.94°C (80.49°F) but it actually feels like 28.52°C (83.34°F)!
 </p>
 <p align="center">
     The sun rise for me is at 06:27 and the sun set is at 20:52!
 </p>
 <p align="center">
-    The wind for me  is 1.51 meters/sec (3.38mph)!
+    The wind for me  is 0.45 meters/sec (1.01mph)!
 </p>
 <p align="center">
     The persaintage of the sky is filled with clouds for me is 84%!
@@ -72,13 +72,13 @@
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1595173148/9720/dog_cute.gif?1595173148" width="30"> Dog </h2>
 
 <p align="center">
-    <img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;bouvier&#x2F;n02106382_1381.jpg" height="300px">
+    <img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;vizsla&#x2F;n02100583_125.jpg" height="300px">
 </p>
 
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1500426137/2648/allo-tongue.gif?1500426137" width="30"> Joke </h2>
 
 <p align="center">
-    Most people have 23 pairs of chromosomes. Chuck Norris has 72... and they&#39;re all poisonous.
+    &#39;Let the Bodies Hit the Floor&#39; was originally written as Chuck Norris&#39; theme song.
 </p>
 
 
