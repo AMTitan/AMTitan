@@ -54,31 +54,31 @@
     <img style="width:100%" src="https://github-readme-stats.vercel.app/api/wakatime?username=AMTitan&layout=compact&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" />
 </p>
 
-<h2> <img src="http://openweathermap.org/img/w/04n.png" width="30"> Weather </h2>
+<h2> <img src="http://openweathermap.org/img/w/03n.png" width="30"> Weather </h2>
 
 <p align="center">
-    The weather for me its a broken clouds and the temperature is 24.55°C (76.19°F) but it actually feels like 25.18°C (77.32°F)!
+    The weather for me its a scattered clouds and the temperature is 24.77°C (76.59°F) but it actually feels like 25.39°C (77.7°F)!
 </p>
 <p align="center">
     The sun rise for me is at 06:27 and the sun set is at 20:52!
 </p>
 <p align="center">
-    The wind for me  is 2.12 meters/sec (4.74mph)!
+    The wind for me  is 1.86 meters/sec (4.16mph)!
 </p>
 <p align="center">
-    The persaintage of the sky is filled with clouds for me is 65%!
+    The persaintage of the sky is filled with clouds for me is 30%!
 </p>
 
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1595173148/9720/dog_cute.gif?1595173148" width="30"> Dog </h2>
 
 <p align="center">
-    <img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;terrier-dandie&#x2F;n02096437_470.jpg" height="300px">
+    <img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;brabancon&#x2F;n02112706_1862.jpg" height="300px">
 </p>
 
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1500426137/2648/allo-tongue.gif?1500426137" width="30"> Joke </h2>
 
 <p align="center">
-    Chuck Norris is actually the front man for Apple. He let&#39;s Steve Jobs run the show when he&#39;s on a mission. Chuck Norris is always on a mission.
+    In an average living room there are 1,242 objects Chuck Norris could use to kill you, including the room itself.
 </p>
 
 
