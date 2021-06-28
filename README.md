@@ -57,7 +57,7 @@
 <h2> <img src="http://openweathermap.org/img/w/01d.png" width="30"> Weather </h2>
 
 <p align="center">
-    The weather for me its a clear sky and the temperature is 21.53°C (70.75°F) but it actually feels like 22.14°C (71.85°F)!
+    The weather for me its a clear sky and the temperature is 21.56°C (70.81°F) but it actually feels like 22.15°C (71.87°F)!
 </p>
 <p align="center">
     The sun rise for me is at 06:28 and the sun set is at 20:52!
@@ -72,13 +72,13 @@
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1595173148/9720/dog_cute.gif?1595173148" width="30"> Dog </h2>
 
 <p align="center">
-    <img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;malinois&#x2F;n02105162_6377.jpg" height="300px">
+    <img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;spaniel-cocker&#x2F;n02102318_5075.jpg" height="300px">
 </p>
 
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1500426137/2648/allo-tongue.gif?1500426137" width="30"> Joke </h2>
 
 <p align="center">
-    It is scientifically impossible for Chuck Norris to have had a mortal father. The most popular theory is that he went back in time and fathered himself.
+    The opening scene of the movie &#39;Saving Private Ryan&#39; is loosely based on games of dodgeball Chuck Norris played in second grade.
 </p>
 
 
