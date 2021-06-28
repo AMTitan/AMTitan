@@ -57,7 +57,7 @@
 <h2> <img src="http://openweathermap.org/img/w/01n.png" width="30"> Weather </h2>
 
 <p align="center">
-    The weather for me its a clear sky and the temperature is 21.41°C (70.54°F) but it actually feels like 22.01°C (71.62°F)!
+    The weather for me its a clear sky and the temperature is 21.52°C (70.74°F) but it actually feels like 22.13°C (71.83°F)!
 </p>
 <p align="center">
     The sun rise for me is at 06:28 and the sun set is at 20:52!
@@ -72,13 +72,13 @@
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1595173148/9720/dog_cute.gif?1595173148" width="30"> Dog </h2>
 
 <p align="center">
-    <img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;terrier-fox&#x2F;n02095314_1782.jpg" height="300px">
+    <img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;setter-english&#x2F;n02100735_8326.jpg" height="300px">
 </p>
 
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1500426137/2648/allo-tongue.gif?1500426137" width="30"> Joke </h2>
 
 <p align="center">
-    COBOL programmers understand why women hate periods.
+    July 4th is Independence day. And the day Chuck Norris was born. Coincidence? I think not.
 </p>
 
 
