@@ -57,13 +57,13 @@
 <h2> <img src="http://openweathermap.org/img/w/04d.png" width="30"> Weather </h2>
 
 <p align="center">
-    The weather for me its a overcast clouds and the temperature is 24.88°C (76.78°F) but it actually feels like 25.75°C (78.35°F)!
+    The weather for me its a overcast clouds and the temperature is 25.2°C (77.36°F) but it actually feels like 26.07°C (78.93°F)!
 </p>
 <p align="center">
     The sun rise for me is at 06:28 and the sun set is at 20:52!
 </p>
 <p align="center">
-    The wind for me  is 2.99 meters/sec (6.69mph)!
+    The wind for me  is 0.89 meters/sec (1.99mph)!
 </p>
 <p align="center">
     The persaintage of the sky is filled with clouds for me is 99%!
@@ -72,13 +72,13 @@
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1595173148/9720/dog_cute.gif?1595173148" width="30"> Dog </h2>
 
 <p align="center">
-    <img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;papillon&#x2F;n02086910_9355.jpg" height="300px">
+    <img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;redbone&#x2F;n02090379_5200.jpg" height="300px">
 </p>
 
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1500426137/2648/allo-tongue.gif?1500426137" width="30"> Joke </h2>
 
 <p align="center">
-    Chuck Norris can taste lies.
+    In ancient China there is a legend that one day a child will be born from a dragon, grow to be a man, and vanquish evil from the land. That man is not Chuck Norris, because Chuck Norris killed that man.
 </p>
 
 
