@@ -57,28 +57,28 @@
 <h2> <img src="http://openweathermap.org/img/w/02n.png" width="30"> Weather </h2>
 
 <p align="center">
-    The weather for me its a few clouds and the temperature is 22.86°C (73.15°F) but it actually feels like 23.42°C (74.16°F)!
+    The weather for me its a few clouds and the temperature is 22.83°C (73.09°F) but it actually feels like 23.39°C (74.1°F)!
 </p>
 <p align="center">
     The sun rise for me is at 06:28 and the sun set is at 20:52!
 </p>
 <p align="center">
-    The wind for me  is 0.45 meters/sec (1.01mph)!
+    The wind for me  is 0.89 meters/sec (1.99mph)!
 </p>
 <p align="center">
-    The persaintage of the sky is filled with clouds for me is 14%!
+    The persaintage of the sky is filled with clouds for me is 15%!
 </p>
 
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1595173148/9720/dog_cute.gif?1595173148" width="30"> Dog </h2>
 
 <p align="center">
-    <img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;weimaraner&#x2F;n02092339_2766.jpg" height="300px">
+    <img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;waterdog-spanish&#x2F;20180706_194432.jpg" height="300px">
 </p>
 
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1500426137/2648/allo-tongue.gif?1500426137" width="30"> Joke </h2>
 
 <p align="center">
-    A Chuck Norris-delivered Roundhouse Kick is the preferred method of execution in 16 states.
+    Don&#39;t fart in an Apple Store, because they don&#39;t have Windows.
 </p>
 
 
