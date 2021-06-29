@@ -57,13 +57,13 @@
 <h2> <img src="http://openweathermap.org/img/w/03n.png" width="30"> Weather </h2>
 
 <p align="center">
-    The weather for me its a scattered clouds and the temperature is 22.66°C (72.79°F) but it actually feels like 23.23°C (73.81°F)!
+    The weather for me its a scattered clouds and the temperature is 22.64°C (72.75°F) but it actually feels like 23.23°C (73.81°F)!
 </p>
 <p align="center">
     The sun rise for me is at 06:28 and the sun set is at 20:52!
 </p>
 <p align="center">
-    The wind for me  is 0.45 meters/sec (1.01mph)!
+    The wind for me  is 3.04 meters/sec (6.8mph)!
 </p>
 <p align="center">
     The persaintage of the sky is filled with clouds for me is 31%!
@@ -72,13 +72,13 @@
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1595173148/9720/dog_cute.gif?1595173148" width="30"> Dog </h2>
 
 <p align="center">
-    <img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;leonberg&#x2F;n02111129_1447.jpg" height="300px">
+    <img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;weimaraner&#x2F;n02092339_7614.jpg" height="300px">
 </p>
 
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1500426137/2648/allo-tongue.gif?1500426137" width="30"> Joke </h2>
 
 <p align="center">
-    According to the Encyclopedia Brittanica, the Native American &#39;Trail of Tears&#39; has been redefined as anywhere that Chuck Norris walks.
+    Chuck Norris does not own a house. He walks into random houses and people move.
 </p>
 
 
