@@ -57,28 +57,28 @@
 <h2> <img src="http://openweathermap.org/img/w/04d.png" width="30"> Weather </h2>
 
 <p align="center">
-    The weather for me its a broken clouds and the temperature is 27.88°C (82.18°F) but it actually feels like 30.56°C (87.01°F)!
+    The weather for me its a broken clouds and the temperature is 27.59°C (81.66°F) but it actually feels like 30.12°C (86.22°F)!
 </p>
 <p align="center">
     The sun rise for me is at 06:28 and the sun set is at 20:52!
 </p>
 <p align="center">
-    The wind for me  is 2.36 meters/sec (5.28mph)!
+    The wind for me  is 2.93 meters/sec (6.55mph)!
 </p>
 <p align="center">
-    The persaintage of the sky is filled with clouds for me is 68%!
+    The persaintage of the sky is filled with clouds for me is 54%!
 </p>
 
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1595173148/9720/dog_cute.gif?1595173148" width="30"> Dog </h2>
 
 <p align="center">
-    <img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;schnauzer-miniature&#x2F;n02097047_951.jpg" height="300px">
+    <img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;african&#x2F;n02116738_2757.jpg" height="300px">
 </p>
 
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1500426137/2648/allo-tongue.gif?1500426137" width="30"> Joke </h2>
 
 <p align="center">
-    After taking a steroids test doctors informed Chuck Norris that he had tested positive. He laughed upon receiving this information, and said &#39;of course my urine tested positive, what do you think they make steroids from?&#39;
+    Behind every successful man, there is a woman. Behind every dead man, there is Chuck Norris.
 </p>
 
 
