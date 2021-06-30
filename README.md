@@ -57,7 +57,7 @@
 <h2> <img src="http://openweathermap.org/img/w/04d.png" width="30"> Weather </h2>
 
 <p align="center">
-    The weather for me its a broken clouds and the temperature is 29.76°C (85.57°F) but it actually feels like 33.58°C (92.44°F)!
+    The weather for me its a broken clouds and the temperature is 29.68°C (85.42°F) but it actually feels like 33.62°C (92.52°F)!
 </p>
 <p align="center">
     The sun rise for me is at 06:28 and the sun set is at 20:52!
@@ -72,13 +72,13 @@
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1595173148/9720/dog_cute.gif?1595173148" width="30"> Dog </h2>
 
 <p align="center">
-    <img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;terrier-kerryblue&#x2F;n02093859_2030.jpg" height="300px">
+    <img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;bluetick&#x2F;n02088632_1391.jpg" height="300px">
 </p>
 
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1500426137/2648/allo-tongue.gif?1500426137" width="30"> Joke </h2>
 
 <p align="center">
-    Chuck Norris sleeps with a pillow under his gun.
+    Chuck Norris played Russian Roulette with a fully loaded gun and won.
 </p>
 
 
