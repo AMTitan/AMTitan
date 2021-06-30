@@ -57,7 +57,7 @@
 <h2> <img src="http://openweathermap.org/img/w/04n.png" width="30"> Weather </h2>
 
 <p align="center">
-    The weather for me its a broken clouds and the temperature is 19.91°C (67.84°F) but it actually feels like 20.36°C (68.65°F)!
+    The weather for me its a broken clouds and the temperature is 19.86°C (67.75°F) but it actually feels like 20.3°C (68.54°F)!
 </p>
 <p align="center">
     The sun rise for me is at 06:28 and the sun set is at 20:52!
@@ -72,13 +72,13 @@
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1595173148/9720/dog_cute.gif?1595173148" width="30"> Dog </h2>
 
 <p align="center">
-    <img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;dachshund&#x2F;dog-495133_640.jpg" height="300px">
+    <img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;eskimo&#x2F;n02109961_3817.jpg" height="300px">
 </p>
 
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1500426137/2648/allo-tongue.gif?1500426137" width="30"> Joke </h2>
 
 <p align="center">
-    SON: What are clouds made of? DAD: Linux servers, mostly
+    The pen is mighter than the sword, but only if the pen is held by Chuck Norris.
 </p>
 
 
