@@ -57,7 +57,7 @@
 <h2> <img src="http://openweathermap.org/img/w/02d.png" width="30"> Weather </h2>
 
 <p align="center">
-    The weather for me its a few clouds and the temperature is 30.95°C (87.71°F) but it actually feels like 34.26°C (93.67°F)!
+    The weather for me its a few clouds and the temperature is 30.84°C (87.51°F) but it actually feels like 34.27°C (93.69°F)!
 </p>
 <p align="center">
     The sun rise for me is at 06:28 and the sun set is at 20:52!
@@ -72,13 +72,13 @@
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1595173148/9720/dog_cute.gif?1595173148" width="30"> Dog </h2>
 
 <p align="center">
-    <img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;terrier-kerryblue&#x2F;n02093859_3153.jpg" height="300px">
+    <img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;pekinese&#x2F;n02086079_17015.jpg" height="300px">
 </p>
 
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1500426137/2648/allo-tongue.gif?1500426137" width="30"> Joke </h2>
 
 <p align="center">
-    The only pattern Chuck Norris knows is God Object.
+    When Chuck Norris goes to donate blood, he declines the syringe, and instead requests a hand gun and a bucket.
 </p>
 
 
