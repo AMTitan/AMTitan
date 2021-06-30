@@ -57,7 +57,7 @@
 <h2> <img src="http://openweathermap.org/img/w/03d.png" width="30"> Weather </h2>
 
 <p align="center">
-    The weather for me its a scattered clouds and the temperature is 30.91°C (87.64°F) but it actually feels like 35.15°C (95.27°F)!
+    The weather for me its a scattered clouds and the temperature is 31.3°C (88.34°F) but it actually feels like 35.49°C (95.88°F)!
 </p>
 <p align="center">
     The sun rise for me is at 06:28 and the sun set is at 20:52!
@@ -72,13 +72,13 @@
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1595173148/9720/dog_cute.gif?1595173148" width="30"> Dog </h2>
 
 <p align="center">
-    <img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;terrier-sealyham&#x2F;n02095889_4263.jpg" height="300px">
+    <img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;akita&#x2F;Akita_hiking_in_Shpella_e_Pellumbasit.jpg" height="300px">
 </p>
 
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1500426137/2648/allo-tongue.gif?1500426137" width="30"> Joke </h2>
 
 <p align="center">
-    The only sure things are Death and Taxes?and when Chuck Norris goes to work for the IRS, they&#39;ll be the same thing.
+    The box said ‘Requires Windows Vista or better’. So I installed LINUX.
 </p>
 
 
