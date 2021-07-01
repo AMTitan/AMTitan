@@ -1,4 +1,4 @@
-# <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> My name is Arthur Melton and I have ![Profile View Counter](https://komarev.com/ghpvc/?username=AMTitan) (Last updated on Thursday, 1 July, 01:06 GMT-4).
+# <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> My name is Arthur Melton and I have ![Profile View Counter](https://komarev.com/ghpvc/?username=AMTitan) (Last updated on Thursday, 1 July, 01:07 GMT-4).
 
 <h3> <img src="https://emojis.slackmojis.com/emojis/images/1581539211/7808/party-blob.gif?1581539211" width="30"/> About Me </h3>
 
@@ -57,7 +57,7 @@
 <h2> <img src="http://openweathermap.org/img/w/04n.png" width="30"> Weather </h2>
 
 <p align="center">
-    The weather for me its a broken clouds and the temperature is 21.5°C (70.7°F) but it actually feels like 22.08°C (71.74°F)!
+    The weather for me its a broken clouds and the temperature is 21.49°C (70.68°F) but it actually feels like 22.07°C (71.73°F)!
 </p>
 <p align="center">
     The sun rise for me is at 06:29 and the sun set is at 20:52!
@@ -72,13 +72,13 @@
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1595173148/9720/dog_cute.gif?1595173148" width="30"> Dog </h2>
 
 <p align="center">
-    <img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;eskimo&#x2F;n02109961_3946.jpg" height="300px">
+    <img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;samoyed&#x2F;n02111889_4159.jpg" height="300px">
 </p>
 
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1500426137/2648/allo-tongue.gif?1500426137" width="30"> Joke </h2>
 
 <p align="center">
-    When Arnold says &#39;I&#39;ll be back&#39; in Terminator movie it is implied that he&#39;s going to ask Chuck Norris for help.
+    An anagram for Walker Texas Ranger is KARATE WRANGLER SEX. I don&#39;t know what that is, but it sounds AWESOME.
 </p>
 
 
