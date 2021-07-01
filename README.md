@@ -1,4 +1,4 @@
-# <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> My name is Arthur Melton and I have ![Profile View Counter](https://komarev.com/ghpvc/?username=AMTitan) (Last updated on Wednesday, 30 June, 21:50 GMT-4).
+# <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> My name is Arthur Melton and I have ![Profile View Counter](https://komarev.com/ghpvc/?username=AMTitan) (Last updated on Wednesday, 30 June, 21:51 GMT-4).
 
 <h3> <img src="https://emojis.slackmojis.com/emojis/images/1581539211/7808/party-blob.gif?1581539211" width="30"/> About Me </h3>
 
@@ -54,16 +54,16 @@
     <img style="width:100%" src="https://github-readme-stats.vercel.app/api/wakatime?username=AMTitan&layout=compact&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" />
 </p>
 
-<h2> <img src="http://openweathermap.org/img/w/10n.png" width="30"> Weather </h2>
+<h2> <img src="http://openweathermap.org/img/w/04n.png" width="30"> Weather </h2>
 
 <p align="center">
-    The weather for me its a light rain and the temperature is 22.96°C (73.33°F) but it actually feels like 23.64°C (74.55°F)!
+    The weather for me its a broken clouds and the temperature is 22.86°C (73.15°F) but it actually feels like 23.53°C (74.35°F)!
 </p>
 <p align="center">
     The sun rise for me is at 06:28 and the sun set is at 20:52!
 </p>
 <p align="center">
-    The wind for me  is 1.17 meters/sec (2.62mph)!
+    The wind for me  is 0.45 meters/sec (1.01mph)!
 </p>
 <p align="center">
     The persaintage of the sky is filled with clouds for me is 69%!
@@ -72,13 +72,13 @@
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1595173148/9720/dog_cute.gif?1595173148" width="30"> Dog </h2>
 
 <p align="center">
-    <img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;elkhound-norwegian&#x2F;n02091467_5629.jpg" height="300px">
+    <img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;rottweiler&#x2F;n02106550_11564.jpg" height="300px">
 </p>
 
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1500426137/2648/allo-tongue.gif?1500426137" width="30"> Joke </h2>
 
 <p align="center">
-    Kryptonite has been found to contain trace elements of Chuck Norris roundhouse kicks to the face. This is why it is so deadly to Superman.
+    The pen is mighter than the sword, but only if the pen is held by Chuck Norris.
 </p>
 
 
