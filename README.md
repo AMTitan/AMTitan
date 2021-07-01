@@ -57,28 +57,28 @@
 <h2> <img src="http://openweathermap.org/img/w/04d.png" width="30"> Weather </h2>
 
 <p align="center">
-    The weather for me its a broken clouds and the temperature is 21.09°C (69.96°F) but it actually feels like 21.66°C (70.99°F)!
+    The weather for me its a overcast clouds and the temperature is 21.42°C (70.56°F) but it actually feels like 21.99°C (71.58°F)!
 </p>
 <p align="center">
     The sun rise for me is at 06:29 and the sun set is at 20:52!
 </p>
 <p align="center">
-    The wind for me  is 1.11 meters/sec (2.48mph)!
+    The wind for me  is 1.55 meters/sec (3.47mph)!
 </p>
 <p align="center">
-    The persaintage of the sky is filled with clouds for me is 72%!
+    The persaintage of the sky is filled with clouds for me is 100%!
 </p>
 
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1595173148/9720/dog_cute.gif?1595173148" width="30"> Dog </h2>
 
 <p align="center">
-    <img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;clumber&#x2F;n02101556_4826.jpg" height="300px">
+    <img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;wolfhound-irish&#x2F;n02090721_4032.jpg" height="300px">
 </p>
 
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1500426137/2648/allo-tongue.gif?1500426137" width="30"> Joke </h2>
 
 <p align="center">
-    When you&#39;re Chuck Norris, anything + anything is equal to 1. One roundhouse kick to the face.
+    For some, the left testicle is larger than the right one. For Chuck Norris, each testicle is larger than the other one.
 </p>
 
 
