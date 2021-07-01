@@ -57,28 +57,28 @@
 <h2> <img src="http://openweathermap.org/img/w/04n.png" width="30"> Weather </h2>
 
 <p align="center">
-    The weather for me its a broken clouds and the temperature is 20.04°C (68.07°F) but it actually feels like 20.5°C (68.9°F)!
+    The weather for me its a broken clouds and the temperature is 20°C (68°F) but it actually feels like 20.46°C (68.83°F)!
 </p>
 <p align="center">
     The sun rise for me is at 06:29 and the sun set is at 20:52!
 </p>
 <p align="center">
-    The wind for me  is 0.53 meters/sec (1.19mph)!
+    The wind for me  is 0.6 meters/sec (1.34mph)!
 </p>
 <p align="center">
-    The persaintage of the sky is filled with clouds for me is 73%!
+    The persaintage of the sky is filled with clouds for me is 66%!
 </p>
 
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1595173148/9720/dog_cute.gif?1595173148" width="30"> Dog </h2>
 
 <p align="center">
-    <img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;samoyed&#x2F;n02111889_5145.jpg" height="300px">
+    <img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;cotondetulear&#x2F;IMAG1063.jpg" height="300px">
 </p>
 
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1500426137/2648/allo-tongue.gif?1500426137" width="30"> Joke </h2>
 
 <p align="center">
-    Most tough men eat nails for breakfast. Chuck Norris does all of his grocery shopping at Home Depot.
+    If brute force doesn’t solve your problems... then you aren’t using enough.
 </p>
 
 
