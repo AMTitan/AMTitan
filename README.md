@@ -1,4 +1,4 @@
-# <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> My name is Arthur Melton and I have ![Profile View Counter](https://komarev.com/ghpvc/?username=AMTitan) (Last updated on Friday, 2 July, 09:25 GMT-4).
+# <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> My name is Arthur Melton and I have ![Profile View Counter](https://komarev.com/ghpvc/?username=AMTitan) (Last updated on Friday, 2 July, 09:26 GMT-4).
 
 <h3> <img src="https://emojis.slackmojis.com/emojis/images/1581539211/7808/party-blob.gif?1581539211" width="30"/> About Me </h3>
 
@@ -39,6 +39,13 @@
         <td><img alt="Issues" src="https://img.shields.io/github/issues/AMTitan/AMTitan?style=flat-square&labelColor=343b41"/></td>
         <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/AMTitan/AMTitan?style=flat-square&labelColor=343b41"/></td>
     </tr>
+    <tr>
+        <td><a href="https:&#x2F;&#x2F;github.com&#x2F;Nyelsonon&#x2F;nyson-programming-language"><b>nyson-programming-language</b></a></td>
+        <td><img alt="Stars" src="https://img.shields.io/github/stars/Nyelsonon/nyson-programming-language?style=flat-square&labelColor=343b41"/></td>
+        <td><img alt="Forks" src="https://img.shields.io/github/forks/Nyelsonon/nyson-programming-language?style=flat-square&labelColor=343b41"/></td>
+        <td><img alt="Issues" src="https://img.shields.io/github/issues/Nyelsonon/nyson-programming-language?style=flat-square&labelColor=343b41"/></td>
+        <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/Nyelsonon/nyson-programming-language?style=flat-square&labelColor=343b41"/></td>
+    </tr>
     </tbody>
 </table>
 
@@ -72,13 +79,11 @@
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1595173148/9720/dog_cute.gif?1595173148" width="30"> Dog </h2>
 
 <p align="center">
-    <img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;basenji&#x2F;n02110806_1577.jpg" height="300px">
+    <img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;mountain-swiss&#x2F;n02107574_2724.jpg" height="300px">
 </p>
 
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1500426137/2648/allo-tongue.gif?1500426137" width="30"> Joke </h2>
 
 <p align="center">
-    Chuck Norris doesn&#39;t bowl strikes, he just knocks down one pin and the other nine faint.
+    Chuck Norris crossed the road. No one has ever dared question his motives.
 </p>
-
-
