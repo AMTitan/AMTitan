@@ -57,7 +57,7 @@
 <h2> <img src="http://openweathermap.org/img/w/10n.png" width="30"> Weather </h2>
 
 <p align="center">
-    The weather for me its a light rain and the temperature is 22.76°C (72.97°F) but it actually feels like 23.44°C (74.19°F)!
+    The weather for me its a light rain and the temperature is 22.77°C (72.99°F) but it actually feels like 23.45°C (74.21°F)!
 </p>
 <p align="center">
     The sun rise for me is at 06:29 and the sun set is at 20:52!
@@ -72,13 +72,13 @@
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1595173148/9720/dog_cute.gif?1595173148" width="30"> Dog </h2>
 
 <p align="center">
-    <img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;weimaraner&#x2F;n02092339_6077.jpg" height="300px">
+    <img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;schnauzer-miniature&#x2F;n02097047_2417.jpg" height="300px">
 </p>
 
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1500426137/2648/allo-tongue.gif?1500426137" width="30"> Joke </h2>
 
 <p align="center">
-    Enter any 11-digit prime number to continue.
+    Chuck Norris destroyed the periodic table, because Chuck Norris only recognizes the element of surprise.
 </p>
 
 
