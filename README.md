@@ -64,10 +64,10 @@
 <h2> <img src="http://openweathermap.org/img/w/02n.png" width="30"> Weather </h2>
 
 <p align="center">
-    The weather for me its a few clouds and the temperature is 20.69°C (69.24°F) but it actually feels like 21.09°C (69.96°F)!
+    The weather for me its a few clouds and the temperature is 20.71°C (69.28°F) but it actually feels like 21.11°C (70°F)!
 </p>
 <p align="center">
-    The sun rise for me is at 06:30 and the sun set is at 20:52!
+    The sun rise for me is at 06:29 and the sun set is at 20:52!
 </p>
 <p align="center">
     The wind for me  is 1.79 meters/sec (4mph)!
@@ -79,11 +79,11 @@
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1595173148/9720/dog_cute.gif?1595173148" width="30"> Dog </h2>
 
 <p align="center">
-    <img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;mastiff-english&#x2F;1.jpg" height="300px">
+    <img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;kuvasz&#x2F;n02104029_2659.jpg" height="300px">
 </p>
 
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1500426137/2648/allo-tongue.gif?1500426137" width="30"> Joke </h2>
 
 <p align="center">
-    Chuck Norris is the only man who has, literally, beaten the odds. With his fists.
+    binary digits are called bits i love ternary digits
 </p>
