@@ -64,7 +64,7 @@
 <h2> <img src="http://openweathermap.org/img/w/01d.png" width="30"> Weather </h2>
 
 <p align="center">
-    The weather for me its a clear sky and the temperature is 27.81°C (82.06°F) but it actually feels like 28.24°C (82.83°F)!
+    The weather for me its a clear sky and the temperature is 27.89°C (82.2°F) but it actually feels like 28.5°C (83.3°F)!
 </p>
 <p align="center">
     The sun rise for me is at 06:30 and the sun set is at 20:52!
@@ -79,11 +79,11 @@
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1595173148/9720/dog_cute.gif?1595173148" width="30"> Dog </h2>
 
 <p align="center">
-    <img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;pug&#x2F;n02110958_15766.jpg" height="300px">
+    <img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;pinscher-miniature&#x2F;n02107312_6003.jpg" height="300px">
 </p>
 
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1500426137/2648/allo-tongue.gif?1500426137" width="30"> Joke </h2>
 
 <p align="center">
-    &#39;Knock knock.&#39; &#39;Who&#39;s there?&#39; *10 mins later* &#39;Java.&#39;
+    It is believed dinosaurs are extinct due to a giant meteor. That&#39;s true if you want to call Chuck Norris a giant meteor.
 </p>
