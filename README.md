@@ -64,7 +64,7 @@
 <h2> <img src="http://openweathermap.org/img/w/01d.png" width="30"> Weather </h2>
 
 <p align="center">
-    The weather for me its a clear sky and the temperature is 29.43°C (84.97°F) but it actually feels like 30.81°C (87.46°F)!
+    The weather for me its a clear sky and the temperature is 29.47°C (85.05°F) but it actually feels like 30.72°C (87.3°F)!
 </p>
 <p align="center">
     The sun rise for me is at 06:30 and the sun set is at 20:52!
@@ -79,11 +79,11 @@
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1595173148/9720/dog_cute.gif?1595173148" width="30"> Dog </h2>
 
 <p align="center">
-    <img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;cattledog-australian&#x2F;IMG_1688.jpg" height="300px">
+    <img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;spaniel-japanese&#x2F;n02085782_440.jpg" height="300px">
 </p>
 
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1500426137/2648/allo-tongue.gif?1500426137" width="30"> Joke </h2>
 
 <p align="center">
-    Chuck Norris destroyed the periodic table, because Chuck Norris only recognizes the element of surprise.
+    Chuck Norris&#39; sperm can be seen with the naked eye. Each one is the size of a quarter.
 </p>
