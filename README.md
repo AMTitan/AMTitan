@@ -64,7 +64,7 @@
 <h2> <img src="http://openweathermap.org/img/w/01n.png" width="30"> Weather </h2>
 
 <p align="center">
-    The weather for me its a clear sky and the temperature is 20.25°C (68.45°F) but it actually feels like 20.6°C (69.08°F)!
+    The weather for me its a clear sky and the temperature is 20.21°C (68.38°F) but it actually feels like 20.56°C (69.01°F)!
 </p>
 <p align="center">
     The sun rise for me is at 06:31 and the sun set is at 20:52!
@@ -79,11 +79,11 @@
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1595173148/9720/dog_cute.gif?1595173148" width="30"> Dog </h2>
 
 <p align="center">
-    <img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;hound-blood&#x2F;n02088466_1262.jpg" height="300px">
+    <img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;setter-english&#x2F;n02100735_9111.jpg" height="300px">
 </p>
 
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1500426137/2648/allo-tongue.gif?1500426137" width="30"> Joke </h2>
 
 <p align="center">
-    Chuck Norris&#39; favorite cereal is Kellogg&#39;s Nails &#39;N&#39; Gravel.
+    Chuck Norris starts everyday with a protein shake made from Carnation Instant Breakfast, one dozen eggs, pure Colombian cocaine, and rattlesnake venom. He injects it directly into his neck with a syringe.
 </p>
