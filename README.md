@@ -1,4 +1,4 @@
-# <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> My name is Arthur Melton and I have ![Profile View Counter](https://komarev.com/ghpvc/?username=AMTitan) (Last updated on Monday, 5 July, 12:26 GMT-4).
+# <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> My name is Arthur Melton and I have ![Profile View Counter](https://komarev.com/ghpvc/?username=AMTitan) (Last updated on Monday, 5 July, 12:27 GMT-4).
 
 <h3> <img src="https://emojis.slackmojis.com/emojis/images/1581539211/7808/party-blob.gif?1581539211" width="30"/> About Me </h3>
 
@@ -40,11 +40,11 @@
         <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/AMTitan/AMTitan?style=flat-square&labelColor=343b41"/></td>
     </tr>
     <tr>
-        <td><a href="https:&#x2F;&#x2F;github.com&#x2F;Nyelsonon&#x2F;nyson-programming-language"><b>nyson-programming-language</b></a></td>
-        <td><img alt="Stars" src="https://img.shields.io/github/stars/Nyelsonon/nyson-programming-language?style=flat-square&labelColor=343b41"/></td>
-        <td><img alt="Forks" src="https://img.shields.io/github/forks/Nyelsonon/nyson-programming-language?style=flat-square&labelColor=343b41"/></td>
-        <td><img alt="Issues" src="https://img.shields.io/github/issues/Nyelsonon/nyson-programming-language?style=flat-square&labelColor=343b41"/></td>
-        <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/Nyelsonon/nyson-programming-language?style=flat-square&labelColor=343b41"/></td>
+        <td><a href="https:&#x2F;&#x2F;github.com&#x2F;Nyson-Programing-Language&#x2F;nyson-programming-language"><b>nyson-programming-language</b></a></td>
+        <td><img alt="Stars" src="https://img.shields.io/github/stars/Nyson-Programing-Language/nyson-programming-language?style=flat-square&labelColor=343b41"/></td>
+        <td><img alt="Forks" src="https://img.shields.io/github/forks/Nyson-Programing-Language/nyson-programming-language?style=flat-square&labelColor=343b41"/></td>
+        <td><img alt="Issues" src="https://img.shields.io/github/issues/Nyson-Programing-Language/nyson-programming-language?style=flat-square&labelColor=343b41"/></td>
+        <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/Nyson-Programing-Language/nyson-programming-language?style=flat-square&labelColor=343b41"/></td>
     </tr>
     </tbody>
 </table>
@@ -64,13 +64,13 @@
 <h2> <img src="http://openweathermap.org/img/w/01d.png" width="30"> Weather </h2>
 
 <p align="center">
-    The weather for me its a clear sky and the temperature is 29.2°C (84.56°F) but it actually feels like 31.06°C (87.91°F)!
+    The weather for me its a clear sky and the temperature is 29.19°C (84.54°F) but it actually feels like 31.2°C (88.16°F)!
 </p>
 <p align="center">
     The sun rise for me is at 06:31 and the sun set is at 20:52!
 </p>
 <p align="center">
-    The wind for me  is 0.45 meters/sec (1.01mph)!
+    The wind for me  is 0.89 meters/sec (1.99mph)!
 </p>
 <p align="center">
     The persaintage of the sky is filled with clouds for me is 2%!
@@ -79,11 +79,11 @@
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1595173148/9720/dog_cute.gif?1595173148" width="30"> Dog </h2>
 
 <p align="center">
-    <img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;terrier-dandie&#x2F;n02096437_4432.jpg" height="300px">
+    <img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;spaniel-cocker&#x2F;n02102318_2971.jpg" height="300px">
 </p>
 
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1500426137/2648/allo-tongue.gif?1500426137" width="30"> Joke </h2>
 
 <p align="center">
-    If tapped, a Chuck Norris roundhouse kick could power the country of Australia for 44 minutes.
+    Chuck Norris can write infinite recursion functions and have them return.
 </p>
