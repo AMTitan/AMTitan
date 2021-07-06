@@ -64,7 +64,7 @@
 <h2> <img src="http://openweathermap.org/img/w/04n.png" width="30"> Weather </h2>
 
 <p align="center">
-    The weather for me its a broken clouds and the temperature is 20.52°C (68.94°F) but it actually feels like 20.9°C (69.62°F)!
+    The weather for me its a broken clouds and the temperature is 20.15°C (68.27°F) but it actually feels like 20.49°C (68.88°F)!
 </p>
 <p align="center">
     The sun rise for me is at 06:31 and the sun set is at 20:52!
@@ -79,11 +79,11 @@
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1595173148/9720/dog_cute.gif?1595173148" width="30"> Dog </h2>
 
 <p align="center">
-    <img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;kelpie&#x2F;n02105412_7026.jpg" height="300px">
+    <img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;ridgeback-rhodesian&#x2F;n02087394_4602.jpg" height="300px">
 </p>
 
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1500426137/2648/allo-tongue.gif?1500426137" width="30"> Joke </h2>
 
 <p align="center">
-    Do you know why Baskin Robbins only has 31 flavors? Because Chuck Norris doesn&#39;t like Fudge Ripple.
+    Gotta love the people who wrote the algorithm for Ola share,They go out of their way to help others
 </p>
