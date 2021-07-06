@@ -64,7 +64,7 @@
 <h2> <img src="http://openweathermap.org/img/w/04d.png" width="30"> Weather </h2>
 
 <p align="center">
-    The weather for me its a overcast clouds and the temperature is 27.11°C (80.8°F) but it actually feels like 28.7°C (83.66°F)!
+    The weather for me its a overcast clouds and the temperature is 27°C (80.6°F) but it actually feels like 28.53°C (83.35°F)!
 </p>
 <p align="center">
     The sun rise for me is at 06:31 and the sun set is at 20:52!
@@ -79,11 +79,11 @@
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1595173148/9720/dog_cute.gif?1595173148" width="30"> Dog </h2>
 
 <p align="center">
-    <img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;puggle&#x2F;IMG_090821.jpg" height="300px">
+    <img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;corgi-cardigan&#x2F;n02113186_11037.jpg" height="300px">
 </p>
 
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1500426137/2648/allo-tongue.gif?1500426137" width="30"> Joke </h2>
 
 <p align="center">
-    There is in fact an &#39;I&#39; in Norris, but there is no &#39;team&#39;. Not even close.
+    How much wood would a woodchuck chuck if a woodchuck could Chuck Norris? All of it.
 </p>
