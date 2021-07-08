@@ -64,13 +64,13 @@
 <h2> <img src="http://openweathermap.org/img/w/04n.png" width="30"> Weather </h2>
 
 <p align="center">
-    The weather for me its a overcast clouds and the temperature is 20.65°C (69.17°F) but it actually feels like 21.15°C (70.07°F)!
+    The weather for me its a overcast clouds and the temperature is 20.67°C (69.21°F) but it actually feels like 21.17°C (70.11°F)!
 </p>
 <p align="center">
     The sun rise for me is at 06:32 and the sun set is at 20:51!
 </p>
 <p align="center">
-    The wind for me  is 3.1 meters/sec (6.93mph)!
+    The wind for me  is 2.7 meters/sec (6.04mph)!
 </p>
 <p align="center">
     The persaintage of the sky is filled with clouds for me is 100%!
@@ -79,11 +79,11 @@
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1595173148/9720/dog_cute.gif?1595173148" width="30"> Dog </h2>
 
 <p align="center">
-    <img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;terrier-scottish&#x2F;n02097298_5074.jpg" height="300px">
+    <img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;finnish-lapphund&#x2F;mochilamvan.jpg" height="300px">
 </p>
 
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1500426137/2648/allo-tongue.gif?1500426137" width="30"> Joke </h2>
 
 <p align="center">
-    Chuck Norris never goes to the dentist because his teeth are unbreakable. His enemies never go to the dentist because they have no teeth.
+    An infinite crowd of mathematicians enters a bar. The first one orders a pint... the second one a half pint... the third one a quarter pint… “I understand”... says the bartender – and pours two pints.
 </p>
