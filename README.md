@@ -64,7 +64,7 @@
 <h2> <img src="http://openweathermap.org/img/w/03d.png" width="30"> Weather </h2>
 
 <p align="center">
-    The weather for me its a scattered clouds and the temperature is 27.49°C (81.48°F) but it actually feels like 30.5°C (86.9°F)!
+    The weather for me its a scattered clouds and the temperature is 27.63°C (81.73°F) but it actually feels like 30.81°C (87.46°F)!
 </p>
 <p align="center">
     The sun rise for me is at 06:32 and the sun set is at 20:51!
@@ -73,17 +73,17 @@
     The wind for me  is 0.89 meters/sec (1.99mph)!
 </p>
 <p align="center">
-    The persaintage of the sky is filled with clouds for me is 33%!
+    The persaintage of the sky is filled with clouds for me is 39%!
 </p>
 
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1595173148/9720/dog_cute.gif?1595173148" width="30"> Dog </h2>
 
 <p align="center">
-    <img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;saluki&#x2F;n02091831_7769.jpg" height="300px">
+    <img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;puggle&#x2F;IMG_074532.jpg" height="300px">
 </p>
 
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1500426137/2648/allo-tongue.gif?1500426137" width="30"> Joke </h2>
 
 <p align="center">
-    The grass is always greener on the other side, unless Chuck Norris has been there. In that case the grass is most likely soaked in blood and tears.
+    The truth is out there. Anybody got the URL?
 </p>
