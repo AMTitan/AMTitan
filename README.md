@@ -1,4 +1,4 @@
-# <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> My name is Arthur Melton and I have ![Profile View Counter](https://komarev.com/ghpvc/?username=AMTitan) (Last updated on Thursday, 8 July, 18:39 GMT-4).
+# <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> My name is Arthur Melton and I have ![Profile View Counter](https://komarev.com/ghpvc/?username=AMTitan) (Last updated on Thursday, 8 July, 18:40 GMT-4).
 
 <h3> <img src="https://emojis.slackmojis.com/emojis/images/1581539211/7808/party-blob.gif?1581539211" width="30"/> About Me </h3>
 
@@ -40,11 +40,11 @@
         <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/AMTitan/AMTitan?style=flat-square&labelColor=343b41"/></td>
     </tr>
     <tr>
-        <td><a href="https:&#x2F;&#x2F;github.com&#x2F;Nyson-Programing-Language&#x2F;nyson-programming-language"><b>nyson-programming-language</b></a></td>
-        <td><img alt="Stars" src="https://img.shields.io/github/stars/Nyson-Programing-Language/nyson-programming-language?style=flat-square&labelColor=343b41"/></td>
-        <td><img alt="Forks" src="https://img.shields.io/github/forks/Nyson-Programing-Language/nyson-programming-language?style=flat-square&labelColor=343b41"/></td>
-        <td><img alt="Issues" src="https://img.shields.io/github/issues/Nyson-Programing-Language/nyson-programming-language?style=flat-square&labelColor=343b41"/></td>
-        <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/Nyson-Programing-Language/nyson-programming-language?style=flat-square&labelColor=343b41"/></td>
+        <td><a href="https:&#x2F;&#x2F;github.com&#x2F;Nyson-Programing-Language&#x2F;nyson"><b>nyson</b></a></td>
+        <td><img alt="Stars" src="https://img.shields.io/github/stars/Nyson-Programing-Language/nyson?style=flat-square&labelColor=343b41"/></td>
+        <td><img alt="Forks" src="https://img.shields.io/github/forks/Nyson-Programing-Language/nyson?style=flat-square&labelColor=343b41"/></td>
+        <td><img alt="Issues" src="https://img.shields.io/github/issues/Nyson-Programing-Language/nyson?style=flat-square&labelColor=343b41"/></td>
+        <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/Nyson-Programing-Language/nyson?style=flat-square&labelColor=343b41"/></td>
     </tr>
     </tbody>
 </table>
@@ -79,11 +79,11 @@
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1595173148/9720/dog_cute.gif?1595173148" width="30"> Dog </h2>
 
 <p align="center">
-    <img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;finnish-lapphund&#x2F;mochilamvan.jpg" height="300px">
+    <img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;cockapoo&#x2F;bubbles2.jpg" height="300px">
 </p>
 
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1500426137/2648/allo-tongue.gif?1500426137" width="30"> Joke </h2>
 
 <p align="center">
-    70% of a human&#39;s weight is water. 70% of Chuck Norris&#39; weight is his dick.
+    As an infant, Chuck Norris&#39; parents gave him a toy hammer. He gave the world Stonehenge.
 </p>
