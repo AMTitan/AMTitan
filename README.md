@@ -64,13 +64,13 @@
 <h2> <img src="http://openweathermap.org/img/w/10d.png" width="30"> Weather </h2>
 
 <p align="center">
-    The weather for me its a light rain and the temperature is 27.64°C (81.75°F) but it actually feels like 30.34°C (86.61°F)!
+    The weather for me its a light rain and the temperature is 27.67°C (81.81°F) but it actually feels like 30.52°C (86.94°F)!
 </p>
 <p align="center">
     The sun rise for me is at 06:32 and the sun set is at 20:51!
 </p>
 <p align="center">
-    The wind for me  is 0.45 meters/sec (1.01mph)!
+    The wind for me  is 0.89 meters/sec (1.99mph)!
 </p>
 <p align="center">
     The persaintage of the sky is filled with clouds for me is 44%!
@@ -79,11 +79,11 @@
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1595173148/9720/dog_cute.gif?1595173148" width="30"> Dog </h2>
 
 <p align="center">
-    <img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;buhund-norwegian&#x2F;hakon3.jpg" height="300px">
+    <img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;kuvasz&#x2F;n02104029_4815.jpg" height="300px">
 </p>
 
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1500426137/2648/allo-tongue.gif?1500426137" width="30"> Joke </h2>
 
 <p align="center">
-    The word &#39;Kill&#39; was invented by Chuck Norris. Other words were &#39;Die&#39;, &#39;Beer&#39;, and &#39;What&#39;.
+    Chuck Norris was once in a knife fight, and the knife lost.
 </p>
