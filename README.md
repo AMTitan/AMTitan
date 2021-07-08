@@ -64,7 +64,7 @@
 <h2> <img src="http://openweathermap.org/img/w/03d.png" width="30"> Weather </h2>
 
 <p align="center">
-    The weather for me its a scattered clouds and the temperature is 28.01°C (82.42°F) but it actually feels like 30.96°C (87.73°F)!
+    The weather for me its a scattered clouds and the temperature is 27.93°C (82.27°F) but it actually feels like 30.79°C (87.42°F)!
 </p>
 <p align="center">
     The sun rise for me is at 06:32 and the sun set is at 20:51!
@@ -79,11 +79,11 @@
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1595173148/9720/dog_cute.gif?1595173148" width="30"> Dog </h2>
 
 <p align="center">
-    <img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;terrier-tibetan&#x2F;n02097474_1967.jpg" height="300px">
+    <img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;greyhound-italian&#x2F;n02091032_877.jpg" height="300px">
 </p>
 
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1500426137/2648/allo-tongue.gif?1500426137" width="30"> Joke </h2>
 
 <p align="center">
-    Chuck Norris has a deep and abiding respect for human life... unless it gets in his way.
+    Le gf: I&#39;ll dump you.Le bf: hex dump or binary dump? 
 </p>
