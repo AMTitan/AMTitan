@@ -64,7 +64,7 @@
 <h2> <img src="http://openweathermap.org/img/w/04n.png" width="30"> Weather </h2>
 
 <p align="center">
-    The weather for me its a broken clouds and the temperature is 22.96°C (73.33°F) but it actually feels like 23.66°C (74.59°F)!
+    The weather for me its a broken clouds and the temperature is 22.99°C (73.38°F) but it actually feels like 23.69°C (74.64°F)!
 </p>
 <p align="center">
     The sun rise for me is at 06:32 and the sun set is at 20:51!
@@ -79,11 +79,11 @@
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1595173148/9720/dog_cute.gif?1595173148" width="30"> Dog </h2>
 
 <p align="center">
-    <img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;bluetick&#x2F;n02088632_291.jpg" height="300px">
+    <img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;hound-blood&#x2F;n02088466_7344.jpg" height="300px">
 </p>
 
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1500426137/2648/allo-tongue.gif?1500426137" width="30"> Joke </h2>
 
 <p align="center">
-    When God said, &#39;let there be light&#39;, Chuck Norris said, &#39;say &#39;please&#39;.&#39;
+    In honor of Chuck Norris, all McDonald&#39;s in Texas have an even larger size than the super-size. When ordering, just ask to be Chucksized.
 </p>
