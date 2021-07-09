@@ -1,4 +1,4 @@
-# <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> My name is Arthur Melton and I have ![Profile View Counter](https://komarev.com/ghpvc/?username=AMTitan) (Last updated on Friday, 9 July, 17:39 GMT-4).
+# <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> My name is Arthur Melton and I have ![Profile View Counter](https://komarev.com/ghpvc/?username=AMTitan) (Last updated on Friday, 9 July, 17:40 GMT-4).
 
 <h3> <img src="https://emojis.slackmojis.com/emojis/images/1581539211/7808/party-blob.gif?1581539211" width="30"/> About Me </h3>
 
@@ -64,13 +64,13 @@
 <h2> <img src="http://openweathermap.org/img/w/04d.png" width="30"> Weather </h2>
 
 <p align="center">
-    The weather for me its a overcast clouds and the temperature is 22.68°C (72.82°F) but it actually feels like 23.28°C (73.9°F)!
+    The weather for me its a overcast clouds and the temperature is 22.05°C (71.69°F) but it actually feels like 22.24°C (72.03°F)!
 </p>
 <p align="center">
     The sun rise for me is at 06:33 and the sun set is at 20:51!
 </p>
 <p align="center">
-    The wind for me  is 0.45 meters/sec (1.01mph)!
+    The wind for me  is 3.87 meters/sec (8.66mph)!
 </p>
 <p align="center">
     The persaintage of the sky is filled with clouds for me is 99%!
@@ -79,11 +79,11 @@
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1595173148/9720/dog_cute.gif?1595173148" width="30"> Dog </h2>
 
 <p align="center">
-    <img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;basenji&#x2F;n02110806_4876.jpg" height="300px">
+    <img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;spaniel-sussex&#x2F;n02102480_5440.jpg" height="300px">
 </p>
 
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1500426137/2648/allo-tongue.gif?1500426137" width="30"> Joke </h2>
 
 <p align="center">
-    Archeologists unearthed an old english dictionary dating back to the year 1236. It defined &#39;victim&#39; as &#39;one who has encountered Chuck Norris&#39;
+    There are only 10 types of people in the world: those that understand binary, those that don’t, and those that didn&#39;t expect a ternary joke.
 </p>
