@@ -64,7 +64,7 @@
 <h2> <img src="http://openweathermap.org/img/w/04d.png" width="30"> Weather </h2>
 
 <p align="center">
-    The weather for me its a overcast clouds and the temperature is 24.71°C (76.48°F) but it actually feels like 25.53°C (77.95°F)!
+    The weather for me its a overcast clouds and the temperature is 24.92°C (76.86°F) but it actually feels like 25.77°C (78.39°F)!
 </p>
 <p align="center">
     The sun rise for me is at 06:32 and the sun set is at 20:51!
@@ -79,11 +79,11 @@
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1595173148/9720/dog_cute.gif?1595173148" width="30"> Dog </h2>
 
 <p align="center">
-    <img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;terrier-bedlington&#x2F;n02093647_1433.jpg" height="300px">
+    <img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;terrier-kerryblue&#x2F;n02093859_248.jpg" height="300px">
 </p>
 
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1500426137/2648/allo-tongue.gif?1500426137" width="30"> Joke </h2>
 
 <p align="center">
-    Hacking is like sex. You get in... you get out... and hope that you didn’t leave something that can be traced back to you.
+    There are two types of people in the world... people that suck, and Chuck Norris.
 </p>
