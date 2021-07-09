@@ -64,7 +64,7 @@
 <h2> <img src="http://openweathermap.org/img/w/04d.png" width="30"> Weather </h2>
 
 <p align="center">
-    The weather for me its a broken clouds and the temperature is 27.97°C (82.35°F) but it actually feels like 32.02°C (89.64°F)!
+    The weather for me its a broken clouds and the temperature is 27.99°C (82.38°F) but it actually feels like 32.07°C (89.73°F)!
 </p>
 <p align="center">
     The sun rise for me is at 06:33 and the sun set is at 20:51!
@@ -79,11 +79,11 @@
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1595173148/9720/dog_cute.gif?1595173148" width="30"> Dog </h2>
 
 <p align="center">
-    <img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;bouvier&#x2F;n02106382_2401.jpg" height="300px">
+    <img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;lhasa&#x2F;n02098413_10285.jpg" height="300px">
 </p>
 
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1500426137/2648/allo-tongue.gif?1500426137" width="30"> Joke </h2>
 
 <p align="center">
-    Scientifically speaking, it is impossible to charge Chuck Norris with &#39;obstruction of justice.&#39; This is because even Chuck Norris cannot be in two places at the same time.
+    The phrase &#39;balls to the wall&#39; was originally conceived to describe Chuck Norris entering any building smaller than an aircraft hangar.
 </p>
