@@ -64,26 +64,26 @@
 <h2> <img src="http://openweathermap.org/img/w/04n.png" width="30"> Weather </h2>
 
 <p align="center">
-    The weather for me its a overcast clouds and the temperature is 21.05°C (69.89°F) but it actually feels like 21.64°C (70.95°F)!
+    The weather for me its a broken clouds and the temperature is 21.06°C (69.91°F) but it actually feels like 21.62°C (70.92°F)!
 </p>
 <p align="center">
     The sun rise for me is at 06:33 and the sun set is at 20:51!
 </p>
 <p align="center">
-    The wind for me  is 2.38 meters/sec (5.32mph)!
+    The wind for me  is 2.25 meters/sec (5.03mph)!
 </p>
 <p align="center">
-    The persaintage of the sky is filled with clouds for me is 96%!
+    The persaintage of the sky is filled with clouds for me is 58%!
 </p>
 
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1595173148/9720/dog_cute.gif?1595173148" width="30"> Dog </h2>
 
 <p align="center">
-    <img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;bullterrier-staffordshire&#x2F;n02093256_1923.jpg" height="300px">
+    <img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;finnish-lapphund&#x2F;mochilamvan.jpg" height="300px">
 </p>
 
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1500426137/2648/allo-tongue.gif?1500426137" width="30"> Joke </h2>
 
 <p align="center">
-    The phrase &#39;dead ringer&#39; refers to someone who sits behind Chuck Norris in a movie theater and forgets to turn their cell phone off.
+    There are only 10 types of people in the world: those that understand binary and those that don’t.
 </p>
