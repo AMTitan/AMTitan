@@ -64,7 +64,7 @@
 <h2> <img src="http://openweathermap.org/img/w/03d.png" width="30"> Weather </h2>
 
 <p align="center">
-    The weather for me its a scattered clouds and the temperature is 26.73°C (80.11°F) but it actually feels like 29.55°C (85.19°F)!
+    The weather for me its a scattered clouds and the temperature is 26.67°C (80.01°F) but it actually feels like 29.49°C (85.08°F)!
 </p>
 <p align="center">
     The sun rise for me is at 06:33 and the sun set is at 20:51!
@@ -79,11 +79,11 @@
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1595173148/9720/dog_cute.gif?1595173148" width="30"> Dog </h2>
 
 <p align="center">
-    <img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;retriever-flatcoated&#x2F;n02099267_921.jpg" height="300px">
+    <img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;vizsla&#x2F;n02100583_2736.jpg" height="300px">
 </p>
 
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1500426137/2648/allo-tongue.gif?1500426137" width="30"> Joke </h2>
 
 <p align="center">
-    Chuck Norris ordered a Big Mac at Burger King, and got one.
+    Fear is not the only emotion Chuck Norris can smell. He can also detect hope, as in &#39;I hope I don&#39;t get a roundhouse kick from Chuck Norris.&#39;
 </p>
