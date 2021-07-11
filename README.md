@@ -64,26 +64,26 @@
 <h2> <img src="http://openweathermap.org/img/w/04n.png" width="30"> Weather </h2>
 
 <p align="center">
-    The weather for me its a overcast clouds and the temperature is 24.02°C (75.24°F) but it actually feels like 24.75°C (76.55°F)!
+    The weather for me its a broken clouds and the temperature is 23.73°C (74.71°F) but it actually feels like 24.46°C (76.03°F)!
 </p>
 <p align="center">
     The sun rise for me is at 06:33 and the sun set is at 20:51!
 </p>
 <p align="center">
-    The wind for me  is 2.13 meters/sec (4.76mph)!
+    The wind for me  is 1.55 meters/sec (3.47mph)!
 </p>
 <p align="center">
-    The persaintage of the sky is filled with clouds for me is 92%!
+    The persaintage of the sky is filled with clouds for me is 84%!
 </p>
 
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1595173148/9720/dog_cute.gif?1595173148" width="30"> Dog </h2>
 
 <p align="center">
-    <img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;setter-irish&#x2F;n02100877_838.jpg" height="300px">
+    <img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;terrier-silky&#x2F;n02097658_8653.jpg" height="300px">
 </p>
 
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1500426137/2648/allo-tongue.gif?1500426137" width="30"> Joke </h2>
 
 <p align="center">
-    Enter any 11-digit prime number to continue.
+    Chuck Norris can compile syntax errors.
 </p>
