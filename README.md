@@ -61,29 +61,29 @@
     <img style="width:100%" src="https://github-readme-stats.vercel.app/api/wakatime?username=AMTitan&layout=compact&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" />
 </p>
 
-<h2> <img src="http://openweathermap.org/img/w/03d.png" width="30"> Weather </h2>
+<h2> <img src="http://openweathermap.org/img/w/02d.png" width="30"> Weather </h2>
 
 <p align="center">
-    The weather for me its a scattered clouds and the temperature is 24.16°C (75.49°F) but it actually feels like 24.98°C (76.96°F)!
+    The weather for me its a few clouds and the temperature is 24.49°C (76.08°F) but it actually feels like 25.27°C (77.49°F)!
 </p>
 <p align="center">
     The sun rise for me is at 06:34 and the sun set is at 20:50!
 </p>
 <p align="center">
-    The wind for me  is 1.79 meters/sec (4mph)!
+    The wind for me  is 0.89 meters/sec (1.99mph)!
 </p>
 <p align="center">
-    The persaintage of the sky is filled with clouds for me is 30%!
+    The persaintage of the sky is filled with clouds for me is 24%!
 </p>
 
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1595173148/9720/dog_cute.gif?1595173148" width="30"> Dog </h2>
 
 <p align="center">
-    <img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;retriever-golden&#x2F;nina.jpg" height="300px">
+    <img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;terrier-silky&#x2F;n02097658_6351.jpg" height="300px">
 </p>
 
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1500426137/2648/allo-tongue.gif?1500426137" width="30"> Joke </h2>
 
 <p align="center">
-    Chuck Norris has banned rainbows from the state of North Dakota.
+    Fool me once, shame on you. Fool Chuck Norris once and he will roundhouse kick you in the face.
 </p>
