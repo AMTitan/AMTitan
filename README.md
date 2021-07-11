@@ -64,7 +64,7 @@
 <h2> <img src="http://openweathermap.org/img/w/03n.png" width="30"> Weather </h2>
 
 <p align="center">
-    The weather for me its a scattered clouds and the temperature is 21.25°C (70.25°F) but it actually feels like 21.81°C (71.26°F)!
+    The weather for me its a scattered clouds and the temperature is 21.17°C (70.11°F) but it actually feels like 21.72°C (71.1°F)!
 </p>
 <p align="center">
     The sun rise for me is at 06:34 and the sun set is at 20:50!
@@ -79,11 +79,11 @@
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1595173148/9720/dog_cute.gif?1595173148" width="30"> Dog </h2>
 
 <p align="center">
-    <img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;komondor&#x2F;n02105505_4394.jpg" height="300px">
+    <img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;hound-basset&#x2F;n02088238_10051.jpg" height="300px">
 </p>
 
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1500426137/2648/allo-tongue.gif?1500426137" width="30"> Joke </h2>
 
 <p align="center">
-    It is believed dinosaurs are extinct due to a giant meteor. That&#39;s true if you want to call Chuck Norris a giant meteor.
+    Latest survey shows that 3 out of 4 people make up 75% of the world’s population.
 </p>
