@@ -64,10 +64,10 @@
 <h2> <img src="http://openweathermap.org/img/w/04n.png" width="30"> Weather </h2>
 
 <p align="center">
-    The weather for me its a broken clouds and the temperature is 22.2°C (71.96°F) but it actually feels like 22.85°C (73.13°F)!
+    The weather for me its a broken clouds and the temperature is 22.3°C (72.14°F) but it actually feels like 22.96°C (73.33°F)!
 </p>
 <p align="center">
-    The sun rise for me is at 06:34 and the sun set is at 20:50!
+    The sun rise for me is at 06:33 and the sun set is at 20:51!
 </p>
 <p align="center">
     The wind for me  is 1.4 meters/sec (3.13mph)!
@@ -79,11 +79,11 @@
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1595173148/9720/dog_cute.gif?1595173148" width="30"> Dog </h2>
 
 <p align="center">
-    <img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;samoyed&#x2F;n02111889_1402.jpg" height="300px">
+    <img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;entlebucher&#x2F;n02108000_187.jpg" height="300px">
 </p>
 
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1500426137/2648/allo-tongue.gif?1500426137" width="30"> Joke </h2>
 
 <p align="center">
-    Why did the chicken cross the road? It was called with theOtherSide(chicken)
+    It is believed dinosaurs are extinct due to a giant meteor. That&#39;s true if you want to call Chuck Norris a giant meteor.
 </p>
