@@ -64,13 +64,13 @@
 <h2> <img src="http://openweathermap.org/img/w/04d.png" width="30"> Weather </h2>
 
 <p align="center">
-    The weather for me its a broken clouds and the temperature is 21.75°C (71.15°F) but it actually feels like 22.28°C (72.1°F)!
+    The weather for me its a broken clouds and the temperature is 21.8°C (71.24°F) but it actually feels like 22.33°C (72.19°F)!
 </p>
 <p align="center">
     The sun rise for me is at 06:34 and the sun set is at 20:50!
 </p>
 <p align="center">
-    The wind for me  is 0.45 meters/sec (1.01mph)!
+    The wind for me  is 0.89 meters/sec (1.99mph)!
 </p>
 <p align="center">
     The persaintage of the sky is filled with clouds for me is 54%!
@@ -79,11 +79,11 @@
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1595173148/9720/dog_cute.gif?1595173148" width="30"> Dog </h2>
 
 <p align="center">
-    <img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;retriever-chesapeake&#x2F;n02099849_3289.jpg" height="300px">
+    <img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;schnauzer-giant&#x2F;n02097130_1358.jpg" height="300px">
 </p>
 
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1500426137/2648/allo-tongue.gif?1500426137" width="30"> Joke </h2>
 
 <p align="center">
-    Le gf: I&#39;ll dump you.Le bf: hex dump or binary dump? 
+    The only sure things are Death and Taxes?and when Chuck Norris goes to work for the IRS, they&#39;ll be the same thing.
 </p>
