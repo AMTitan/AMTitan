@@ -1,4 +1,4 @@
-# <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> My name is Arthur Melton and I have ![Profile View Counter](https://komarev.com/ghpvc/?username=AMTitan) (Last updated on Monday, 12 July, 16:32 GMT-4).
+# <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> My name is Arthur Melton and I have ![Profile View Counter](https://komarev.com/ghpvc/?username=AMTitan) (Last updated on Monday, 12 July, 16:33 GMT-4).
 
 <h3> <img src="https://emojis.slackmojis.com/emojis/images/1581539211/7808/party-blob.gif?1581539211" width="30"/> About Me </h3>
 
@@ -64,7 +64,7 @@
 <h2> <img src="http://openweathermap.org/img/w/04d.png" width="30"> Weather </h2>
 
 <p align="center">
-    The weather for me its a overcast clouds and the temperature is 24.5°C (76.1°F) but it actually feels like 25.15°C (77.27°F)!
+    The weather for me its a overcast clouds and the temperature is 24.49°C (76.08°F) but it actually feels like 25.14°C (77.25°F)!
 </p>
 <p align="center">
     The sun rise for me is at 06:34 and the sun set is at 20:50!
@@ -79,11 +79,11 @@
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1595173148/9720/dog_cute.gif?1595173148" width="30"> Dog </h2>
 
 <p align="center">
-    <img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;spaniel-blenheim&#x2F;n02086646_2903.jpg" height="300px">
+    <img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;cotondetulear&#x2F;IMG_20160830_202631573.jpg" height="300px">
 </p>
 
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1500426137/2648/allo-tongue.gif?1500426137" width="30"> Joke </h2>
 
 <p align="center">
-    It&#39;s widely believed that Jesus was Chuck Norris&#39; stunt double for crucifixion due to the fact that it is impossible for nails to pierce Chuck Norris&#39; skin.
+    Chuck Norris has to register every part of his body as a separate lethal weapon. His spleen is considered a concealed weapon in over 50 states.
 </p>
