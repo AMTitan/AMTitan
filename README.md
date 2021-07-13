@@ -64,7 +64,7 @@
 <h2> <img src="http://openweathermap.org/img/w/04n.png" width="30"> Weather </h2>
 
 <p align="center">
-    The weather for me its a overcast clouds and the temperature is 20.03°C (68.05°F) but it actually feels like 20.49°C (68.88°F)!
+    The weather for me its a overcast clouds and the temperature is 20.01°C (68.02°F) but it actually feels like 20.47°C (68.85°F)!
 </p>
 <p align="center">
     The sun rise for me is at 06:35 and the sun set is at 20:50!
@@ -79,11 +79,11 @@
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1595173148/9720/dog_cute.gif?1595173148" width="30"> Dog </h2>
 
 <p align="center">
-    <img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;hound-basset&#x2F;n02088238_2822.jpg" height="300px">
+    <img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;terrier-fox&#x2F;n02095314_662.jpg" height="300px">
 </p>
 
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1500426137/2648/allo-tongue.gif?1500426137" width="30"> Joke </h2>
 
 <p align="center">
-    Chuck Norris does not teabag the ladies. He potato-sacks them.
+    He who lives by the sword, dies by the sword. He who lives by Chuck Norris, dies by the roundhouse kick.
 </p>
