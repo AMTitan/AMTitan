@@ -79,11 +79,11 @@
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1595173148/9720/dog_cute.gif?1595173148" width="30"> Dog </h2>
 
 <p align="center">
-    <img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;leonberg&#x2F;n02111129_2741.jpg" height="300px">
+    <img src="https:&#x2F;&#x2F;images.dog.ceo&#x2F;breeds&#x2F;frise-bichon&#x2F;2.jpg" height="300px">
 </p>
 
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1500426137/2648/allo-tongue.gif?1500426137" width="30"> Joke </h2>
 
 <p align="center">
-    No one has ever pair-programmed with Chuck Norris and lived to tell about it.
+    If you rearrange the letters in &#39;Chuck Norris&#39;, they also spell &#39;Crush Rock In&#39;. The words &#39;with his fists&#39; are understood.
 </p>
